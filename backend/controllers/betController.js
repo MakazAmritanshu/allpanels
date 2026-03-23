@@ -3039,7 +3039,7 @@ export const updateFancyBetResult = async (req, res) => {
               );
             } else {
               response = await axios.post(
-                `${RESULT_API_URL}/get-result`,
+                `${RESULT_API_URL}/get-result?key=${API_KEY}`,
                 {
                   event_id: Number(bet.gameId),
                   event_name: bet.eventName,
