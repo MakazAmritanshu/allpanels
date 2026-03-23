@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import Allpanellogo from '../../assets/allpanel.png';
 import newshivalogo from '../../assets/newshivalogo.png';
+import Alllogo from '../../assets/Alllogo.png';
 import { BiSolidHandDown } from 'react-icons/bi';
 import { FiUser, FiLock } from 'react-icons/fi';
 import { FaArrowRight } from 'react-icons/fa';
@@ -48,7 +49,7 @@ function Login() {
       <div className='flex flex-1 flex-col items-center justify-center pb-18'>
         <div className='flex w-[350px] max-w-[90%] flex-col items-center justify-center'>
           <img
-            src={Allpanellogo}
+            src={Alllogo}
             alt='logo'
             className='max-h-[60px] object-cover'
           />

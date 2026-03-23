@@ -6,6 +6,7 @@ import { IoMdClose } from 'react-icons/io';
   import Allpanellogo from '../assets/allpanel.png';
   import jdlogo from '../assets/jdlogo.png';
 import newshivalogo from '../assets/newshivalogo.png';
+import Alllogo from '../assets/Alllogo.png';
 
 import { useDispatch, useSelector } from 'react-redux';
 import { getAdmin, loginAdmin } from '../redux/reducer/authReducer';
@@ -60,7 +61,7 @@ const Login = () => {
         }}
       >
         <div className='mx-auto w-[90%] md:w-[220px]'>
-          <img src={Allpanellogo} className='mx-auto h-[60px] md:h-[70px]' alt='logo' />
+          <img src={Alllogo} className='mx-auto h-[60px] md:h-[70px]' alt='logo' />
           <div className='relative mt-5'>
             <input
               type='text'

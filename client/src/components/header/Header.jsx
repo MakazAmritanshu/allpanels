@@ -160,6 +160,7 @@ import { IoLogoAndroid } from 'react-icons/io';
 import { useNavigate } from 'react-router-dom';
 import newshivalogo from '../../assets/newshivalogo.png';
 import Allpanellogo from '../../assets/allpanel.png'
+import Alllogo from '../../assets/Alllogo.png'
 import { useDispatch, useSelector } from 'react-redux';
 import api from '../../redux/api';
 import { wsService } from '../../services/WebsocketService';
@@ -256,9 +257,9 @@ function Header({ onMenuToggle, isSidebarOpen }) {
             {isSidebarOpen ? <IoMdClose /> : <FiMenu />}
           </button>
           <img
-            src={Allpanellogo}
+            src={Alllogo}
             alt='Alllogo'
-            className='max-h-[40px] max-w-[90px] lg:max-h-[65px] lg:max-w-[240px]'
+            className='max-h-[40px] max-w-[90px] lg:max-h-[65px] lg:max-w-[250px]'
             onClick={() => navigate('/')}
           />
         </div>
