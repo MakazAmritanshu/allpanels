@@ -1,0 +1,2738 @@
+[
+    {
+    "id":"1",
+    "game_name": "7's Luck",
+    "game_uid": "7da7bda3a6503f21cadc690a1213b251",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/rtg_7s_luck.webp"
+  },
+  {
+    "id":"2",
+    "game_name": "Red Diamond",
+    "game_uid": "304a5442237a292ecccf5675cdd4e54e",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Red-Diamond.webp"
+  },
+  {
+    "id":"3",
+    "game_name": "Bass Boss MegaWays",
+    "game_uid": "0f4951e275b39293ad30e021a60137c7",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/rtg_bass_boss_megaways.webp"
+  },
+  {
+    "id":"4",
+    "game_name": "Farmtastic",
+    "game_uid": "a33cbd4fdd2f0836db3bf39cb3ef95b4",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Farmtastic.webp"
+  },
+  {
+    "id":"5",
+    "game_name": "Jackrabbit Jackpots",
+    "game_uid": "0fb14a4f66e5a37c4573e131400cbdba",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Jackrabbit-Jackpots.webp"
+  },
+  {
+    "id":"6",
+    "game_name": "Ali Baba's Luck",
+    "game_uid": "3236c979c1d4143cc9b1c2290faa18e2",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Ali-Baba's-Luck.webp"
+  },
+  {
+    "id":"7",
+    "game_name": "1942 Sky Warrior",
+    "game_uid": "aec1cd6d9759abdac33ddfdf8868670b",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/1942-Sky-Warrior.webp"
+  },
+  {
+    "id":"8",
+    "game_name": "Big Cat Rescue Megaways",
+    "game_uid": "c3df2ddf2263e5ea3285fbf9ea84a099",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Big-Cat-Rescue-Megaways.webp"
+  },
+  {
+    "id":"9",
+    "game_name": "Beriched",
+    "game_uid": "36064e99717d339ae4b4f1976f732e2d",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Beriched.webp"
+  },
+  {
+    "id":"10",
+    "game_name": "Blazing Clusters",
+    "game_uid": "bd082b053c61ca6a914c715975bbafec",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Blazing-Clusters.webp"
+  },
+  {
+    "id":"11",
+    "game_name": "Bulls Run Wild",
+    "game_uid": "33ec5741c1a2837a099c0e94be8b54fd",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Bulls-Run-Wild.webp"
+  },
+  {
+    "id":"12",
+    "game_name": "Zillard King MegaWays",
+    "game_uid": "f9a75a4745cb1b0fc44ea0c2a1e052ae",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/rtg_zillard_king_megaways.webp"
+  },
+  {
+    "id":"13",
+    "game_name": "Casino Spin",
+    "game_uid": "7bdd221aca407d1e8a1d728ebab3e37a",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Casino-Spin.webp"
+  },
+  {
+    "id":"14",
+    "game_name": "Cobra Queen",
+    "game_uid": "388e9e135093cf3e1d06e26a3422a146",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Cobra-Queen.webp"
+  },
+  {
+    "id":"15",
+    "game_name": "Epic Treasure",
+    "game_uid": "c32c169908abf6a37ae6e54c6be43ffd",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Epic-Treasure.webp"
+  },
+  {
+    "id":"16",
+    "game_name": "Fa Fa Babies",
+    "game_uid": "74c238aec4a393d35969062a690db591",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Fa-Fa-Babies.webp"
+  },
+  {
+    "id":"17",
+    "game_name": "Flodder",
+    "game_uid": "8c68f4a824d9f1648753a9605bc64a77",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Flodder.webp"
+  },
+  {
+    "id":"18",
+    "game_name": "Genie Nights",
+    "game_uid": "b09b6413e588c15e7caf2ca216faab2f",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Genie-Nights.webp"
+  },
+  {
+    "id":"19",
+    "game_name": "Dracula Awakening",
+    "game_uid": "e563ab82e9e65fb9ebb51ce038600549",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Dracula-Awakening.webp"
+  },
+  {
+    "id":"20",
+    "game_name": "Hustling",
+    "game_uid": "d4e4fc47e9870ba33287834ba37cf0df",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/rtg_hustling.webp"
+  },
+  {
+    "id":"21",
+    "game_name": "Jelly Multihops",
+    "game_uid": "9b5e112d50f1ee658519a1a50782d2cb",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Jelly-Multihops.webp"
+  },
+  {
+    "id":"22",
+    "game_name": "Hot Hot Chilli Pot",
+    "game_uid": "6c916f2cb73277f0702140dc9b73a081",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Hot-Hot-Chilli-Pot.webp"
+  },
+  {
+    "id":"23",
+    "game_name": "Jingle Ways Megaways",
+    "game_uid": "accf833f2ec8c41c37fc943775565b0e",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Jingle-Ways-Megaways.webp"
+  },
+  {
+    "id":"24",
+    "game_name": "Last Chance Saloon",
+    "game_uid": "bbfd0d552eb9a07c2d95929b60a1bfd6",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Last-Chance-Saloon.webp"
+  },
+  {
+    "id":"25",
+    "game_name": "Miami Rise",
+    "game_uid": "8d5699424d399b58a881c7ae74dc1373",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Miami-Rise.webp"
+  },
+  {
+    "id":"26",
+    "game_name": "Risque Megaways",
+    "game_uid": "fe645ff98af3e143736a9bec903f1b99",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Risque-Megaways.webp"
+  },
+  {
+    "id":"27",
+    "game_name": "Mayhem",
+    "game_uid": "f42c2870a53c8729690072f94b06226f",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Mayhem.webp"
+  },
+  {
+    "id":"28",
+    "game_name": "Viral Spiral",
+    "game_uid": "5ccf53831ccf56ef1a4e2530980df70e",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/rtg_viral_spiral.webp"
+  },
+  {
+    "id":"29",
+    "game_name": "Wanted Wildz",
+    "game_uid": "d2aa197db8ca006dadc7ebc60966ddb9",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Wanted-Wildz.webp"
+  },
+  {
+    "id":"30",
+    "game_name": "Zaida's Fortune",
+    "game_uid": "bd47ec91d8eaceae45aeac07d5be3212",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Zaida's-Fortune.webp"
+  },
+  {
+    "id":"31",
+    "game_name": "Cash Goddess",
+    "game_uid": "54bce2bd86b5a257f6e6fb0b7a3f5741",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Cash-Goddess.webp"
+  },
+  {
+    "id":"32",
+    "game_name": "Wild Expedition",
+    "game_uid": "41b94296eb1a728a4eeee5e49d27725a",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Wild-Expedition.webp"
+  },
+  {
+    "id":"33",
+    "game_name": "777 Diamond Strike",
+    "game_uid": "7d6d54f8c9e24e4e5993c791b84f17a4",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/777-Diamond-Strike.webp"
+  },
+  {
+    "id":"34",
+    "game_name": "Rise of Cleopatra",
+    "game_uid": "8dd86a678b1d21ccf80e979c71f2785e",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Rise-of-Cleopatra.webp"
+  },
+  {
+    "id":"35",
+    "game_name": "Big Gains",
+    "game_uid": "b551c0c461fefec8db6334fa7f8aa192",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Big-Gains.webp"
+  },
+  {
+    "id":"36",
+    "game_name": "Aztec Shamans MegaWays",
+    "game_uid": "912bc153aab57b52ebe7b08c5b697297",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Aztec-Shamans-MegaWays.webp"
+  },
+  {
+    "id":"37",
+    "game_name": "Thor's Rage",
+    "game_uid": "94a30422591e3f3ba19b427d002576e0",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Thor's-Rage.webp"
+  },
+  {
+    "id":"38",
+    "game_name": "Fish N Fish",
+    "game_uid": "f65e0c4d29b149acf7105c33eae2929d",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/rtg_fish_n_fish.webp"
+  },
+  {
+    "id":"39",
+    "game_name": "Play With the Devil MegaWays",
+    "game_uid": "6ef60feebd825bea98680fbb669a6e2b",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/rtg_play_with_the_devil_megaways.webp"
+  },
+  {
+    "id":"40",
+    "game_name": "Take the Money",
+    "game_uid": "8d4ef9b518ba23513b5ee777cee34c0a",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Take-the-Money.webp"
+  },
+  {
+    "id":"41",
+    "game_name": "Lava Joker",
+    "game_uid": "7f9ee0ec0d3e6e6f01a56433ba51df43",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Lava-Joker.png"
+  },
+  {
+    "id":"42",
+    "game_name": "Cash Lamps",
+    "game_uid": "97fc3378122e356257666e96d2e0c6a5",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Cash-Lamps.png"
+  },
+  {
+    "id":"43",
+    "game_name": "Book Of Desert Legends",
+    "game_uid": "95a2d8996302611d8b0bb1e6a3ddc9d0",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Book-Of-Desert-Legends.png"
+  },
+  {
+    "id":"44",
+    "game_name": "Land of Riches",
+    "game_uid": "eae3c23a23d3a3b71e5d4f9d826c5de8",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Land-of-Riches.png"
+  },
+  {
+    "id":"45",
+    "game_name": "Arc Of Zeus",
+    "game_uid": "fc79188cad033d1b830a1ce1a7ae82b4",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Arc-Of-Zeus.png"
+  },
+  {
+    "id":"46",
+    "game_name": "Bloody Murder",
+    "game_uid": "82e3e5b73807c165f325928ac488392e",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/rtg_bloody_murder.png"
+  },
+  {
+    "id":"47",
+    "game_name": "Spartan Wildz",
+    "game_uid": "c1e5d0e6dbd5c79f7a5b52dd8f469c4c",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Spartan-Wildz.png"
+  },
+  {
+    "id":"48",
+    "game_name": "Bandit Gambit",
+    "game_uid": "9e2131b75e54fb28a97809ac653915bd",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/rtg_bandit_gambit.png"
+  },
+  {
+    "id":"49",
+    "game_name": "Phoenix",
+    "game_uid": "3e8bce549539dafa4a8379f05186c579",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Phoenix.webp"
+  },
+  {
+    "id":"50",
+    "game_name": "Atlantis",
+    "game_uid": "c5fe6d298b345d4e9d998c31e2c2c2ce",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Atlantis.webp"
+  },
+  {
+    "id":"51",
+    "game_name": "Bombuster",
+    "game_uid": "62f51cd4734a71c4ee6ed2efcba959a3",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Bombuster.webp"
+  },
+  {
+    "id":"52",
+    "game_name": "Trillionaire",
+    "game_uid": "6cad848eb17daa59b220b0a4c3366b3f",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Trillionaire.webp"
+  },
+  {
+    "id":"53",
+    "game_name": "Reactor",
+    "game_uid": "c65de4f6574494e396a994b245519ce3",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Reactor.webp"
+  },
+  {
+    "id":"54",
+    "game_name": "Masquerade",
+    "game_uid": "ea7d61dcc6c310a1725b4faf177a0315",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Masquerade.webp"
+  },
+  {
+    "id":"55",
+    "game_name": "Well of Wishes",
+    "game_uid": "7fc0c0fa3a3c613462d52269a79b2cbc",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/rtg_well_of_wishes.webp"
+  },
+  {
+    "id":"56",
+    "game_name": "What the Fox MegaWays",
+    "game_uid": "03355a4a1f212fc2d1bc31dd86469a4e",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/What-the-Fox-MegaWays.webp"
+  },
+  {
+    "id":"57",
+    "game_name": "Wild Cats Multiline",
+    "game_uid": "81cbbedf7193f5bfa2d246c495e210e0",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Wild-Cats-Multiline.webp"
+  },
+  {
+    "id":"58",
+    "game_name": "Wild Circus",
+    "game_uid": "107528d6beddecbe714290cc1f3ece54",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Wild-Circus.webp"
+  },
+  {
+    "id":"59",
+    "game_name": "Wild Elements",
+    "game_uid": "432033a062da7e59656b7d0f1f71f953",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Wild-Elements.webp"
+  },
+  {
+    "id":"60",
+    "game_name": "Wild Fight",
+    "game_uid": "f8855e3b474e39b2557569b5cd3dcdb7",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Wild-Fight.webp"
+  },
+  {
+    "id":"61",
+    "game_name": "Wild Hot Chilli Reels 2",
+    "game_uid": "aa504c6dbdf12f7a5e9f7d56e5c6bdc4",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Wild-Hot-Chilli-Reels-2.webp"
+  },
+  {
+    "id":"62",
+    "game_name": "Cash Explorer",
+    "game_uid": "e29c59c15950fd699adc39a40ccaf439",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Cash-Explorer.webp"
+  },
+  {
+    "id":"63",
+    "game_name": "Gemtastic",
+    "game_uid": "311f0d16dc91589393a8feb47f2ede67",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Gemtastic.webp"
+  },
+  {
+    "id":"64",
+    "game_name": "Dragons’ Lock",
+    "game_uid": "998449f5414f3a72e2c675eb73f0afe9",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/rtg_dragons_lock.png"
+  },
+  {
+    "id":"65",
+    "game_name": "Wolf Stacks MegaWays",
+    "game_uid": "f89b4b120ad06c3fb8fcf69d86120ffd",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/rtg_wolf_stacks_megaways.webp"
+  },
+  {
+    "id":"66",
+    "game_name": "Trophy Fish",
+    "game_uid": "aada040212a69a8ab97645d963806e4f",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Trophy-Fish.webp"
+  },
+  {
+    "id":"67",
+    "game_name": "Astronaut",
+    "game_uid": "7f6c33524b774582cefbb88ef6b4ccd3",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Astronaut.png"
+  },
+  {
+    "id":"68",
+    "game_name": "Diamonds Up",
+    "game_uid": "c5b66767dbde0f3896e9e1af4a7acd97",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Diamonds-Up.webp"
+  },
+  {
+    "id":"69",
+    "game_name": "Trillionaire MegaWays",
+    "game_uid": "cb0573aa2ce15901090ebb1b59a8fc50",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/rtg_trillionaire_megaways.webp"
+  },
+  {
+    "id":"70",
+    "game_name": "Serpent King",
+    "game_uid": "5f12c9fd15fa65c2cf62fe24a9ebd779",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Serpent-King.webp"
+  },
+  {
+    "id":"71",
+    "game_name": "Gods of Troy MegaWays",
+    "game_uid": "32180b53e1ab98028962e0b87acb7e6a",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/rtg_gods_of_troy_megaways.webp"
+  },
+  {
+    "id":"72",
+    "game_name": "Wings of Ra Megaways",
+    "game_uid": "2552e114b2efc8de39b5b77ded02ae4e",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Wings-of-Ra-Megaways.png"
+  },
+  {
+    "id":"73",
+    "game_name": "Dear Santa",
+    "game_uid": "1e3887ec8eb3f1676ab47e41c6f3fcf6",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Dear-Santa.png"
+  },
+  {
+    "id":"74",
+    "game_name": "Gladiator Ways",
+    "game_uid": "d988a055700e3df3c258481424cd276a",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Gladiator-Ways.png"
+  },
+  {
+    "id":"75",
+    "game_name": "Diamond Doggies",
+    "game_uid": "fb4a8b22c8d5e359d58cad4442c33545",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/rtg_diamond_doggies.png"
+  },
+  {
+    "id":"76",
+    "game_name": "The Good, The Bad and The Rich",
+    "game_uid": "d0067dbf97578a0ba2662f394b2850d6",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/rtg_the_good_the_bad_and_the_rich.png"
+  },
+  {
+    "id":"77",
+    "game_name": "Sea Boat Adventure Megaways",
+    "game_uid": "ef1b11e9c3cb7f8ae41d58cdb1f7b844",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Sea-Boat-Adventure-Megaways.png"
+  },
+  {
+    "id":"78",
+    "game_name": "Diamond Blitz 2",
+    "game_uid": "df5d6c6a7f7c1029f6b12c929092bbf4",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/rtg_diamond_blitz_2.png"
+  },
+  {
+    "id":"79",
+    "game_name": "Turtle Paradise",
+    "game_uid": "2001e217c31b25ffdac1f8c286ea61bc",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/rtg_turtle_paradise.png"
+  },
+  {
+    "id":"80",
+    "game_name": "Roman Emperors",
+    "game_uid": "19b5736b4135d6fa630f57962df90e89",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/rtg_roman_emperors.png"
+  },
+  {
+    "id":"81",
+    "game_name": "Egypt Clusterbuster",
+    "game_uid": "f3e3b23e5a16c07e9b1c1998d4567aef",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/rtg_egypt_clusterbuster.png"
+  },
+  {
+    "id":"82",
+    "game_name": "Savannah Pride",
+    "game_uid": "aaca1085a763612a712719f9821865ce",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Savannah-Pride.png"
+  },
+  {
+    "id":"83",
+    "game_name": "Los Muertos Locos",
+    "game_uid": "ec1f284d281f494c01dfd8945b21ceab",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Los-Muertos-Locos.png"
+  },
+  {
+    "id":"84",
+    "game_name": "Moon Spell",
+    "game_uid": "d15fddbb8f9e56b5f48581b5700d71ee",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Moon-Spell.png"
+  },
+  {
+    "id":"85",
+    "game_name": "Zeus Lightning Megaways",
+    "game_uid": "dd570f7a52f68a07e7785c4d3bd522d6",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Zeus-Lightning-Megaways.png"
+  },
+  {
+    "id":"86",
+    "game_name": "Fa Fa Babies 2",
+    "game_uid": "facc75977f1530d6936597c2e556263a",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Fa-Fa-Babies-2.png"
+  },
+  {
+    "id":"87",
+    "game_name": "Buffalo Collector",
+    "game_uid": "7aca9282125479d6c7f3958c97a5d768",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Buffalo-Collector.png"
+  },
+  {
+    "id":"88",
+    "game_name": "Epic Treasure 2",
+    "game_uid": "0ecc5cd8168ddf8c8b55722f486cc176",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Epic-Treasure-2.png"
+  },
+  {
+    "id":"89",
+    "game_name": "Ultra Rich",
+    "game_uid": "13cfd2574d73d6de5ce2675c0823ac22",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Ultra-Rich.png"
+  },
+  {
+    "id":"90",
+    "game_name": "Emperor of India",
+    "game_uid": "ad0e310e6283c8435652e1bcbe6e387e",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Emperor-of-India.png"
+  },
+  {
+    "id":"91",
+    "game_name": "Piggy Riches 2 MegaWays",
+    "game_uid": "c725c5f8386c8e28decc31c330a622f8",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/rtg_piggy_riches_2_megaways.png"
+  },
+  {
+    "id":"92",
+    "game_name": "Purr Power",
+    "game_uid": "1441e389c2629a19a3ae16e122fb6a8b",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Purr-Power.png"
+  },
+  {
+    "id":"93",
+    "game_name": "Cannonball Cash",
+    "game_uid": "0895effbcb8e954de6fdd8275b9fad62",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/rtg_cannonball_cash.png"
+  },
+  {
+    "id":"94",
+    "game_name": "Steam Squad",
+    "game_uid": "76d6f40592a73c01d61d3021cc529d80",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Steam-Squad.png"
+  },
+  {
+    "id":"95",
+    "game_name": "Rainbow Jackpots MegaWays™",
+    "game_uid": "ccfc18f2a15fc7c295c2ba6bf37d117a",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Rainbow-Jackpots-MegaWays.png"
+  },
+  {
+    "id":"96",
+    "game_name": "Sword Stomp",
+    "game_uid": "6bc6627dd3b916020f71267edbcf9669",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Sword-Stomp.png"
+  },
+  {
+    "id":"97",
+    "game_name": "Fruit Flash",
+    "game_uid": "99622b7ccccb19306459920364528ae7",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Fruit-Flash.png"
+  },
+  {
+    "id":"98",
+    "game_name": "Viking’s Legacy EveryWay™",
+    "game_uid": "a131a63e7a4be1f458bee0d8e0c3e74a",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/rtg_vikings_legacy_everyway.png"
+  },
+  {
+    "id":"99",
+    "game_name": "Gold Mine Mistress",
+    "game_uid": "7a9f5c0c2df20f502338deb5c2063404",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Gold-Mine-Mistress.png"
+  },
+  {
+    "id":"100",
+    "game_name": "Primate King MegaWays™",
+    "game_uid": "f671178131e00d9b18e465a422e7ffa8",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/rtg_primate_king_megaways.png"
+  },
+  {
+    "id":"101",
+    "game_name": "Dont Hit Plz",
+    "game_uid": "2075d814e4f508634f3711b06c3c9857",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Dont-Hit-Plz.png"
+  },
+  {
+    "id":"102",
+    "game_name": "Midnight Romance",
+    "game_uid": "e2559647774e42c2f445fac4f282ce82",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Midnight-Romance.png"
+  },
+  {
+    "id":"103",
+    "game_name": "Fishtastic",
+    "game_uid": "109889288acb3193a95ccbec8f5c0369",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Fishtastic.png"
+  },
+  {
+    "id":"104",
+    "game_name": "DrFrancashstein",
+    "game_uid": "026ffd912483ee02ca887c81fc46f771",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Dr-Francashstein.png"
+  },
+  {
+    "id":"105",
+    "game_name": "Play with the Devil",
+    "game_uid": "3a28c6656ff5f01e2e726f650fc299eb",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Play-with-the-Devil.png"
+  },
+  {
+    "id":"106",
+    "game_name": "Sakura Masks",
+    "game_uid": "8b0749ccddccca4d5c64f76a416d8e28",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Sakura-Masks.png"
+  },
+  {
+    "id":"107",
+    "game_name": "The Wild Kiss",
+    "game_uid": "cdb89a7e3610a2dc91d115f6992b2cc0",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/The-Wild-Kiss.png"
+  },
+  {
+    "id":"108",
+    "game_name": "Redline Rush",
+    "game_uid": "c028c675b8bbcdc586620c2dac8451bb",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Redline-Rush.png"
+  },
+  {
+    "id":"109",
+    "game_name": "Midnight Thirst",
+    "game_uid": "02ed2b98368f16738d7e164735d7c38d",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Midnight-Thirst.png"
+  },
+  {
+    "id":"110",
+    "game_name": "777 Super Strike",
+    "game_uid": "ef933112a5232e12d9e92ce9ed8bb949",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/777-Super-Strike.png"
+  },
+  {
+    "id":"111",
+    "game_name": "Astros",
+    "game_uid": "169525b6e5fb5ec7acd535e5d69c69b3",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Astros.png"
+  },
+  {
+    "id":"112",
+    "game_name": "Vault Cracker Megaways",
+    "game_uid": "1b6939007e7ec9e00e0b4df71ec2098b",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Vault-Cracker-Megaways.png"
+  },
+  {
+    "id":"113",
+    "game_name": "Clover Craze",
+    "game_uid": "8172c501af1bca58884965c649521f94",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Clover-Craze.png"
+  },
+  {
+    "id":"114",
+    "game_name": "Sea Boat Adventure",
+    "game_uid": "1833dfa7ea04e91ac1d464cc780b9046",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Sea-Boat-Adventure.png"
+  },
+  {
+    "id":"115",
+    "game_name": "Christmas MULTIHOPS",
+    "game_uid": "7ad9b00c26638181483b7a87d598241f",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Christmas-Multihops.png"
+  },
+  {
+    "id":"116",
+    "game_name": "Christmas Morning",
+    "game_uid": "b084c1a2f3acf9248a2b1caf5f0be179",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Christmas-Morning.png"
+  },
+  {
+    "id":"117",
+    "game_name": "Giga Blast",
+    "game_uid": "91ea25dcef55c4c07c1f934b79c078d2",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Giga-Blast.png"
+  },
+  {
+    "id":"118",
+    "game_name": "Wanted Wildz Extreme",
+    "game_uid": "727412a5e7f8c482a38fc3fe45d204db",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Wanted-Wildz-Extreme.png"
+  },
+  {
+    "id":"119",
+    "game_name": "Sugarlicious EveryWay™",
+    "game_uid": "bfd63a14b8acd10e9612ae17d013c8fa",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Sugarlicious-EveryWay.png"
+  },
+  {
+    "id":"120",
+    "game_name": "Dragon's Mirror",
+    "game_uid": "2d933270eaea1fe92716f16b2b4a31bf",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/rtg_dragons_mirror.png"
+  },
+  {
+    "id":"121",
+    "game_name": "Spooky Carnival",
+    "game_uid": "9ab14b95031282c165fcef90a5479fca",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Spooky-Carnival.png"
+  },
+  {
+    "id":"122",
+    "game_name": "Siren's Riches",
+    "game_uid": "ad806f0dc3dcc0cd5172d30a37fab3a8",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Sirens-Riches.png"
+  },
+  {
+    "id":"123",
+    "game_name": "Nightmare Family Megaways",
+    "game_uid": "52795ef3505ab5f6723a020ed5513b56",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Nightmare-Family-Megaways.png"
+  },
+  {
+    "id":"124",
+    "game_name": "Hansel And Gretel Candyhouse",
+    "game_uid": "f3043e20236cda119f4dfc1801dd7bdb",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Hansel-and-Gretel-Candyhouse.png"
+  },
+  {
+    "id":"125",
+    "game_name": "Year-Round Riches Clusterbuster",
+    "game_uid": "f125e688ddda29afa839dfaa7a6906b7",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Year-Round-Riches-Clusterbuster.png"
+  },
+  {
+    "id":"126",
+    "game_name": "Easy Gold",
+    "game_uid": "d10be03a3a43930cec9923449b9bcac7",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Easy-Gold.png"
+  },
+  {
+    "id":"127",
+    "game_name": "Case Closed",
+    "game_uid": "7260305b82646b3b322592faf7912ffa",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Case-Closed.png"
+  },
+  {
+    "id":"128",
+    "game_name": "Judgement Day Megaways",
+    "game_uid": "8dffa7663457312e6b0f24225e0fd942",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Judgement-Day-Megaways.png"
+  },
+  {
+    "id":"129",
+    "game_name": "Sugar Monster",
+    "game_uid": "add442738e575a0bc16bf4b923c71489",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Sugar-Monster.png"
+  },
+  {
+    "id":"130",
+    "game_name": "Bounty Raid 2",
+    "game_uid": "3d1dc9a94471b01b33f9e4d9070167e0",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Bounty-Raid-2.png"
+  },
+  {
+    "id":"131",
+    "game_name": "Here Kitty Kitty",
+    "game_uid": "21b00e513f8fc45e6e8e0e2cd51dd91d",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Here-Kitty-Kitty.webp"
+  },
+  {
+    "id":"132",
+    "game_name": "Monsters Unchained",
+    "game_uid": "b750a6f4bed07584e8c64850c8623af0",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Monsters-Unchained.webp"
+  },
+  {
+    "id":"133",
+    "game_name": "London Tube",
+    "game_uid": "6a9cd853fb5d94d7d363964c6724570f",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/London-Tube.webp"
+  },
+  {
+    "id":"134",
+    "game_name": "Magic Tricks",
+    "game_uid": "47150cba6393e165fb1e11d1f045548e",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Magic-Tricks.webp"
+  },
+  {
+    "id":"135",
+    "game_name": "Cyber Attack",
+    "game_uid": "e5f2a93475a892354443b5766ae88d4b",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Cyber-Attack.png"
+  },
+  {
+    "id":"136",
+    "game_name": "Gems Inferno Megaways",
+    "game_uid": "8f66b7678dbdda94157a1dbb28acd6b8",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Gems-Inferno-Megaways.png"
+  },
+  {
+    "id":"137",
+    "game_name": "Egypt Megaways",
+    "game_uid": "0d506a400cd87e529436f6224a9dd3ed",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Egypt-Megaways.png"
+  },
+  {
+    "id":"138",
+    "game_name": "Wolfkin",
+    "game_uid": "32b29e60a2563632f992306db15d21e2",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Wolfkin.webp"
+  },
+  {
+    "id":"139",
+    "game_name": "Knights Of Avalon",
+    "game_uid": "9da9512bdbfb351b6f2337972582d570",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Knights-Of-Avalon.webp"
+  },
+  {
+    "id":"140",
+    "game_name": "Magic Powers Megaways",
+    "game_uid": "cc37261a30aeca5a83bb486f541f2b75",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Magic-Powers-Megaways.webp"
+  },
+  {
+    "id":"141",
+    "game_name": "Red Hot BBQ",
+    "game_uid": "73b6a470e76057830632d635faa56baf",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/rtg_red_hot_bbq.webp"
+  },
+  {
+    "id":"142",
+    "game_name": "Reel Keeper Power Reels",
+    "game_uid": "cdaa12e4a57eb8234beab3feb9785e79",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Reel-Keeper-Power-Reels.webp"
+  },
+  {
+    "id":"143",
+    "game_name": "Sheep Gone Wild",
+    "game_uid": "17936bf3680793ce1b77b75183a2ff39",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Sheep-Gone-Wild.webp"
+  },
+  {
+    "id":"144",
+    "game_name": "Wrigley's World",
+    "game_uid": "fbf1c518c5f9377777109c5991b69e48",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/rtg_wrigleys_world.webp"
+  },
+  {
+    "id":"145",
+    "game_name": "Transylvania: Night Of Blood",
+    "game_uid": "75afad44d671a57aeddb19477d390194",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Transylvania-Night-of-Blood.webp"
+  },
+  {
+    "id":"146",
+    "game_name": "Bugsys's Bar",
+    "game_uid": "9690a8a842a61597960e6a3309ae1659",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/rtg_bugsys_bar.webp"
+  },
+  {
+    "id":"147",
+    "game_name": "Buffalo Mania Megaways",
+    "game_uid": "a55d428955f1b6c4d0ac7cad35bf1e6e",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Buffalo-Mania-Megaways.webp"
+  },
+  {
+    "id":"148",
+    "game_name": "Blobsters Clusterbuster",
+    "game_uid": "365251bff8166947f7f7b128ab8d1efe",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Blobsters-Clusterbuster.webp"
+  },
+  {
+    "id":"149",
+    "game_name": "Peggy Sweets",
+    "game_uid": "e2b7d84c3262d8e3cd6ac4c1fec3c1c5",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Peggy-Sweets.webp"
+  },
+  {
+    "id":"150",
+    "game_name": "Ancient Disco",
+    "game_uid": "69175b21333057172215c31ff3d11da3",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Ancient-Disco.webp"
+  },
+  {
+    "id":"151",
+    "game_name": "Cai Shen 168",
+    "game_uid": "70ca5d6b2b6b9b05bf1bf4a28ec30968",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Cai-Shen-168.webp"
+  },
+  {
+    "id":"152",
+    "game_name": "Cotton Gang Affair",
+    "game_uid": "66b3249dce1572fc88764b668494dcaa",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Cotton-Gang-Affair.webp"
+  },
+  {
+    "id":"153",
+    "game_name": "Happy Apples",
+    "game_uid": "4f40d3249006702e3d10d51890ad7e45",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Happy-Apples.webp"
+  },
+  {
+    "id":"154",
+    "game_name": "Cash Or Nothing",
+    "game_uid": "6968a9d30d8320681d532f65c2d6a0f8",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Cash-or-Nothing.webp"
+  },
+  {
+    "id":"155",
+    "game_name": "Blood Suckers Megaways",
+    "game_uid": "0078f782c0f8ed2ed592860cb76d1820",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Blood-Suckers-MegaWays.webp"
+  },
+  {
+    "id":"156",
+    "game_name": "Pinatas and Ponies",
+    "game_uid": "fce09605751dff0f2fdd4a08c43495a1",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Pinatas-and-Ponies.webp"
+  },
+  {
+    "id":"157",
+    "game_name": "Good Luck Clusterbuster",
+    "game_uid": "f108fbe4d0f135c7522ae8ae93eebb2d",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Good-Luck-Cluster-Buster.webp"
+  },
+  {
+    "id":"158",
+    "game_name": "Santa Spins",
+    "game_uid": "5c427a9d1cbac9b50a2e4a2d495274e4",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Santa-Spins.webp"
+  },
+  {
+    "id":"159",
+    "game_name": "Cake And Ice Cream",
+    "game_uid": "aedd7e9d8281dc3a61b6d2c487912187",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Cake-and-Ice-Cream.webp"
+  },
+  {
+    "id":"160",
+    "game_name": "In The Rabbit Hole",
+    "game_uid": "8bfbc80e7577accf6b404c6ba237b9c5",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/In-the-Rabbit-Hole.webp"
+  },
+  {
+    "id":"161",
+    "game_name": "Athens Megaways",
+    "game_uid": "46bf513f960f36b3a623bd6f7e43be54",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Athens-Megaways.webp"
+  },
+  {
+    "id":"162",
+    "game_name": "Shadow Society",
+    "game_uid": "16b97ac41db22b54962d43e5bdc493eb",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Shadow-Society.webp"
+  },
+  {
+    "id":"163",
+    "game_name": "Stolen Treasures",
+    "game_uid": "80dae068b937474c1959025f578cf32d",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Stolen-Treasures.webp"
+  },
+  {
+    "id":"164",
+    "game_name": "Tricks and Treats",
+    "game_uid": "6a65437bfd47e9e5fb381957d097a16a",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Tricks-and-Treats.webp"
+  },
+  {
+    "id":"165",
+    "game_name": "Mystery Reels Deluxe",
+    "game_uid": "8d8a3c1808482d806454e4d641a402b8",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Mystery-Reels-Deluxe.webp"
+  },
+  {
+    "id":"166",
+    "game_name": "Piggy Pirates",
+    "game_uid": "782ad30432572be234d29fbad6385bee",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Piggy-Pirates.webp"
+  },
+  {
+    "id":"167",
+    "game_name": "Great Gold",
+    "game_uid": "d5a507fcc61707536394835b95a36754",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Great-Gold.webp"
+  },
+  {
+    "id":"168",
+    "game_name": "Gonzita's Quest",
+    "game_uid": "98a651d844724b8cea5cfc7f31253fe0",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/rtg_gonzitas_quest.webp"
+  },
+  {
+    "id":"169",
+    "game_name": "Rock'n'Lock",
+    "game_uid": "50a61395813aebc578844b20478afb47",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Rock-n-Lock.webp"
+  },
+  {
+    "id":"170",
+    "game_name": "Bass Boss",
+    "game_uid": "9f66015c2ec8a12a6374f9a900f0cb61",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Bass-Boss.webp"
+  },
+  {
+    "id":"171",
+    "game_name": "10,001 Nights Megaways",
+    "game_uid": "d42056c05848143809f47898769c553b",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/10,001-Nights-MegaWays.webp"
+  },
+  {
+    "id":"172",
+    "game_name": "Phoenix Fire Power Reels",
+    "game_uid": "b4928db33554b824c123c5e536643f83",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Phoenix-Fire-Power-Reels.webp"
+  },
+  {
+    "id":"173",
+    "game_name": "Majestic Mysteries Power Reel",
+    "game_uid": "a7467ff7bdc8722c7c2588d04cb8358a",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Majestic-Mysteries-Power-Reel.webp"
+  },
+  {
+    "id":"174",
+    "game_name": "Apache Way",
+    "game_uid": "0600d997c6dce5308125392e917ec0ac",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Apache-Way.webp"
+  },
+  {
+    "id":"175",
+    "game_name": "Gods Of Troy",
+    "game_uid": "a5458bfb519ead6eef539c4279e31d11",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Gods-of-Troy.webp"
+  },
+  {
+    "id":"176",
+    "game_name": "Gold Star",
+    "game_uid": "19808a3e6df79a4ed174d51cea65eff6",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Gold-Star.webp"
+  },
+  {
+    "id":"177",
+    "game_name": "God Of Wealth",
+    "game_uid": "75f1904c8ade213432c606a37b191c09",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/God-of-Wealth.webp"
+  },
+  {
+    "id":"178",
+    "game_name": "Gems Gone Wild Power Reels",
+    "game_uid": "5285ad0192bcc5431c6113290b73a40b",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Gems-Gone-Wild-Power-Reels.webp"
+  },
+  {
+    "id":"179",
+    "game_name": "Primate King",
+    "game_uid": "bce2cbbc907f04a90c5b7c1c07b9a741",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Primate-King.webp"
+  },
+  {
+    "id":"180",
+    "game_name": "Pirates' Plenty Megaways",
+    "game_uid": "a41cec63fa3f2cdd0c6f14b3b51b120a",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Pirates-Plenty-MegaWays.webp"
+  },
+  {
+    "id":"181",
+    "game_name": "Pirates' Plenty Battle for Gold",
+    "game_uid": "5fa46ad7124a1c6e7609faba1835259b",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Pirates-Plenty-Battle-for-Gold.webp"
+  },
+  {
+    "id":"182",
+    "game_name": "Pirates' Plenty",
+    "game_uid": "2a1e2ccc6c6dc3db49573b803fd37e34",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Pirates-Plenty.webp"
+  },
+  {
+    "id":"183",
+    "game_name": "Piggy Riches Megaways",
+    "game_uid": "6d25f28991c1bbff5674448bb9a473ff",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Piggy-Riches-Megaways.webp"
+  },
+  {
+    "id":"184",
+    "game_name": "Persian Fortune",
+    "game_uid": "7d6947b40df84169477224c395fa3e01",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Persian-Fortune.webp"
+  },
+  {
+    "id":"185",
+    "game_name": "Path of Destiny",
+    "game_uid": "6d4cfa9346db84095014f542371831c9",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Path-of-Destiny.webp"
+  },
+  {
+    "id":"186",
+    "game_name": "Ocean Fortune",
+    "game_uid": "5485f191aa53d79306fbe38b1e75df36",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Ocean-Fortune.webp"
+  },
+  {
+    "id":"187",
+    "game_name": "Ninja Ways",
+    "game_uid": "17ff3059456ee608ca4a6eaff9212733",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Ninja-Ways.webp"
+  },
+  {
+    "id":"188",
+    "game_name": "Night Roller",
+    "game_uid": "e07f95b49b690c4559219e10ae118b42",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Night-roller.webp"
+  },
+  {
+    "id":"189",
+    "game_name": "NFT Megaways",
+    "game_uid": "00c4109310183be64a00651a41ac7245",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/NFT-Megaways.webp"
+  },
+  {
+    "id":"190",
+    "game_name": "Neon Links",
+    "game_uid": "3c350cd2bb705dc1704dd174504252b3",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Neon-Links.webp"
+  },
+  {
+    "id":"191",
+    "game_name": "Mystic Wheel",
+    "game_uid": "ca8bdb0c66c46521d27276704c0709db",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Mystic-Wheel.webp"
+  },
+  {
+    "id":"192",
+    "game_name": "Mystic Staxx",
+    "game_uid": "a9d4528957847342354f0fc7052d3d43",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Mystic-Staxx.webp"
+  },
+  {
+    "id":"193",
+    "game_name": "Mystery Reels Power Reels",
+    "game_uid": "ee5e67968e231f64782c82754f36bfd1",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Mystery-Reels-Power-Reels.webp"
+  },
+  {
+    "id":"194",
+    "game_name": "Mystery Reels Megaways",
+    "game_uid": "ebf2a91b9ea7d4a1a3ed0c09d99ca4bf",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Mystery-Reels-Megaways.webp"
+  },
+  {
+    "id":"195",
+    "game_name": "Mystery Reels",
+    "game_uid": "67e02a4b9caac0b51809aba80f1b4c88",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Mystery-Reels.webp"
+  },
+  {
+    "id":"196",
+    "game_name": "Multiplier Riches",
+    "game_uid": "f06b1e22d719f8f6d04880a2f97b16ad",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Multiplier-Riches.webp"
+  },
+  {
+    "id":"197",
+    "game_name": "Midas Gold",
+    "game_uid": "a6b07233408959eddb9842fd8c71f720",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Midas-Gold.webp"
+  },
+  {
+    "id":"198",
+    "game_name": "Mega Rise",
+    "game_uid": "ade2c96d14a4b9e79b862f723eac8064",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Mega-Rise.webp"
+  },
+  {
+    "id":"199",
+    "game_name": "Mega Pyramid",
+    "game_uid": "6b63e9f22478051cc9c658e7a70b0eb3",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Mega-Pyramid.webp"
+  },
+  {
+    "id":"200",
+    "game_name": "Mega Jade",
+    "game_uid": "4e0996cdd1a41d4e5b6c50eda319f427",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Mega-Jade.webp"
+  },
+  {
+    "id":"201",
+    "game_name": "Mega Dragon",
+    "game_uid": "37c04212a4a0bb7f6d336c31630a405d",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Mega-Dragon.webp"
+  },
+  {
+    "id":"202",
+    "game_name": "Gems Gone Wild",
+    "game_uid": "14da6517f1bc6e3b201ca788f2031c0d",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Gems-Gone-Wild.webp"
+  },
+  {
+    "id":"203",
+    "game_name": "Mayan Gods",
+    "game_uid": "69f25456c76daa1c5bac98a990c19520",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Mayan-Gods.webp"
+  },
+  {
+    "id":"204",
+    "game_name": "Magic Gate",
+    "game_uid": "9ffcc29bbc6073bf61ef4f30377aee68",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Magic-Gate.webp"
+  },
+  {
+    "id":"205",
+    "game_name": "Lucky Wizard",
+    "game_uid": "6ab590379574b796df2e9df95133030a",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Lucky-Wizard.webp"
+  },
+  {
+    "id":"206",
+    "game_name": "Grand Wheel",
+    "game_uid": "0fec903fe355049c77ea44fa43b1b814",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Grand-Wheel.webp"
+  },
+  {
+    "id":"207",
+    "game_name": "Lucky Valentine",
+    "game_uid": "14945431af9766290e65b4712376731a",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Lucky-Valentine.webp"
+  },
+  {
+    "id":"208",
+    "game_name": "Lucky Oktoberfest",
+    "game_uid": "3f6a08fc7f683bdee324acba0c7eb016",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Lucky-Oktoberfest.webp"
+  },
+  {
+    "id":"209",
+    "game_name": "Lucky Little Devil",
+    "game_uid": "f2fe8c7244c1f210480a0ba3033ea61a",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Lucky-Little-Devil.webp"
+  },
+  {
+    "id":"210",
+    "game_name": "Lucky Halloween",
+    "game_uid": "ddad2f52960544cbdbbc24e30688b908",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Lucky-Halloween.webp"
+  },
+  {
+    "id":"211",
+    "game_name": "Lucky Fridays",
+    "game_uid": "6e4ad37b59a198139cc9d411717e0288",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Lucky-Fridays.webp"
+  },
+  {
+    "id":"212",
+    "game_name": "Lucky Fortune Cat",
+    "game_uid": "020a4ebda041837537410667eff15edf",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Lucky-Fortune-Cat.webp"
+  },
+  {
+    "id":"213",
+    "game_name": "Lucky Easter",
+    "game_uid": "52e3df6a1a74ba0b9129b04eb97b66d5",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Lucky-Easter.webp"
+  },
+  {
+    "id":"214",
+    "game_name": "Lion's Hoard",
+    "game_uid": "d870324161be8c13abac8349237dfc63",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Lion's-Hoard.webp"
+  },
+  {
+    "id":"215",
+    "game_name": "Lion Dance",
+    "game_uid": "251091bc1fa360b976982ac4d3fb992c",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Lion-Dance.webp"
+  },
+  {
+    "id":"216",
+    "game_name": "Legendary Excalibur",
+    "game_uid": "6bac603f5884616d170207bb54fea537",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Legendary-Excalibur.webp"
+  },
+  {
+    "id":"217",
+    "game_name": "Legend of Athena",
+    "game_uid": "e2a6494eefc4561dc877e32f535c3189",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Legend-of-Athena.webp"
+  },
+  {
+    "id":"218",
+    "game_name": "Laser Fruit",
+    "game_uid": "246755c879e4988f8aaab09f87c93800",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Laser-Fruit.webp"
+  },
+  {
+    "id":"219",
+    "game_name": "Joe Exotic",
+    "game_uid": "143122ed9a97b4b7ad2de8e04afd9f14",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Joe-Exotic.webp"
+  },
+  {
+    "id":"220",
+    "game_name": "Jingle Bells Power Reels",
+    "game_uid": "4de35823b2e79bb0b5239f6407ba901c",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Jingle-Bells-Power-Reels.webp"
+  },
+  {
+    "id":"221",
+    "game_name": "Jingle Bells",
+    "game_uid": "e3c7b3a25848a5f90747cb950bb6c301",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Jingle-Bells.webp"
+  },
+  {
+    "id":"222",
+    "game_name": "Jewel Scarabs",
+    "game_uid": "1909b0372a891c5dd1957e68f5cf7ca3",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Jewel-Scarabs.webp"
+  },
+  {
+    "id":"223",
+    "game_name": "Jester Spins",
+    "game_uid": "3daf6932946d453a4c000a81e4d719e3",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Jester-Spins.webp"
+  },
+  {
+    "id":"224",
+    "game_name": "Jade Charms",
+    "game_uid": "87f4b7d3464d5936c5db7ddc87615faf",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Jade-Charms.webp"
+  },
+  {
+    "id":"225",
+    "game_name": "Jackpot Quest",
+    "game_uid": "b2101d3e3db40d5a9acb4bb7e8a260dc",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Jackpot-Quest.webp"
+  },
+  {
+    "id":"226",
+    "game_name": "Jack in a Pot",
+    "game_uid": "f0a3341d2f3f5fe97e7f3b48409cf94f",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Jack-in-a-Pot.webp"
+  },
+  {
+    "id":"227",
+    "game_name": "Imperial Palace",
+    "game_uid": "73aec1a5f41220e5ea9095f171453784",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Imperial-Palace.webp"
+  },
+  {
+    "id":"228",
+    "game_name": "Hoard of Poseidon",
+    "game_uid": "a9361bd0b2a8bf927693d8515b912cdc",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Hoard-of-Poseidon.webp"
+  },
+  {
+    "id":"229",
+    "game_name": "Harle Coin",
+    "game_uid": "b61c8d298d5c054af7f9f7094a3cc4f8",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Harle-Coin.webp"
+  },
+  {
+    "id":"230",
+    "game_name": "Hammer Gods",
+    "game_uid": "9f23f40372b0021b66f77fd8ad7bc40d",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Hammer-Gods.webp"
+  },
+  {
+    "id":"231",
+    "game_name": "Gonzo's Quest Megaways",
+    "game_uid": "53286a9d736b793a27c14dab070bb26b",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Gonzo's-Quest-Megaways.webp"
+  },
+  {
+    "id":"232",
+    "game_name": "Golden Tsar",
+    "game_uid": "89a5a61c70e3d28ceb3303f8531f8a22",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Golden-Tsar.webp"
+  },
+  {
+    "id":"233",
+    "game_name": "Golden Temple",
+    "game_uid": "c378b0a716601a47aef8c69b36f4cfc7",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Golden-Temple.webp"
+  },
+  {
+    "id":"234",
+    "game_name": "Golden Offer",
+    "game_uid": "8e99d12e116fd3120b8a3f6864a5ae69",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Golden-Offer.webp"
+  },
+  {
+    "id":"235",
+    "game_name": "Golden Lotus",
+    "game_uid": "4d6577d4fe827714aa721725f88e6bb5",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Golden-Lotus.webp"
+  },
+  {
+    "id":"236",
+    "game_name": "Golden Leprechaun Megaways",
+    "game_uid": "09def350ddf023d9c2df2e04e1422a7e",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Golden-Leprechaun-Megaways.webp"
+  },
+  {
+    "id":"237",
+    "game_name": "Golden Cryptex",
+    "game_uid": "a2c175207fc839e46c732663ac72ba85",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Golden-Cryptex.webp"
+  },
+  {
+    "id":"238",
+    "game_name": "Fruit Snap",
+    "game_uid": "5e3d4af4206ee16ff57b8e1c800956f3",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Fruit-Snap.webp"
+  },
+  {
+    "id":"239",
+    "game_name": "Fruit Blox",
+    "game_uid": "b90d6a105f7e2021776657a54b421d74",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Fruit-Blox.webp"
+  },
+  {
+    "id":"240",
+    "game_name": "Fortune House",
+    "game_uid": "f7bde75ada9d9137c0bad780c364e0eb",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Fortune-House.webp"
+  },
+  {
+    "id":"241",
+    "game_name": "Fortune Fest",
+    "game_uid": "b74e43660080c81f8982ca5393f1dfea",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Fortune-Fest.webp"
+  },
+  {
+    "id":"242",
+    "game_name": "Fortune Charm",
+    "game_uid": "edea2866dbf9f6ea5ce8bdcb38ac1d04",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Fortune-Charm.webp"
+  },
+  {
+    "id":"243",
+    "game_name": "Forever 7's",
+    "game_uid": "2f0e4097b2dfbad20ff9cab22d4cf65a",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/rtg_forever_7s.webp"
+  },
+  {
+    "id":"244",
+    "game_name": "Flaming Fox",
+    "game_uid": "aa9ae13b898c1a9f8e4d74e30641dda0",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Flaming-Fox.webp"
+  },
+  {
+    "id":"245",
+    "game_name": "Five Star Power Reels",
+    "game_uid": "4a32ed565db15cab8b4bda3ec8365901",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Five-Star-Power-Reels.webp"
+  },
+  {
+    "id":"246",
+    "game_name": "Five Star",
+    "game_uid": "2d60a2226e47aa85a2886389ec7f668b",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Five-Star.webp"
+  },
+  {
+    "id":"247",
+    "game_name": "Wild Spartans",
+    "game_uid": "717c1ca19318ba57f62aa3bd897dccf9",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Wild-Spartans.webp"
+  },
+  {
+    "id":"248",
+    "game_name": "Wild O'Clock",
+    "game_uid": "634bdd2a7d7b88c7a9ae5c3bf1a748c0",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Wild-O'Clock.webp"
+  },
+  {
+    "id":"249",
+    "game_name": "Wild Nords",
+    "game_uid": "d87ca2c126b1eb2c3237fb10597a7b93",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Wild-Nords.webp"
+  },
+  {
+    "id":"250",
+    "game_name": "Wild Hot Chilli Reels",
+    "game_uid": "a1d15ecea39fe8245e88665c8e21730b",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Wild-Hot-Chilli-Reels.webp"
+  },
+  {
+    "id":"251",
+    "game_name": "Well of Wilds Megaways",
+    "game_uid": "ca225319e4f1f584cf56fe9a2994c4bb",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Well-of-Wilds-Megaways.webp"
+  },
+  {
+    "id":"252",
+    "game_name": "War Of Gods",
+    "game_uid": "3b7b9642a2266d0c07f4de4da8e5de7d",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/War-Of-Gods.webp"
+  },
+  {
+    "id":"253",
+    "game_name": "Vicky Ventura",
+    "game_uid": "32801235b1e784e06919667ea9c2d21f",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Vicky-Ventura.webp"
+  },
+  {
+    "id":"254",
+    "game_name": "Vault of Anubis",
+    "game_uid": "52238ba83c9ddc4c5633f29cc9ddece9",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Vault-of-Anubis.webp"
+  },
+  {
+    "id":"255",
+    "game_name": "Vault Cracker",
+    "game_uid": "fa3f86025ac2fb175bcdcf350f630250",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Vault-Cracker.webp"
+  },
+  {
+    "id":"256",
+    "game_name": "Treasure Mine Power Reels",
+    "game_uid": "6ab4b30c30bb305a361decfeaba6f8f6",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Treasure-Mine-Power-Reels.webp"
+  },
+  {
+    "id":"257",
+    "game_name": "Treasure Mine",
+    "game_uid": "3ebed5533b645caeaefd169c2896722a",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Treasure-Mine.webp"
+  },
+  {
+    "id":"258",
+    "game_name": "Totem Lightning Power Reels",
+    "game_uid": "44ca147249e92843d1879eb276de74dc",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Totem-Lightning-Power-Reels.webp"
+  },
+  {
+    "id":"259",
+    "game_name": "Totem Lightning",
+    "game_uid": "ac8a85c5ea5b119d247222291d531628",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Totem-Lightning.webp"
+  },
+  {
+    "id":"260",
+    "game_name": "Tiki Fruits Totem Frenzy",
+    "game_uid": "bfdcb7fd2f6fe3c11516ea5e99cd85a3",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Tiki-Fruits-Totem-Frenzy.webp"
+  },
+  {
+    "id":"261",
+    "game_name": "Tiki Fruits",
+    "game_uid": "0b392caa550af1b8dcf3645e8d6e8026",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Tiki-Fruits.webp"
+  },
+  {
+    "id":"262",
+    "game_name": "Three Musketeers",
+    "game_uid": "1b7f893326f92f1ada78b649584e23cd",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Three-Musketeers.webp"
+  },
+  {
+    "id":"263",
+    "game_name": "Three Kingdoms",
+    "game_uid": "466f432ad90afb47b304043c61e62567",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Three-Kingdoms.webp"
+  },
+  {
+    "id":"264",
+    "game_name": "Thor's Vengeance",
+    "game_uid": "9bebf01067d1f7f67551ace66fcfaadc",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Thor's-vengeance.webp"
+  },
+  {
+    "id":"265",
+    "game_name": "Thor's Lightning",
+    "game_uid": "8d2af7dcc0dc9c8ded058d4714d66785",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Thor's-Lightning.webp"
+  },
+  {
+    "id":"266",
+    "game_name": "The Wisecracker Lightning",
+    "game_uid": "2d3108dcd4033364ea3768b5d2a1c882",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/The-Wisecracker-Lightning.webp"
+  },
+  {
+    "id":"267",
+    "game_name": "The Wild Hatter",
+    "game_uid": "dc13611fcbbb6b48c3d07b804916cac3",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/The-Wild-Hatter.webp"
+  },
+  {
+    "id":"268",
+    "game_name": "The Greatest Train Robbery",
+    "game_uid": "9cd36446c60a20ede573ae1aabd17a39",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/The-Greatest-Train-Robbery.webp"
+  },
+  {
+    "id":"269",
+    "game_name": "The Equalizer",
+    "game_uid": "13e171ede708594835de95e475451925",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/The-Equalizer.webp"
+  },
+  {
+    "id":"270",
+    "game_name": "Ten Elements",
+    "game_uid": "df411df713d2251dbadaa90ac62a164b",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Ten-Elements.webp"
+  },
+  {
+    "id":"271",
+    "game_name": "Sylvan Spirits",
+    "game_uid": "ddf44e12607fe9c84ff7ef7821889cfb",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Sylvan-Spirits.webp"
+  },
+  {
+    "id":"272",
+    "game_name": "Sumo Spins",
+    "game_uid": "658a2ecc30970193f587fb5be743f2b5",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Sumo-Spins.webp"
+  },
+  {
+    "id":"273",
+    "game_name": "Stage 888",
+    "game_uid": "b8ffd70440ee8832210ed14024abcc62",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Stage-888.webp"
+  },
+  {
+    "id":"274",
+    "game_name": "Spin Town",
+    "game_uid": "d6230d90b0328bc6e2784c18ae04449c",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Spin-Town.webp"
+  },
+  {
+    "id":"275",
+    "game_name": "Snow Wild and the 7 Features",
+    "game_uid": "3ba46b403b478c78a129235e66499cab",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Snow-Wild-And-The-7-Features.webp"
+  },
+  {
+    "id":"276",
+    "game_name": "Shah Mat",
+    "game_uid": "ff524e8586df7990a026020ea160863f",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Shah-Mat.webp"
+  },
+  {
+    "id":"277",
+    "game_name": "Royal Gems",
+    "game_uid": "f956e0af3f2c79efe2852062ecf5b31e",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Royal-Gems.webp"
+  },
+  {
+    "id":"278",
+    "game_name": "Rocket Men",
+    "game_uid": "3c27527f845810120e05d338ca8a88e4",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Rocket-Men.webp"
+  },
+  {
+    "id":"279",
+    "game_name": "Robin Hood's Wild Forest",
+    "game_uid": "748b6d4e1b6b14a03b08474e2903a93d",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Robin-Hoods-Wild-Forest.webp"
+  },
+  {
+    "id":"280",
+    "game_name": "Rio Stars",
+    "game_uid": "02834e06ca7e48821a13af34fcfe91f2",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Rio-Stars.webp"
+  },
+  {
+    "id":"281",
+    "game_name": "Riddle Of The Sphinx",
+    "game_uid": "ad7ce26e44789c5e86453ae202393953",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Riddle-Of-The-Sphinx.webp"
+  },
+  {
+    "id":"282",
+    "game_name": "Reptizillions Power Reels",
+    "game_uid": "991d04c055730ad5aa3289f8f511bf3f",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Reptizillions-Power-Reels.webp"
+  },
+  {
+    "id":"283",
+    "game_name": "Regal Streak",
+    "game_uid": "07c3b68ee9a4692e8c134f3312b393f7",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Regal-Streak.webp"
+  },
+  {
+    "id":"284",
+    "game_name": "Regal Beasts",
+    "game_uid": "949a2b36bf3cd7aaf3d21893c90e96e6",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Regal-Beasts.webp"
+  },
+  {
+    "id":"285",
+    "game_name": "Reel King Mega",
+    "game_uid": "95a198624f2d476fdfd3f38e46b35722",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Reel-King-Mega.webp"
+  },
+  {
+    "id":"286",
+    "game_name": "Reel Keeper",
+    "game_uid": "55803ba50ccedf79231c8108c0a2e2b4",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Reel-Keeper.webp"
+  },
+  {
+    "id":"287",
+    "game_name": "Reel Heist",
+    "game_uid": "3b0d24b089f88bb667190f3d93d1a577",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Reel-Heist.webp"
+  },
+  {
+    "id":"288",
+    "game_name": "Rainbow Jackpots Power Lines",
+    "game_uid": "c21ca9614cc45b13f950114c8c2a2885",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Rainbow-Jackpots-Power-Lines.webp"
+  },
+  {
+    "id":"289",
+    "game_name": "Rainbow Jackpots",
+    "game_uid": "1c968a45b7677a87f692598e068a4f95",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Rainbow-Jackpots.webp"
+  },
+  {
+    "id":"290",
+    "game_name": "RA's Legend",
+    "game_uid": "e957fc2a59e698e7b7a607ad75ff8dfe",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/RA's-Legend.webp"
+  },
+  {
+    "id":"291",
+    "game_name": "Puss 'N Boots",
+    "game_uid": "54572bcb390ecfb9a3453459124f9d62",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Puss-'N-Boots.webp"
+  },
+  {
+    "id":"292",
+    "game_name": "Esqueleto Mariachi",
+    "game_uid": "95a01cb826734acd0748294fd18eec98",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Esqueleto-Mariachi.webp"
+  },
+  {
+    "id":"293",
+    "game_name": "Epic Journey",
+    "game_uid": "99c7eb227ceae7b957c75d992293a01d",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Epic-Journey.webp"
+  },
+  {
+    "id":"294",
+    "game_name": "Emerald Diamond",
+    "game_uid": "30f586ca3919e5334878a93c278ae494",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Emerald-Diamond.webp"
+  },
+  {
+    "id":"295",
+    "game_name": "Elven Magic",
+    "game_uid": "bdd6e08a746bebaf86afbb8b24e5e699",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Elven-Magic.webp"
+  },
+  {
+    "id":"296",
+    "game_name": "Eagle Riches",
+    "game_uid": "fef0ac9240f5da3aea2a7e33d86781fc",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Eagle-Riches.webp"
+  },
+  {
+    "id":"297",
+    "game_name": "Dynamite Riches Megaways",
+    "game_uid": "c508ca60bbce83cbf704340dcaf0391e",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Dynamite-Riches-Megaways.webp"
+  },
+  {
+    "id":"298",
+    "game_name": "Dynamite Riches",
+    "game_uid": "6eeef5d2652d166e295f768ed634c40d",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Dynamite-Riches.webp"
+  },
+  {
+    "id":"299",
+    "game_name": "Dragon's Luck Megaways",
+    "game_uid": "42e803bff6c8895a16f574b6518d359f",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Dragon's-Luck-Megaways.webp"
+  },
+  {
+    "id":"300",
+    "game_name": "Dragon's Luck Deluxe",
+    "game_uid": "37bc372a5fc9264c0598b8a9612940ce",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Dragon's-Luck-Deluxe.webp"
+  },
+  {
+    "id":"301",
+    "game_name": "Dragon's Luck",
+    "game_uid": "da5a4f7d643dfb395b39fc0698aecc0a",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Dragon's-Luck.webp"
+  },
+  {
+    "id":"302",
+    "game_name": "Dragon's Fire MegaWays",
+    "game_uid": "471215f3105fa12f78799dd669cd6dab",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Dragon's-Fire-Megaways.webp"
+  },
+  {
+    "id":"303",
+    "game_name": "Dragon's Fire Infinireels",
+    "game_uid": "4e44d846ce42c67d5930091d715ca16c",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Dragon's-Fire-Infinireels.webp"
+  },
+  {
+    "id":"304",
+    "game_name": "Dragon's Fire",
+    "game_uid": "542a81eebfb62378dc8f184882d50eef",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Dragon's-Fire.webp"
+  },
+  {
+    "id":"305",
+    "game_name": "Dragon King: Legend Of The Seas",
+    "game_uid": "65dc35010f4f9557e2608719b5670010",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Dragon-King-Legend-of-the-Seas.webp"
+  },
+  {
+    "id":"306",
+    "game_name": "Divine Ways",
+    "game_uid": "d3eb9cd83162be01c7c019c5069d3483",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Divine-Ways.webp"
+  },
+  {
+    "id":"307",
+    "game_name": "Dice Dice Dice",
+    "game_uid": "17f13d35603fcfe9b49f23a49e940869",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Dice-Dice-Dice.webp"
+  },
+  {
+    "id":"308",
+    "game_name": "Diamond Blitz",
+    "game_uid": "6a920d4a4e11b052df97014162327705",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Diamond-Blitz.webp"
+  },
+  {
+    "id":"309",
+    "game_name": "Devil's Number",
+    "game_uid": "6a5e818c0a09634dd7ecdcce70385f96",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Devil's-Number.webp"
+  },
+  {
+    "id":"310",
+    "game_name": "Da Vinci's Mystery",
+    "game_uid": "11fcfd49211e69765d95a6816edcdad1",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Da-Vinci's-Mystery.webp"
+  },
+  {
+    "id":"311",
+    "game_name": "Crystal Mirror",
+    "game_uid": "c5f8e273945921bc70b95c8473b15e24",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Crystal-Mirror.webp"
+  },
+  {
+    "id":"312",
+    "game_name": "Crazy Genie",
+    "game_uid": "f55ed2af9fb0905cf766222b8091a002",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Crazy-Genie.webp"
+  },
+  {
+    "id":"313",
+    "game_name": "Clash of the Beasts",
+    "game_uid": "333f1a3e3066cb81aa443b3447e21045",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Clash-of-the-Beasts.webp"
+  },
+  {
+    "id":"314",
+    "game_name": "Cirque de la Fortune",
+    "game_uid": "fe79717d7bbb8bb6b3471df99435e0d5",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Cirque-de-la-Fortune.webp"
+  },
+  {
+    "id":"315",
+    "game_name": "Cinderella's Ball",
+    "game_uid": "8c50a80dd455a458546aae56486d9bee",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Cinderella's-Ball.webp"
+  },
+  {
+    "id":"316",
+    "game_name": "Chinese Treasures",
+    "game_uid": "fc194114f344c32ba4d75b2473a26ed4",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Chinese-Treasures.webp"
+  },
+  {
+    "id":"317",
+    "game_name": "Cash Volt",
+    "game_uid": "20a3740490fb7ee5ff9f66392ad01659",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Cash-volt.webp"
+  },
+  {
+    "id":"318",
+    "game_name": "Cash Ultimate",
+    "game_uid": "441df827777a649134a6a79e658126d2",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Cash-Ultimate.webp"
+  },
+  {
+    "id":"319",
+    "game_name": "Bounty Raid",
+    "game_uid": "980febecf4cf3044de504f0a93306498",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Bounty-Raid.webp"
+  },
+  {
+    "id":"320",
+    "game_name": "Blue Diamond",
+    "game_uid": "289b4a7e36b000290ee117e345efb6f9",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Blue-Diamond.webp"
+  },
+  {
+    "id":"321",
+    "game_name": "Betty, Boris and Boo",
+    "game_uid": "5bf19d748cbc200e6667be862c11d97d",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Betty,-Boris-and-Boo.webp"
+  },
+  {
+    "id":"322",
+    "game_name": "Aztec Spins",
+    "game_uid": "ab0a79c71f2067e241ca3774b2b5559d",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Aztec-Spins.webp"
+  },
+  {
+    "id":"323",
+    "game_name": "Aurum Codex",
+    "game_uid": "d66c654a4d21b49a9a0a4b65d15aa518",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Aurum-Codex.webp"
+  },
+  {
+    "id":"324",
+    "game_name": "Arcade Bomb",
+    "game_uid": "60709b51e251bb151edae33f6f155dd8",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Arcade-Bomb.webp"
+  },
+  {
+    "id":"325",
+    "game_name": "Dragon's Luck Power Reels",
+    "game_uid": "99ab06ac7d858efac426cf5b48c2eecb",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Dragon's-Luck-Power-Reels.webp"
+  },
+  {
+    "id":"326",
+    "game_name": "10001 Nights",
+    "game_uid": "b4823bf398ca5fab512bd9a61bd2f783",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/10,001-Nights.webp"
+  },
+  {
+    "id":"327",
+    "game_name": "Wild Wild Chest",
+    "game_uid": "4a2911b4afb996e151e9accc14cd8c6d",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Wild-Wild-Chest.webp"
+  },
+  {
+    "id":"328",
+    "game_name": "Win Escalator",
+    "game_uid": "f50277bf54d357ec2359d26421cb588e",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Win-Escalator.webp"
+  },
+  {
+    "id":"329",
+    "game_name": "Wings of Ra",
+    "game_uid": "bc23a0279692fd9f6781c8241b44abb6",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Wings-of-Ra.webp"
+  },
+  {
+    "id":"330",
+    "game_name": "Winter Wonders",
+    "game_uid": "3ff5b9c1b2c89256af457814baa51942",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Winter-Wonders.webp"
+  },
+  {
+    "id":"331",
+    "game_name": "Yucatan's Mystery",
+    "game_uid": "9274031dcd54fe8d1a109682351bca39",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Yucatan's-Mystery.webp"
+  },
+  {
+    "id":"332",
+    "game_name": "Zeus Lightning Power Reels",
+    "game_uid": "edfcbe5a05876188190223d5f3d639e6",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Zeus-Lightning-Power-Reels.webp"
+  },
+  {
+    "id":"333",
+    "game_name": "Ancients Blessing",
+    "game_uid": "c8c216215bb67b44dcdc12d314e38635",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Ancients-Blessing.webp"
+  },
+  {
+    "id":"334",
+    "game_name": "Ancient Script",
+    "game_uid": "c7514c0c624e1628620ecbe79548137f",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Ancient-Script.webp"
+  },
+  {
+    "id":"335",
+    "game_name": "Agent Royale",
+    "game_uid": "8428875df5a3985af8e56a83d068e36b",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Agent-Royale.webp"
+  },
+  {
+    "id":"336",
+    "game_name": "Age Of Akkadia",
+    "game_uid": "52e11671f484b52e73b54350b0103a9c",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Age-of-Akkadia.webp"
+  },
+  {
+    "id":"337",
+    "game_name": "777 Strike",
+    "game_uid": "5a53cd7f6213c82d6da44453f32ae963",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/777-Strike.webp"
+  },
+  {
+    "id":"338",
+    "game_name": "5 Families",
+    "game_uid": "4f1c6b26df6508c074ddfb0479edfbb2",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/5-Families.webp"
+  },
+  {
+    "id":"339",
+    "game_name": "4Squad",
+    "game_uid": "3c907a7e3331bb6170949cca11c563ac",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/4Squad.webp"
+  },
+  {
+    "id":"340",
+    "game_name": "24 Hour Grand Prix",
+    "game_uid": "8918e377e3d11e6ab0607a96641bc4a3",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/24-Hour-Grand-Prix.webp"
+  },
+  {
+    "id":"341",
+    "game_name": "Get The Gold InfiniReels",
+    "game_uid": "0cd3ac2678a70739681087d92e78e9b9",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Get-The-Gold-InfiniReels.webp"
+  },
+  {
+    "id":"342",
+    "game_name": "Wild Tundra",
+    "game_uid": "bd25620eea6484960809e5929c075737",
+    "game_type": "slot",
+    "provider": "RedTiger",
+    "icon": "https://bulkapi.in/redTiger/Wild-Tundra.webp"
+  }
+]

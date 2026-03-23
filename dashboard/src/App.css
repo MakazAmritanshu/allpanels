@@ -1,0 +1,182 @@
+:root {
+  --color-green-start: #14805e;
+  --color-green-end: #184438;
+  --color-blue-start: #315195;
+  --color-blue-end: #14213d;
+}
+
+body {
+  font-family: Tahoma, Helvetica, sans-serif !important;
+  font-size: 13px;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.pgBtn {
+  border: 1px solid #ffffff;
+}
+.pgBtn:hover {
+  border: 1px solid #000;
+  border-radius: 4px;
+  color: #fff;
+  background: linear-gradient(to bottom, #585858 0%, #111 100%);
+}
+.bg-color {
+  background: linear-gradient(-180deg, #14805e 0%, #184438 100%);
+}
+.bg-color2 {
+  background: linear-gradient(#14805e 0%, #184438 100%);
+}
+
+.bg-blue {
+  background: linear-gradient(
+    -180deg,
+    var(--color-blue-start) 0%,
+    var(--color-blue-end) 100%
+  );
+}
+
+.text-green {
+  color: var(--color-green-start);
+}
+
+.text-blue {
+  color: var(--color-blue-end);
+}
+
+.text-blue2 {
+  color: var(--color-blue-start);
+}
+
+.bg-blue-one {
+  background-color: var(--color-blue-end);
+}
+
+.bg-dark {
+  background: linear-gradient(-180deg, #2e4b5e 0%, #243a48 82%);
+}
+
+/* toast */
+.toast-success {
+  background-color: #28a745 !important;
+  /* Full green */
+  color: white !important;
+}
+
+.toast-error {
+  background-color: #dc3545 !important;
+  /* Full red */
+  color: white !important;
+}
+
+.toast-default {
+  background-color: #333 !important;
+  color: white !important;
+}
+
+/*  */
+/* From Uiverse.io by wztd */
+.loader {
+  /* background-color: white; */
+  /* position: relative; */
+  width: fit-content;
+  height: fit-content;
+  padding: 0px 13px;
+  /* aspect-ratio: 1/2;
+    filter: url(#goo); */
+  transform: rotate(90deg);
+}
+
+#goo {
+  display: none;
+}
+
+.loader:before,
+.loader:after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  margin: auto;
+  width: 100%;
+  aspect-ratio: 1/1;
+  animation: 1s ease-out infinite loader;
+  border-radius: 50%;
+}
+
+.loader:before {
+  background: linear-gradient(#14805e, #36cc9c);
+  width: 50px;
+}
+
+.loader:after {
+  animation-delay: 0.5s;
+  background: linear-gradient(to top, #14805e, #36cc9c);
+  width: 50px;
+}
+
+@keyframes loader {
+  0%,
+  50%,
+  100% {
+    transform: translateY(0);
+  }
+
+  25% {
+    transform: translateY(70%);
+  }
+
+  75% {
+    transform: translateY(-70%);
+  }
+}
+.modal-overlay {
+  /* position: fixed; */
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding-top: 50px;
+  /* height: 100%; */
+  background: rgba(0, 0, 0, 0.5);
+  /* Greyed out background */
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+  z-index: 9999;
+}
+
+.modal-overlay1 {
+  /* position: fixed; */
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding-top: 30px;
+  /* height: 100%; */
+  background: rgba(0, 0, 0, 0.5);
+  /* Greyed out background */
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+  z-index: 9999;
+}
+
+.modal-content {
+  /* width: 50%; */
+  background: #fff;
+  border-radius: 4px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+  /* max-height: 100vh; */
+  overflow-y: auto;
+}
+
+.modal-header {
+  color: white;
+  padding: 0.2rem 1rem;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  cursor: pointer;
+}
+
+.modalOpen {
+  overflow: hidden;
+}

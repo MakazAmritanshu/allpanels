@@ -1,0 +1,49 @@
+{
+  "name": "aura444",
+  "version": "1.0.0",
+  "description": "Sports betting platform with backend, client, and dashboard",
+  "private": true,
+  "packageManager": "pnpm@9.15.0",
+  "scripts": {
+    "dev": "pnpm run prettier && concurrently -n backend,client,dashboard -c blue,green,magenta \"pnpm run dev:backend\" \"pnpm run dev:client\" \"pnpm run dev:dashboard\"",
+    "dev:backend": "pnpm --prefix backend run dev",
+    "dev:client": "pnpm --prefix client run dev",
+    "dev:dashboard": "pnpm --prefix dashboard run dev",
+    "start": "concurrently -n backend,client,dashboard -c blue,green,magenta \"pnpm run start:backend\" \"pnpm run start:client\" \"pnpm run start:dashboard\"",
+    "start:backend": "pnpm --prefix backend run start",
+    "start:client": "pnpm --prefix client run preview",
+    "start:dashboard": "pnpm --prefix dashboard run preview",
+    "build": "pnpm run build:client && pnpm run build:dashboard",
+    "build:client": "pnpm --prefix client run build",
+    "build:dashboard": "pnpm --prefix dashboard run build",
+    "install:all": "pnpm install && pnpm --prefix backend install && pnpm --prefix client install && pnpm --prefix dashboard install",
+    "lint": "pnpm --prefix client run lint && pnpm --prefix dashboard run lint",
+    "test": "pnpm --prefix backend run test",
+    "test:watch": "pnpm --prefix backend run test:watch",
+    "test:coverage": "pnpm --prefix backend run test:coverage",
+    "prettier:check": "prettier --check '**/**/*.{js,jsx,ts,tsx}'",
+    "prettier": "prettier --write --cache '**/**/*.{js,jsx,ts,tsx}'",
+    "prepare": "husky"
+  },
+  "devDependencies": {
+    "@eslint/compat": "^2.0.0",
+    "@eslint/eslintrc": "^3.3.3",
+    "@eslint/js": "^9.39.2",
+    "@typescript-eslint/eslint-plugin": "^8.50.0",
+    "@typescript-eslint/parser": "^8.50.0",
+    "concurrently": "^9.1.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-prettier": "^5.5.4",
+    "eslint-plugin-react": "^7.37.5",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "eslint-plugin-simple-import-sort": "^12.1.1",
+    "globals": "^16.5.0",
+    "husky": "^9.1.7",
+    "lint-staged": "^16.2.7",
+    "prettier": "^3.7.4",
+    "prettier-plugin-tailwindcss": "^0.7.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

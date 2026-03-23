@@ -1,0 +1,2866 @@
+[
+  {
+    "id": 1,
+    "game_name": "28 Mansions",
+    "game_uid": "d4a6819ce811b1b97c07a8818a64690d",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_28_mansions.webp"
+  },
+  {
+    "id": 2,
+    "game_name": "A Night Out",
+    "game_uid": "394dd26b789d93bd041fca2d86ea8820",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_a_night_out.webp"
+  },
+  {
+    "id": 3,
+    "game_name": "Absolutely Mammoth",
+    "game_uid": "93aeecbe8381554300edf97c1e4b855e",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_absolutely_mammoth.webp"
+  },
+  {
+    "id": 4,
+    "game_name": "Age of Egypt",
+    "game_uid": "9d8735f9017706dc1d19ac5111606490",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_age_of_egypt.webp"
+  },
+  {
+    "id": 5,
+    "game_name": "Alohawaii: Cash Collect",
+    "game_uid": "914ee555a5e788c9e6fe597552fdbbaf",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_alohawaii_cash_collect.webp"
+  },
+  {
+    "id": 6,
+    "game_name": "Anaconda Uncoiled",
+    "game_uid": "004dc1692ccbb8d46dd44f3480228606",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_anaconda_uncoiled.webp"
+  },
+  {
+    "id": 7,
+    "game_name": "Anaconda Wild",
+    "game_uid": "2399d4cd23a97be3b0970175593f92b3",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_anaconda_wild.webp"
+  },
+  {
+    "id": 8,
+    "game_name": "Archer",
+    "game_uid": "19eb221686f726fe8ab00a523f43d0fc",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_archer.webp"
+  },
+  {
+    "id": 9,
+    "game_name": "Arowana's Luck",
+    "game_uid": "ff01c1c608d0aa974e9badd014b77374",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_arowanas_luck.webp"
+  },
+  {
+    "id": 10,
+    "game_name": "Asian Fantasy",
+    "game_uid": "c57101e7f9b96f9cdd36f3aee28a6703",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_asian_fantasy.webp"
+  },
+  {
+    "id": 11,
+    "game_name": "Atlantis: Cash Collect",
+    "game_uid": "951e0c7f0a7a8aa92aacfb6dff571a93",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_atlantis_cash_collect.webp"
+  },
+  {
+    "id": 12,
+    "game_name": "Azteca: Bonus Lines PowerPlay Jackpot",
+    "game_uid": "1d2f6b8d66fb5ab0382a76216e76d6fa",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_azteca_bonus_lines_powerplay_jackpot.webp"
+  },
+  {
+    "id": 13,
+    "game_name": "Azteca: Cash Collect",
+    "game_uid": "e388e3d3028d8743eab4c164075c1822",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_azteca_cash_collect.webp"
+  },
+  {
+    "id": 14,
+    "game_name": "Bai Shi",
+    "game_uid": "09316ab17daf79adcca3b4d10f93c98b",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_bai_shi.webp"
+  },
+  {
+    "id": 15,
+    "game_name": "Bee Frenzy",
+    "game_uid": "24cfafc2cd7e62ac72868a52359a95b7",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_bee_frenzy.webp"
+  },
+  {
+    "id": 16,
+    "game_name": "Bermuda Triangle",
+    "game_uid": "81e1a871550be8048acf0c613c635ef6",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_bermuda_triangle.webp"
+  },
+  {
+    "id": 17,
+    "game_name": "Better Wilds",
+    "game_uid": "7d7fdd3b5f66243fd47f6c5a6005860c",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_better_wilds.webp"
+  },
+  {
+    "id": 18,
+    "game_name": "Blazing Bells",
+    "game_uid": "40abe020b930dff62e78631dfbe9b804",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_blazing_bells.webp"
+  },
+  {
+    "id": 19,
+    "game_name": "Bonus Bears",
+    "game_uid": "fdacfaf60feb36a4486a06acfec403b8",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_bonus_bears.webp"
+  },
+  {
+    "id": 20,
+    "game_name": "Book of Kings",
+    "game_uid": "1e7cdce727feb9e3aa26bc83975f5b42",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_book_of_kings.webp"
+  },
+  {
+    "id": 21,
+    "game_name": "Breakout Bob",
+    "game_uid": "d1e017cdbb39cc3c8bad8c6da2285396",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_breakout_bob.webp"
+  },
+  {
+    "id": 22,
+    "game_name": "Buffalo Blitz II",
+    "game_uid": "c02588d591e45b7597c8ee83a28b1f8f",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_buffalo_blitz_ii.webp"
+  },
+  {
+    "id": 23,
+    "game_name": "Caishen Ways",
+    "game_uid": "c82ff06c2880737fdd3c2e8eb388572f",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_caishen_ways.webp"
+  },
+  {
+    "id": 24,
+    "game_name": "Cascading Cave",
+    "game_uid": "d1a0c0684480a4b24e43682b638412d1",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_cascading_cave.webp"
+  },
+  {
+    "id": 25,
+    "game_name": "Cat Queen",
+    "game_uid": "dc564752cb510be414ff6b91c3555397",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_cat_queen.webp"
+  },
+  {
+    "id": 26,
+    "game_name": "Chaoji 888",
+    "game_uid": "dc945c9902ce93e1545ce3eb28f2d4ef",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_chaoji_888.webp"
+  },
+  {
+    "id": 27,
+    "game_name": "Chilli Xtreme",
+    "game_uid": "fe9826c0ab49698f3ec793517d10917c",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_chilli_xtreme.webp"
+  },
+  {
+    "id": 28,
+    "game_name": "Chinese Kitchen",
+    "game_uid": "587a7771006aac6a9d8861168ee0d29a",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_chinese_kitchen.webp"
+  },
+  {
+    "id": 29,
+    "game_name": "Crazy 7",
+    "game_uid": "7b1fd24c79ec2365fbc5e5fab20385e2",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_crazy_7.webp"
+  },
+  {
+    "id": 30,
+    "game_name": "Curse of Anubis",
+    "game_uid": "613619e95d83fc92f8ef721587354dd6",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_curse_of_anubis.webp"
+  },
+  {
+    "id": 31,
+    "game_name": "Desert Treasure",
+    "game_uid": "02f64a68f9a5dd0ea16dc5b94b3c8537",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_desert_treasure.webp"
+  },
+  {
+    "id": 32,
+    "game_name": "Devil Wilds",
+    "game_uid": "c8e189f34433a8ff8c556fad649eee20",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_devil_wilds.webp"
+  },
+  {
+    "id": 33,
+    "game_name": "Diamond Match",
+    "game_uid": "db9e11b3ce2268f3e544369fd9647c20",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_diamond_match.webp"
+  },
+  {
+    "id": 34,
+    "game_name": "Diamond Rise",
+    "game_uid": "91b470fb1dc5101da46aee6ed7f58355",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_diamond_rise.webp"
+  },
+  {
+    "id": 35,
+    "game_name": "Divine 9",
+    "game_uid": "c2c704a623cdc644465104951bc7c290",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_divine_9.webp"
+  },
+  {
+    "id": 36,
+    "game_name": "Dolphin Reef",
+    "game_uid": "83e3a9468364e039e5a354982044481b",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_dolphin_reef.webp"
+  },
+  {
+    "id": 37,
+    "game_name": "Dragon Chi",
+    "game_uid": "87ce02a15b8079595bf8bc1881f8f0d2",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_dragon_chi.webp"
+  },
+  {
+    "id": 38,
+    "game_name": "Dragon Spark",
+    "game_uid": "9eb07e6c232e74cdf7cd4c4e28b18ade",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_dragon_spark.webp"
+  },
+  {
+    "id": 39,
+    "game_name": "Dragon's Hall: Thundershots",
+    "game_uid": "1e4bb0751fd95f7b484e739a77ae7efb",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_dragons_hall_thundershots.webp"
+  },
+  {
+    "id": 40,
+    "game_name": "Easter Surprise",
+    "game_uid": "0c78e8c3db9f2c113c46b9291ff5e41b",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_easter_surprise.webp"
+  },
+  {
+    "id": 41,
+    "game_name": "Egyptian Emeralds",
+    "game_uid": "6e7512964ad0578154bf9dfbaf29507f",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_egyptian_emeralds.webp"
+  },
+  {
+    "id": 42,
+    "game_name": "Eye of Anubis",
+    "game_uid": "a8402c531379d6ffc2bc503d261edecf",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_eye_of_anubis.webp"
+  },
+  {
+    "id": 43,
+    "game_name": "Feng Kuang Ma Jiang",
+    "game_uid": "9e1e471d8ebba1851ef9fd970db55f6f",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_feng_kuang_ma_jiang.webp"
+  },
+  {
+    "id": 44,
+    "game_name": "Fire 4: Cash Collect Quattro",
+    "game_uid": "0dd37f753c896363b659648697854cdb",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_fire_4_cash_collect_quattro.webp"
+  },
+  {
+    "id": 45,
+    "game_name": "Fire Blaze Golden: Amazing Factory",
+    "game_uid": "e898f5a103e1ede15cb83003ec5fb09c",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_fire_blaze_golden_amazing_factory.webp"
+  },
+  {
+    "id": 46,
+    "game_name": "Fire Blaze Golden: Buccaneer Bells",
+    "game_uid": "69f7bdf3c085a57b42a0495676107560",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_fire_blaze_golden_buccaneer_bells.webp"
+  },
+  {
+    "id": 47,
+    "game_name": "Fire Blaze Quattro: Celtic Charm",
+    "game_uid": "69cf377ce60fc0afa39184e91986793a",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_fire_blaze_quattro_celtic_charm.webp"
+  },
+  {
+    "id": 48,
+    "game_name": "Fire Blaze: Blue Wizard Megaways",
+    "game_uid": "ab9ab11156f84d1a3d269de2aa98f696",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_fire_blaze_blue_wizard_megaways.webp"
+  },
+  {
+    "id": 49,
+    "game_name": "Fire Blaze: Fire Fighter",
+    "game_uid": "1591d9387b6c0fc0480ed61fa1516eb2",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_fire_blaze_fire_fighter.webp"
+  },
+  {
+    "id": 50,
+    "game_name": "Fire Blaze: Green Wizard",
+    "game_uid": "4025b2cc866df61a8879eeb23686240f",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_fireblazegreenwizard.webp"
+  },
+  {
+    "id": 51,
+    "game_name": "Fire Blaze: Red Wizard",
+    "game_uid": "7c799c2414622adcbd4f968eceb3d337",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_fire_blaze_red_wizard.webp"
+  },
+  {
+    "id": 52,
+    "game_name": "Fire Blaze: River Empress",
+    "game_uid": "71307cf80547c8f956626c100fd495fd",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_fire_blaze_river_empress.webp"
+  },
+  {
+    "id": 53,
+    "game_name": "Fire Blaze: Sisters Gift",
+    "game_uid": "53f3ccf5ad021bad61ab2064380f3955",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_fire_blaze_sisters_gift.webp"
+  },
+  {
+    "id": 54,
+    "game_name": "Fire Blaze: Toltec Blocks",
+    "game_uid": "88c786e69e3fcfdc9327fcb2f0a561af",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_fire_blaze_toltec_blocks.webp"
+  },
+  {
+    "id": 55,
+    "game_name": "Fishin' Bonanza",
+    "game_uid": "a38900b6fa2a0f17b297f8d0af7cfa28",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_fishin_bonanza.webp"
+  },
+  {
+    "id": 56,
+    "game_name": "Football Rules",
+    "game_uid": "89ff0309fcaf5c381be458e2998b1d0d",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_football_rules.webp"
+  },
+  {
+    "id": 57,
+    "game_name": "Football! Cash Collect",
+    "game_uid": "c7b3b67b31cb3ed3ad2eca953c821e6c",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_football_cash_collect.webp"
+  },
+  {
+    "id": 58,
+    "game_name": "Fortune Day",
+    "game_uid": "446d65ef3a497f6bef79826efbfefc36",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_fortune_day.webp"
+  },
+  {
+    "id": 59,
+    "game_name": "Fortune Lions",
+    "game_uid": "96abc8e3143f17045f4f9796b8e2debd",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_fortune_lions.webp"
+  },
+  {
+    "id": 60,
+    "game_name": "Fortunes of the Fox",
+    "game_uid": "e8db2b77152e9f7c2e6fc5f979b17c50",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_fortunes_of_the_fox.webp"
+  },
+  {
+    "id": 61,
+    "game_name": "Frog's Gift",
+    "game_uid": "c6ce75b166fe8c9a9a8c26d2a8321beb",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_frogs_gift.webp"
+  },
+  {
+    "id": 62,
+    "game_name": "Full Moon: White Panda",
+    "game_uid": "8e80c3919b0ac72eb5abed7432a1b9f2",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_full_moon_white_panda.webp"
+  },
+  {
+    "id": 63,
+    "game_name": "Funky Monkey",
+    "game_uid": "566949d711213070ffdc6c867299dcda",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_funky_monkey.webp"
+  },
+  {
+    "id": 64,
+    "game_name": "Gaelic Luck",
+    "game_uid": "a4bc6f03755c125b10ab91ce3599051b",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_gaelic_luck.webp"
+  },
+  {
+    "id": 65,
+    "game_name": "Geisha Story",
+    "game_uid": "b13103089258a4800e85a0fbc1a1eba6",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_geisha_story.webp"
+  },
+  {
+    "id": 66,
+    "game_name": "Gem Heat",
+    "game_uid": "c736488473948e5e5752581b5341241e",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_gem_heat.webp"
+  },
+  {
+    "id": 67,
+    "game_name": "Gem Queen",
+    "game_uid": "b5840059b2cf513f92a962f0dc59ebd0",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_gem_queen.webp"
+  },
+  {
+    "id": 68,
+    "game_name": "Glorious Guardians",
+    "game_uid": "ad145bad0f1ccc515b81695a46bc7697",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_glorious_guardians.webp"
+  },
+  {
+    "id": 69,
+    "game_name": "Gold Hit & Link: JP Bacon & Co",
+    "game_uid": "c80f52d0b39e0a76f4b518a95d3b3d59",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_gold_hit__link_jp_bacon__co.webp"
+  },
+  {
+    "id": 70,
+    "game_name": "Gold Hit: Dragon Bonanza",
+    "game_uid": "43080866fb8c94e45494a0cd5322e4a5",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_gold_hit_dragon_bonanza.webp"
+  },
+  {
+    "id": 71,
+    "game_name": "Gold Hit: O'Reilly's Riches",
+    "game_uid": "3d86eba3c49372e0b834c6dd8d0880d6",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_gold_hit_oreillys_riches.webp"
+  },
+  {
+    "id": 72,
+    "game_name": "Gold Hit: Shrine of Anubis",
+    "game_uid": "ec972d67781e1a4279825992024b3338",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_gold_hit_shrine_of_anubis.webp"
+  },
+  {
+    "id": 73,
+    "game_name": "Gold Pile: Orangutan!",
+    "game_uid": "1739f9ef96ec8fec47f5df9c0f498875",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_gold_pile_orangutan.webp"
+  },
+  {
+    "id": 74,
+    "game_name": "Gold Pile: Tigers Pride",
+    "game_uid": "1257f43828d7e54eccf3921629905a7f",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_gold_pile_tigers_pride.webp"
+  },
+  {
+    "id": 75,
+    "game_name": "Gold Pile: Toltec Treasure",
+    "game_uid": "21348f97f2f7213faf77ccc747472306",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_gold_pile_toltec_treasure.webp"
+  },
+  {
+    "id": 76,
+    "game_name": "Gold Trio: Sinbad's Riches",
+    "game_uid": "1c91e63ae285ec1cb500dcb73d29f52f",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_gold_trio_sinbads_riches.webp"
+  },
+  {
+    "id": 77,
+    "game_name": "Golden Tour",
+    "game_uid": "4e61ff4534bd27a2db3bbf6abe330b0d",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_golden_tour.webp"
+  },
+  {
+    "id": 78,
+    "game_name": "Grand Junction: Mountain Express",
+    "game_uid": "2a8995128a0c211ba4ab084fc46eb869",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_grand_junction_mountain_express.webp"
+  },
+  {
+    "id": 79,
+    "game_name": "Great Blue",
+    "game_uid": "3b92c97f15daa15946fb9b30c480b8f5",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_great_blue.webp"
+  },
+  {
+    "id": 80,
+    "game_name": "Hainan Ice",
+    "game_uid": "ae633bc84e09e7eaf26c1c77843a2948",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_hainan_ice.webp"
+  },
+  {
+    "id": 81,
+    "game_name": "Halloween Fortune",
+    "game_uid": "33e0219b34d1da2976703164a308e18b",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_halloween_fortune.webp"
+  },
+  {
+    "id": 82,
+    "game_name": "Halloween Fortune 2",
+    "game_uid": "6aa2823b7626f8ebce7746e9a5ff5b1c",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_halloween_fortune_2.webp"
+  },
+  {
+    "id": 83,
+    "game_name": "Haunted House",
+    "game_uid": "d710cde48c38c8dd647083829d8b8586",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_haunted_house.webp"
+  },
+  {
+    "id": 84,
+    "game_name": "Heart of the Frontier",
+    "game_uid": "44893f6676eb290f1d6e36e4a6d717a3",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_heart_of_the_frontier.webp"
+  },
+  {
+    "id": 85,
+    "game_name": "Heavenly Ruler",
+    "game_uid": "641cce6c867d08872bf34b59beaba2d2",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_heavenly_ruler.webp"
+  },
+  {
+    "id": 86,
+    "game_name": "Heroes Arrow",
+    "game_uid": "a99644c6e18138cece8e5bfa0cb2d6c8",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_heroes_arrow.webp"
+  },
+  {
+    "id": 87,
+    "game_name": "Highway Kings",
+    "game_uid": "29fc8990cb09c7ed7f475ee8569be064",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_highway_kings.webp"
+  },
+  {
+    "id": 88,
+    "game_name": "Hit Bar",
+    "game_uid": "a42854765ec82fec84320783d19698c2",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_hit_bar.webp"
+  },
+  {
+    "id": 89,
+    "game_name": "Hit Bar: Gold",
+    "game_uid": "9478e0c01cee9a0f629caa929170766f",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_hit_bar_gold.webp"
+  },
+  {
+    "id": 90,
+    "game_name": "Honey Gems",
+    "game_uid": "e6cc14c60fdbfb1403d16be56563f3e0",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_honey_gems.webp"
+  },
+  {
+    "id": 91,
+    "game_name": "Hot Gems Xtreme Scratch",
+    "game_uid": "b2f168b7a4a4560a861460dc6e13af35",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_hot_gems_xtreme_scratch.webp"
+  },
+  {
+    "id": 92,
+    "game_name": "Hot KTV",
+    "game_uid": "769f8c727e8602fcfad6d5615d4330f8",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_hot_ktv.webp"
+  },
+  {
+    "id": 93,
+    "game_name": "Irish Luck",
+    "game_uid": "a12ea302e6c521d45d3471bd2909be98",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_irish_luck.webp"
+  },
+  {
+    "id": 94,
+    "game_name": "Jin Qian Wa",
+    "game_uid": "4e829c9d244ef1b22ac151ad4293d01b",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_jin_qian_wa.webp"
+  },
+  {
+    "id": 95,
+    "game_name": "Joker Rush",
+    "game_uid": "1e9dedddf9f0c4d9b27d1a668aecb5b2",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_joker_rush.webp"
+  },
+  {
+    "id": 96,
+    "game_name": "Joker Rush: Cash Collect",
+    "game_uid": "5ccd7770eedb511df0234fd567c59bb5",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_joker_rush_cash_collect.webp"
+  },
+  {
+    "id": 97,
+    "game_name": "Jungle Giants",
+    "game_uid": "b9fb1081d23fc0851aae8af927d60f86",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_jungle_giants.webp"
+  },
+  {
+    "id": 98,
+    "game_name": "Jurassic Island 2",
+    "game_uid": "8ba42e8a5dcbee4989d14cd7e322f162",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_jurassic_island_2.webp"
+  },
+  {
+    "id": 99,
+    "game_name": "Legacy of the Wild",
+    "game_uid": "a1543c33b37b36fb779b45bdc18854da",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_legacy_of_the_wild.webp"
+  },
+  {
+    "id": 100,
+    "game_name": "Legacy of the Wilds 2",
+    "game_uid": "a6819ec6e3503dae7ba180c1cad59adb",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_legacy_of_the_wilds_2.webp"
+  },
+  {
+    "id": 101,
+    "game_name": "Leprechaun's Luck: Cash Collect",
+    "game_uid": "12116fb146c0c69e4b2774346813d3bd",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_leprechauns_luck_cash_collect.webp"
+  },
+  {
+    "id": 102,
+    "game_name": "Lie Yan Zuan Shi",
+    "game_uid": "9c6849d0214625116b19c0b1284823d3",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_lie_yan_zuan_shi.webp"
+  },
+  {
+    "id": 103,
+    "game_name": "Lock & Hit: Red Knight",
+    "game_uid": "a648e3f787e7a1365838baac87ee28db",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_lock__hit_red_knight.webp"
+  },
+  {
+    "id": 104,
+    "game_name": "Lockdown Loot",
+    "game_uid": "61356d707e94af28cbc6540cac3b8342",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_lockdown_loot.webp"
+  },
+  {
+    "id": 105,
+    "game_name": "Long Long Long",
+    "game_uid": "6409af2c138f9f57d97cf53a63f6c889",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_long_long_long.webp"
+  },
+  {
+    "id": 106,
+    "game_name": "Lotto Madness",
+    "game_uid": "fdd37bb1dc832533a5f0eb3395537b49",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_lotto_madness.webp"
+  },
+  {
+    "id": 107,
+    "game_name": "Lovefool",
+    "game_uid": "2d95c03b7dcdd548ed32f8c893ad7fe6",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_lovefool.webp"
+  },
+  {
+    "id": 108,
+    "game_name": "Lucky Emeralds",
+    "game_uid": "4e5f0f51c800eaf975b5771f86f1a3ae",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_lucky_emeralds.webp"
+  },
+  {
+    "id": 109,
+    "game_name": "Luminous Life",
+    "game_uid": "d8ec0c13d2b2233289bc38f13d1b25db",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_luminous_life.webp"
+  },
+  {
+    "id": 110,
+    "game_name": "Magical Stacks",
+    "game_uid": "4f9e475c973eff14fa5ad7ef3bb0bfbe",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_magical_stacks.webp"
+  },
+  {
+    "id": 111,
+    "game_name": "Mayan Blocks",
+    "game_uid": "2a597d354c04f422ef760c626a92e5be",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_mayan_blocks.webp"
+  },
+  {
+    "id": 112,
+    "game_name": "Mega Fire Blaze: Big Circus!",
+    "game_uid": "0c4c1b2095de1bfb9054c1057ee2eb89",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_mega_fire_blaze_big_circus.webp"
+  },
+  {
+    "id": 113,
+    "game_name": "Mega Fire Blaze: Emperor of Rome",
+    "game_uid": "3020a864e7d94d01d3c3e182b8727a8b",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_mega_fire_blaze_emperor_of_rome.webp"
+  },
+  {
+    "id": 114,
+    "game_name": "Mega Fire Blaze: Khonsu God of Moon",
+    "game_uid": "f478fc576f29b549ad2fea767dd792f3",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_mega_fire_blaze_khonsu_god_of_moon.webp"
+  },
+  {
+    "id": 115,
+    "game_name": "Mega Fire Blaze: Piggies and the Bank",
+    "game_uid": "73ad651ba2f895981fd00da00bde6a25",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_mega_fire_blaze_piggies_and_the_bank.webp"
+  },
+  {
+    "id": 116,
+    "game_name": "Mega Fire Blaze: Wild Pistolero",
+    "game_uid": "9e01e71be20b6c24ada9d5cf3e31dee8",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_mega_fire_blaze_wild_pistolero.webp"
+  },
+  {
+    "id": 117,
+    "game_name": "Midnight Wilds",
+    "game_uid": "24a1e16a29b5364ea2c8d79a269d83de",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_midnight_wilds.webp"
+  },
+  {
+    "id": 118,
+    "game_name": "Mighty Hat: Lamp of Gold",
+    "game_uid": "2cd5389099cda57758bd5d4f7af42f8f",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_mighty_hat_lamp_of_gold.webp"
+  },
+  {
+    "id": 119,
+    "game_name": "Miss Fortune",
+    "game_uid": "b5dda25e306883bf8e6c781f01c9b105",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_miss_fortune.webp"
+  },
+  {
+    "id": 120,
+    "game_name": "Monkey and Rat",
+    "game_uid": "15fd9e2a82c3a12a680be417ad1f21a2",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_monkey_and_rat.webp"
+  },
+  {
+    "id": 121,
+    "game_name": "Monster Multipliers",
+    "game_uid": "5de47b8f0011af1187db721529391a9d",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_monster_multipliers.webp"
+  },
+  {
+    "id": 122,
+    "game_name": "Mr. Cashback",
+    "game_uid": "9f8257e2286a6be7720de2ac1d86aaa8",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_mr_cashback.webp"
+  },
+  {
+    "id": 123,
+    "game_name": "Neptune's Kingdom",
+    "game_uid": "24741259946352ef3d9777f87dea35c0",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_neptunes_kingdom.webp"
+  },
+  {
+    "id": 124,
+    "game_name": "Ni Shu Shen Me",
+    "game_uid": "c95a03963b959d071e6b9c87366b1ba5",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_ni_shu_shen_me.webp"
+  },
+  {
+    "id": 125,
+    "game_name": "Ox Riches",
+    "game_uid": "ba6f78623a6d660d3c1c8fc1ed48f63f",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_ox_riches.webp"
+  },
+  {
+    "id": 126,
+    "game_name": "Panda Luck",
+    "game_uid": "adb7e75c3c59734910dafdd78d299fad",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_panda_luck.webp"
+  },
+  {
+    "id": 127,
+    "game_name": "Panther Moon",
+    "game_uid": "91c0619c5f811116d1f8fb116a624aaf",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_panther_moon.webp"
+  },
+  {
+    "id": 128,
+    "game_name": "Panther Pays",
+    "game_uid": "6832f35e232b7689b584eab3cf2f11e0",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_panther_pays.webp"
+  },
+  {
+    "id": 129,
+    "game_name": "Penguin Vacation",
+    "game_uid": "29b6025c600a8243e274d4b051c698a1",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_penguin_vacation.webp"
+  },
+  {
+    "id": 130,
+    "game_name": "Pharaoh's Secrets",
+    "game_uid": "4b9091fcb2085c24336ab7446a2ff51c",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_pharaohs_secrets.webp"
+  },
+  {
+    "id": 131,
+    "game_name": "Pigeons From Space!",
+    "game_uid": "995b97cbaea0b3c828d74a1947cf34a4",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_pigeons_from_space.webp"
+  },
+  {
+    "id": 132,
+    "game_name": "Piggies and the Wolf",
+    "game_uid": "ed02686dd823b80014e5a9b8cf5cd3a7",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_piggies_and_the_wolf.webp"
+  },
+  {
+    "id": 133,
+    "game_name": "Power Zones: Thunder Birds",
+    "game_uid": "324ef7edb41cb3b0e0aa3424bc26585f",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_power_zones_thunder_birds.webp"
+  },
+  {
+    "id": 134,
+    "game_name": "Pyramid Linx",
+    "game_uid": "203de928da300db8fb24068ea715b1a8",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_pyramid_linx.webp"
+  },
+  {
+    "id": 135,
+    "game_name": "Qin's Empire: Caishen's Temple",
+    "game_uid": "dd10279395606722cded08de861a0864",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_qins_empire_caishens_temple.webp"
+  },
+  {
+    "id": 136,
+    "game_name": "Queen of Wands",
+    "game_uid": "b3324734523e2f960ab48b46409f15d7",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_queen_of_wands.webp"
+  },
+  {
+    "id": 137,
+    "game_name": "Quest West",
+    "game_uid": "77f7602a812e8d2cea1e081f3207a787",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_quest_west.webp"
+  },
+  {
+    "id": 138,
+    "game_name": "Ready to Blow: Thundershots",
+    "game_uid": "f945fa95532421e99bbb9ea19c7660ec",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_ready_to_blow_thundershots.webp"
+  },
+  {
+    "id": 139,
+    "game_name": "Record Riches!",
+    "game_uid": "4ad49e9c6a8600cd34edd0c566acfb0c",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_record_riches.webp"
+  },
+  {
+    "id": 140,
+    "game_name": "Retro Rush",
+    "game_uid": "33341a2803fb6dd1e61f17cf1d966d79",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_retro_rush.webp"
+  },
+  {
+    "id": 141,
+    "game_name": "Ri Ri Jin Cai",
+    "game_uid": "791e18449f3dd43bee6d7f436b2689ba",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_ri_ri_jin_cai.webp"
+  },
+  {
+    "id": 142,
+    "game_name": "Rich Roll: Lust for Gold!",
+    "game_uid": "ec25ac15fbe2eac3886c7700a8e58688",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_rich_roll_lust_for_gold.webp"
+  },
+  {
+    "id": 143,
+    "game_name": "Rogues Draw",
+    "game_uid": "cb301e7bb3339072d2a102a8a443215c",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_rogues_draw.webp"
+  },
+  {
+    "id": 144,
+    "game_name": "Rome and Glory",
+    "game_uid": "336efd2e161d72cf905627525b1dd0e2",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_rome_and_glory.webp"
+  },
+  {
+    "id": 145,
+    "game_name": "Safari Heat",
+    "game_uid": "51b4d02ef15fb7eea6c960f7fac0a7d4",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_safari_heat.webp"
+  },
+  {
+    "id": 146,
+    "game_name": "Sahara Riches Cash Collect",
+    "game_uid": "e75afc2979465cb1c84ace4ce6be0d07",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_sahara_riches_cash_collect.webp"
+  },
+  {
+    "id": 147,
+    "game_name": "Sahara Riches MegaWays: Cash Collect",
+    "game_uid": "c7acf22040b86f1bd0b77d387522326a",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_sahara_riches_megaways_cash_collect.webp"
+  },
+  {
+    "id": 148,
+    "game_name": "Santa Surprise",
+    "game_uid": "28cafeda238965a19e0affadc46dc1d3",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_santa_surprise.webp"
+  },
+  {
+    "id": 149,
+    "game_name": "Savage Jungle",
+    "game_uid": "9a772bafa2b027327ec0ef161f18e72b",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_savage_jungle.webp"
+  },
+  {
+    "id": 150,
+    "game_name": "Secrets of the Amazon",
+    "game_uid": "b2e9c364d08bab5fc946ebcfca86b1c0",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_secrets_of_the_amazon.webp"
+  },
+  {
+    "id": 151,
+    "game_name": "Si Xiang",
+    "game_uid": "13dbe38ac5d61b0f3a100c0ecba7b28b",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_si_xiang.webp"
+  },
+  {
+    "id": 152,
+    "game_name": "Silent Samurai",
+    "game_uid": "e5bb2d8c58feed5280a23677416aec2c",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_silent_samurai.webp"
+  },
+  {
+    "id": 153,
+    "game_name": "Silver Bullet",
+    "game_uid": "19ca4b6960585ca1586471685c48c510",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_silver_bullet.webp"
+  },
+  {
+    "id": 154,
+    "game_name": "Silver Bullet Bandit: Cash Collect",
+    "game_uid": "6805547da385cefdf0491389b0b72021",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_silver_bullet_bandit_cash_collect.webp"
+  },
+  {
+    "id": 155,
+    "game_name": "Sorcerer's Guild of Magic",
+    "game_uid": "f655df9ae765a1f7ec4fda015612213a",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_sorcerers_guild_of_magic.webp"
+  },
+  {
+    "id": 156,
+    "game_name": "Starmada Exiles",
+    "game_uid": "27da990dfe26efbf9f821a902cc00d76",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_starmada_exiles.webp"
+  },
+  {
+    "id": 157,
+    "game_name": "Thai Paradise",
+    "game_uid": "987c85be57d22ca4d6d7f26903f8cd36",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_thai_paradise.webp"
+  },
+  {
+    "id": 158,
+    "game_name": "The Riches of Don Quixote",
+    "game_uid": "53e1a2883a20db9c04cdfe4bf5ba98ba",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_the_riches_of_don_quixote.webp"
+  },
+  {
+    "id": 159,
+    "game_name": "Tiger Stacks",
+    "game_uid": "008b7307a491bd2355e363385509bd76",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_tiger_stacks.webp"
+  },
+  {
+    "id": 160,
+    "game_name": "Tiger Turtle Dragon Phoenix",
+    "game_uid": "527e302ab05e37ecb611c48a2c3c59f0",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_tiger_turtle_dragon_phoenix.webp"
+  },
+  {
+    "id": 161,
+    "game_name": "Tip Top Totems",
+    "game_uid": "02b7814b314fd364f27c30dfb94e609d",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_tip_top_totems.webp"
+  },
+  {
+    "id": 162,
+    "game_name": "Toad's Gift",
+    "game_uid": "f7239188d876f58753326dae2e428946",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_toads_gift.webp"
+  },
+  {
+    "id": 163,
+    "game_name": "Treasures of the Lamps",
+    "game_uid": "96b0dc32253ea87956b299df5f5da038",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_treasures_of_the_lamps.webp"
+  },
+  {
+    "id": 164,
+    "game_name": "Triple Monkey",
+    "game_uid": "f7bb5ec211d21aa3d9d2a13cda1a5b2f",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_triple_monkey.webp"
+  },
+  {
+    "id": 165,
+    "game_name": "Triple Stop: Mermaids Find",
+    "game_uid": "df831f469abffbfa63fe371f7bd80595",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_triple_stop_mermaids_find.webp"
+  },
+  {
+    "id": 166,
+    "game_name": "True Love",
+    "game_uid": "391db24bf14f5e970938728c6dddc9ab",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_true_love.webp"
+  },
+  {
+    "id": 167,
+    "game_name": "Ugga Bugga",
+    "game_uid": "191cb8f8fd2f5fd518e8c4a26b7927f1",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_ugga_bugga.webp"
+  },
+  {
+    "id": 168,
+    "game_name": "Vacation Station",
+    "game_uid": "8efd1a752c1fd56b282adcc30485b506",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_vacation_station.webp"
+  },
+  {
+    "id": 169,
+    "game_name": "Vacation Station Deluxe",
+    "game_uid": "a4a1e2b9aa4e3e2ef9a0855fe40943fb",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_vacation_station_deluxe.webp"
+  },
+  {
+    "id": 170,
+    "game_name": "Ways of the Phoenix",
+    "game_uid": "e9ab61e7029d7286244866dfc49c19c9",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_ways_of_the_phoenix.webp"
+  },
+  {
+    "id": 171,
+    "game_name": "Wheels of Flame",
+    "game_uid": "c6ffb52d04059c8be23f5cff6d550e42",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_wheels_of_flame.webp"
+  },
+  {
+    "id": 172,
+    "game_name": "White King",
+    "game_uid": "dd89c3175430408c1bcf491210f540bd",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_white_king.webp"
+  },
+  {
+    "id": 173,
+    "game_name": "White King II",
+    "game_uid": "4cb5842be342349e191926fb256feae8",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_white_king_ii.webp"
+  },
+  {
+    "id": 174,
+    "game_name": "Wild Lava",
+    "game_uid": "d3c5b0b9e8c6663a9cbd717853e0375f",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_wild_lava.webp"
+  },
+  {
+    "id": 175,
+    "game_name": "Wild Lava Scratch",
+    "game_uid": "a2751120e0ef4bfd384215bd2ac804c2",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_wild_lava_scratch.webp"
+  },
+  {
+    "id": 176,
+    "game_name": "Wild LinX",
+    "game_uid": "9e21da597c885e4ed37d7a6839214631",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_wild_linx.webp"
+  },
+  {
+    "id": 177,
+    "game_name": "Wild West Wilds!",
+    "game_uid": "2d849a97e74f34072569c985dedd1ec1",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_wild_west_wilds.webp"
+  },
+  {
+    "id": 178,
+    "game_name": "Witches: Cash Collect",
+    "game_uid": "4a216721856e3da5eb5978bae59b38d1",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_witchescashcollect.webp"
+  },
+  {
+    "id": 179,
+    "game_name": "Wu Long",
+    "game_uid": "b1b1311edc02e505083a3fe43655eaae",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_wu_long.webp"
+  },
+  {
+    "id": 180,
+    "game_name": "Wushu Punch",
+    "game_uid": "514c8dc5cba8a227b90a902349a9702e",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_wushu_punch.webp"
+  },
+  {
+    "id": 181,
+    "game_name": "Yu Tu Jin Cai: Cash Collect",
+    "game_uid": "0778aff9a8e2879e3a1353f792b820d6",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_yu_tu_jin_cai_cash_collect.webp"
+  },
+  {
+    "id": 182,
+    "game_name": "Yun Cong Long",
+    "game_uid": "cc6a40f828e38da5de541654665d0cb1",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_yun_cong_long.webp"
+  },
+  {
+    "id": 183,
+    "game_name": "Zhao Cai Jin Bao",
+    "game_uid": "0e2f4bb4ee3265b4b81678a735abb01e",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_zhao_cai_jin_bao.webp"
+  },
+  {
+    "id": 184,
+    "game_name": "Zhao Cai Tong Zi",
+    "game_uid": "d402fec1c1bc8c6fc990c411dbff1fcc",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_zhao_cai_tong_zi.webp"
+  },
+  {
+    "id": 185,
+    "game_name": "Zodiac Charms",
+    "game_uid": "ece004ca2f18fc543e034e0dba017117",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_zodiac_charms.webp"
+  },
+  {
+    "id": 186,
+    "game_name": "Goood Heavens",
+    "game_uid": "8c584666239a5fcc1f4ad85ccfe97e11",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_goood_heavens.webp"
+  },
+  {
+    "id": 187,
+    "game_name": "Shields of Lambda",
+    "game_uid": "8f367013c5d5af52c62578bbd2e6d476",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_shields_of_lambda.webp"
+  },
+  {
+    "id": 188,
+    "game_name": "Lights of luck",
+    "game_uid": "9adb18b30a36e945e512495e75ed57ef",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_lights_of_luck.webp"
+  },
+  {
+    "id": 189,
+    "game_name": "Lunar Link: The Legend of King Arthur",
+    "game_uid": "11e7bbab92968968c6f5ec2ddc4dd0b4",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_lunar_link_the_legend_of_king_arthur.webp"
+  },
+  {
+    "id": 190,
+    "game_name": "Bulls Eye Bandits",
+    "game_uid": "20f2123c089d0c528361f15ad9c76bbe",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_bulls_eye_bandits.webp"
+  },
+  {
+    "id": 191,
+    "game_name": "Drop for Top",
+    "game_uid": "b9992eb3aed77d6fd08099b0b7eda26c",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_drop_for_top.webp"
+  },
+  {
+    "id": 192,
+    "game_name": "El Ranchero Cash Collect Diamond Path",
+    "game_uid": "461e9866babdcde258f17733185313ab",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_el_ranchero_cash_collect_diamond_path.webp"
+  },
+  {
+    "id": 193,
+    "game_name": "Gold Trio: Leprechaun's Luck BF",
+    "game_uid": "e5b681bc77d8a9b218d4bf36a7e75638",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_gold_trio_leprechauns_luck_bf.webp"
+  },
+  {
+    "id": 194,
+    "game_name": "Reaction Link",
+    "game_uid": "de867ed6619dc561b5141412b5c1aa14",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_reaction_link.webp"
+  },
+  {
+    "id": 195,
+    "game_name": "Wild Roll",
+    "game_uid": "d62f99f1a0830273976ec26423f0a91e",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_wild_roll.webp"
+  },
+  {
+    "id": 196,
+    "game_name": "Aztec Fruits",
+    "game_uid": "519d5dcecfd95b3590c53ed99077e16d",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_aztec_fruits.webp"
+  },
+  {
+    "id": 197,
+    "game_name": "Lil Sphinx",
+    "game_uid": "e3e3d0f3153e73dfcc0b108d9ac5140b",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_lil_sphinx.webp"
+  },
+  {
+    "id": 198,
+    "game_name": "Piggies and the Bank: Cash Collect & Link",
+    "game_uid": "bdb8ed528755bd9cb20091a2c0f0648f",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_piggies_and_the_bank_cash_collect__link.webp"
+  },
+  {
+    "id": 199,
+    "game_name": "Fluffy Favourites: Cash Collect",
+    "game_uid": "37bae698846706b40b7a10a0571da955",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_fluffy_favourites_cash_collect.webp"
+  },
+  {
+    "id": 200,
+    "game_name": "Age of the Gods: Cash Collect",
+    "game_uid": "dcb60047b1d91ae313c72079ef1dcf68",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_age_of_the_gods_cash_collect.webp"
+  },
+  {
+    "id": 201,
+    "game_name": "Breach the Vault",
+    "game_uid": "e4e80665e38d521c4e878793ff774613",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_breach_the_vault.webp"
+  },
+  {
+    "id": 202,
+    "game_name": "Bulls Eye Alice",
+    "game_uid": "7278559057e542ba77dbb5bceec76760",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_bulls_eye_alice.webp"
+  },
+  {
+    "id": 203,
+    "game_name": "Candy Roll",
+    "game_uid": "8505403d8c0b6dfcf838b5c39990ed11",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_candy_roll.webp"
+  },
+  {
+    "id": 204,
+    "game_name": "Circuit Shock",
+    "game_uid": "7bd0ac2e0618437e579e5ea3b0b5bea4",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_circuit_shock.webp"
+  },
+  {
+    "id": 205,
+    "game_name": "Diamond Match Deluxe",
+    "game_uid": "d87ddb4fc376a2e379265701c7bb1b7a",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_diamond_match_deluxe.webp"
+  },
+  {
+    "id": 206,
+    "game_name": "Elephant Riches",
+    "game_uid": "40199f4bbf318e6fa493651e03730ccc",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_elephant_riches.webp"
+  },
+  {
+    "id": 207,
+    "game_name": "Fei Long Zai Tian",
+    "game_uid": "f14ee1d68dcf1a9bf8e653c075ba05f3",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_fei_long_zai_tian.webp"
+  },
+  {
+    "id": 208,
+    "game_name": "Feng Shui Flip",
+    "game_uid": "2b10597671bba189b3b2c5e7f46035b4",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_feng_shui_flip.webp"
+  },
+  {
+    "id": 209,
+    "game_name": "Fire Blaze: Sky Queen Megaways",
+    "game_uid": "4fd0058c08b26baa039bb5f76510116e",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_fire_blaze_sky_queen_megaways.webp"
+  },
+  {
+    "id": 210,
+    "game_name": "Fruit Harvest",
+    "game_uid": "c992a0098607b41bcd47a0d33baab2c1",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_fruit_harvest.webp"
+  },
+  {
+    "id": 211,
+    "game_name": "Full Moon: White King",
+    "game_uid": "1803b01f5703c4f51f305629e5ba4d4f",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_full_moon_white_king.webp"
+  },
+  {
+    "id": 212,
+    "game_name": "Go Joker Go",
+    "game_uid": "ea74b35ed8d9bf6a804036ebdbd20769",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_go_joker_go.webp"
+  },
+  {
+    "id": 213,
+    "game_name": "Gold Hit & Link: Tiger Jones",
+    "game_uid": "5417301f0ae5df886fb7a233d006a285",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_gold_hit__link_tiger_jones.webp"
+  },
+  {
+    "id": 214,
+    "game_name": "Hot Gems",
+    "game_uid": "a715bfbd19af7cfdfc420ef8f1fa9108",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_hot_gems.webp"
+  },
+  {
+    "id": 215,
+    "game_name": "Lil Demon: Mega Cash Collect",
+    "game_uid": "2f3d12977a99ab8bc89b61647c143191",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_lil_demon_mega_cash_collect.webp"
+  },
+  {
+    "id": 216,
+    "game_name": "Lucky Bass: Mega Cash Collect",
+    "game_uid": "ca821a33ec2b77c64d2923ad04f776c2",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_lucky_bass_mega_cash_collect.webp"
+  },
+  {
+    "id": 217,
+    "game_name": "Lunar Link: Phoenix Moons",
+    "game_uid": "d8b0dc96587cc16270abe44accbc9cdf",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_lunar_link_phoenix_moons.webp"
+  },
+  {
+    "id": 218,
+    "game_name": "Macabra Linx PowerPlay Jackpot",
+    "game_uid": "c471f943daf12ab4ac6d15276a5960d8",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_macabra_linx_powerplay_jackpot.webp"
+  },
+  {
+    "id": 219,
+    "game_name": "Mega Fire Blaze: Dwarves and Goblins",
+    "game_uid": "5dccb83772dd9025eafeaea1ad8bff97",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_mega_fire_blaze_dwarves_and_goblins.webp"
+  },
+  {
+    "id": 220,
+    "game_name": "Panther Moon: Bonus Lines",
+    "game_uid": "3b082c720bf29183381a2f80a31cfb4b",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_panther_moon_bonus_lines.webp"
+  },
+  {
+    "id": 221,
+    "game_name": "Quad Link Count",
+    "game_uid": "200e1617b5c19f60b12b6395b02ebc68",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_quad_link_count.webp"
+  },
+  {
+    "id": 222,
+    "game_name": "Quad Link Red",
+    "game_uid": "eae331a47c9c628f2568c701762cfea9",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_quad_link_red.webp"
+  },
+  {
+    "id": 223,
+    "game_name": "Queen's Mystery",
+    "game_uid": "bc0054ddd7b9ece569389711631f582e",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_queens_mystery.webp"
+  },
+  {
+    "id": 224,
+    "game_name": "Roman Fruits",
+    "game_uid": "f613f9a1827c662f5be7b7a6100e055e",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_roman_fruits.webp"
+  },
+  {
+    "id": 225,
+    "game_name": "Samurai Fury",
+    "game_uid": "4296861bd9046cdc4a0fab3db415a77f",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_samurai_fury.webp"
+  },
+  {
+    "id": 226,
+    "game_name": "Sinbad's Golden Voyage",
+    "game_uid": "37e3be051af0f235a68fba71fa5fc728",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_sinbads_golden_voyage.webp"
+  },
+  {
+    "id": 227,
+    "game_name": "Sweet N Juicy",
+    "game_uid": "3fd689a37540a7f9dc90c96557361d33",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_sweet_n_juicy.webp"
+  },
+  {
+    "id": 228,
+    "game_name": "Triple Money Jackpot",
+    "game_uid": "8b100e5c9844bbe2281b5798f8accacf",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_triple_money_jackpot.webp"
+  },
+  {
+    "id": 229,
+    "game_name": "Wolves! Cash Collect & Link",
+    "game_uid": "de635eeb21d26a4c61c465cc9f736db7",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_wolves_cash_collect__link.webp"
+  },
+  {
+    "id": 230,
+    "game_name": "Big Bad Wolf",
+    "game_uid": "39c752a4e618ca3ca40d9deb66442b87",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_big_bad_wolf.webp"
+  },
+  {
+    "id": 231,
+    "game_name": "Big Bad Wolf Megaways",
+    "game_uid": "08281568020a1c9efa0333c6d136ee96",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_big_bad_wolf_megaways.webp"
+  },
+  {
+    "id": 232,
+    "game_name": "Cash Truck",
+    "game_uid": "4082ecb08c98a665acf4c5cfcab94ba5",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_cash_truck.webp"
+  },
+  {
+    "id": 233,
+    "game_name": "Dragon Shrine",
+    "game_uid": "990b55463c0f24c2495819464d2536d0",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_dragon_shrine.webp"
+  },
+  {
+    "id": 234,
+    "game_name": "Eastern Emeralds",
+    "game_uid": "61e686c1e73cc3a944a463687780c677",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_eastern_emeralds.webp"
+  },
+  {
+    "id": 235,
+    "game_name": "Eastern Emeralds Megaways",
+    "game_uid": "a9ec305c08e1afb829c45ea9c508f807",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_eastern_emeralds_megaways.webp"
+  },
+  {
+    "id": 236,
+    "game_name": "Hammer of Vulcan",
+    "game_uid": "c8dfa428be30baac76f1b948e975fd0e",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_hammer_of_vulcan.webp"
+  },
+  {
+    "id": 237,
+    "game_name": "Raven Rising",
+    "game_uid": "9b3825c169153e97cf09466371b7a863",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_raven_rising.webp"
+  },
+  {
+    "id": 238,
+    "game_name": "Sakura Fortune",
+    "game_uid": "0ef26ba423acf5414a68f28e603ab256",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_sakura_fortune.webp"
+  },
+  {
+    "id": 239,
+    "game_name": "Sakura Fortune 2",
+    "game_uid": "4644eb9d6c7c95b99c9ef8600fc1e4a6",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_sakura_fortune_2.webp"
+  },
+  {
+    "id": 240,
+    "game_name": "Wins of Fortune",
+    "game_uid": "425dffa906838b02376f57720d58635b",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_wins_of_fortune.webp"
+  },
+  {
+    "id": 241,
+    "game_name": "Macabra Linx",
+    "game_uid": "c505006333c4a424c505de1c02502061",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_macabra_linx.webp"
+  },
+  {
+    "id": 242,
+    "game_name": "Oink Oink Oink",
+    "game_uid": "2b65406279ce4ad13c091eaccf0f89be",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_oink_oink_oink.webp"
+  },
+  {
+    "id": 243,
+    "game_name": "Veils of Venice",
+    "game_uid": "a14507010c40e9764cf1cf8f5bb51cfd",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_veils_of_venice.webp"
+  },
+  {
+    "id": 244,
+    "game_name": "Dragon Bond",
+    "game_uid": "920d81937427c654f9f20ff046171150",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_dragon_bond.webp"
+  },
+  {
+    "id": 245,
+    "game_name": "Fat Choy Choy Sun",
+    "game_uid": "3ca822d2ced8e9649f0c5b6159ecda03",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_fat_choy_choy_sun.webp"
+  },
+  {
+    "id": 246,
+    "game_name": "Gold Pile: New Years Gold",
+    "game_uid": "e56dae34b614da224ae795493d062b94",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_gold_pile_new_years_gold.webp"
+  },
+  {
+    "id": 247,
+    "game_name": "Golden Ways",
+    "game_uid": "e9c4e2da12196a17effeb860d672480a",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_golden_ways.webp"
+  },
+  {
+    "id": 248,
+    "game_name": "Jinfu Long",
+    "game_uid": "6633942da9db4ca4ca1f15c6dc7fafd8",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_jinfu_long.webp"
+  },
+  {
+    "id": 249,
+    "game_name": "Jinfu Xingyun",
+    "game_uid": "e0291755f8df9c3f635091ee56d8ae97",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_jinfu_xingyun.webp"
+  },
+  {
+    "id": 250,
+    "game_name": "Koi Harmony",
+    "game_uid": "f3be5689746b75da363d6b24a57fde22",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_koi_harmony.webp"
+  },
+  {
+    "id": 251,
+    "game_name": "Gold Hit: O'Reilly's Charms",
+    "game_uid": "285c9f7cfb648199e7e1fa66731ca523",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_gold_hit_oreillys_charms.webp"
+  },
+  {
+    "id": 252,
+    "game_name": "Lucky Gift: Cash Collect",
+    "game_uid": "3497898b9f1fa15c1e5dc92a9c85ff7c",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_lucky_gift_cash_collect.webp"
+  },
+  {
+    "id": 253,
+    "game_name": "Mega Fire Blaze: 3 Wizards",
+    "game_uid": "003a5080eeca4d60f5065394be54b07f",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_mega_fire_blaze_3_wizards.webp"
+  },
+  {
+    "id": 254,
+    "game_name": "Silent Samurai: Mega Cash Collect",
+    "game_uid": "0f6e65a61ba9475849166fca60c8ddc5",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_silent_samurai_mega_cash_collect.webp"
+  },
+  {
+    "id": 255,
+    "game_name": "The Great Genie",
+    "game_uid": "40e7f11e7a64afb8304eb33bb42e8f97",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_the_great_genie.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Spin A Win",
+    "game_uid": "c0b564354e8bb17d915ecc3369775dee",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_spin_a_win.webp"
+  },
+  {
+    "id": 257,
+    "game_name": "Gold Trio: Lil Demon",
+    "game_uid": "06cf59a6a9155ea76b1005f560b99287",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_gold_trio_lil_demon.webp"
+  },
+  {
+    "id": 258,
+    "game_name": "Solar Eclipse: Desert Treasure",
+    "game_uid": "28a2210c6e4e2bf7498159dfc5d080ee",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_solar_eclipse_desert_treasure.webp"
+  },
+  {
+    "id": 259,
+    "game_name": "Joker Spin & Roll",
+    "game_uid": "53c5b5e076c6bf6598cd733df1d87755",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_joker_spin__roll.webp"
+  },
+  {
+    "id": 260,
+    "game_name": "Immortal Ways Volcano",
+    "game_uid": "5b601e47e5c588fff6a5728904ec6fd1",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_immortal_ways_volcano.webp"
+  },
+  {
+    "id": 261,
+    "game_name": "Giga Match Egypt",
+    "game_uid": "f559835962494770498ce6c8efaae268",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_giga_match_egypt.webp"
+  },
+  {
+    "id": 262,
+    "game_name": "Ten Ton Ways Stampede",
+    "game_uid": "44bdb05867a334a14576988b01eb9044",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_ten_ton_ways_stampede.webp"
+  },
+  {
+    "id": 263,
+    "game_name": "Flip Royale",
+    "game_uid": "a17d08a67a904a967b6600030ab0bee9",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_flip_royale.webp"
+  },
+  {
+    "id": 264,
+    "game_name": "Cash Truck Begins",
+    "game_uid": "9e7f47ecf9014fb2e1bf70a6bda645a6",
+    "game_type": "Slot",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_cash_truck_begins.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Mega Fire Blaze Roulette Live",
+    "game_uid": "e00d386ae2bf9756e6fb1e095781abe1",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_mega_fire_blaze_roulette_live.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Adventures Beyond Wonderland Live",
+    "game_uid": "6a40d2ecb8f05248d218055d88869585",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_adventures_beyond_wonderland_live.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Roleta Brasileira",
+    "game_uid": "1ac0ba5f63d614a2a59f88113e206c15",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_sicbo_deluxe.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "SicBo Deluxe",
+    "game_uid": "7bef2f5ffdac2ec024db9b1ea90d1195",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_sicbo_deluxe.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Grand Baccarat",
+    "game_uid": "dadc2eadcabf46200078aabce0541d76",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_grand_baccarat.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Mega Fire Blaze Lucky Ball Brasileiro",
+    "game_uid": "325e99271fc8b381236b35bdc1721f8c",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_mega_fire_blaze_lucky_ball_brasileiro.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Dragon Tiger",
+    "game_uid": "7c1f35091de391e02f4a0fb3146a09d5",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_dragon_tiger.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Roulette",
+    "game_uid": "163f035da278330ddfc70b2f43d61b67",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_roulette.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Grand Baccarat NC",
+    "game_uid": "5373f235bd1810add5bb3ce47cfab95f",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_grand_baccarat_nc.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Mega Fire Blaze Lucky Ball Live",
+    "game_uid": "480676c2604a83700464e06ccc65b21d",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_mega_fire_blaze_lucky_ball_live.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Blackjack 1",
+    "game_uid": "c828b6ce341a9cb87d9915c9377778f8",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_blackjack_1.png"
+  },
+  {
+    "id": 256,
+    "game_name": "Blackjack 2",
+    "game_uid": "f5e81c454d7df5a56b8c2bab1d491693",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_blackjack_2.png"
+  },
+  {
+    "id": 256,
+    "game_name": "Blackjack Soirée Gold 2",
+    "game_uid": "b42a8bf666596842f05a0f3ddbb87ce2",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_blackjack_soire_gold_2.png"
+  },
+  {
+    "id": 256,
+    "game_name": "Blackjack Soirée Gold 1",
+    "game_uid": "44c58904853e07c95979fb8442222b96",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_blackjack_soire_gold_1.png"
+  },
+  {
+    "id": 256,
+    "game_name": "Blackjack Soirée Gold 3",
+    "game_uid": "021e8dee1bdb189e8722371fddb3e5e1",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_blackjack_soire_gold_3.png"
+  },
+  {
+    "id": 256,
+    "game_name": "Blackjack Soirée Gold 4",
+    "game_uid": "f54c6b70d97949e5748c69b978bc8e9a",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_blackjack_soire_gold_4.png"
+  },
+  {
+    "id": 256,
+    "game_name": "Baccarat Soirée",
+    "game_uid": "e79001d143d4c71106bf12334f6d0237",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_baccarat_soire.png"
+  },
+  {
+    "id": 256,
+    "game_name": "Punto Banco Soirée Gold",
+    "game_uid": "f46a0b76fdb1d5caf929109986aeb097",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_punto_banco_soire_gold.png"
+  },
+  {
+    "id": 256,
+    "game_name": "Super Card Blackjack Live",
+    "game_uid": "544dd0d425e51c2f94231cd7193bcbf8",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_super_card_blackjack_live.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Blackjack Italiano 1",
+    "game_uid": "9ed8ab0d8e0ad3c53ec213aa2b60583d",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_blackjack_italiano_1.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Speed Baccarat",
+    "game_uid": "86fee1ec7ca8b0ad7f44b7ea71a8a3bb",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_speed_baccarat.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Bet on Baccarat",
+    "game_uid": "f6afb5edb029a2c3ece6139970ea6c24",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_bet_on_baccarat.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Deutsches Blackjack",
+    "game_uid": "3a75418c0704bcbb2f5d3f0f545989a5",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_deutsches_blackjack.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Soirée Privée Blackjack",
+    "game_uid": "5c271c6dff046a413db07d3623959ece",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_soire_elite_vip_blackjack_2.png"
+  },
+  {
+    "id": 256,
+    "game_name": "Blackjack Soirée 1",
+    "game_uid": "643e3747652ff7e7b9bd45b4c9e46f5f",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_soire_elite_blackjack_1.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Blackjack Soirée 3",
+    "game_uid": "63505d57c3f256bd37859913a95fae0b",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_soire_elite_vip_blackjack.png"
+  },
+  {
+    "id": 256,
+    "game_name": "Blackjack Soirée 2",
+    "game_uid": "4dd1855ad6cf61707a51e1ef86a9b714",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_soire_elite_blackjack_2.png"
+  },
+  {
+    "id": 256,
+    "game_name": "Blackjack 5",
+    "game_uid": "5ba784d48c85f2590801c48856f6d14e",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_lounge_vip_blackjack_1.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Royale Blackjack 4",
+    "game_uid": "280cc1628cf318220040b633eb31a563",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_royale_blackjack_4.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Football French Roulette",
+    "game_uid": "c1d117393b57ff9b287117a313ada4c2",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_football_french_roulette.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Hindi Roulette",
+    "game_uid": "2bb1369a410e63c3cd7f96bc4794b7fc",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_hindi_roulette.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Speed Auto Roulette",
+    "game_uid": "1b3a886756929b57a469205e6af94ff1",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_prime_slingshot.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Roulette Italiana",
+    "game_uid": "22150039e77bcd74fc8271896f93bc60",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_roulette_italiana.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Casino Stud Poker",
+    "game_uid": "e5aad7c4c565c5201b32310afcd9b170",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_casino_stud_poker.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Bet on Poker",
+    "game_uid": "4e70ac2a8c8e77667a70a9cefab94665",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_bet_on_poker.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Blackjack Soirée 4",
+    "game_uid": "54fc6c25f8637d3fee4d681e8b83f08b",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_blackjack_soire_4.png"
+  },
+  {
+    "id": 256,
+    "game_name": "Sticky Bandits Roulette Live",
+    "game_uid": "c89de9b424e49474d54a328f75f62c0a",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_sticky_bandits_roulette_live.png"
+  },
+  {
+    "id": 256,
+    "game_name": "Lucky Ball Roulette Live",
+    "game_uid": "600727cb68557376fc0f7a36dc0a5b4d",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_lucky_ball_roulette.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Speed Baccarat Emperor NC (Emperor Baccarat NC)",
+    "game_uid": "77201ed7a23081b10998e5d54e1c7d2d",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_emperor_baccarat_nc.png"
+  },
+  {
+    "id": 256,
+    "game_name": "Emperor Baccarat",
+    "game_uid": "3c1911144f032d27cc62fd855cea7de7",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_emperor_baccarat.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Speed Baccarat 한국어 1 NC (Gangnam Speed Baccarat NC)",
+    "game_uid": "74b5b9ec621bcf40bda8fe77fb31dd1d",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_gangnam_speed_baccarat_nc.png"
+  },
+  {
+    "id": 256,
+    "game_name": "Speed Baccarat 한국어 1 (Gangnam Speed Baccarat)",
+    "game_uid": "b34c3dcd697d6811b2a440acf06f5eec",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_gangnam_speed_baccarat.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "K-Pop Roulette Live",
+    "game_uid": "cb2bbeee0e50eed2099a6518ac1a1094",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_kpop_roulette_live.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Mega Fire Blaze Blackjack Live",
+    "game_uid": "4eec0cbf65d88a3b9f6632b0fc763709",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_mega_fire_blaze_blackjack_live.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "The Greatest Cards Show Live",
+    "game_uid": "84ab198a5f4790551d3f94cdbc452b64",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_the_greatest_cards_show.wpngebp"
+  },
+  {
+    "id": 256,
+    "game_name": "Royale Blackjack 2",
+    "game_uid": "f4fb3004c9cc2b72413c87c9cdd723b0",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_royale_blackjack_2_new.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Speed Sic Bo",
+    "game_uid": "400d029734aa6121de5d18d09d7be084",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_sic_bo.png"
+  },
+  {
+    "id": 256,
+    "game_name": "Buffalo Blitz España",
+    "game_uid": "60b1922b0a926106bc5802389137e034",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_ru_yi_speed_baccarat.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Speed 6 Scanner Baccarat NC",
+    "game_uid": "71d4babfb81087752d7c31f44851ee43",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_speed_6_scanner_baccarat_nc.png"
+  },
+  {
+    "id": 256,
+    "game_name": "Speed 6 Scanner Baccarat",
+    "game_uid": "7fadfa48c7e97d0d66df1afec46d67c9",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_speed_6_scanner_baccarat.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Slingshot Ruleta España",
+    "game_uid": "e635ea7eb52b7afbd673cec1e72e76fc",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_slingshot_ruleta_espana.png"
+  },
+  {
+    "id": 256,
+    "game_name": "Quantum Ruleta España",
+    "game_uid": "125f80d0252302efee2a28f8dc7586aa",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_quantum_ruleta_espana.png"
+  },
+  {
+    "id": 256,
+    "game_name": "Arabic Roulette",
+    "game_uid": "86906d976d136b716baf3eebc6253de3",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_arabic_roulette.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Ruleta Automática Cuántica",
+    "game_uid": "adb55fd37b36211dabe1b942b2e171af",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_ruleta_automtica_cuntica.png"
+  },
+  {
+    "id": 256,
+    "game_name": "Greek Quantum Roulette",
+    "game_uid": "41ebedbc930c16100c6fa4b947ff5d17",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_greek_quantum_roulette.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Bucharest French Roulette",
+    "game_uid": "d00b81593b6619215104c6af4ef7aef9",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_bucharest_french_roulette.png"
+  },
+  {
+    "id": 256,
+    "game_name": "Bucharest Roulette",
+    "game_uid": "6348f8a2e8fedba7cd6e9de7c82d7176",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_bucharest_roulette.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Blackjack 9",
+    "game_uid": "f81216ea2e8361a29f1ee43c43c94ac9",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_blackjack_9.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Blackjack Brasileiro (Blackjack 8)",
+    "game_uid": "569800a57e41ab2209a3d1311551afc1",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_blackjack_8.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Blackjack 7",
+    "game_uid": "d29fb11f0fed79d3ae05b5fae9ac0002",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_blackjack_7.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Blackjack 6",
+    "game_uid": "b9b5eee6b2d294518df8fcfc0b921d32",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_blackjack_6.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Blackjack 10",
+    "game_uid": "412368b6c876bca1e025745180913423",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/Blackjack-10.png"
+  },
+  {
+    "id": 256,
+    "game_name": "Royale Blackjack 3",
+    "game_uid": "eaa672ba7daa1461f4c6cae10b02f945",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_royale_blackjack_3.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Grand Blackjack",
+    "game_uid": "2ab168f2aa80fad19e0c28e7b82d5d35",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_grand_blackjack.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Auto Roulette",
+    "game_uid": "1e611d9a4004507331580042ea5ba061",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_slingshot.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Quantum Roulette Live",
+    "game_uid": "e8af0101545a33d8df65afab18de0e9f",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_quantum_roulette_live.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "French Roulette",
+    "game_uid": "04c94180ba111ff4180c7389e1565446",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_french_roulette.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Football Roulette",
+    "game_uid": "455629a978723d3d01c90bbf95363ea6",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_football_roulette.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Premium American Roulette",
+    "game_uid": "b4a1f9449f3d975c44800c66ddb00ded",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_american_roulette.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Age Of The Gods Bonus Roulette",
+    "game_uid": "d4dcf5d139cfe5bc113d65c7b898531e",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_age_of_the_gods_bonus_roulette.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Spin a Win",
+    "game_uid": "c0b564354e8bb17d915ecc3369775dee",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_spin_a_win.png"
+  },
+  {
+    "id": 256,
+    "game_name": "Buffalo Blitz Live Slots",
+    "game_uid": "957323c4bcdefc23057183b7731b2b6b",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_buffalo_blitz_live_slots.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Unlimited Blackjack",
+    "game_uid": "1e71714fa938d1384839fe6f926bb02d",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_unlimited_blackjack.png"
+  },
+  {
+    "id": 256,
+    "game_name": "Soho All Bets Blackjack",
+    "game_uid": "99a981fe73a46d225dbbe7ac98d02318",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_soho_all_bets_blackjack.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Royale Blackjack 1",
+    "game_uid": "ba40e9156a0a3c5f04d282848e7e3dfe",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_royale_blackjack_1.png"
+  },
+  {
+    "id": 256,
+    "game_name": "Blackjack Italiano VIP",
+    "game_uid": "afcb5cf64b4d3c865dbbd95f34f3b87c",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_blackjack_italiano_vip.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "All Bets Blackjack",
+    "game_uid": "d794f60da2516de1218c43230df86a6e",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_all_bets_blackjack.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Andar Bahar",
+    "game_uid": "0633f8e4f38bb87a6ac9caa7db4e2151",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_andar_bahar.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Speed Baccarat NC",
+    "game_uid": "869fd604df503fadf54b1196a0c5fc6d",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_speed_baccarat_nc.png"
+  },
+  {
+    "id": 256,
+    "game_name": "Italian Cashback Blackjack",
+    "game_uid": "b626af84216b7036d87a276967fad851",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_italian_cashback_blackjack.png"
+  },
+  {
+    "id": 256,
+    "game_name": "Bet On Dragon Tiger",
+    "game_uid": "18fc072227482162cdf58ccfb41c5039",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_bet_on_dragon_tiger.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Quantum Blackjack Plus",
+    "game_uid": "a61ddc339cc0a9c7af1965240b510047",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_quantum_blackjack_plus.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "x1000 Quantum Roulette",
+    "game_uid": "f7b17af272fce7c73ed34c51c22a0a6f",
+    "game_type": "Casino",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/pltl_x1000_quantum_roulette.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Diamond Bet Roulette",
+    "game_uid": "6dcb7be6fa49749af50c058d8ad05ddd",
+    "game_type": "Table",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_diamond_bet_roulette.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Vegas Blackjack",
+    "game_uid": "854759b50f560548edf6d7df5520c827",
+    "game_type": "Table",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_vegas_blackjack.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Quantum Roulette instant play",
+    "game_uid": "648d69c11dead11a05351e4abcae3e9f",
+    "game_type": "Table",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_quantum_roulette_instant_play.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Premium European Roulette",
+    "game_uid": "0fb6e0bb91f40a427fcdf381e65af40e",
+    "game_type": "Table",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_premium_european_roulette.png"
+  },
+  {
+    "id": 256,
+    "game_name": "Spread Bet Roulette",
+    "game_uid": "fd28f48e344d6ad4485c450fecf8af2c",
+    "game_type": "Table",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_spread_bet_roulette.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Classic Roulette",
+    "game_uid": "c6e37a3cb58b8d17d8ee363dab56e6f2",
+    "game_type": "Table",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_classic_roulette.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Cashback Blackjack",
+    "game_uid": "044fa46df572360aaad8e0e7430fa6ef",
+    "game_type": "Table",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_cashback_blackjack.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Mini Roulette",
+    "game_uid": "f6a7706710bc006cdab99b3b26ee562a",
+    "game_type": "Table",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_mini_roulette.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Casino Hold'em",
+    "game_uid": "a2edd17baf20fb65208f6a108327e1c0",
+    "game_type": "Table",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_casino_holdem.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "3 Card Brag",
+    "game_uid": "1041e1bce5dbdea43e65b511aff04b3f",
+    "game_type": "Table",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_3_card_brag.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Baccarat",
+    "game_uid": "7d06b194e7154ae552fb534ebe26d530",
+    "game_type": "Table",
+    "provider": "playtech",
+    "icon": "https://bulkapi.in/Playtech/plt_baccarat.webp"
+  }
+]

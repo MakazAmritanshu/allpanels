@@ -1,0 +1,314 @@
+[
+  {
+    "id": 1,
+    "game_name": "Hamster Run",
+    "game_uid": "af95a673c8f3a420444d73421bcf0e7a",
+    "game_type": "Instant",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_hamster-run.png"
+  },
+  {
+    "id": 2,
+    "game_name": "Plinko Aztec",
+    "game_uid": "134bbc0f61b73824cf9a68411aa32dc6",
+    "game_type": "Instant",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_plinko-aztec.png"
+  },
+  {
+    "id": 3,
+    "game_name": "SugarDaddy",
+    "game_uid": "3c802c686f7f9270057b6bb69567ea98",
+    "game_type": "crash game",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_sugar-daddy.png"
+  },
+  {
+    "id": 4,
+    "game_name": "Joker Poker",
+    "game_uid": "23d59c10bc65c3cfb6cafdf49969a2b7",
+    "game_type": "Instant",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_joker-poker.png"
+  },
+  {
+    "id": 5,
+    "game_name": "Stairs",
+    "game_uid": "a6212c1c462a2442a369a4ec25bf40d7",
+    "game_type": "Instant",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_stairs.png"
+  },
+  {
+    "id": 6,
+    "game_name": "Triple",
+    "game_uid": "4169b950c7cbd0bbd392941a13e56767",
+    "game_type": "Instant",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_triple.png"
+  },
+  {
+    "id": 7,
+    "game_name": "Jogo Do Bicho",
+    "game_uid": "09a138907ccf03d5c064c5ca71e9d9b3",
+    "game_type": "Instant",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_jogo-do-bicho.png"
+  },
+  {
+    "id": 8,
+    "game_name": "Limbo",
+    "game_uid": "81c4999d70b1ebbb7cf89d8e41ad493c",
+    "game_type": "crash game",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_limbo.png"
+  },
+  {
+    "id": 9,
+    "game_name": "AviaFly",
+    "game_uid": "cb66d23b547498132598589af324d558",
+    "game_type": "crash game",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_aviafly.png"
+  },
+  {
+    "id": 10,
+    "game_name": "Lucky mines",
+    "game_uid": "3a3affa176283107288f5da3698ffe7c",
+    "game_type": "Instant",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_lucky-mines.png"
+  },
+  {
+    "id": 11,
+    "game_name": "Roulette",
+    "game_uid": "c81286ce4034dcf5b71d44c106f968db",
+    "game_type": "roulette",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_roulette.png"
+  },
+  {
+    "id": 12,
+    "game_name": "Bubbles",
+    "game_uid": "f84949bd783c7395b5f3092f4d4ec600",
+    "game_type": "Instant",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_bubbles.png"
+  },
+  {
+    "id": 13,
+    "game_name": "Mines",
+    "game_uid": "e5e23d4c8f7256a1753793cba5fb5aaf",
+    "game_type": "Instant",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_platform-mines.png"
+  },
+  {
+    "id": 14,
+    "game_name": "Sweet Keno",
+    "game_uid": "2c62ddc0ad8e2c175ec771882e91789b",
+    "game_type": "Instant",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_keno.png"
+  },
+  {
+    "id": 15,
+    "game_name": "Hot-mines",
+    "game_uid": "6180fdaf4dfab4042194a7d595aca4bb",
+    "game_type": "Instant",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_hot-mines.png"
+  },
+  {
+    "id": 16,
+    "game_name": "Plinko 1000",
+    "game_uid": "eb3f4260c17737e09767bc4c06796a61",
+    "game_type": "Instant",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_plinko.png"
+  },
+  {
+    "id": 17,
+    "game_name": "Goblin-tower",
+    "game_uid": "46d14949aa244609aaa03fa58b198784",
+    "game_type": "Instant",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_goblin-tower.png"
+  },
+  {
+    "id": 18,
+    "game_name": "Robo dice",
+    "game_uid": "d0ddc8acfbc6836f0db6d270bd83243d",
+    "game_type": "Instant",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_robo-dice.png"
+  },
+  {
+    "id": 19,
+    "game_name": "New Hilo",
+    "game_uid": "f4fd956965b6f08ce48fee7d4407aaed",
+    "game_type": "Instant",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_new-hilo.png"
+  },
+  {
+    "id": 20,
+    "game_name": "Double",
+    "game_uid": "d8439d6083288f9171930e60836ba505",
+    "game_type": "Instant",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_new-double.png"
+  },
+  {
+    "id": 21,
+    "game_name": "Diver",
+    "game_uid": "90741c45a03fbfc800f79c3f5a23be44",
+    "game_type": "crash game",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_diver.png"
+  },
+  {
+    "id": 22,
+    "game_name": "Cryptos",
+    "game_uid": "445289d56c9ee8fa590bf6b29b13dc37",
+    "game_type": "Instant",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_cryptos.png"
+  },
+  {
+    "id": 23,
+    "game_name": "Tower",
+    "game_uid": "a51b03beafa1773484d1e9c866709589",
+    "game_type": "Instant",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_tower.png"
+  },
+  {
+    "id": 24,
+    "game_name": "Wheel",
+    "game_uid": "757bdd7e1d8c260807bc78449258d00c",
+    "game_type": "Instant",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_wheel.png"
+  },
+  {
+    "id": 25,
+    "game_name": "Crash",
+    "game_uid": "8ac6b247bd94d71ecdeaa1e62d74f382",
+    "game_type": "crash game",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_crash.png"
+  },
+  {
+    "id": 26,
+    "game_name": "BalloniX",
+    "game_uid": "c6345c538d4eb8c4f6d91373009ffc8b",
+    "game_type": "crash game",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_ballonix.png"
+  },
+  {
+    "id": 27,
+    "game_name": "Twist",
+    "game_uid": "1eef592674667c25dfaf067feef6c1fc",
+    "game_type": "Instant",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_twist.png"
+  },
+  {
+    "id": 28,
+    "game_name": "Penalty Unlimited",
+    "game_uid": "66d311ff6cf531e40b61c483dd34c5c9",
+    "game_type": "Instant",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_penalty-unlimited.png"
+  },
+  {
+    "id": 29,
+    "game_name": "Chicken Road 2.0",
+    "game_uid": "562b299961b0ec40f252a832453c67b0",
+    "game_type": "Instant",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_chicken-road-2-0.png"
+  },
+  {
+    "id": 30,
+    "game_name": "Forest Arrow",
+    "game_uid": "458bd34bc83e34501df7e7f96626df6b",
+    "game_type": "Instant",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_forest-arrow.png"
+  },
+  {
+    "id": 31,
+    "game_name": "Chicken Road",
+    "game_uid": "2126c5c458316ba1f2df65b387b60408",
+    "game_type": "Instant",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_chicken-road.png"
+  },
+  {
+    "id": 32,
+    "game_name": "Coinflip",
+    "game_uid": "9b48efcf6b18b12fdd7dc8efe9ae971e",
+    "game_type": "Instant",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_coinflip.png"
+  },
+  {
+    "id": 33,
+    "game_name": "Squid Gamebler",
+    "game_uid": "2bd203129afe1059923b45d7bd5de143",
+    "game_type": "Instant",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_squid-gamebler.png"
+  },
+  {
+    "id": 34,
+    "game_name": "Rock Paper Scissors",
+    "game_uid": "9ac1086c9791c979ebd0397b9b6e8e8b",
+    "game_type": "Instant",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_rock-paper-scissors.png"
+  },
+  {
+    "id": 35,
+    "game_name": "Rabbit Road",
+    "game_uid": "efb14d01f5ec68e1cf49c53f30c4d476",
+    "game_type": "Instant",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_rabbit-road.png"
+  },
+  {
+    "id": 37,
+    "game_name": "Chicken vs Zombies",
+    "game_uid": "3321b1d3730f2c8c004abd754c3cb5ab",
+    "game_type": "Instant",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_chicken-vs-zombies.png"
+  },
+  {
+    "id": 38,
+    "game_name": "Fish Road",
+    "game_uid": "1a88ab411dbaac5efe06c6b400456956",
+    "game_type": "Instant",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_fish-road.png"
+  },
+  {
+    "id": 39,
+    "game_name": "Chicken Road Vegas",
+    "game_uid": "2870d35d0789ffe631e169839940e105",
+    "game_type": "Instant",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_chicken-road-vegas.png"
+  },
+  {
+    "id": 40,
+    "game_name": "Chicken Road Gold",
+    "game_uid": "abfe0d35e17aad7f0e339e7873c109ed",
+    "game_type": "Instant",
+    "provider": "inout",
+    "icon": "https://bulkapi.in/Inout/INOUT_chicken-road-gold.png"
+  }
+]

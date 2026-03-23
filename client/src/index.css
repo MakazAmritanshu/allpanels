@@ -1,0 +1,62 @@
+@import "tailwindcss";
+
+/* Custom scrollbar hide utility */
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+/* Smooth transitions */
+* {
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+.bg-body{
+  background-color: #ffffff !important;
+}
+.text-body{
+  color: #000000 !important;
+}
+.bg-primary{
+  background-color: #0088CC;
+}
+.text-primary{
+  color: #FFFFFF;
+}
+.bg-secondary{
+  background-color: #2C3E50 !important;
+}
+.text-secondary{
+  color: #FFFFFF !important;
+}
+.sidebar-menu-bg{
+  background-color: #bbbbbb !important;
+}
+.sidebar-menu-text{
+  color: #000000 !important;
+}
+
+/* Blink animation */
+@keyframes blink {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.3;
+  }
+}
+
+.animate-blink {
+  animation: blink 1.5s ease-in-out infinite;
+}
+
+/* Desktop background override for casino categories */
+@media (min-width: 768px) {
+  .md-desktop-bg {
+    background-color: #2C3E50 !important;
+    color: #FFFFFF !important;
+  }
+}

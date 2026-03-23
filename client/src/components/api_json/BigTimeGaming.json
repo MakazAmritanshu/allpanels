@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "game_name": "Pirate Pays",
+    "game_uid": "03b8899af469c3e47baf7085160c8e44",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/14514_Pirate Pays.png"
+  },
+  {
+    "id": 2,
+    "game_name": "Danger High Voltage 2 Megaways",
+    "game_uid": "4d2f68f769b84a8c4b32cbb79af35a4a",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/e4c16cc8c0.png"
+  },
+  {
+    "id": 3,
+    "game_name": "Book of Gods",
+    "game_uid": "9af9c355bede434647537178e4e915b6",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/d7cd38f5bb.png"
+  },
+  {
+    "id": 4,
+    "game_name": "Lil Devil",
+    "game_uid": "040e1876f5faf83b1fe7a2105ff09b87",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/15126_Lil Devil.png"
+  },
+  {
+    "id": 5,
+    "game_name": "Gifts of Fortune",
+    "game_uid": "29d1972e907abe4a4c555ece0bdb3083",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/12757_Gifts of Fortune.png"
+  },
+  {
+    "id": 6,
+    "game_name": "White Rabbit",
+    "game_uid": "3c02743c97ff43910b3c17ba1506eac7",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/7515_White Rabbit.png"
+  },
+  {
+    "id": 7,
+    "game_name": "Millionaire Mystery Box",
+    "game_uid": "a3acfac1823c14563fa89f5fd4c73ae2",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/ef950c8ae8.png"
+  },
+  {
+    "id": 8,
+    "game_name": "Pop",
+    "game_uid": "b92aabe41a517118a52992d9ee9e6777",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/14542_Pop.png"
+  },
+  {
+    "id": 9,
+    "game_name": "More Turkey",
+    "game_uid": "81f94b447f5a8e44580b2331c47ab3c4",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/14399_More Turkey.png"
+  },
+  {
+    "id": 10,
+    "game_name": "Big Bad Bison",
+    "game_uid": "55a9f96d15d7241178a8d8b8ab034d6f",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/13651_Big Bad Bison.png"
+  },
+  {
+    "id": 11,
+    "game_name": "Holy Diver Megaways",
+    "game_uid": "57519086ec1d974de272686888088f58",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/eb22939e1a.png"
+  },
+  {
+    "id": 12,
+    "game_name": "Christmas Bonanza",
+    "game_uid": "b8bc04d957be162ae3620b8e3b768e0e",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/12541_Christmas Bonanza.png"
+  },
+  {
+    "id": 13,
+    "game_name": "Outlaw",
+    "game_uid": "4bb7d377e41ed1793d6e6e7608b93ad5",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/14844_Outlaw.png"
+  },
+  {
+    "id": 14,
+    "game_name": "Bonanza Falls",
+    "game_uid": "22f8d3db24ac83806186072b15c51546",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/15121_Bonanza Falls.png"
+  },
+  {
+    "id": 15,
+    "game_name": "Golden Catch",
+    "game_uid": "37874d631b9cf61a47670854de27a882",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/12399_Golden Catch.png"
+  },
+  {
+    "id": 16,
+    "game_name": "Vegas Megaways",
+    "game_uid": "901690d65e333df923e2789381b370ca",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/14872_Vegas Megaways.png"
+  },
+  {
+    "id": 17,
+    "game_name": "Kingmaker Fully Loaded",
+    "game_uid": "38370b2d59120c78c528e07c6e2220c5",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/15676_Kingmaker Fully Loaded.png"
+  },
+  {
+    "id": 18,
+    "game_name": "Millionaire Rush",
+    "game_uid": "6ecca7ad30e8f4d752f4d9111cf65e1e",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/14843_Millionaire Rush.png"
+  },
+  {
+    "id": 19,
+    "game_name": "Vegas Rush",
+    "game_uid": "e179e1dd404a31cc7c448f803c735685",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/13190_Vegas Rush.png"
+  },
+  {
+    "id": 20,
+    "game_name": "Boo",
+    "game_uid": "a96501352eadc79235bfa346a9ba9a76",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/f06def2aa7.png"
+  },
+  {
+    "id": 21,
+    "game_name": "The Final Countdown",
+    "game_uid": "c419fc943b94227e0ccc26ea4fbd231f",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/16118_The Final Countdown.png"
+  },
+  {
+    "id": 22,
+    "game_name": "Fireworks Megaways",
+    "game_uid": "82a1adfd95d72ba243d13a58cbecc4cc",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/16116_Fireworks Megaway.png"
+  },
+  {
+    "id": 23,
+    "game_name": "Spicy Meatballs",
+    "game_uid": "5b83c0856f3e99b13962937297be194b",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/16117_Spicy Meatballs.png"
+  },
+  {
+    "id": 24,
+    "game_name": "Wild Unicorns",
+    "game_uid": "ca19006b5f093c78a1973f798bc78921",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/14383_Wild Unicorns.png"
+  },
+  {
+    "id": 25,
+    "game_name": "Chocolates",
+    "game_uid": "a753f0d11bbec26896172ca4d4150cb8",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/16213_Chocolates.png"
+  },
+  {
+    "id": 26,
+    "game_name": "Extra Chilli",
+    "game_uid": "15f3879287bf19f43fcede71fd95ca9d",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/2aaaf13c75.png"
+  },
+  {
+    "id": 27,
+    "game_name": "Royal Mint",
+    "game_uid": "b9d163a5cc31f1f5d9b080e5ff5c3471",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/14970_Royal Mint.png"
+  },
+  {
+    "id": 28,
+    "game_name": "Christmas Catch",
+    "game_uid": "49b3b6ea3c12515481d85e376ddc5784",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/14971_Christmas Catch.png"
+  },
+  {
+    "id": 29,
+    "game_name": "Wild Portals",
+    "game_uid": "159671d8ba45b479e1de975bcafae9ce",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/d405203d9a.png"
+  },
+  {
+    "id": 30,
+    "game_name": "Gold Megaways",
+    "game_uid": "f6051a48715468e36dac80265d9229d1",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/13673_Gold Megaways.png"
+  },
+  {
+    "id": 31,
+    "game_name": "Millionaire",
+    "game_uid": "a2479ee8e046c89936ca893d8d97b71e",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/12400_Millionaire.png"
+  },
+  {
+    "id": 32,
+    "game_name": "Bonanza",
+    "game_uid": "6ebb79c5bd09cf7d7797b175c5bd94da",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/7497_Bonanza.png"
+  },
+  {
+    "id": 33,
+    "game_name": "Opal Fruits",
+    "game_uid": "eb8fb7fc784e6dcb7dce51bad7148e4b",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/009936e386.png"
+  },
+  {
+    "id": 34,
+    "game_name": "Rasputin Megaways",
+    "game_uid": "e3b7b51ba604b0c3b0a5af0aa3c30520",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/13657_Rasputin Megaways.png"
+  },
+  {
+    "id": 35,
+    "game_name": "Diamond Fruits",
+    "game_uid": "5173cd430af81c256495a29b79f10e27",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/14671_Diamond Fruits.png"
+  },
+  {
+    "id": 36,
+    "game_name": "Max Megaways 2",
+    "game_uid": "7327aa0c2e8a8b732dd337cbd98922cd",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/13871_Max Megaways 2.png"
+  },
+  {
+    "id": 37,
+    "game_name": "Apollo Pays",
+    "game_uid": "6ea62512f56992192db7146abc67805c",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/bb11af02c7.png"
+  },
+  {
+    "id": 38,
+    "game_name": "King of Cats",
+    "game_uid": "03a0fd2af8b330a63f4c1f970f6b68ad",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/16212_King of Cats.png"
+  },
+  {
+    "id": 39,
+    "game_name": "Danger High Voltage",
+    "game_uid": "3c0b6cb10eab3f4eb00e02a8489fb5b0",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/12473_Danger High Voltage.png"
+  },
+  {
+    "id": 40,
+    "game_name": "Star Clusters",
+    "game_uid": "a1bd6075588a647009fb849dfceadc2d",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/13874_Star Clusters.png"
+  },
+  {
+    "id": 41,
+    "game_name": "Beef Lightning",
+    "game_uid": "b2839e4ec2c341b619843043a6459602",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/fdcceb5c6d.png"
+  },
+  {
+    "id": 42,
+    "game_name": "Panda Money",
+    "game_uid": "bbed4d9abda9351710aecaa7caf0fddd",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/15618_Panda Money.png"
+  },
+  {
+    "id": 43,
+    "game_name": "Max Megaways",
+    "game_uid": "d6c390cbac43c53ca2248f360f04f75f",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/16210_Max Megaways.png"
+  },
+  {
+    "id": 44,
+    "game_name": "Sanctuary",
+    "game_uid": "bb3baf73ae289a3f1d21cb50ddcba955",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/14869_Sanctuary.png"
+  },
+  {
+    "id": 45,
+    "game_name": "Queen of Riches",
+    "game_uid": "44ce4108b5cde8022956c3687bb5ddd3",
+    "game_type": "Slot",
+    "provider": "BigTimeGaming",
+    "icon": "https://bulkapi.in/BigTimeGaming/11c3766fae.png"
+  }
+]

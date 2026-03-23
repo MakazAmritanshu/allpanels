@@ -1,0 +1,3498 @@
+[
+  {
+    "id": 1,
+    "game_name": "Blackjack VIP A",
+    "game_uid": "555681ca33cd74847afbab62a9c446a3",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/0mvn914lkmo9vaq8.png"
+  },
+  {
+    "id": 2,
+    "game_name": "Speed Blackjack G",
+    "game_uid": "fb166643bac3b714a7ce524c2fb0eb00",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/1xwfnktjybsolkn6.png"
+  },
+  {
+    "id": 3,
+    "game_name": "Baccarat B",
+    "game_uid": "0ea8519b837ebd62f5a8978acca33e1d",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/60i0lcfx5wkkv3sy.png"
+  },
+  {
+    "id": 4,
+    "game_name": "Immersive Roulette",
+    "game_uid": "3b43390eebe1f1a84b15f1251a253b24",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/7x0b1tgh7agmf6hv.png"
+  },
+  {
+    "id": 5,
+    "game_name": "Blackjack Silver B",
+    "game_uid": "8de1993b371ce298b85584d21e5d2106",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/9f4xhuhdd005xlbl.png"
+  },
+  {
+    "id": 6,
+    "game_name": "American Roulette",
+    "game_uid": "0afb35f8abd269ca0c0c65a49d5145db",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/AmericanTable001.png"
+  },
+  {
+    "id": 7,
+    "game_name": "Super Andar Bahar",
+    "game_uid": "f7b98e899461bdd49f92afc36b4c0db5",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/AndarBahar000001.png"
+  },
+  {
+    "id": 8,
+    "game_name": "Bac Bo",
+    "game_uid": "9b25f8d744859c6840d16ff6103dc5a6",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/BacBo00000000001.png"
+  },
+  {
+    "id": 9,
+    "game_name": "Blackjack VIP U",
+    "game_uid": "921477a239b298fdd623e29c8f982274",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/bciewncrf5ijneys.png"
+  },
+  {
+    "id": 10,
+    "game_name": "Blackjack VIP X",
+    "game_uid": "195f9f3cb289ab0c8e281317692590ba",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/bghflgi59db7d7r2.png"
+  },
+  {
+    "id": 11,
+    "game_name": "Cash or Crash",
+    "game_uid": "b53a604877024ef2eab9946898e65d6b",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CashOrCrash00001.png"
+  },
+  {
+    "id": 12,
+    "game_name": "Free Bet VIP Blackjack B",
+    "game_uid": "6199b85a5e56f0ac613f3c3ed49b2d78",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBjVIP002.png"
+  },
+  {
+    "id": 13,
+    "game_name": "Free Bet VIP Blackjack A",
+    "game_uid": "4e11ce207582fcffe80e0174a116bb74",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBjVIP003.png"
+  },
+  {
+    "id": 14,
+    "game_name": "Blackjack VIP B",
+    "game_uid": "446551dd9ae32002824b065e57686463",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/cpxl81x0rgi34cmo.png"
+  },
+  {
+    "id": 15,
+    "game_name": "Craps",
+    "game_uid": "689dd8e8f17dae910dba9fdd4990d41e",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/Craps00000000001.png"
+  },
+  {
+    "id": 16,
+    "game_name": "Crazy Coin Flip",
+    "game_uid": "c177ce05258ed2dcbdece64434eaf817",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CrazyCoinFlip001.png"
+  },
+  {
+    "id": 17,
+    "game_name": "Crazy Pachinko",
+    "game_uid": "911a32ad38d77f86baf29a2cdb95da05",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CrazyPachinko001.png"
+  },
+  {
+    "id": 18,
+    "game_name": "Crazy Time",
+    "game_uid": "917c0c51d248c33eb058e3210a2e7371",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CrazyTime0000001.png"
+  },
+  {
+    "id": 19,
+    "game_name": "Crazy Time A",
+    "game_uid": "814aa56348ac4165588f2a3e251f8732",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CrazyTime0000002.png"
+  },
+  {
+    "id": 20,
+    "game_name": "Caribbean Stud Poker",
+    "game_uid": "724eebd5cbe7555b01ed60279cb59e5a",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CSPTable00000001.png"
+  },
+  {
+    "id": 21,
+    "game_name": "Deal or No Deal",
+    "game_uid": "bee6be84ab995f2040f4e575c2cc3910",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/DealOrNoDeal0001.png"
+  },
+  {
+    "id": 22,
+    "game_name": "2 Hand Casino Hold'em",
+    "game_uid": "97dcc429fe7142159aab82b918780f14",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/DHPTable00000001.png"
+  },
+  {
+    "id": 23,
+    "game_name": "Dead or Alive: Saloon",
+    "game_uid": "eda1a2c5edb8370f8df58dcf8e1381b9",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/doasaloon0000001.png"
+  },
+  {
+    "id": 24,
+    "game_name": "Double Ball Roulette",
+    "game_uid": "fae08e8e222f162b27a2d5c4329d1044",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/DoubleBallRou001.png"
+  },
+  {
+    "id": 25,
+    "game_name": "Dragon Tiger",
+    "game_uid": "1fd20a344c9f147cdef85bbaa7447dcd",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/DragonTiger00001.png"
+  },
+  {
+    "id": 26,
+    "game_name": "Blackjack VIP F",
+    "game_uid": "201a27d2b833951f5d982dc5c313fe74",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ehw2fvl831m5n2km.png"
+  },
+  {
+    "id": 27,
+    "game_name": "Blackjack Fortune VIP",
+    "game_uid": "06e7ecf8debac2b86e8b38342de30a7a",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ejx1a04w4ben0mou.png"
+  },
+  {
+    "id": 28,
+    "game_name": "Emperor Sic Bo",
+    "game_uid": "6a1e55dc7a14f038d9b0207fdb3ecbc0",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/EmperorSB0000001.png"
+  },
+  {
+    "id": 29,
+    "game_name": "Evo Speed Blackjack 4",
+    "game_uid": "a8f13fe5c06d1834b7f21c1e3b18ba14",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ESpeedBJ00000004.png"
+  },
+  {
+    "id": 30,
+    "game_name": "Evo Speed Blackjack 5",
+    "game_uid": "e1275fa257ec5eaa91aa92e90c52fa42",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ESpeedBJ00000005.png"
+  },
+  {
+    "id": 31,
+    "game_name": "Evo Speed Blackjack 6",
+    "game_uid": "f8c1f4dc8ca9cd39b44011c1adefa9c2",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ESpeedBJ00000006.png"
+  },
+  {
+    "id": 32,
+    "game_name": "Evo Speed Blackjack 7",
+    "game_uid": "b61a4d32bde967239d321ab8363424be",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ESpeedBJ00000007.png"
+  },
+  {
+    "id": 33,
+    "game_name": "Evo Speed Blackjack 10",
+    "game_uid": "3c7c139fc7095e3ddeeffed3fdd4da3c",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ESpeedBJ00000010.png"
+  },
+  {
+    "id": 34,
+    "game_name": "Evo Speed Blackjack 11",
+    "game_uid": "211fb0f922ef785382a129c6fdb02b46",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ESpeedBJ00000011.png"
+  },
+  {
+    "id": 35,
+    "game_name": "Extreme Texas Hold'em",
+    "game_uid": "fc4e71748bc1a8a7abfc4c1e2f63aa3b",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ETHTable00000001.png"
+  },
+  {
+    "id": 36,
+    "game_name": "Fan Tan",
+    "game_uid": "5cb6aa4e2ce1c775c568561401ffdfca",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/FanTan0000000001.png"
+  },
+  {
+    "id": 37,
+    "game_name": "Funky Time",
+    "game_uid": "8405541014f364b7dc59657aa6892446",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/FunkyTime0000001.png"
+  },
+  {
+    "id": 38,
+    "game_name": "Blackjack Silver E",
+    "game_uid": "0fcd90352f378191e02359a0ab9df5a8",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/gazgtkid9h1b0dn9.png"
+  },
+  {
+    "id": 39,
+    "game_name": "Blackjack Grand VIP",
+    "game_uid": "79efa086e10bbd8543b6e03e7a491351",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/gfzrqe4hqv24kukc.png"
+  },
+  {
+    "id": 40,
+    "game_name": "Blackjack Silver A",
+    "game_uid": "faa0c98465e5fe48aefaca3fc885977e",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/gkmq0o2hryjyqu30.png"
+  },
+  {
+    "id": 41,
+    "game_name": "Gold Vault Roulette",
+    "game_uid": "a8d52f6fa06dafce786d70d190c25cbe",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/GoldVaultRo00001.png"
+  },
+  {
+    "id": 42,
+    "game_name": "Gonzo's Treasure Map",
+    "game_uid": "3f0b35e91f18915f5c5e88f3e1daf66e",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/GonzoTM000000001.png"
+  },
+  {
+    "id": 43,
+    "game_name": "Blackjack Platinum VIP",
+    "game_uid": "c2bd2aafaa4dbaff9df0cd0b53fc6056",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/h463tlq1rhl1lfr2.png"
+  },
+  {
+    "id": 44,
+    "game_name": "Casino Hold'em",
+    "game_uid": "8cb4d1c55915742a45f59f2adbb97e24",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/HoldemTable00001.png"
+  },
+  {
+    "id": 45,
+    "game_name": "Hindi Speed Baccarat B",
+    "game_uid": "327b996d10cab4e88d68a0d1782681b1",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/HSpeedBac0000002.png"
+  },
+  {
+    "id": 46,
+    "game_name": "Speed Blackjack J",
+    "game_uid": "5a948565b571fadb2256a7789de597ec",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/i5j1cyqhrypkih23.png"
+  },
+  {
+    "id": 47,
+    "game_name": "Imperial Quest",
+    "game_uid": "624db9f6b362baf19796f281dfdee1ab",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ImperialQuest001.png"
+  },
+  {
+    "id": 48,
+    "game_name": "Instant Roulette",
+    "game_uid": "ec65c22981a707736871eecfca8e5e25",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/InstantRo0000001.png"
+  },
+  {
+    "id": 49,
+    "game_name": "Blackjack C",
+    "game_uid": "135c1d0063a5a18532314e7f669da0a2",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/jhs44mm0v3fi3aux.png"
+  },
+  {
+    "id": 50,
+    "game_name": "Speed Blackjack K",
+    "game_uid": "063cf66c2e8b256eb49ba0c5983354e0",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/k4r2ejwx4eqqb6tv.png"
+  },
+  {
+    "id": 51,
+    "game_name": "Speed Blackjack L",
+    "game_uid": "e23e0f97958143d951abc0fecca02ec4",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/k4r2hyhw4eqqb6us.png"
+  },
+  {
+    "id": 52,
+    "game_name": "Speed Blackjack M",
+    "game_uid": "323c8a2868da01aeae418d247e4f3ee0",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/k4r2kvd34eqqb6vh.png"
+  },
+  {
+    "id": 53,
+    "game_name": "Blackjack VIP C",
+    "game_uid": "68c5eb853ecdfee94cd5a22f3210aacf",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/l5aug44hhzr3qvxs.png"
+  },
+  {
+    "id": 54,
+    "game_name": "Speed Baccarat A",
+    "game_uid": "ca432917c1beafa247d346bdc7c178a7",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/leqhceumaq6qfoug.png"
+  },
+  {
+    "id": 55,
+    "game_name": "Lightning Baccarat",
+    "game_uid": "0f78172e62af19dcc9c75077ea0d0cd0",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/LightningBac0001.png"
+  },
+  {
+    "id": 56,
+    "game_name": "Lightning Dragon Tiger",
+    "game_uid": "d8da3c5c99a593a44c97325e7ba83838",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/LightningDT00001.png"
+  },
+  {
+    "id": 57,
+    "game_name": "Lightning Roulette",
+    "game_uid": "4a858d6b74c05260d3ea2762838798c7",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/LightningTable01.png"
+  },
+  {
+    "id": 58,
+    "game_name": "Speed Roulette",
+    "game_uid": "b4af506243cafae52908e8fa266f8ff6",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/lkcbrbdckjxajdol.png"
+  },
+  {
+    "id": 59,
+    "game_name": "Blackjack VIP I",
+    "game_uid": "2703c1a1340451d9f9d35904c721f7d6",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/lnofn2yl756qaezm.png"
+  },
+  {
+    "id": 60,
+    "game_name": "Blackjack Silver F",
+    "game_uid": "cd2394d2d8ef2160c8b4826233f7b2fb",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/lnofoyxv756qaezy.png"
+  },
+  {
+    "id": 61,
+    "game_name": "Blackjack Silver G",
+    "game_uid": "fdc106b08bfc4c4d324cac4fa347bf19",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/lnofpmm3756qae2c.png"
+  },
+  {
+    "id": 62,
+    "game_name": "Speed Baccarat B",
+    "game_uid": "d3c71b0de6799ca7419d1e7834a05a47",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/lv2kzclunt2qnxo5.png"
+  },
+  {
+    "id": 63,
+    "game_name": "Blackjack VIP J",
+    "game_uid": "bd5be8139f01f6719bdd15b92e005523",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/m6mfo66sb7eafnzz.png"
+  },
+  {
+    "id": 64,
+    "game_name": "Blackjack VIP K",
+    "game_uid": "ce84d2072af4db522109e3e349bec9c9",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/m6mfsirtb7eafn5c.png"
+  },
+  {
+    "id": 65,
+    "game_name": "Salon Blackjack A",
+    "game_uid": "0b8610191202673d86d53d45f4f05804",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/mdkqdxtkdctrhnsx.png"
+  },
+  {
+    "id": 66,
+    "game_name": "Salon Blackjack C",
+    "game_uid": "2e8a0e70afbf41baf8200fbdf90fb6ec",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/mdkqfe74dctrhntj.png"
+  },
+  {
+    "id": 67,
+    "game_name": "Salon Roulette",
+    "game_uid": "105735cbbaca3b69176c710ebb2c751d",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/mdkqijp3dctrhnuv.png"
+  },
+  {
+    "id": 68,
+    "game_name": "Mega Ball",
+    "game_uid": "3955853fc6a0b53f7f9b9cff0be19cb8",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/MegaBall00000001.png"
+  },
+  {
+    "id": 69,
+    "game_name": "Dream Catcher",
+    "game_uid": "7f50a6fbfcd9257299303b5757d43525",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/MOWDream00000001.png"
+  },
+  {
+    "id": 70,
+    "game_name": "Infinite Blackjack",
+    "game_uid": "58d7089aa20bce7f70e0e2ce81e888f4",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/mrfykemt5slanyi5.png"
+  },
+  {
+    "id": 71,
+    "game_name": "Salon Baccarat B",
+    "game_uid": "0c3d0758899d28221890b665fa59a0b3",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/n7ltqx5j25sr7xbe.png"
+  },
+  {
+    "id": 72,
+    "game_name": "Blackjack VIP L",
+    "game_uid": "2d2e7afef9695e9cf82be87a08f28d23",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/nbjettfehawanhes.png"
+  },
+  {
+    "id": 73,
+    "game_name": "Blackjack VIP M",
+    "game_uid": "bee49a234fcb2ed9547b9e1562953f35",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/nbjetztthawanhey.png"
+  },
+  {
+    "id": 74,
+    "game_name": "Speed Blackjack H",
+    "game_uid": "3a8c810f74a20fc9e8e871af1c3100db",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/nc3u2l6y0khszjv7.png"
+  },
+  {
+    "id": 75,
+    "game_name": "Speed Baccarat E",
+    "game_uid": "b565bd61b2dd5216d910bd07feb5994e",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ndgv45bghfuaaebf.png"
+  },
+  {
+    "id": 76,
+    "game_name": "No Commission Speed Baccarat A",
+    "game_uid": "b82371488f8fb90efb946634ac61d7f5",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ndgv76kehfuaaeec.png"
+  },
+  {
+    "id": 77,
+    "game_name": "Baccarat C",
+    "game_uid": "21cf3fdf28915845ff76f963695bb8e3",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ndgvs3tqhfuaadyg.png"
+  },
+  {
+    "id": 78,
+    "game_name": "Speed Baccarat C",
+    "game_uid": "78a8f259b57a85b7c01f9a1c5c667898",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ndgvwvgthfuaad3q.png"
+  },
+  {
+    "id": 79,
+    "game_name": "Speed Baccarat D",
+    "game_uid": "441f7d75f645a3ba8c6ca6ac97766e27",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ndgvz5mlhfuaad6e.png"
+  },
+  {
+    "id": 80,
+    "game_name": "Blackjack VIP N",
+    "game_uid": "8cadf51f3bab6ca1d1351e39920f0cd0",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/nkyiswhd2jpbw4i4.png"
+  },
+  {
+    "id": 81,
+    "game_name": "Blackjack VIP O",
+    "game_uid": "4134e22ef51602a341306df756ee8f2c",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/nkyivihc2jpbw4uy.png"
+  },
+  {
+    "id": 82,
+    "game_name": "Speed Baccarat F",
+    "game_uid": "b332c47c868946659d7de97f4157bdb3",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/nmwde3fd7hvqhq43.png"
+  },
+  {
+    "id": 83,
+    "game_name": "Speed Baccarat G",
+    "game_uid": "0f318059268a7522710dfa4b867005e9",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/nmwdzhbg7hvqh6a7.png"
+  },
+  {
+    "id": 84,
+    "game_name": "No Commission Baccarat",
+    "game_uid": "17440e0b64775115bb5ae6554a2973a9",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/NoCommBac0000001.png"
+  },
+  {
+    "id": 85,
+    "game_name": "Blackjack VIP P",
+    "game_uid": "5a04abf1c8f61ff36beaa840b38fd720",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/nsxqkywul2nzcwwh.png"
+  },
+  {
+    "id": 86,
+    "game_name": "Blackjack VIP R",
+    "game_uid": "20e34228a5086c5a4198a3c967f99301",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/nsxqpyiol2nzcz6t.png"
+  },
+  {
+    "id": 87,
+    "game_name": "Blackjack VIP T",
+    "game_uid": "78beceac05fb03bb597646ee2a85cb1e",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/nveq66tfmn6n4moi.png"
+  },
+  {
+    "id": 88,
+    "game_name": "Speed Baccarat H",
+    "game_uid": "08e3fac9968542e243e1b320c033b8d7",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/nxpj4wumgclak2lx.png"
+  },
+  {
+    "id": 89,
+    "game_name": "Speed Baccarat I",
+    "game_uid": "306416e24dc7aa7400ae46d151c3526e",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/nxpkul2hgclallno.png"
+  },
+  {
+    "id": 90,
+    "game_name": "Blackjack VIP D",
+    "game_uid": "d3cc53709c12b63755a2e40bba47f448",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/o3d9tx3u8kd0yawc.png"
+  },
+  {
+    "id": 91,
+    "game_name": "Speed Baccarat Q",
+    "game_uid": "85e9ebaaec03ab8d1e579cf2d28a898e",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/o4kyj7tgpwqqy4m4.png"
+  },
+  {
+    "id": 92,
+    "game_name": "Speed Baccarat R",
+    "game_uid": "44eca39b0a839bf2af75db7a5ecb3450",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/o4kylkahpwqqy57w.png"
+  },
+  {
+    "id": 93,
+    "game_name": "Speed Baccarat S",
+    "game_uid": "3c4df047efd6126b12f351ad40123e40",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/o4kymodby2fa2c7g.png"
+  },
+  {
+    "id": 94,
+    "game_name": "Blackjack VIP 1",
+    "game_uid": "9f509cdc3cdce669368977eda1588011",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/o7347okwaeasvy2y.png"
+  },
+  {
+    "id": 95,
+    "game_name": "Blackjack VIP 2",
+    "game_uid": "7530ac3d1140882df7e883641237bb42",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/o735azzsaeasv2pr.png"
+  },
+  {
+    "id": 96,
+    "game_name": "Blackjack VIP 3",
+    "game_uid": "f8e17bc0ad780b65f684558001ee2e64",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/o735cjzyaeasv4o6.png"
+  },
+  {
+    "id": 97,
+    "game_name": "Blackjack VIP 4",
+    "game_uid": "aed251dded03e8a1e665e52cdc4b6e80",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/o735di2eiwssv7eu.png"
+  },
+  {
+    "id": 98,
+    "game_name": "Blackjack VIP 5",
+    "game_uid": "f3d684a1b2fb22ac35c67e296df4db31",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/o735efxfaeasv666.png"
+  },
+  {
+    "id": 99,
+    "game_name": "Blackjack VIP 6",
+    "game_uid": "4a33673ccc580aea8ae80ffa03c12ba7",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/o735fhvsaeaswamh.png"
+  },
+  {
+    "id": 100,
+    "game_name": "Blackjack VIP 7",
+    "game_uid": "3d3f89247b5ec9e98e76ef2b22da2532",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/o735ggd5iwsswcz7.png"
+  },
+  {
+    "id": 101,
+    "game_name": "Blackjack VIP 8",
+    "game_uid": "ecffee81bd446ea53e4836e497f9e803",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/o735hfcqauecwjxp.png"
+  },
+  {
+    "id": 102,
+    "game_name": "Blackjack VIP Z",
+    "game_uid": "54b14b8af2eab62dad3053c09ff7508d",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/oa7fpshyqfueqxuj.png"
+  },
+  {
+    "id": 103,
+    "game_name": "Blackjack VIP Q",
+    "game_uid": "694ea4e8c2bc49bb69c0c113a29e5c18",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/oa7fvyaiqfueq5ob.png"
+  },
+  {
+    "id": 104,
+    "game_name": "Speed Baccarat J",
+    "game_uid": "fbd7f3f9692774963341d7758aa0f439",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/obj64qcnqfunjelj.png"
+  },
+  {
+    "id": 105,
+    "game_name": "Speed Baccarat K",
+    "game_uid": "04bbac98e29afadca20019f21b2c21d2",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ocye2ju2bsoyq6vv.png"
+  },
+  {
+    "id": 106,
+    "game_name": "No Commission Speed Baccarat B",
+    "game_uid": "7f5b0d20c3f491c4fc9456e951ea7005",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ocye5hmxbsoyrcii.png"
+  },
+  {
+    "id": 107,
+    "game_name": "Salon Baccarat C",
+    "game_uid": "d0fd04343f3d6e77136f4752d93c7610",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ok37hvy3g7bofp4l.png"
+  },
+  {
+    "id": 108,
+    "game_name": "Salon Blackjack B",
+    "game_uid": "4c4ee10f6c080904bc2e70f66d6185d4",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/olbibp3fylzaxvhb.png"
+  },
+  {
+    "id": 109,
+    "game_name": "Salon Blackjack D",
+    "game_uid": "9e78f6d00dbebadc3efe5a52af3a0c83",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/olbinkuoylzayeoj.png"
+  },
+  {
+    "id": 110,
+    "game_name": "Blackjack VIP Beta",
+    "game_uid": "3a3bb51ef96c4795ac20c935ca68443b",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/oqic5sqbt25322zm.png"
+  },
+  {
+    "id": 111,
+    "game_name": "Blackjack VIP Gamma",
+    "game_uid": "9f71de77938927179599cd645a5688c5",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/oqidcfpsuwbl5cqd.png"
+  },
+  {
+    "id": 112,
+    "game_name": "Speed Baccarat L",
+    "game_uid": "5c58dcfb54df086d00b8725a10761e03",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ovu5cwp54ccmymck.png"
+  },
+  {
+    "id": 113,
+    "game_name": "Speed Baccarat M",
+    "game_uid": "47a936ba7665516ecf132a2b8898b2eb",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ovu5dsly4ccmynil.png"
+  },
+  {
+    "id": 114,
+    "game_name": "Speed Baccarat N",
+    "game_uid": "374b0298147823425fb0d41a6fae25ba",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ovu5eja74ccmyoiq.png"
+  },
+  {
+    "id": 115,
+    "game_name": "Speed Baccarat P",
+    "game_uid": "cb6e4ad80df2c456cc69d7d43400ef2a",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ovu5fzje4ccmyqnr.png"
+  },
+  {
+    "id": 116,
+    "game_name": "No Commission Speed Baccarat C",
+    "game_uid": "f9e106cfc932d1f0fdb0cc3dd1057c1a",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ovu5h6b3ujb4y53w.png"
+  },
+  {
+    "id": 117,
+    "game_name": "Baccarat A",
+    "game_uid": "1d955d48d50aef2e9546466d9d859be1",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/oytmvb9m1zysmc44.png"
+  },
+  {
+    "id": 118,
+    "game_name": "Speed VIP Blackjack J",
+    "game_uid": "8a14300bc05eba74aab16e4946e29edf",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/p2f25gsom2tmwmpn.png"
+  },
+  {
+    "id": 119,
+    "game_name": "Blackjack VIP 21",
+    "game_uid": "fcb1de01fe2c14217bfabd92976c7a05",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/p2f2lphftc2muaql.png"
+  },
+  {
+    "id": 120,
+    "game_name": "Blackjack VIP 22",
+    "game_uid": "ba4f73d5e19cb97db65f0766cd785434",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/p2f2ootrm2tmvk6h.png"
+  },
+  {
+    "id": 121,
+    "game_name": "Speed VIP Blackjack H",
+    "game_uid": "ea5bb4a83394921afb0f26635b331266",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/p2f2uxiym2tmvzgq.png"
+  },
+  {
+    "id": 122,
+    "game_name": "Speed VIP Blackjack I",
+    "game_uid": "fd0ce69ba5a8e9fde4a0118e0b9498e8",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/p2f2zs26tc2mu7r5.png"
+  },
+  {
+    "id": 123,
+    "game_name": "Blackjack VIP 20",
+    "game_uid": "a9d74415dfdde9ca16087d260c63fd68",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/p2fzwauitc2msrik.png"
+  },
+  {
+    "id": 124,
+    "game_name": "Salon Baccarat F",
+    "game_uid": "61a5215e2679932781ed245b59d34679",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/p34gzl44usw74wks.png"
+  },
+  {
+    "id": 125,
+    "game_name": "Salon Baccarat G",
+    "game_uid": "7d35a160644fdff741e92b1b96285fd5",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/p34i6wgax7bqb5cg.png"
+  },
+  {
+    "id": 126,
+    "game_name": "Salon Blackjack G",
+    "game_uid": "cf2ee43e0200d8fe0564628d5a56bd6f",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/p36n5jvdx7bugh2g.png"
+  },
+  {
+    "id": 127,
+    "game_name": "Salon Baccarat E",
+    "game_uid": "e48c03210c8a577516c69c7fec657356",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/pctte34dt6bqbtps.png"
+  },
+  {
+    "id": 128,
+    "game_name": "Blackjack VIP 14",
+    "game_uid": "1d5d1c1c3d9c76bd7f4c58b9239c373a",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/pdk523jney6upzft.png"
+  },
+  {
+    "id": 129,
+    "game_name": "Blackjack VIP 13",
+    "game_uid": "ad6b96a22d790052e3f899b3ece69c03",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/pdk52e3rey6upyie.png"
+  },
+  {
+    "id": 130,
+    "game_name": "Blackjack VIP 15",
+    "game_uid": "e200f3434cd89322594336ee0f90afd0",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/pdk53n4bjkgepr5u.png"
+  },
+  {
+    "id": 131,
+    "game_name": "Blackjack VIP 16",
+    "game_uid": "295743c7d72fd2eb61ca06749bb25a44",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/pdk54i3vey6up3dg.png"
+  },
+  {
+    "id": 132,
+    "game_name": "Blackjack VIP 9",
+    "game_uid": "54806d16c3eac96d4bea63ccfc0c674c",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/pdk5xfrkjkgepmlq.png"
+  },
+  {
+    "id": 133,
+    "game_name": "Blackjack VIP 10",
+    "game_uid": "323f4086833fda7bb471f10e18a28364",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/pdk5yexcz4iepelq.png"
+  },
+  {
+    "id": 134,
+    "game_name": "Blackjack VIP 11",
+    "game_uid": "1329b0405db81b9964d6dd6eb0a514c9",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/pdk5yzyfjkgepoml.png"
+  },
+  {
+    "id": 135,
+    "game_name": "Blackjack VIP 12",
+    "game_uid": "87a7f4550407f5ed73c3353a54a11187",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/pdk5zo7cey6upxlm.png"
+  },
+  {
+    "id": 136,
+    "game_name": "Peek Baccarat",
+    "game_uid": "c367b8269a44719f19d7264b37d4582b",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/peekbaccarat0001.png"
+  },
+  {
+    "id": 137,
+    "game_name": "Power Blackjack",
+    "game_uid": "1d1c0d3ec98deb128bdd5acdef0f157e",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/PowerInfiniteBJ1.png"
+  },
+  {
+    "id": 138,
+    "game_name": "Blackjack VIP 17",
+    "game_uid": "994a2681526c98fec2b9a2d63a642faa",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ps3t7j4ykfe2fhdw.png"
+  },
+  {
+    "id": 139,
+    "game_name": "Blackjack VIP 18",
+    "game_uid": "ebdf09c0f6d79eed79b1027afc9d7df7",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ps3t7nhskfe2fhkj.png"
+  },
+  {
+    "id": 140,
+    "game_name": "Blackjack VIP 19",
+    "game_uid": "31915e590bc4f5904681c9ed3fec7e91",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ps3t7qv2teskeg4w.png"
+  },
+  {
+    "id": 141,
+    "game_name": "Speed VIP Blackjack E",
+    "game_uid": "ac5ae4dd6c8b09b3da54aad693345ea5",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ps3ufteekfe2fu24.png"
+  },
+  {
+    "id": 142,
+    "game_name": "Speed VIP Blackjack F",
+    "game_uid": "29a0088d6ddc73df59bbd2cadedb3e64",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ps3uhj7gteskex37.png"
+  },
+  {
+    "id": 143,
+    "game_name": "Speed VIP Blackjack G",
+    "game_uid": "5b28de9903431500b020d6fa6fa84ac4",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ps3uijuskfe2f3cj.png"
+  },
+  {
+    "id": 144,
+    "game_name": "Blackjack VIP E",
+    "game_uid": "2c2f06025f65fe745cabd81a3aae8aba",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/psm2um7k4da8zwc2.png"
+  },
+  {
+    "id": 145,
+    "game_name": "Emperor Speed Baccarat B",
+    "game_uid": "7b44393101abad7ac31e21fc1bdb3d56",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/puu43e6c5uvrfikr.png"
+  },
+  {
+    "id": 146,
+    "game_name": "Emperor Dragon Tiger",
+    "game_uid": "1eaa16200ee75bddd50ab54b01fbefa9",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/puu47n7mic3rfd7y.png"
+  },
+  {
+    "id": 147,
+    "game_name": "Emperor Speed Baccarat A",
+    "game_uid": "68fa4cdc74cd23b043db2caa25f1b42c",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/puu4yfymic3reudn.png"
+  },
+  {
+    "id": 148,
+    "game_name": "Emperor Roulette",
+    "game_uid": "53b7cbb34adc1279d0df4c0942af9393",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/pv5q45yjhasyt46y.png"
+  },
+  {
+    "id": 149,
+    "game_name": "Blackjack VIP 28",
+    "game_uid": "e2124ac641282f02462d0b6e0245f3f9",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/q6wo6fjprnlhuf36.png"
+  },
+  {
+    "id": 150,
+    "game_name": "Blackjack Silver D",
+    "game_uid": "91cbad4d3ac237e40d477539e5c767fa",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/qckwjf2o52r9ikeb.png"
+  },
+  {
+    "id": 151,
+    "game_name": "Blackjack VIP 25",
+    "game_uid": "cc61ff297d5beef775880c9ffcccf63e",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/qfyw6u63rixe3foz.png"
+  },
+  {
+    "id": 152,
+    "game_name": "Blackjack VIP 26",
+    "game_uid": "84c4ac47b33cb83dbdfbd56af4e658ad",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/qfyxcoqlrcfe44nj.png"
+  },
+  {
+    "id": 153,
+    "game_name": "Blackjack VIP 27",
+    "game_uid": "74f9dadea990e593f531953b1feaac7b",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/qfyxgwwsrcfe5lq3.png"
+  },
+  {
+    "id": 154,
+    "game_name": "Speed VIP Blackjack L",
+    "game_uid": "41ff316f28958f3939f2886e3d8813f7",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/qfyy4jm6rixfbllh.png"
+  },
+  {
+    "id": 155,
+    "game_name": "Speed VIP Blackjack K",
+    "game_uid": "553ef75ae9c5c6be76f50e2187685231",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/qfyyxolocjhfau7y.png"
+  },
+  {
+    "id": 156,
+    "game_name": "Speed VIP Blackjack M",
+    "game_uid": "51636f763710a40d94435d5721b47afb",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/qfyzapjqrixfb3bx.png"
+  },
+  {
+    "id": 157,
+    "game_name": "Speed Baccarat T",
+    "game_uid": "60c61989f6a8ff1a33b14c98abe83e62",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/qgonc7t4ucdiel4o.png"
+  },
+  {
+    "id": 158,
+    "game_name": "Speed Baccarat U",
+    "game_uid": "e0e8f76fa25eb2fcebf96e7b5f45e120",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/qgqrhfvsvltnueqf.png"
+  },
+  {
+    "id": 159,
+    "game_name": "Speed Baccarat V",
+    "game_uid": "ce7558886d46f01a02aade95a5127b43",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/qgqrrnuqvltnvejx.png"
+  },
+  {
+    "id": 160,
+    "game_name": "Speed Baccarat W",
+    "game_uid": "239ca8da8e291b7d9e377adfcf4745dc",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/qgqrucipvltnvnvq.png"
+  },
+  {
+    "id": 161,
+    "game_name": "Speed Baccarat X",
+    "game_uid": "128268adb0c5c9cd62746a0a8105dc21",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/qgqrv4asvltnvuty.png"
+  },
+  {
+    "id": 162,
+    "game_name": "Blackjack Silver C",
+    "game_uid": "422b5f8f63f54841a0045584237c4eee",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/qlrc3fq3v7p6awm4.png"
+  },
+  {
+    "id": 163,
+    "game_name": "Speed Baccarat Z",
+    "game_uid": "52a7b9d8c127b8b33f5c8d682ed40371",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/qsf63ownyvbqnz33.png"
+  },
+  {
+    "id": 164,
+    "game_name": "Speed Baccarat 1",
+    "game_uid": "d607a58df6bb6a5e4d356ee13c241126",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/qsf65xtoyvbqoaop.png"
+  },
+  {
+    "id": 165,
+    "game_name": "Speed Baccarat 2",
+    "game_uid": "3ae1a406c3f243f1559759f041cd1dcd",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/qsf7alptyvbqohva.png"
+  },
+  {
+    "id": 166,
+    "game_name": "Speed Baccarat 3",
+    "game_uid": "e7931b2e0d410ddc4f88520e9ad87c4b",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/qsf7bpfvyvbqolwp.png"
+  },
+  {
+    "id": 167,
+    "game_name": "Blackjack VIP 31",
+    "game_uid": "d8ab16519a21608d1fed93cc83690593",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rctf2h7wbtsmf7rs.png"
+  },
+  {
+    "id": 168,
+    "game_name": "Blackjack VIP 32",
+    "game_uid": "97e1e4e23f9fd02ea58a8415a515d1e5",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rctf4gu6btsmghbt.png"
+  },
+  {
+    "id": 169,
+    "game_name": "Blackjack VIP 30",
+    "game_uid": "530ed3caad9e07621982956b571f6794",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rctfyut2btsmfyyt.png"
+  },
+  {
+    "id": 170,
+    "game_name": "Blackjack Diamond VIP",
+    "game_uid": "7d4e80750fdbd046e210dc8e1d1a0c21",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rdefcn4sffgo39l7.png"
+  },
+  {
+    "id": 171,
+    "game_name": "Red Door Roulette",
+    "game_uid": "6ddd73419e9a49b6b942e29088219d64",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/RedDoorRoulette1.png"
+  },
+  {
+    "id": 172,
+    "game_name": "Speed Baccarat 5",
+    "game_uid": "30faa46ba41ab76519816ca827d19320",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rep45wbxnyjl7hr2.png"
+  },
+  {
+    "id": 173,
+    "game_name": "Speed Baccarat 12",
+    "game_uid": "898ec009cf2e34a256e6340238c8d95c",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rep5m2cdnyjmazzo.png"
+  },
+  {
+    "id": 174,
+    "game_name": "Blackjack VIP 33",
+    "game_uid": "401d3a40b06fa9b0ee299e31823796d9",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rpju2x53mruw4otv.png"
+  },
+  {
+    "id": 175,
+    "game_name": "Blackjack VIP 34",
+    "game_uid": "8b6200a6ef1f7df8c91c51dfe4444866",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rpju6q5dmruw45u5.png"
+  },
+  {
+    "id": 176,
+    "game_name": "Blackjack VIP 35",
+    "game_uid": "64fee17522e56dd16ad4a0548c5b842c",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rpjvbpsmmruw5jza.png"
+  },
+  {
+    "id": 177,
+    "game_name": "Blackjack VIP 38",
+    "game_uid": "abdae315508ec2b531c87cadf4b790ae",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rpjvjgoamruw6jvl.png"
+  },
+  {
+    "id": 178,
+    "game_name": "Blackjack VIP 36",
+    "game_uid": "c6361dfd83d86cc5c98e2b41c28791eb",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rpjvlz76mruw6uj3.png"
+  },
+  {
+    "id": 179,
+    "game_name": "Blackjack VIP 37",
+    "game_uid": "3acbe78079e7e8841ab34ebe03a1f4d7",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rpjvp2tbmruw7dke.png"
+  },
+  {
+    "id": 180,
+    "game_name": "Blackjack VIP 41",
+    "game_uid": "e02f15bb0df96c186555c62264bd4379",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rpjvse45mruw7nbx.png"
+  },
+  {
+    "id": 181,
+    "game_name": "Blackjack VIP 44",
+    "game_uid": "bb5d9a68f06045695ba133a6f4bba082",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rpo2h5irxfneqjnj.png"
+  },
+  {
+    "id": 182,
+    "game_name": "Blackjack VIP H",
+    "game_uid": "fe2e28180d600b1dfc7784324d3df640",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/s63nx2mpdomgjagb.png"
+  },
+  {
+    "id": 183,
+    "game_name": "Salon Baccarat A",
+    "game_uid": "21e95ab2901433939d83fcd79be52925",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/SalPrivBac000001.png"
+  },
+  {
+    "id": 184,
+    "game_name": "Salon Baccarat D",
+    "game_uid": "538b9ff225701f1e4e851167e5af1b84",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/SalPrivBac000004.png"
+  },
+  {
+    "id": 185,
+    "game_name": "Salon Baccarat H",
+    "game_uid": "44f46f61a501ab9555f46eeecae266ce",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/SalPrivBac000008.png"
+  },
+  {
+    "id": 186,
+    "game_name": "Salon Baccarat I",
+    "game_uid": "6407557ea880b7f6276ec9d4e23e7926",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/SalPrivBac000009.png"
+  },
+  {
+    "id": 187,
+    "game_name": "Salon Baccarat J",
+    "game_uid": "ec258bed8fd84778fc31a864fe1571b4",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/SalPrivBac000010.png"
+  },
+  {
+    "id": 188,
+    "game_name": "Salon Blackjack E",
+    "game_uid": "88094da66b69066587ab29163d239142",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/SalPrivBJ0000005.png"
+  },
+  {
+    "id": 189,
+    "game_name": "Salon Blackjack F",
+    "game_uid": "9aef9d09e355adc2f1bb3c4179d28385",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/SalPrivBJ0000006.png"
+  },
+  {
+    "id": 190,
+    "game_name": "Salon Blackjack H",
+    "game_uid": "db69d21bbd5bc9d37b38bbfbfa3169fc",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/SalPrivBJ0000008.png"
+  },
+  {
+    "id": 191,
+    "game_name": "Salon Blackjack I",
+    "game_uid": "d9b7ea7819d2d7abee3197bf2b1281c7",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/SalPrivBJ0000009.png"
+  },
+  {
+    "id": 192,
+    "game_name": "Salon Blackjack J",
+    "game_uid": "cae32c1011d6e41ab7d6948f1696ab1c",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/SalPrivBJ0000010.png"
+  },
+  {
+    "id": 193,
+    "game_name": "Blackjack Party",
+    "game_uid": "d609730e8da3693bd8ac428926747390",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/sni5cza6d1vvl50i.png"
+  },
+  {
+    "id": 194,
+    "game_name": "Speed Auto Roulette",
+    "game_uid": "1ffeecc77f75d0485e83036269fd9401",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/SpeedAutoRo00001.png"
+  },
+  {
+    "id": 195,
+    "game_name": "Speed VIP Blackjack A",
+    "game_uid": "fdf05d777a59a24fd546e06cb460980e",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/SpeedBlackjack01.png"
+  },
+  {
+    "id": 196,
+    "game_name": "Speed VIP Blackjack B",
+    "game_uid": "5fdb477013f4d377433e2a3daeac1d28",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/SpeedBlackjack02.png"
+  },
+  {
+    "id": 197,
+    "game_name": "Speed VIP Blackjack C",
+    "game_uid": "fcdeb63512da4f7980a03b3542a21796",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/SpeedBlackjack03.png"
+  },
+  {
+    "id": 198,
+    "game_name": "Speed VIP Blackjack D",
+    "game_uid": "994a06251ad003c0be35b252803f49a5",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/SpeedBlackjack04.png"
+  },
+  {
+    "id": 199,
+    "game_name": "Speed VIP Blackjack N",
+    "game_uid": "a9e710a7389d1096cdab23e530cc8d06",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/SpeedBlackjack14.png"
+  },
+  {
+    "id": 200,
+    "game_name": "Speed VIP Blackjack Q",
+    "game_uid": "19bc9ea56909a0bdbd43b0a6471849bb",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/SpeedBlackjack17.png"
+  },
+  {
+    "id": 201,
+    "game_name": "Speed VIP Blackjack R",
+    "game_uid": "ceda0cfac236c9431f061d964ed5062b",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/SpeedBlackjack18.png"
+  },
+  {
+    "id": 202,
+    "game_name": "Stock Market",
+    "game_uid": "699fff17c56ac4af07db510e86cdf6bb",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/StockMarket00001.png"
+  },
+  {
+    "id": 203,
+    "game_name": "Super Sic Bo",
+    "game_uid": "e3951a5bf624e822a22cba1cbe619df5",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/SuperSicBo000001.png"
+  },
+  {
+    "id": 204,
+    "game_name": "Teen Patti",
+    "game_uid": "0617a82334f4f1766cf282ce906e1df7",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/teenpattitable01.png"
+  },
+  {
+    "id": 205,
+    "game_name": "Football Studio",
+    "game_uid": "392e13e38b3cec5ad259254a206d343a",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/TopCard000000001.png"
+  },
+  {
+    "id": 206,
+    "game_name": "Football Studio Dice",
+    "game_uid": "1909b4e3380dc37654f8e3997e63ec1b",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/TopDice000000001.png"
+  },
+  {
+    "id": 207,
+    "game_name": "Triple Card Poker",
+    "game_uid": "b7c3b022f1c2b768524523d855a58d89",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/TRPTable00000001.png"
+  },
+  {
+    "id": 208,
+    "game_name": "Blackjack A",
+    "game_uid": "e7df9c2fdf7c680ddee3739f5b703c88",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/uwd2bl2khwcikjlz.png"
+  },
+  {
+    "id": 209,
+    "game_name": "Roulette",
+    "game_uid": "c9020da3ac9119910b7146416d5a9850",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/vctlz20yfnmp1ylr.png"
+  },
+  {
+    "id": 210,
+    "game_name": "Blackjack B",
+    "game_uid": "5344ba3dbbd1b3c4b0082fe6212d502c",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/xphpcthv8e6ivc16.png"
+  },
+  {
+    "id": 211,
+    "game_name": "Speed Blackjack D",
+    "game_uid": "b796189e77ae8a84f4b2e65a6bbe1a15",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/xqyb2u7fqkexxpa0.png"
+  },
+  {
+    "id": 212,
+    "game_name": "Speed Blackjack I",
+    "game_uid": "0fd44663c3e5db6c9f14b2a6114d5e8d",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/xstnlyzrm345ev95.png"
+  },
+  {
+    "id": 213,
+    "game_name": "XXXtreme Lightning Roulette",
+    "game_uid": "394fe6a2cde24bc487767236cc6eccd6",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/XxxtremeLigh0001.png"
+  },
+  {
+    "id": 214,
+    "game_name": "Speed Blackjack E",
+    "game_uid": "15dddd63199059f97f21c456a4c74da3",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ylq4gmw8yl22u5dj.png"
+  },
+  {
+    "id": 215,
+    "game_name": "Blackjack VIP G",
+    "game_uid": "40273c03c2a48786cb6111e35f012e6b",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/z5pf5pichcsw3d2o.png"
+  },
+  {
+    "id": 216,
+    "game_name": "Super Speed Baccarat",
+    "game_uid": "bfed6d19ac81b4a24ae60895c05b701d",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/774SuperSpeedBac.png"
+  },
+  {
+    "id": 217,
+    "game_name": "Football Studio Roulette",
+    "game_uid": "b063d1d13905aa838776a7909387af5f",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/7nyiaws9tgqrzaz3.png"
+  },
+  {
+    "id": 218,
+    "game_name": "Balloon Race",
+    "game_uid": "97da77a6853a5af187e58e9187dd5a70",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/BalloonRace00001.png"
+  },
+  {
+    "id": 219,
+    "game_name": "Bonsai Speed Baccarat A",
+    "game_uid": "faeebab72bc5f5c6072921051fa0ebea",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/BonsaiBacc000001.png"
+  },
+  {
+    "id": 220,
+    "game_name": "Bonsai Speed Baccarat B",
+    "game_uid": "4436c95650dd0627aa04449ccc6d7d45",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/BonsaiBacc000002.png"
+  },
+  {
+    "id": 221,
+    "game_name": "Bonsai Speed Baccarat C",
+    "game_uid": "b77310480077fb06f8d6f35055cebca6",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/BonsaiBacc000003.png"
+  },
+  {
+    "id": 222,
+    "game_name": "Free Bet Blackjack 1",
+    "game_uid": "84e2dd5556c015169aa113495dcfa7f0",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBj000001.png"
+  },
+  {
+    "id": 223,
+    "game_name": "Free Bet Blackjack 2",
+    "game_uid": "1f39316ec046231b60176fbf4dfbeb1b",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBj000002.png"
+  },
+  {
+    "id": 224,
+    "game_name": "Free Bet Blackjack 3",
+    "game_uid": "b640a6526c646feee19b71c91e5c639e",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBj000003.png"
+  },
+  {
+    "id": 225,
+    "game_name": "Free Bet Blackjack 4",
+    "game_uid": "347ba2422760f82bd1e8e178835f81f3",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBj000004.png"
+  },
+  {
+    "id": 226,
+    "game_name": "Free Bet Blackjack 5",
+    "game_uid": "22e85290d8aabd9aef01b14e4b4f4bbd",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBj000005.png"
+  },
+  {
+    "id": 227,
+    "game_name": "Free Bet Blackjack 6",
+    "game_uid": "984bbc70e68a8e21f67df84dd83fb8da",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBj000006.png"
+  },
+  {
+    "id": 228,
+    "game_name": "Free Bet Blackjack 7",
+    "game_uid": "2e7146f4168008134fd980832f2ef0b0",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBj000007.png"
+  },
+  {
+    "id": 229,
+    "game_name": "Free Bet Blackjack 8",
+    "game_uid": "425385cfb85feed4664aa8ead9136c96",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBj000008.png"
+  },
+  {
+    "id": 230,
+    "game_name": "Free Bet Blackjack 9",
+    "game_uid": "9b331d04e8cfd9503de7b6585063d1c6",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBj000009.png"
+  },
+  {
+    "id": 231,
+    "game_name": "Free Bet Blackjack 10",
+    "game_uid": "56b6c5256c06ec9dc81b1fe66817ac8d",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBj000010.png"
+  },
+  {
+    "id": 232,
+    "game_name": "Free Bet Blackjack 11",
+    "game_uid": "408dcb986db9b7041118fbdcfe582496",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBj000011.png"
+  },
+  {
+    "id": 233,
+    "game_name": "Free Bet Blackjack 12",
+    "game_uid": "417b5507f7708c2df1a06defb7f07cc0",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBj000012.png"
+  },
+  {
+    "id": 234,
+    "game_name": "Free Bet Blackjack 13",
+    "game_uid": "140987a2ab4c181fe67e26b01b4d5bd0",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBj000013.png"
+  },
+  {
+    "id": 235,
+    "game_name": "Free Bet Blackjack 14",
+    "game_uid": "acc879de76e5a318059e36a13a902e22",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBj000014.png"
+  },
+  {
+    "id": 236,
+    "game_name": "Free Bet Blackjack 15",
+    "game_uid": "8b630821f44e2f3e36f23daa60a37b64",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBj000015.png"
+  },
+  {
+    "id": 237,
+    "game_name": "Free Bet Blackjack 16",
+    "game_uid": "ab7f139f494fb504ad1abdc00650b399",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBj000016.png"
+  },
+  {
+    "id": 238,
+    "game_name": "Free Bet Blackjack 17",
+    "game_uid": "9a4ea1acdd420b2c1090f4c9b8962adc",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBj000017.png"
+  },
+  {
+    "id": 239,
+    "game_name": "Free Bet Blackjack 18",
+    "game_uid": "c05645707b6df7f5555956b1a0000735",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBj000018.png"
+  },
+  {
+    "id": 240,
+    "game_name": "Free Bet Blackjack 19",
+    "game_uid": "307ce1756391d51e2dccf5edce96f3ad",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBj000019.png"
+  },
+  {
+    "id": 241,
+    "game_name": "Free Bet Blackjack 20",
+    "game_uid": "b5b0c1f3690134989b894dfe078b8c65",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBj000020.png"
+  },
+  {
+    "id": 242,
+    "game_name": "Free Bet Blackjack 21",
+    "game_uid": "4f2c4e5a85c8f6d33fff3a6476493714",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBj000021.png"
+  },
+  {
+    "id": 243,
+    "game_name": "Free Bet Blackjack 22",
+    "game_uid": "9f6975313318e10d5a2235428a01a7aa",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBj000022.png"
+  },
+  {
+    "id": 244,
+    "game_name": "Free Bet Blackjack 23",
+    "game_uid": "73a80c8e267f589e67414a16dc4b712c",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBj000023.png"
+  },
+  {
+    "id": 245,
+    "game_name": "Free Bet VIP Blackjack C",
+    "game_uid": "9b5cbb31871b798e3ec8e47d05f518da",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBjVIP001.png"
+  },
+  {
+    "id": 246,
+    "game_name": "Free Bet VIP Blackjack D",
+    "game_uid": "589bbcd5e66a4acb98c796c7a86c90d6",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBjVIP004.png"
+  },
+  {
+    "id": 247,
+    "game_name": "Free Bet VIP Blackjack E",
+    "game_uid": "992ded5d64085e395e4f65a5fab22ec4",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBjVIP005.png"
+  },
+  {
+    "id": 248,
+    "game_name": "Free Bet VIP Blackjack F",
+    "game_uid": "345b94f96c6d586c91d8c9e1484ba15d",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBjVIP006.png"
+  },
+  {
+    "id": 249,
+    "game_name": "Free Bet VIP Blackjack G",
+    "game_uid": "81511a7a12f7ee49bc3fd049faba0f3a",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBjVIP007.png"
+  },
+  {
+    "id": 250,
+    "game_name": "Free Bet VIP Blackjack H",
+    "game_uid": "c3891e0f84b22e6956d601d7d5dd6b05",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBjVIP008.png"
+  },
+  {
+    "id": 251,
+    "game_name": "Free Bet VIP Blackjack I",
+    "game_uid": "c321eb36cd21aa81c71365a7399383ab",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBjVIP009.png"
+  },
+  {
+    "id": 252,
+    "game_name": "Free Bet VIP Blackjack J",
+    "game_uid": "39443f8248d39dea14df5f37ad589bfb",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBjVIP010.png"
+  },
+  {
+    "id": 253,
+    "game_name": "Free Bet VIP Blackjack K",
+    "game_uid": "9868876b21103b511cdba4a11d09feb4",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBjVIP011.png"
+  },
+  {
+    "id": 254,
+    "game_name": "Free Bet VIP Blackjack L",
+    "game_uid": "7289958227cb88eeb1de0e91dae1b8ed",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBjVIP012.png"
+  },
+  {
+    "id": 255,
+    "game_name": "Free Bet VIP Blackjack M",
+    "game_uid": "5f5ee3b07f1a12cc42eed5c893630a95",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBjVIP013.png"
+  },
+  {
+    "id": 256,
+    "game_name": "Free Bet VIP Blackjack N",
+    "game_uid": "a5f6f73d15efb626ed30dcf48b920cb3",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBjVIP014.png"
+  },
+  {
+    "id": 257,
+    "game_name": "Free Bet VIP Blackjack O",
+    "game_uid": "e743cda8c7f160c50173f0bb46b5f7f0",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBjVIP015.png"
+  },
+  {
+    "id": 258,
+    "game_name": "Free Bet VIP Blackjack P",
+    "game_uid": "2263c1f2c4679478df0435f5422aa6c2",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CFreeBetBjVIP016.png"
+  },
+  {
+    "id": 259,
+    "game_name": "Emperor Sic Bo A",
+    "game_uid": "758772f63feb61b6ab997d8d37385a65",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/EmperorSB0000002.png"
+  },
+  {
+    "id": 260,
+    "game_name": "Emperor Golden Wealth Baccarat",
+    "game_uid": "f7967398d7cd3e114e3dea7c1eb350b1",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/Empgwbaccarat001.png"
+  },
+  {
+    "id": 261,
+    "game_name": "Evo Speed Blackjack 1",
+    "game_uid": "232307d28ab01bac2f4afb6665d18bbb",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ESpeedBJ00000001.png"
+  },
+  {
+    "id": 262,
+    "game_name": "Evo Speed Blackjack 2",
+    "game_uid": "80f0179f173b9d90b7abd7a602c5bccb",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ESpeedBJ00000002.png"
+  },
+  {
+    "id": 263,
+    "game_name": "Evo Speed Blackjack 3",
+    "game_uid": "c072c5d6161ca1deca73b0402ec0c138",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ESpeedBJ00000003.png"
+  },
+  {
+    "id": 264,
+    "game_name": "Evo Speed Blackjack 19",
+    "game_uid": "170c6c11ce13a447ed4be6b533436d96",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ESpeedBJ00000019.png"
+  },
+  {
+    "id": 265,
+    "game_name": "Evo Speed Blackjack 20",
+    "game_uid": "9107513c1442b9f0a43ae88cbd33034f",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ESpeedBJ00000020.png"
+  },
+  {
+    "id": 266,
+    "game_name": "Extra Chilli Epic Spins",
+    "game_uid": "ed0d26758183cfc88c8c791233d86de9",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ExChEpicSpins001.png"
+  },
+  {
+    "id": 267,
+    "game_name": "Infinite Free Bet Blackjack",
+    "game_uid": "1d7e0343d64f0427f639bf57228a8cc0",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/FreeBet000000001.png"
+  },
+  {
+    "id": 268,
+    "game_name": "Golden Wealth Baccarat",
+    "game_uid": "6bfe5f8bc47dd87f38fc38ff837b11a6",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/gwbaccarat000001.png"
+  },
+  {
+    "id": 269,
+    "game_name": "Speed Super Sic Bo",
+    "game_uid": "6a18d921ac483ee49f2a2e77558a0c0b",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/InstantSSB000001.png"
+  },
+  {
+    "id": 270,
+    "game_name": "Classic Speed Blackjack 20",
+    "game_uid": "dd209450a34e7f58e4bb02a5d76d374a",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/l4u6k47bk5faafkx.png"
+  },
+  {
+    "id": 271,
+    "game_name": "Classic Speed Blackjack 7",
+    "game_uid": "8c710686ca7fa8aa35bd09a181746e57",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/l4u6lqz3k5faafk7.png"
+  },
+  {
+    "id": 272,
+    "game_name": "Classic Speed Blackjack 25",
+    "game_uid": "3aa56f179e1003992cdec2971cb089e1",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/l4u6m3qgk5faaflp.png"
+  },
+  {
+    "id": 273,
+    "game_name": "Classic Speed Blackjack 5",
+    "game_uid": "6f0f835b7f1e9fa1ec8dbd33cf93ad7e",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/l7fieyuccxiaef2k.png"
+  },
+  {
+    "id": 274,
+    "game_name": "Classic Speed Blackjack 21",
+    "game_uid": "41640d8a0c806e9bf5ef6bae35345ceb",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/l7fifq75cxiaef22.png"
+  },
+  {
+    "id": 275,
+    "game_name": "Classic Speed Blackjack 6",
+    "game_uid": "46e9bc0cf410ff23dcc686e56bcd69af",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/l7figflucxiaef3l.png"
+  },
+  {
+    "id": 276,
+    "game_name": "Lightning Ball",
+    "game_uid": "96050ea4ce01c7c295c15cf910aa7bc4",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/LightningBall001.png"
+  },
+  {
+    "id": 277,
+    "game_name": "Lightning Dice",
+    "game_uid": "ec5d495bd8aa5908e46d24a53e09f2dc",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/LightningDice001.png"
+  },
+  {
+    "id": 278,
+    "game_name": "Lightning Sic Bo",
+    "game_uid": "7df14b65a14ab249155c76bc888f4f59",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/lightningsb00001.png"
+  },
+  {
+    "id": 279,
+    "game_name": "Lightning Blackjack",
+    "game_uid": "47df3bc7507fabb193a52b459b175733",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/LightningSbj0001.png"
+  },
+  {
+    "id": 280,
+    "game_name": "Lightning Storm",
+    "game_uid": "2fa292e4b9852e4f2d79360bab5ccbbc",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/LightningStorm01.png"
+  },
+  {
+    "id": 281,
+    "game_name": "Bet with Streamers",
+    "game_uid": "95a1a4626f0279f9616e7013bd39f648",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/livespins0000000.png"
+  },
+  {
+    "id": 282,
+    "game_name": "Bet with Streamers",
+    "game_uid": "6a77cf51c93987eab6d2e824f3557265",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/livespins0000000.png"
+  },
+  {
+    "id": 283,
+    "game_name": "Bet with Streamers",
+    "game_uid": "d5dc87baf68c7b1506ea53852c9ed697",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/livespins0000000.png"
+  },
+  {
+    "id": 284,
+    "game_name": "Bet with Streamers",
+    "game_uid": "3c1c89c41d4be583c92ee9cb91a0ced9",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/livespins0000000.png"
+  },
+  {
+    "id": 285,
+    "game_name": "Classic Speed Blackjack 22",
+    "game_uid": "d806a4839c79e8f57098e42d663b6603",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/m4lp4uqvtmdqqkzo.png"
+  },
+  {
+    "id": 286,
+    "game_name": "Classic Speed Blackjack 12",
+    "game_uid": "09c12356d5273ae20d7aedb8302a257e",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/m4lp6khutmdqqk25.png"
+  },
+  {
+    "id": 287,
+    "game_name": "Blackjack Classic 25",
+    "game_uid": "5c5ab925693548f2117e7ac342cbac2a",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/m4lqa3pvtmdqqk5b.png"
+  },
+  {
+    "id": 288,
+    "game_name": "Blackjack Classic 29",
+    "game_uid": "bc907c269b3e68dcb779d874d8989eae",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/m6wz34ftxyladk4d.png"
+  },
+  {
+    "id": 289,
+    "game_name": "Blackjack Classic 26",
+    "game_uid": "15179c39ee90aba555e8b001639f7991",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/m6wzqhdoxyladkqq.png"
+  },
+  {
+    "id": 290,
+    "game_name": "Classic Speed Blackjack 17",
+    "game_uid": "775782f47ce9e010c9baa124b62fc7df",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/m6wzvco3xyladkvj.png"
+  },
+  {
+    "id": 291,
+    "game_name": "Classic Speed Blackjack 18",
+    "game_uid": "ce2ddfc203271519a550fc92a35ea316",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/m6wzyzaoxyladkyv.png"
+  },
+  {
+    "id": 292,
+    "game_name": "Blackjack Classic 8",
+    "game_uid": "e8ca631e0d792990d775576fb22644c9",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/mfvu6r2jvibqbxax.png"
+  },
+  {
+    "id": 293,
+    "game_name": "Blackjack Classic 9",
+    "game_uid": "ca0dbe3e87a253013cf8bc0b7eb2166c",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/mfvvadncvibqbxbt.png"
+  },
+  {
+    "id": 294,
+    "game_name": "Classic Speed Blackjack 8",
+    "game_uid": "7f4ea85b128994860893f5f1c1d4e398",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/mi6vmbkjowfawnmj.png"
+  },
+  {
+    "id": 295,
+    "game_name": "Classic Speed Blackjack 26",
+    "game_uid": "f1b3ce73b6603f63d5b4dba244990343",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/mi6vna6sowfawnm2.png"
+  },
+  {
+    "id": 296,
+    "game_name": "Classic Speed Blackjack 13",
+    "game_uid": "f5e7507be760cee091dec5e1d7aece8a",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/mqi5c4kzfqcatulw.png"
+  },
+  {
+    "id": 297,
+    "game_name": "Classic Speed Blackjack 19",
+    "game_uid": "f690dbaaf6dd0db8bc9c8c5d65d43718",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/mqi5d7vvfqcatumk.png"
+  },
+  {
+    "id": 298,
+    "game_name": "Classic Speed Blackjack 27",
+    "game_uid": "deca4eaa4aa826046efbb24146d183f1",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/mqi5dhhhfqcatul4.png"
+  },
+  {
+    "id": 299,
+    "game_name": "Classic Speed Blackjack 9",
+    "game_uid": "234f3f11b9150f6cb2fb2ea3c5b6606d",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/mqi5ds67fqcatumd.png"
+  },
+  {
+    "id": 300,
+    "game_name": "Classic Speed Blackjack 11",
+    "game_uid": "7f3dfd4f0f07a5c69d7de5c5c30bddcf",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/mwpl22lktheqikxc.png"
+  },
+  {
+    "id": 301,
+    "game_name": "Classic Speed Blackjack 10",
+    "game_uid": "e92fa66a41c3d0f44e72a6a954c87217",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/mwpllm2ctheqikns.png"
+  },
+  {
+    "id": 302,
+    "game_name": "Blackjack Classic 17",
+    "game_uid": "7901548fed93d7543c390f2e0822d5b9",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/mwplom52theqikpt.png"
+  },
+  {
+    "id": 303,
+    "game_name": "Blackjack Classic 18",
+    "game_uid": "b39fe15b457b402a90f596aefa81c048",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/mwplrb43theqikrf.png"
+  },
+  {
+    "id": 304,
+    "game_name": "Classic Speed Blackjack 14",
+    "game_uid": "64f5e06f41a7b679a96b60cb71248c5f",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/mwplwfiltheqikui.png"
+  },
+  {
+    "id": 305,
+    "game_name": "Blackjack Classic 20",
+    "game_uid": "0fb33c3943606437e46013b83ba8b285",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/mwplyh47theqikvo.png"
+  },
+  {
+    "id": 306,
+    "game_name": "Blackjack Classic 30",
+    "game_uid": "2fcd64da84e5875c6dc8fec635db7d77",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/nbjdukr7hawangge.png"
+  },
+  {
+    "id": 307,
+    "game_name": "Classic Speed Blackjack 15",
+    "game_uid": "c1d55d8694c7775785f4efb31524c666",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/nbjef7nohawangw2.png"
+  },
+  {
+    "id": 308,
+    "game_name": "Classic Speed Blackjack 16",
+    "game_uid": "0a5d8fc5afcfe86550ee505e63cfc76c",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/nbjegfpahawangw7.png"
+  },
+  {
+    "id": 309,
+    "game_name": "Classic Speed Blackjack 23",
+    "game_uid": "e7c33263046b566e32423284d3f85a94",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/nbjeglkqhawangxg.png"
+  },
+  {
+    "id": 310,
+    "game_name": "Classic Speed Blackjack 24",
+    "game_uid": "8f74f5845252e9f1927e23217315fa3d",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ndefkmdiofgqoavl.png"
+  },
+  {
+    "id": 311,
+    "game_name": "Blackjack Classic 35",
+    "game_uid": "455b08300dd9bf0d8c8f3bb728750170",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ndefnmxrofgqoayl.png"
+  },
+  {
+    "id": 312,
+    "game_name": "Classic Speed Blackjack 28",
+    "game_uid": "3cd89080ad4f8cee322b3f4a0af35dda",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ndefqa2tofgqoa3e.png"
+  },
+  {
+    "id": 313,
+    "game_name": "Classic Speed Blackjack 29",
+    "game_uid": "aaa7cefd5a47f9a93330411766017782",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ndeftrg3ofgqoa6g.png"
+  },
+  {
+    "id": 314,
+    "game_name": "Classic Speed Blackjack 30",
+    "game_uid": "4cd3edfae1239d46847cf020f82d0720",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/nep224c3xecqyyl4.png"
+  },
+  {
+    "id": 315,
+    "game_name": "Classic Speed Blackjack 31",
+    "game_uid": "e17ca9b161a058973830868fbc1478e4",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/nep22zrhxecqyyly.png"
+  },
+  {
+    "id": 316,
+    "game_name": "Classic Speed Blackjack 33",
+    "game_uid": "af66f6a4ce6f2f714e14b643f6310c49",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ngx7r4osoqhqyen2.png"
+  },
+  {
+    "id": 317,
+    "game_name": "Classic Speed Blackjack 32",
+    "game_uid": "3045e804119de5764b83c78861e69ec5",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ngx7syvnoqhqyeov.png"
+  },
+  {
+    "id": 318,
+    "game_name": "Classic Speed Blackjack 34",
+    "game_uid": "b1fac267051a9b6f748ad564daba54a6",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/nhrk6zuazggqejda.png"
+  },
+  {
+    "id": 319,
+    "game_name": "Blackjack Classic 43",
+    "game_uid": "3e3e0c248a5092f48f1e24c83087469d",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/nhrld2edzggqejgp.png"
+  },
+  {
+    "id": 320,
+    "game_name": "Blackjack Classic 45",
+    "game_uid": "754ca80078785ab45343dd4a0ded3c39",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/njmog24wwxuad46r.png"
+  },
+  {
+    "id": 321,
+    "game_name": "Blackjack Classic 44",
+    "game_uid": "c2b9a9c15c9be249cd0d283bd8da6918",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/njmogybuwxuad46n.png"
+  },
+  {
+    "id": 322,
+    "game_name": "Blackjack Classic 48",
+    "game_uid": "c59558be0f3aebac03c13ff2829a3fb0",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/njmoz4mqwxuad5ms.png"
+  },
+  {
+    "id": 323,
+    "game_name": "Blackjack Classic 49",
+    "game_uid": "7d6cface03fae0b2ea6cbc63a02c4f75",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/njmoz6m3wxuad5mv.png"
+  },
+  {
+    "id": 324,
+    "game_name": "Blackjack Classic 46",
+    "game_uid": "75971773fec9008d1945c0ca8a310f2e",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/njmoztxtwxuad5mg.png"
+  },
+  {
+    "id": 325,
+    "game_name": "Blackjack Classic 47",
+    "game_uid": "925f4a88fe82d984f137cff3b752a23b",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/njmozz5iwxuad5mn.png"
+  },
+  {
+    "id": 326,
+    "game_name": "Blackjack Classic 52",
+    "game_uid": "2ac081e6af1d01e653b4c6afc6c607ac",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/nl7mgk3hy4xar3ji.png"
+  },
+  {
+    "id": 327,
+    "game_name": "Blackjack Classic 51",
+    "game_uid": "b99710181c66ae05c795b29313ba629b",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/nl7mhbyly4xar32v.png"
+  },
+  {
+    "id": 328,
+    "game_name": "Blackjack Classic 50",
+    "game_uid": "7ef4fc91276f6e986daf2d6717414f68",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/nl7mhvp3y4xar4kn.png"
+  },
+  {
+    "id": 329,
+    "game_name": "Blackjack Classic 54",
+    "game_uid": "eda957cb15521bc082f838fa265c2c2a",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/nohedgkjiypk7zja.png"
+  },
+  {
+    "id": 330,
+    "game_name": "Blackjack Classic 56",
+    "game_uid": "ad3cf85076269da7e0c401ad3952e2bb",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/nohej3hriypk75yk.png"
+  },
+  {
+    "id": 331,
+    "game_name": "Blackjack Classic 57",
+    "game_uid": "0e8124c26d6e2f0cdb04568a00fd952e",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/nohenl2miyplaad3.png"
+  },
+  {
+    "id": 332,
+    "game_name": "Blackjack Classic 58",
+    "game_uid": "697921d78bd86bf968b3a0419a8ac81b",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/nrgrpgppsbsdh2s6.png"
+  },
+  {
+    "id": 333,
+    "game_name": "Blackjack Classic 59",
+    "game_uid": "d5cfb4cf56fdd906794859a946cd66a3",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/nrgrpjyysbsdh2vg.png"
+  },
+  {
+    "id": 334,
+    "game_name": "Blackjack Classic 60",
+    "game_uid": "3260f9a61f1ebc5657fdefb22ed71f35",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/nrgrpmxusbsdh2wt.png"
+  },
+  {
+    "id": 335,
+    "game_name": "Blackjack Classic 61",
+    "game_uid": "2a8a9d9ca37e73569862a0301698d088",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/nrgrpo5nsbsdh2yn.png"
+  },
+  {
+    "id": 336,
+    "game_name": "Blackjack Classic 62",
+    "game_uid": "1f16fc024af0c54dadc67716a1630737",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/nu4r55nnmn6jgrco.png"
+  },
+  {
+    "id": 337,
+    "game_name": "Blackjack Classic 63",
+    "game_uid": "8d82bdbd6b8a998e7ec38b21779519d8",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/nu4sd7vqmn6jguk4.png"
+  },
+  {
+    "id": 338,
+    "game_name": "Blackjack Classic 64",
+    "game_uid": "44ad25bfd515fb583f21c6728597125a",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/nu4sfh6imn6jgvah.png"
+  },
+  {
+    "id": 339,
+    "game_name": "Blackjack Classic 65",
+    "game_uid": "da79d30f29bd50e2b53a0b3acca6be23",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/nu4sg4ofmn6jgv46.png"
+  },
+  {
+    "id": 340,
+    "game_name": "Blackjack Classic 66",
+    "game_uid": "1c84f3c34b9432260f11702b528ed5c1",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/nvzbk5oh6teux5kg.png"
+  },
+  {
+    "id": 341,
+    "game_name": "Blackjack Classic 69",
+    "game_uid": "e816eef38cb51604d5fbd09d851eda8c",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/nvzbwb626teuyhs3.png"
+  },
+  {
+    "id": 342,
+    "game_name": "Blackjack Classic 70",
+    "game_uid": "eab4b3dceec8cd02850264fc2e71c76f",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ob34b36gdmtjx42e.png"
+  },
+  {
+    "id": 343,
+    "game_name": "Blackjack Classic 71",
+    "game_uid": "b8b0c610948310e768c3d2978a0d0d74",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ob34b5qvdmtjx43v.png"
+  },
+  {
+    "id": 344,
+    "game_name": "Blackjack Classic 72",
+    "game_uid": "b14e625542adb3d41a087179d8765edd",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/ob34b7mbdmtjx456.png"
+  },
+  {
+    "id": 345,
+    "game_name": "Blackjack Classic 84",
+    "game_uid": "dfc79bb20f2ea920c8c8587847ab0157",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/p7nfdxlgue4vix3v.png"
+  },
+  {
+    "id": 346,
+    "game_name": "Blackjack Classic 87",
+    "game_uid": "9788a19244f650068b92d7c60b99fdbd",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/p7nfnb7k436fi5zm.png"
+  },
+  {
+    "id": 347,
+    "game_name": "Blackjack Classic 73",
+    "game_uid": "7e7a4d04303f5355d8a64840b61f3118",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/phgciyzt6faterov.png"
+  },
+  {
+    "id": 348,
+    "game_name": "Blackjack Classic 74",
+    "game_uid": "b3aca8f3b59b85c7258eaa5bed1407cc",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/phgckiysbreteord.png"
+  },
+  {
+    "id": 349,
+    "game_name": "Blackjack Classic 75",
+    "game_uid": "e8bcd58667f3385a58b16dbb1793fce5",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/phgcltl2breteqgq.png"
+  },
+  {
+    "id": 350,
+    "game_name": "Blackjack Classic 76",
+    "game_uid": "74aaea48737f8494c920a4bfa0f2c83c",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/phgcm5p3breter45.png"
+  },
+  {
+    "id": 351,
+    "game_name": "Blackjack Classic 77",
+    "game_uid": "e89ace74b4310e3e593f650211c6635b",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/phgcobenbretetnj.png"
+  },
+  {
+    "id": 352,
+    "game_name": "Blackjack Classic 78",
+    "game_uid": "e6bdc2e4fb12970a62dfe050a78aa74e",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/phgcplam6fatez4a.png"
+  },
+  {
+    "id": 353,
+    "game_name": "Blackjack Classic 79",
+    "game_uid": "c414e6ada63d9b6f4c034079607404ea",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/phgcqqn7p4et4frg.png"
+  },
+  {
+    "id": 354,
+    "game_name": "Blackjack Classic 80",
+    "game_uid": "2674292600f925fb6cae172c9949d5d9",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/phgcs2mwp4et4iyy.png"
+  },
+  {
+    "id": 355,
+    "game_name": "Blackjack Classic 81",
+    "game_uid": "5e89583d86ede8751bb554e8f1b62617",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/phgcvlmwp4et4mfe.png"
+  },
+  {
+    "id": 356,
+    "game_name": "Prosperity Tree Baccarat",
+    "game_uid": "418f38d98be47c4f77c052347e56b481",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/PTBaccarat000001.png"
+  },
+  {
+    "id": 357,
+    "game_name": "Emperor Speed Baccarat C",
+    "game_uid": "3e600bcdccd38c0e4383f90f41477c76",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/pwsaqk24fcz5qpcr.png"
+  },
+  {
+    "id": 358,
+    "game_name": "Blackjack Classic 88",
+    "game_uid": "5fddecb259ce41dc0af75f47a8eefc60",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/q2jpoyqxsgfd6cz7.png"
+  },
+  {
+    "id": 359,
+    "game_name": "Emperor Speed Baccarat D",
+    "game_uid": "94ee2b657375b079b44c12d19dfde8f9",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/q6ardco6opnfwes4.png"
+  },
+  {
+    "id": 360,
+    "game_name": "Hindi Speed Baccarat A",
+    "game_uid": "6e9d55c8ef63776d56c85a51a934451f",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/qhhjdnovai4a3a6k.png"
+  },
+  {
+    "id": 361,
+    "game_name": "Blackjack Classic 89",
+    "game_uid": "ac3653864dbb0dbba2e910b413f65b70",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rauqbm55tdcfnisg.png"
+  },
+  {
+    "id": 362,
+    "game_name": "Blackjack Classic 90",
+    "game_uid": "01f7964de8832955198fbf1ef8d1ff28",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rauqeqhmtdcfnrvv.png"
+  },
+  {
+    "id": 363,
+    "game_name": "Speed Baccarat 6",
+    "game_uid": "2ef06aa38d149fb5fb708ff650153ac0",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rep5aor7nyjl7qli.png"
+  },
+  {
+    "id": 364,
+    "game_name": "Speed Baccarat 7",
+    "game_uid": "d26747ca84730c71a415680e3dcaa282",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rep5ca4ynyjl7wdw.png"
+  },
+  {
+    "id": 365,
+    "game_name": "Speed Baccarat 8",
+    "game_uid": "8c8a73faefddd236bbc18afc8388ac18",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rep5eiecnyjl75lq.png"
+  },
+  {
+    "id": 366,
+    "game_name": "Speed Baccarat 9",
+    "game_uid": "4ce386bbf23b5d10eabfafdf028f649d",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rep5gu47nyjmafgt.png"
+  },
+  {
+    "id": 367,
+    "game_name": "Speed Baccarat 10",
+    "game_uid": "96550fdcfc5a84ab34072b987f13e03d",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rep5iuhinyjmalz4.png"
+  },
+  {
+    "id": 368,
+    "game_name": "Speed Baccarat 11",
+    "game_uid": "660e0fdbb13f94818568a630c9285b76",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rep5kwmdnyjmasxi.png"
+  },
+  {
+    "id": 369,
+    "game_name": "Speed Baccarat 13",
+    "game_uid": "bd21dcb90aaa42aba37b18960c4a3b8c",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rep6d5n2nyjmcv7d.png"
+  },
+  {
+    "id": 370,
+    "game_name": "Speed Baccarat 14",
+    "game_uid": "91450648d341d25c86f471d0169ec48c",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rep6e5znnyjmc2pz.png"
+  },
+  {
+    "id": 371,
+    "game_name": "Speed Baccarat 15",
+    "game_uid": "252640ecc8dac94d22f23d98635f4b92",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rep6g26enyjmdbdk.png"
+  },
+  {
+    "id": 372,
+    "game_name": "Emperor Bac Bo",
+    "game_uid": "0cca3db8b5cbf76b1ac52f9e9f149aa1",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rfbo6mhpdgyqbpay.png"
+  },
+  {
+    "id": 373,
+    "game_name": "Classic Speed Blackjack 67",
+    "game_uid": "eb2adacf8a81469b505b58f12b7b79f4",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rfcwtzc7f75bk3ya.png"
+  },
+  {
+    "id": 374,
+    "game_name": "Classic Speed Blackjack 68",
+    "game_uid": "2dd40d67f6a4095f96c5215c41e827e1",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rfeunpyof75f2ufg.png"
+  },
+  {
+    "id": 375,
+    "game_name": "Classic Speed Blackjack 69",
+    "game_uid": "2ce6ad17388d11c74fa6788bbb32de23",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rfeuuceaf75f3d4i.png"
+  },
+  {
+    "id": 376,
+    "game_name": "Classic Speed Blackjack 70",
+    "game_uid": "6fffcf15283e0bbfeddfa4cce69cbd5e",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rfeuwpy2f75f3kjf.png"
+  },
+  {
+    "id": 377,
+    "game_name": "Classic Speed Blackjack 71",
+    "game_uid": "c3b19e16b57d1111094b0adaa6fc8b51",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rfeuy6okf75f3q3f.png"
+  },
+  {
+    "id": 378,
+    "game_name": "Classic Speed Blackjack 72",
+    "game_uid": "f7720074832f2158473c7ecca53591be",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rfevewy7f75f4mgz.png"
+  },
+  {
+    "id": 379,
+    "game_name": "Classic Speed Blackjack 73",
+    "game_uid": "69466266768e66f47ebf2613d10e40ca",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rfevf2t3f75f4p6m.png"
+  },
+  {
+    "id": 380,
+    "game_name": "Classic Speed Blackjack 74",
+    "game_uid": "75dbd0f6f1884c184af1416a8746b75f",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rfevjoeyf75f4zmd.png"
+  },
+  {
+    "id": 381,
+    "game_name": "Classic Speed Blackjack 75",
+    "game_uid": "5898f57bf7d571aee95c017f4cc34ad8",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rfevkjmuf75f44p7.png"
+  },
+  {
+    "id": 382,
+    "game_name": "Blackjack VIP 39",
+    "game_uid": "da65016b2b7e3f7c51be8db58a595f8c",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rpjvebclmruw5uiv.png"
+  },
+  {
+    "id": 383,
+    "game_name": "Blackjack VIP 40",
+    "game_uid": "7ead721e6220224a367362a3ea89889c",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rpjvgpapmruw56qy.png"
+  },
+  {
+    "id": 384,
+    "game_name": "Blackjack VIP 50",
+    "game_uid": "b835d3e03eec9779949c72310fe37c53",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rpo23bi7xfnesw2g.png"
+  },
+  {
+    "id": 385,
+    "game_name": "Blackjack VIP 47",
+    "game_uid": "89588c289f8707465be8fbcaf95bd8f1",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rpo2takvxfnervo2.png"
+  },
+  {
+    "id": 386,
+    "game_name": "Blackjack VIP 48",
+    "game_uid": "3012c88e228506b2f4cfcca4e6b81d61",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rpo2u4duxfner55b.png"
+  },
+  {
+    "id": 387,
+    "game_name": "Blackjack VIP 49",
+    "game_uid": "93b393f0e0eb4739faf4bbf54746fa7e",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rpo2x4pyxfneskcf.png"
+  },
+  {
+    "id": 388,
+    "game_name": "Blackjack VIP 51",
+    "game_uid": "0f0d486eacd85fc7060ea75051aecb95",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rtkbfncvtdh7sbwz.png"
+  },
+  {
+    "id": 389,
+    "game_name": "Blackjack VIP 55",
+    "game_uid": "39dd86e02de1804c833b80978c081af9",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rtkn3mywtdhrcyih.png"
+  },
+  {
+    "id": 390,
+    "game_name": "Blackjack VIP 56",
+    "game_uid": "8cea3fabbf11985f1819283948b1153b",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rtkn5n3itdhrdcug.png"
+  },
+  {
+    "id": 391,
+    "game_name": "Blackjack VIP 57",
+    "game_uid": "615790b1e05ca8901b281a2dbe52e850",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rtkn7soztdhrdnu7.png"
+  },
+  {
+    "id": 392,
+    "game_name": "Blackjack VIP 52",
+    "game_uid": "4a788a2ef46c8d6ccc39830576db0a02",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rtkntgzxtdhrbq5r.png"
+  },
+  {
+    "id": 393,
+    "game_name": "Blackjack VIP 53",
+    "game_uid": "72a60af64b6de200278aa22d8fd9f23c",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rtknwheptdhrb7i4.png"
+  },
+  {
+    "id": 394,
+    "game_name": "Blackjack VIP 54",
+    "game_uid": "b3082dbb759cb4fa14f383ed259594d7",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rtknzl3ktdhrcn6w.png"
+  },
+  {
+    "id": 395,
+    "game_name": "Blackjack VIP 68",
+    "game_uid": "b6f3ebe270b6d43eed7628931b87569d",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rtko2e6jtdhrhqez.png"
+  },
+  {
+    "id": 396,
+    "game_name": "Blackjack VIP 69",
+    "game_uid": "4d0da3ab9e4239b1c27c51bef7d5abf0",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rtko32b2tdhrhy6e.png"
+  },
+  {
+    "id": 397,
+    "game_name": "Blackjack VIP 70",
+    "game_uid": "c128ed5964165053a4a8bb669979f976",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rtko5szetdhricf4.png"
+  },
+  {
+    "id": 398,
+    "game_name": "Blackjack VIP 58",
+    "game_uid": "3174a2dfdfce49dfcf195e1ecf28ffca",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rtkobqo7tdhrdxv7.png"
+  },
+  {
+    "id": 399,
+    "game_name": "Blackjack VIP 59",
+    "game_uid": "379525832473d435b13d01a5fd930ef2",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rtkoephutdhrefsp.png"
+  },
+  {
+    "id": 400,
+    "game_name": "Blackjack VIP 60",
+    "game_uid": "7464b86ca2c053a2a7a1c106b7e3cc72",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rtkohacstdhrer7g.png"
+  },
+  {
+    "id": 401,
+    "game_name": "Blackjack VIP 61",
+    "game_uid": "859b6924f06177d52c2ff34abd834980",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rtkokwaxtdhrfc3o.png"
+  },
+  {
+    "id": 402,
+    "game_name": "Blackjack VIP 62",
+    "game_uid": "65dedc34edea4638a801710fdf857735",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rtkonqfitdhrfqm6.png"
+  },
+  {
+    "id": 403,
+    "game_name": "Blackjack VIP 63",
+    "game_uid": "d442be76daa4ef8e97cfd4ac915367ed",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rtkopvvktdhrf3ge.png"
+  },
+  {
+    "id": 404,
+    "game_name": "Blackjack VIP 64",
+    "game_uid": "3330fe5e1b210008023c11cc1f878501",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rtkorq7stdhrge4q.png"
+  },
+  {
+    "id": 405,
+    "game_name": "Blackjack VIP 65",
+    "game_uid": "52eccdf9d6ed2b910018df6cbb5d6fba",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rtkouphqtdhrgsyt.png"
+  },
+  {
+    "id": 406,
+    "game_name": "Blackjack VIP 66",
+    "game_uid": "49b346b8a9c714b23ada71cd82cce0c3",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rtkow2bltdhrg6tr.png"
+  },
+  {
+    "id": 407,
+    "game_name": "Blackjack VIP 67",
+    "game_uid": "81d5d04706f19d67c655f165a251f526",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/rtkoyqhctdhrhhr5.png"
+  },
+  {
+    "id": 408,
+    "game_name": "Salon Baccarat K",
+    "game_uid": "ef0694c32c13373e40c97a3d7e420584",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/SalPrivBac000011.png"
+  },
+  {
+    "id": 409,
+    "game_name": "Salon Baccarat L",
+    "game_uid": "c2550330df7cf67d61e7332510849d4d",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/SalPrivBac000012.png"
+  },
+  {
+    "id": 410,
+    "game_name": "Salon Baccarat M",
+    "game_uid": "50a6cd19ce1c2f96dd37609c3e498884",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/SalPrivBac000013.png"
+  },
+  {
+    "id": 411,
+    "game_name": "Salon Baccarat N",
+    "game_uid": "6d07fe83997a8054b04b02e4e06ef933",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/SalPrivBac000014.png"
+  },
+  {
+    "id": 412,
+    "game_name": "Salon Blackjack K",
+    "game_uid": "d4b081e51b2318b782822ab486790510",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/SalPrivBJ0000011.png"
+  },
+  {
+    "id": 413,
+    "game_name": "Salon Blackjack L",
+    "game_uid": "625943119e8bcf8148b2313f0a3f5667",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/SalPrivBJ0000012.png"
+  },
+  {
+    "id": 414,
+    "game_name": "Salon Blackjack M",
+    "game_uid": "3adc84fc534ea72f46668966aab4358e",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/SalPrivBJ0000013.png"
+  },
+  {
+    "id": 415,
+    "game_name": "Salon Blackjack N",
+    "game_uid": "f53f3ec34bb9c673feeae4e210bda630",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/SalPrivBJ0000014.png"
+  },
+  {
+    "id": 416,
+    "game_name": "Salon Blackjack O",
+    "game_uid": "694753456098f8c38f1c805ff6a9e89d",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/SalPrivBJ0000015.png"
+  },
+  {
+    "id": 417,
+    "game_name": "Infinite Fun Fun 21 Blackjack",
+    "game_uid": "e722b180875038d8a9b5df84ff340577",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/sbjfunfun2100001.png"
+  },
+  {
+    "id": 418,
+    "game_name": "Blackjack Classic 91",
+    "game_uid": "d3410824062247e94d3f19dcd353fdb3",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/sewhjrwsfjlroeog.png"
+  },
+  {
+    "id": 419,
+    "game_name": "Blackjack Classic 92",
+    "game_uid": "98e7df3abb7aba57fa09020a424ae048",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/seyv42ttu7msgrcq.png"
+  },
+  {
+    "id": 420,
+    "game_name": "Blackjack Classic 97",
+    "game_uid": "641c9ef7549e2f15de17de7fff38718c",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/seyw446du7msnvou.png"
+  },
+  {
+    "id": 421,
+    "game_name": "Blackjack Classic 98",
+    "game_uid": "078f48ffbec1eccefef429c60bc04671",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/seyw76wdu7msomp2.png"
+  },
+  {
+    "id": 422,
+    "game_name": "Blackjack Classic 93",
+    "game_uid": "ca67da3bf0a86ecd26fe5eaeecbb5572",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/seywioztu7msjbxi.png"
+  },
+  {
+    "id": 423,
+    "game_name": "Blackjack Classic 94",
+    "game_uid": "5f5b13d27eb47a4d7a83b19158538834",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/seywr5stu7mslebq.png"
+  },
+  {
+    "id": 424,
+    "game_name": "Blackjack Classic 95",
+    "game_uid": "6d0d3f8e701feb1a566d60e6da4e795c",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/seywwrl3u7msmgcc.png"
+  },
+  {
+    "id": 425,
+    "game_name": "Blackjack Classic 96",
+    "game_uid": "7aeced72be18ab20320818869a4e4ec9",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/seywzqsju7msm4mh.png"
+  },
+  {
+    "id": 426,
+    "game_name": "Speed VIP Blackjack S",
+    "game_uid": "ca2cbd58c1231c54381e576397415617",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/SpeedBlackjack19.png"
+  },
+  {
+    "id": 427,
+    "game_name": "Speed VIP Blackjack T",
+    "game_uid": "1264af71dcf8bbd2e45a4e1a0e6f7f13",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/SpeedBlackjack20.png"
+  },
+  {
+    "id": 428,
+    "game_name": "Speed VIP Blackjack U",
+    "game_uid": "b92b45f4722dbff285ec4391a3f7e9ba",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/SpeedBlackjack21.png"
+  },
+  {
+    "id": 429,
+    "game_name": "Speed VIP Blackjack V",
+    "game_uid": "6e5098362cdc7bd22faa36c71b25a71f",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/SpeedBlackjack22.png"
+  },
+  {
+    "id": 430,
+    "game_name": "Video Poker",
+    "game_uid": "f079230acdc5863cfa6c6d0c7b0273fe",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/VPTable000000001.png"
+  },
+  {
+    "id": 431,
+    "game_name": "XXXtreme Lightning Baccarat",
+    "game_uid": "bbf570734d54910e75ee4bfc788e00df",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/XXXtremeLB000001.png"
+  },
+  {
+    "id": 432,
+    "game_name": "Super Color Game",
+    "game_uid": "e39fe089ced4676b1d61bd4c4442a9f2",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/supercolorgame01.png"
+  },
+  {
+    "id": 433,
+    "game_name": "Dragon Tiger Phoenix",
+    "game_uid": "e6cbbf0e9f197a0cfbc7511b04452a06",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/DTP0000000000001.png"
+  },
+  {
+    "id": 434,
+    "game_name": "Ice Fishing",
+    "game_uid": "dcfd7f4a51ffbd64aa760d319394e5ca",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/IceFishing000001.png"
+  },
+  {
+    "id": 435,
+    "game_name": "Insurance Baccarat",
+    "game_uid": "2978ffa7d2297e8b933b77ca677f9bb8",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/InsuranceBac0001.png"
+  },
+  {
+    "id": 436,
+    "game_name": "Crazy Balls",
+    "game_uid": "c32a26d1204bf752ec5768e88a27d3eb",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/CrazyBalls000001.png"
+  },
+  {
+    "id": 437,
+    "game_name": "Always 9 Baccarat",
+    "game_uid": "08f7ef59810b52bd7b75716737dc01aa",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/always9baccarat1.png"
+  }
+]

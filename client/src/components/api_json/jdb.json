@@ -1,0 +1,850 @@
+[
+  {
+    "id": 1,
+    "game_name": "Dragon Soar",
+    "game_uid": "9341a18d096ad901ef77338998f29098",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/a0553cc412.png"
+  },
+  {
+    "id": 2,
+    "game_name": "Pop Pop Candy",
+    "game_uid": "fde142e65f14da39f784e9e5325e0a77",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/a5a4360cfb.png"
+  },
+  {
+    "id": 3,
+    "game_name": "Open Sesame Mega",
+    "game_uid": "cb5e57be0354264c6c7ea0cdf4eb18b3",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/e4a6571b1a.png"
+  },
+  {
+    "id": 4,
+    "game_name": "Fruity Bonanza",
+    "game_uid": "f5d6b418b755f3aefe3b9828f3112c9c",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/a67bb12bdb.png"
+  },
+  {
+    "id": 5,
+    "game_name": "Caishen Coming",
+    "game_uid": "45ecec5dd5077785e7a09988b95bbd24",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/e72c677e2f.png"
+  },
+  {
+    "id": 6,
+    "game_name": "Coocoo Farm",
+    "game_uid": "d1f17fd51e474b0e72892332ea551ba1",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/41d0fd7152.png"
+  },
+  {
+    "id": 7,
+    "game_name": "Elemental Link Water",
+    "game_uid": "b84274cdfa5731945a34bfd0db1ddeea",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/a398ec88b2.png"
+  },
+  {
+    "id": 8,
+    "game_name": "Elemental Link Fire",
+    "game_uid": "46016a772b92c7f47dfdc5873f184ef1",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/4fb1023498.png"
+  },
+  {
+    "id": 9,
+    "game_name": "Moneybags Man 2",
+    "game_uid": "33c862e7db9e0e59ab3f8fe770f797da",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/094b35f14e.png"
+  },
+  {
+    "id": 10,
+    "game_name": "Trump Card",
+    "game_uid": "96c010fc4a95792401e903213d7add44",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/3454a09f7f.png"
+  },
+  {
+    "id": 11,
+    "game_name": "Fortune Neko",
+    "game_uid": "49b706ccfe7c53727ee6760cd9a8721a",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/756ab1f6e8.png"
+  },
+  {
+    "id": 12,
+    "game_name": "Book Of Mystery",
+    "game_uid": "13072a6eb2111c1b5202fe6155227e94",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/6a50de57c7.png"
+  },
+  {
+    "id": 13,
+    "game_name": "Glamorous Girl",
+    "game_uid": "2663e14e5b455525252a25d9bd99e840",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/20f49b6f46.png"
+  },
+  {
+    "id": 14,
+    "game_name": "Blossom Of Wealth",
+    "game_uid": "ed6fbaeb7a104dd7ed96fa1683a48669",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/84e2025446.png"
+  },
+  {
+    "id": 15,
+    "game_name": "Big Three Dragons",
+    "game_uid": "600c338d3fca2da208f1bba2c9d29059",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/d79a7057ca.png"
+  },
+  {
+    "id": 16,
+    "game_name": "Lantern Wealth",
+    "game_uid": "f2f2eae301311f0320ef669b68935546",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/1a95926a01.png"
+  },
+  {
+    "id": 17,
+    "game_name": "Marvelous Iv",
+    "game_uid": "126cf2bfe8a8e606b362d23de02c0d5e",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/fd56e2decf.png"
+  },
+  {
+    "id": 18,
+    "game_name": "Wonder Elephant",
+    "game_uid": "540da2ba4c849fc1c315f43ae74df220",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/bd3baceb28.png"
+  },
+  {
+    "id": 19,
+    "game_name": "Kong",
+    "game_uid": "f6e9fd31cbc3be8cd3bd95486177377b",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/9878b9be26.png"
+  },
+  {
+    "id": 20,
+    "game_name": "Lucky Diamond",
+    "game_uid": "6f6867ad1956a04b174c92629cab7f54",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/5bec4a81de.png"
+  },
+  {
+    "id": 21,
+    "game_name": "Spindrift 2",
+    "game_uid": "05dc8c7a43305c3fcb43574c570d6378",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/3a21ea0cb1.png"
+  },
+  {
+    "id": 22,
+    "game_name": "Dragons Gate",
+    "game_uid": "feaba603992f26633116fb54562e3693",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/1a2cfdc65e.png"
+  },
+  {
+    "id": 23,
+    "game_name": "Spindrift",
+    "game_uid": "b624d1917ef5a740c151e4904a7cf0dd",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/1f308d53d5.png"
+  },
+  {
+    "id": 24,
+    "game_name": "Double Wilds",
+    "game_uid": "7bd5233c83de0669336ee649e6c8d2b5",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/cf85f8a3fe.png"
+  },
+  {
+    "id": 25,
+    "game_name": "Moneybags Man",
+    "game_uid": "c4fdebb24ff26fffb3a65d018da8ae92",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/9dac2ad25e.png"
+  },
+  {
+    "id": 26,
+    "game_name": "Miner Babe",
+    "game_uid": "e705514fdd4f9bea5f82bbd0b2c0a353",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/be51e4349f.png"
+  },
+  {
+    "id": 27,
+    "game_name": "Super Niubi Deluxe",
+    "game_uid": "5d940d11c48b64ec1e6a3c8be5228250",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/fad1c5cfdd.png"
+  },
+  {
+    "id": 28,
+    "game_name": "Funky King Kong",
+    "game_uid": "cdea2d0670bc40309b4a9b6f942a218a",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/a0a0377b03.png"
+  },
+  {
+    "id": 29,
+    "game_name": "Golden Disco",
+    "game_uid": "dfb8a198ce0e821560cf543387a2acc2",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/d6d54ab460.png"
+  },
+  {
+    "id": 30,
+    "game_name": "Mjolnir",
+    "game_uid": "e270f0674dff538b181499d18ab47845",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/78bcd72a30.png"
+  },
+  {
+    "id": 31,
+    "game_name": "Fortune Treasure",
+    "game_uid": "5a55a19d9cfbead5e64b8169e96bd27a",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/49639da2f6.png"
+  },
+  {
+    "id": 32,
+    "game_name": "Super Niubi",
+    "game_uid": "4042e5d0c777e1d3c3bd481dac0a867e",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/c07e8dec7e.png"
+  },
+  {
+    "id": 33,
+    "game_name": "Dragons World",
+    "game_uid": "00b886803f3d067f7028872468e84745",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/3b4880edec.png"
+  },
+  {
+    "id": 34,
+    "game_name": "Birds Party",
+    "game_uid": "7b497c4d19f87c86ea29910c12129edc",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/ee1bb96a03.png"
+  },
+  {
+    "id": 35,
+    "game_name": "Triple King Kong",
+    "game_uid": "a9f60e017f2765c74e1ec80473ac4ffa",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/fd377f871f.png"
+  },
+  {
+    "id": 36,
+    "game_name": "Orient Animals",
+    "game_uid": "bdb0459f7e116a20839a3b2a0063a2ff",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/6d3b9d6fc9.png"
+  },
+  {
+    "id": 37,
+    "game_name": "Lucky Seven",
+    "game_uid": "b560b7c42bd29f7d0cda06485a3c4af5",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/a0a2bdfde3.png"
+  },
+  {
+    "id": 38,
+    "game_name": "Kingsman",
+    "game_uid": "55e3b4d064b014a403be6ffba8c4343e",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/741abe484c.png"
+  },
+  {
+    "id": 39,
+    "game_name": "Dragon",
+    "game_uid": "735fcdbf9f5e6042132cc01e9860723f",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/5cb0f01c0e.png"
+  },
+  {
+    "id": 40,
+    "game_name": "Dragon Warrior",
+    "game_uid": "29135c91125ae1655f8c91eb29617705",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/b8b782a249.png"
+  },
+  {
+    "id": 41,
+    "game_name": "Billionaire",
+    "game_uid": "16b1418fe87a6fa5628eec8cb40da056",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/9bc3e1a24c.png"
+  },
+  {
+    "id": 42,
+    "game_name": "Legendary 5",
+    "game_uid": "04a3be36bbf1110345d53e07df9c9cc3",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/c07288809e.png"
+  },
+  {
+    "id": 43,
+    "game_name": "Rooster In Love",
+    "game_uid": "2f24019dc8abbe05b984611462a1f01c",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/606161a774.png"
+  },
+  {
+    "id": 44,
+    "game_name": "Xi Yang Yang",
+    "game_uid": "f1496f1b49981a63e6064ac84517b5ae",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/92c37bcae6.png"
+  },
+  {
+    "id": 45,
+    "game_name": "Fortune Horse",
+    "game_uid": "ca6e7b621b13077debbf1bf9d5a6c031",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/e83f626569.png"
+  },
+  {
+    "id": 46,
+    "game_name": "Winning Mask Ii",
+    "game_uid": "955ab46e30fcda3b2446169409848fa7",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/0540eca827.png"
+  },
+  {
+    "id": 47,
+    "game_name": "Beauty And The Kingdom",
+    "game_uid": "478d2e337f0d0a1b40e0e3521f89f1ba",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/44dc536f0d.png"
+  },
+  {
+    "id": 48,
+    "game_name": "Olympian Temple",
+    "game_uid": "ca11d9830495d2888d7e50770353ce32",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/9eeea2eadb.png"
+  },
+  {
+    "id": 49,
+    "game_name": "Mahjong",
+    "game_uid": "e9d4b66c06a43e73ec8f1b2055f83c3a",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/77ad688789.png"
+  },
+  {
+    "id": 50,
+    "game_name": "Banana Saga",
+    "game_uid": "77f407b50f00ec4569249b008a5adca0",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/2d4b759acd.png"
+  },
+  {
+    "id": 51,
+    "game_name": "Open Sesame",
+    "game_uid": "d5cede7b6800bd9cd266cde8c4f73dc6",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/a303d5c342.png"
+  },
+  {
+    "id": 52,
+    "game_name": "Four Treasures",
+    "game_uid": "d53f82ab4fbb353480e012fd763bc339",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/2f25c7bbb9.png"
+  },
+  {
+    "id": 53,
+    "game_name": "Napoleon",
+    "game_uid": "e4b973ece238c954fbcdf30fdfeae969",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/4b65ec51ff.png"
+  },
+  {
+    "id": 54,
+    "game_name": "New Year",
+    "game_uid": "319fb2a372755ff47f6adc4f36e67b0f",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/2e6d23f85d.png"
+  },
+  {
+    "id": 55,
+    "game_name": "Moonlight Treasure",
+    "game_uid": "85e29fa6b578c6bf131ad4fdff750acb",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/da9850e737.png"
+  },
+  {
+    "id": 56,
+    "game_name": "Formosa Bear",
+    "game_uid": "e0afed167c1ef4c9a35c527a52419f0a",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/922121b935.png"
+  },
+  {
+    "id": 57,
+    "game_name": "The Llama Adventure",
+    "game_uid": "6800ef74e2b33c9a9155848f1328c8e5",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/e2465e054e.png"
+  },
+  {
+    "id": 58,
+    "game_name": "Wukong",
+    "game_uid": "59acc6ad72fd6fb6cf30eb58cd9bedb8",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/63810be9f9.png"
+  },
+  {
+    "id": 59,
+    "game_name": "Winning Mask",
+    "game_uid": "4aebce625a1495532a25344f0e4ac584",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/d3811e8292.png"
+  },
+  {
+    "id": 60,
+    "game_name": "Flirting Scholar Tang",
+    "game_uid": "07df172c089e29e576aa41eeb0cbeb2b",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/bfbbc36935.png"
+  },
+  {
+    "id": 61,
+    "game_name": "Lucky Dragons",
+    "game_uid": "c32fff242e09a234f7350bb9aaa055cc",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/31bbd0fcea.png"
+  },
+  {
+    "id": 62,
+    "game_name": "Spirit Tide Legend",
+    "game_uid": "638d38491dad4a6562713143b1fc6cc1",
+    "game_type": "Fish Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/9cac1aa340.png"
+  },
+  {
+    "id": 63,
+    "game_name": "Fishing Disco",
+    "game_uid": "e453b811fd1782fd2ade1f93ee0dee32",
+    "game_type": "Fish Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/29db88866d.png"
+  },
+  {
+    "id": 64,
+    "game_name": "Dragon Master",
+    "game_uid": "f691d904ea681ce449263f7e9cc47c35",
+    "game_type": "Fish Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/826f50c909.png"
+  },
+  {
+    "id": 65,
+    "game_name": "Fishing Yilufa",
+    "game_uid": "877c97367d24925a11d342726eb0320f",
+    "game_type": "Fish Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/ec1aac9df9.png"
+  },
+  {
+    "id": 66,
+    "game_name": "Shade Dragons Fishing",
+    "game_uid": "89e967a8336fb8caad2c1b6d735588fe",
+    "game_type": "Fish Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/7c5c2e7e40.png"
+  },
+  {
+    "id": 67,
+    "game_name": "Cai Shen Fishing",
+    "game_uid": "6df463eabe5fcdaa033e1c89b9ffd162",
+    "game_type": "Fish Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/1af8810972.png"
+  },
+  {
+    "id": 68,
+    "game_name": "Dragon Fishing Ii",
+    "game_uid": "6cef8d8ea517d86602db60fe9781b01b",
+    "game_type": "Fish Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/13b0751f3e.png"
+  },
+  {
+    "id": 69,
+    "game_name": "Dragon Fishing",
+    "game_uid": "1145d7cd96518a5ba2f77cb14cb363c4",
+    "game_type": "Fish Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/67797618ac.png"
+  },
+  {
+    "id": 70,
+    "game_name": "Plinko",
+    "game_uid": "cb54272cd536cf77eb6093bae2513095",
+    "game_type": "Arcade Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/c9820766a3.png"
+  },
+  {
+    "id": 71,
+    "game_name": "Hilo",
+    "game_uid": "9ffbc085919e5e19f93a682fd3a737bb",
+    "game_type": "Arcade Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/fd251f7ed5.png"
+  },
+  {
+    "id": 72,
+    "game_name": "Goal",
+    "game_uid": "0160b30b64598290365f61211fb84a7b",
+    "game_type": "Arcade Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/1877e0e365.png"
+  },
+  {
+    "id": 73,
+    "game_name": "Firework Burst",
+    "game_uid": "19f082ffb4656934e80459a73ab73037",
+    "game_type": "Arcade Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/ad7f8865a1.png"
+  },
+  {
+    "id": 74,
+    "game_name": "Mines",
+    "game_uid": "45a2a92108634508e5c47c690eb01c0b",
+    "game_type": "Arcade Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/e8a78d5cee.png"
+  },
+  {
+    "id": 75,
+    "game_name": "Galaxy Burst",
+    "game_uid": "37ca0b32e1908480e03db00cdc1bc2cf",
+    "game_type": "Arcade Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/c2ea8213d9.png"
+  },
+  {
+    "id": 76,
+    "game_name": "Jogo Do Bicho",
+    "game_uid": "0e8432be6bc0cab304b41bc964aaf154",
+    "game_type": "Arcade Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/1627393eed.png"
+  },
+  {
+    "id": 77,
+    "game_name": "Caishen Party",
+    "game_uid": "6437f1794f0753b268b2badbd69ef156",
+    "game_type": "Arcade Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/3a05b8d1bd.png"
+  },
+  {
+    "id": 78,
+    "game_name": "Lucky Color Game",
+    "game_uid": "5708005e9f2340dbd719567a94ba44b4",
+    "game_type": "Arcade Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/238436badf.png"
+  },
+  {
+    "id": 79,
+    "game_name": "King Of Football",
+    "game_uid": "4088c7ed9db461f990d9514d6b9f7537",
+    "game_type": "Arcade Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/26d6258868.png"
+  },
+  {
+    "id": 80,
+    "game_name": "Crazy King Kong",
+    "game_uid": "c2c611f87d47faae8e4b285fe8145d41",
+    "game_type": "Arcade Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/ac0f222d58.png"
+  },
+  {
+    "id": 81,
+    "game_name": "Super Super Fruit",
+    "game_uid": "a9899c045de7873e620e0ef330f3fc73",
+    "game_type": "Arcade Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/e5d7d3bac1.png"
+  },
+  {
+    "id": 82,
+    "game_name": "Huaguoshan Legends",
+    "game_uid": "6ff786580f7d9453728b9a8a3d1c3499",
+    "game_type": "Arcade Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/878b171577.png"
+  },
+  {
+    "id": 83,
+    "game_name": "Beer Tycoon",
+    "game_uid": "b133cf4f3c32b80344b381cc9f26442a",
+    "game_type": "Arcade Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/a9146b1003.png"
+  },
+  {
+    "id": 84,
+    "game_name": "Birds And Animals",
+    "game_uid": "db93ffd7164953bb1eb4c86b68542ed6",
+    "game_type": "Arcade Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/7b8890b112.png"
+  },
+  {
+    "id": 85,
+    "game_name": "Happy New Year",
+    "game_uid": "d0b0d503d3d553643f665d5d2fdab138",
+    "game_type": "Arcade Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/b49297ab7d.png"
+  },
+  {
+    "id": 86,
+    "game_name": "Classic Mario",
+    "game_uid": "627148e0dd36ff12df432fc920a0c59f",
+    "game_type": "Arcade Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/da26a636ed.png"
+  },
+  {
+    "id": 87,
+    "game_name": "Fighter Fire",
+    "game_uid": "ff83699bef9b2e773857ed1a9eedc5fb",
+    "game_type": "Fish Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/7c249efb60.png"
+  },
+  {
+    "id": 88,
+    "game_name": "Dice",
+    "game_uid": "6aa921aebc8d7e170740cfc8e88426f6",
+    "game_type": "Arcade Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/715bd6170a.png"
+  },
+  {
+    "id": 89,
+    "game_name": "Mole Crash",
+    "game_uid": "a170eb308c8fab8f2a5cdac5b427acbd",
+    "game_type": "Arcade Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/1b5cc810fe.png"
+  },
+  {
+    "id": 90,
+    "game_name": "Mines2",
+    "game_uid": "b1ad7a48e4d4839dbe53fcadf7eb5183",
+    "game_type": "Arcade Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/1d79576624.png"
+  },
+  {
+    "id": 91,
+    "game_name": "Piggy Bank",
+    "game_uid": "7d21ecdabd01130a22326115d3967ffa",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/4a8e16df1c.png"
+  },
+  {
+    "id": 92,
+    "game_name": "Fishin' Fever X-Huge",
+    "game_uid": "226b63d399440f774ce384c0f020387d",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/d10242a0c6.png"
+  },
+  {
+    "id": 93,
+    "game_name": "Pop Pop Candy 1000",
+    "game_uid": "b87763aef6ce72c565302a377676d16e",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/ba57f03c7e.png"
+  },
+  {
+    "id": 94,
+    "game_name": "Fruity Bonanza Combo",
+    "game_uid": "a34e49e1d90c2e5f4e93e366836ba5ae",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/b91b9760be.png"
+  },
+  {
+    "id": 95,
+    "game_name": "Fortune Jewel",
+    "game_uid": "03c2cd347f0600cc87601e0d0af3b2f4",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/17c027e19f.png"
+  },
+  {
+    "id": 96,
+    "game_name": "Magic Ace WILD LOCK",
+    "game_uid": "e5e26fa480a5c256d8a6361122635da9",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/f09383468e.png"
+  },
+  {
+    "id": 97,
+    "game_name": "Dragon Soar - Hyper Wild",
+    "game_uid": "a7c3e0e49972128da40ef7ff03925651",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/5896df526c.png"
+  },
+  {
+    "id": 98,
+    "game_name": "Ragnarok : Thor VS Loki",
+    "game_uid": "5634d86cb6d36e67bb686e7349efa95c",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/499f3785d0.png"
+  },
+  {
+    "id": 99,
+    "game_name": "Lucky Elephant X-Huge",
+    "game_uid": "60f7634877928ae6fc7de2262e45d9d3",
+    "game_type": "Slot Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/2672a28095.png"
+  },
+  {
+    "id": 100,
+    "game_name": "Aviator Extra Bet",
+    "game_uid": "2cb0f27d6690031bf682bc1703792738",
+    "game_type": "Arcade Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/3b2f424521.png"
+  },
+  {
+    "id": 101,
+    "game_name": "Koi Trio",
+    "game_uid": "dcf9970165a8991c915fb6185f8f995a",
+    "game_type": "Slot",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/133653164a.png"
+  },
+  {
+    "id": 102,
+    "game_name": "Magic Ace",
+    "game_uid": "f110691f927f86e7f1ace67ce5ffe331",
+    "game_type": "Slot",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/d191302696.png"
+  },
+  {
+    "id": 103,
+    "game_name": "Dragon of Demons",
+    "game_uid": "dfa84de00ebc583e8b485e864b2bfb63",
+    "game_type": "Fish",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/fe2d87b6f7.png"
+  },
+  {
+    "id": 104,
+    "game_name": "Piggy Bank TapTap",
+    "game_uid": "9dba332c462d80423ce4d15a2a3a041b",
+    "game_type": "Arcade Game",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/87b6509c19.png"
+  },
+  {
+    "id": 105,
+    "game_name": "Olympig",
+    "game_uid": "892af2fa3627269cabfd5ce894f6f00e",
+    "game_type": "Slot",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/e80d5d0993.png"
+  },
+  {
+    "id": 106,
+    "game_name": "Wealthway",
+    "game_uid": "3d97f2073a05873b428be0ff20df724c",
+    "game_type": "Slot",
+    "provider": "jdb",
+    "icon": "https://bulkapi.in/jdb/fbe2c8dfd0.png"
+  }
+]

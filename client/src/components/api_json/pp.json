@@ -1,0 +1,5170 @@
+[
+  {
+    "id": 1,
+    "game_name": "Gem Fire Fortune",
+    "game_uid": "8a0b30eb466a8a07027cbddc19369d0f",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_gem_fire_fortune.webp"
+  },
+  {
+    "id": 2,
+    "game_name": "Wild West Gold Blazing Bounty",
+    "game_uid": "91cd6233551cd56e70d900794ed728e3",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_wild_west_gold_blazing_bounty.webp"
+  },
+  {
+    "id": 3,
+    "game_name": "Finger Lick’n Free Spins",
+    "game_uid": "aa861b71cc3c5dbab1fd7073d5c1c452",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_finger_licking_freespins.webp"
+  },
+  {
+    "id": 4,
+    "game_name": "Gold Party 2 – After Hours",
+    "game_uid": "e1d2da140286507e851fde1cb2fdd4ba",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_gold_party_2__after_hours.webp"
+  },
+  {
+    "id": 5,
+    "game_name": "Temple Guardians",
+    "game_uid": "d333e6e0316422a0d5ffb7eae28fd3b7",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_temple_guardians.webp"
+  },
+  {
+    "id": 6,
+    "game_name": "Big Bass Boxing Bonus Round",
+    "game_uid": "0b6df3ffc8f38d0e39fccee31e1edf2b",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_big_bass_boxing_bonus_round.webp"
+  },
+  {
+    "id": 7,
+    "game_name": "Mummy’s Jewels",
+    "game_uid": "f30340fa76609f5220055eae27ab881e",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_mummys_jewels.webp"
+  },
+  {
+    "id": 8,
+    "game_name": "Gates of Hades",
+    "game_uid": "5eaf8bc24222d8245734ec57cde23bc3",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_gates_of_hades.webp"
+  },
+  {
+    "id": 9,
+    "game_name": "Eye of Spartacus",
+    "game_uid": "94c536991cca6e6df70a30c7e1d896cc",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_eye_of_spartacus.webp"
+  },
+  {
+    "id": 10,
+    "game_name": "Mahjong Wins Super Scatter",
+    "game_uid": "259ad8e105ef217dad404bffe0fff257",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_mahjong_wins_super_scatter.webp"
+  },
+  {
+    "id": 11,
+    "game_name": "Majestic Express - Gold Run",
+    "game_uid": "ba642e78eca4b9ac43f1a56f8c824705",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_gold_rush_2__majestic_express.webp"
+  },
+  {
+    "id": 12,
+    "game_name": "Resurrecting Riches",
+    "game_uid": "dec331c52aade0f61e5f7dd4bbedfde9",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_resurrecting_riches.webp"
+  },
+  {
+    "id": 13,
+    "game_name": "Jumbo Safari",
+    "game_uid": "223147051fc0a47a6d90ebe3e3a0e9c6",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_jumbo_jungle_jackpots.webp"
+  },
+  {
+    "id": 14,
+    "game_name": "Sleeping Dragon",
+    "game_uid": "4a67372025a83767178a6c5fc6c4c8d4",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_sleeping_dragon.webp"
+  },
+  {
+    "id": 15,
+    "game_name": "Fiesta Fortune",
+    "game_uid": "fc263087951d1b7406c8a2f3bbedc363",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_fiesta_fortune.webp"
+  },
+  {
+    "id": 16,
+    "game_name": "Witch Heart Megaways",
+    "game_uid": "a47148d4858a7f4599dfc00c68a2c141",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_witch_heart_megaways.webp"
+  },
+  {
+    "id": 17,
+    "game_name": "Gates of Olympus Super Scatter",
+    "game_uid": "880a68222d05a3697055d523d574cb2b",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_gates_of_olympus_super_scatter.webp"
+  },
+  {
+    "id": 18,
+    "game_name": "Cash Surge",
+    "game_uid": "de109cef80306297f2a7522a5283dd18",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_cash_surge.webp"
+  },
+  {
+    "id": 19,
+    "game_name": "Big Bass Bonanza 1000",
+    "game_uid": "00d1836f3a1200cb6754a61be4c39160",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_big_bass_bonanza_1000.webp"
+  },
+  {
+    "id": 20,
+    "game_name": "5 Lions Reborn",
+    "game_uid": "b00d127ba0c5f8439f94646887f1fd4d",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_5_lions_reborn.webp"
+  },
+  {
+    "id": 21,
+    "game_name": "Ride The Lightning",
+    "game_uid": "4a6be4b9aeb053d692a649db586d7e56",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_ride_the_lightning.webp"
+  },
+  {
+    "id": 22,
+    "game_name": "Joker’s Jewels Cash",
+    "game_uid": "fcb9a4dabb068f060d3701be9fc6a0f0",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_jokers_jewels_cash.webp"
+  },
+  {
+    "id": 23,
+    "game_name": "Bandit Megaways",
+    "game_uid": "de19dcca7f6fbfa5cc5807e786b6b617",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_bandit_megaways.webp"
+  },
+  {
+    "id": 24,
+    "game_name": "Blitz Super Wheel",
+    "game_uid": "d1f8f611d448510a487271b818eabe2f",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_blitz_super_wheel.webp"
+  },
+  {
+    "id": 25,
+    "game_name": "Book of Monsters",
+    "game_uid": "34cb1fb87c318a4923fc7b7b4e31d53e",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_book_of_monsters.webp"
+  },
+  {
+    "id": 26,
+    "game_name": "The Dog House – Royal Hunt",
+    "game_uid": "102fb01e01cbb7528c6ac803bbd9dd13",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_the_dog_house__royal_hunt.webp"
+  },
+  {
+    "id": 27,
+    "game_name": "Volcano Goddess",
+    "game_uid": "276582955d8f162b3379939a3eb5b038",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_volcano_goddess.webp"
+  },
+  {
+    "id": 28,
+    "game_name": "Lucky’s Wild Pub",
+    "game_uid": "fbe795aa609d23d09688d82498d38f50",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_luckys_wild_pub.webp"
+  },
+  {
+    "id": 29,
+    "game_name": "Wild Wild Joker",
+    "game_uid": "45a1f0f25c0b7c3ab56c1993f9e6e03b",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_wild_wild_joker.webp"
+  },
+  {
+    "id": 30,
+    "game_name": "Raging Waterfall Megaways",
+    "game_uid": "497d313c846b303aa1aeea495a4a44b3",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_raging_waterfall_megaways.webp"
+  },
+  {
+    "id": 31,
+    "game_name": "Greedy Fortune Pig",
+    "game_uid": "200d25646470d5cca20d0dd408d7957a",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_greedy_fortune_pig.webp"
+  },
+  {
+    "id": 32,
+    "game_name": "5 Lions Megaways 2",
+    "game_uid": "30535756ecf42673db61eca89df50bc3",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_5_lions_megaways_2.webp"
+  },
+  {
+    "id": 33,
+    "game_name": "Peppe’s Pepperoni Pizza Plaza",
+    "game_uid": "395891d339277b24073f5a1ca46cce3c",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_peppes_pepperoni_pizza_plaza.webp"
+  },
+  {
+    "id": 34,
+    "game_name": "Big Bass Return to the Races",
+    "game_uid": "9f4e61bc4ef7ebffd8637dd1db5202f1",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_big_bass_return_to_the_races.webp"
+  },
+  {
+    "id": 35,
+    "game_name": "Bigger Bass Splash",
+    "game_uid": "1944eb208471b5dfd960f26e80cc3715",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_bigger_bass_splash.webp"
+  },
+  {
+    "id": 36,
+    "game_name": "Savannah Legend",
+    "game_uid": "69866a02334ebe58c3d69c0a4d59255a",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_savannah_legend.webp"
+  },
+  {
+    "id": 37,
+    "game_name": "John Hunter and Galileo’s Secrets",
+    "game_uid": "0518b5e45a9953982e1c1e77206c2755",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_john_hunter_and_galileos_secrets.webp"
+  },
+  {
+    "id": 38,
+    "game_name": "Ancient Island Megaways",
+    "game_uid": "914c41ff6ce7c680e2a110d35420b1be",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_ancient_island_megaways.webp"
+  },
+  {
+    "id": 39,
+    "game_name": "Wild Wildebeest Wins",
+    "game_uid": "5f096f82cd6cf67f3f3f030a0bb89542",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_wild_wildebeest_wins.webp"
+  },
+  {
+    "id": 40,
+    "game_name": "Irish Crown",
+    "game_uid": "3a6bb0239060b0acf471ab2671ca74db",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_irish_crown.webp"
+  },
+  {
+    "id": 41,
+    "game_name": "Wild Wild Pearls",
+    "game_uid": "69b91ecb2d7ba33c804ceba3ac81956a",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_wild_wild_pearls.webp"
+  },
+  {
+    "id": 42,
+    "game_name": "Aztec Gems Megaways",
+    "game_uid": "ba3dc54ad1f451262910dda6c61001ce",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_aztec_gems_megaways.webp"
+  },
+  {
+    "id": 43,
+    "game_name": "Brick House Bonanza",
+    "game_uid": "953182d14bc438f502e277812dc452c4",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_brick_house_bonanza.webp"
+  },
+  {
+    "id": 44,
+    "game_name": "Fonzo’s Feline Fortunes",
+    "game_uid": "bd2201cc0e94ca82e519e4210feb9780",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_fonzos_feline_fortunes.webp"
+  },
+  {
+    "id": 45,
+    "game_name": "Aztec Smash",
+    "game_uid": "f53103b500a4c918eeb82de810152301",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_aztec_smash.webp"
+  },
+  {
+    "id": 46,
+    "game_name": "Mining Rush",
+    "game_uid": "1e7a27b5a565c6c132a13d05f14d127a",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_mining_rush.webp"
+  },
+  {
+    "id": 47,
+    "game_name": "Big Bass Bonanza 3 Reeler",
+    "game_uid": "0e7383431bae567b88fd9be7bf652b45",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_big_bass_bonanza_3_reeler.webp"
+  },
+  {
+    "id": 48,
+    "game_name": "Money Stacks Megaways",
+    "game_uid": "556e56808e1b687474439204cc378e8a",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_money_stacks_megaways.webp"
+  },
+  {
+    "id": 49,
+    "game_name": "Dragon King Hot Pots",
+    "game_uid": "c070b94e25d02cbacaea7531830ee790",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_dragon_king_hot_pots.webp"
+  },
+  {
+    "id": 50,
+    "game_name": "Tiny Toads",
+    "game_uid": "459a9079909b284ff898e5e4d8b26fd6",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_tiny_toads.webp"
+  },
+  {
+    "id": 51,
+    "game_name": "Santa’s Xmas Rush",
+    "game_uid": "ecbea4416112629c154998398bf8bd7c",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_santas_xmas_rush.webp"
+  },
+  {
+    "id": 52,
+    "game_name": "Gates of Olympus Xmas 1000",
+    "game_uid": "b696ce6e67b7d6386903a3a88d48b4d9",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_gates_of_olympus_xmas_1000.webp"
+  },
+  {
+    "id": 53,
+    "game_name": "Penguins Christmas Party Time",
+    "game_uid": "e330d77b3eb2cfae299f981c692f18af",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_penguins_christmas_party_time.webp"
+  },
+  {
+    "id": 54,
+    "game_name": "Might of Freya Megaways",
+    "game_uid": "78b425dd73ed6af262dbafaf6da89fcc",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_might_of_freya_megaways.webp"
+  },
+  {
+    "id": 55,
+    "game_name": "Eternal Empress – Freeze Time",
+    "game_uid": "7e20b309f0e0bf88a751b41f54e35545",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_eternal_empress__freeze_time.webp"
+  },
+  {
+    "id": 56,
+    "game_name": "Himalayan Wild",
+    "game_uid": "cbf9e465f33f7abb892e8a3286b2af79",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_himalayan_wild.webp"
+  },
+  {
+    "id": 57,
+    "game_name": "Wolf Gold Ultimate",
+    "game_uid": "7605e4f0d6ed5812280f6ce3a20fd7d3",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_wolf_gold_ultimate.webp"
+  },
+  {
+    "id": 58,
+    "game_name": "Moleionaire",
+    "game_uid": "3293f239dccef44f742e8d5241eb89c0",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_moleionaire.webp"
+  },
+  {
+    "id": 59,
+    "game_name": "Candy Corner",
+    "game_uid": "c6f5ee2ea499da7f10b4ce92e434bb9e",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_candy_corner.webp"
+  },
+  {
+    "id": 60,
+    "game_name": "7 Clovers of Fortune",
+    "game_uid": "1e93f95916665108cb61065274cb46a4",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_7_clovers_of_fortune.webp"
+  },
+  {
+    "id": 61,
+    "game_name": "Fangtastic Freespins",
+    "game_uid": "3cde6f0025377dd4725f37a7e5e72ead",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_fangtastic_freespins.webp"
+  },
+  {
+    "id": 62,
+    "game_name": "Vampy Party",
+    "game_uid": "0ab1d901b6cc731b48bc3b2cd07b3cf1",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_vampy_party.webp"
+  },
+  {
+    "id": 63,
+    "game_name": "Big Bass Halloween 2",
+    "game_uid": "045f290df6c578256adb632ea1da485f",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_big_bass_halloween_2.webp"
+  },
+  {
+    "id": 64,
+    "game_name": "Release the Kraken Megaways",
+    "game_uid": "01e4cb8a338a238c044d7cc69d26000f",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_release_the_kraken_megaways.webp"
+  },
+  {
+    "id": 65,
+    "game_name": "Chests of Cai Shen",
+    "game_uid": "d7c6f416bfff4113677afc25d050bf33",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_chests_of_cai_shen.webp"
+  },
+  {
+    "id": 66,
+    "game_name": "Fortune Hit’n Roll",
+    "game_uid": "b210bf0a7ae17ae28c9ca2ebd6f76b05",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_fortune_hitn_roll.webp"
+  },
+  {
+    "id": 67,
+    "game_name": "The Dog House – Muttley Crew",
+    "game_uid": "b079ae5505eac4356bf4432efe3e4687",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_the_dog_house__muttley_crew.webp"
+  },
+  {
+    "id": 68,
+    "game_name": "Wisdom of Athena 1000",
+    "game_uid": "97a7bed99262b8c950be4bf1b173e23d",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_wisdom_of_athena_1000.webp"
+  },
+  {
+    "id": 69,
+    "game_name": "Anime Mecha Megaways",
+    "game_uid": "38eb6f8133b79c0915e5e101dd70536d",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_anime_mecha_megaways.webp"
+  },
+  {
+    "id": 70,
+    "game_name": "888 Gold",
+    "game_uid": "5808b410c759813d771f31af6c3f4381",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/66fa296a4eec3.png"
+  },
+  {
+    "id": 71,
+    "game_name": "Badge Blitz",
+    "game_uid": "df30d3730d30e22c1d56bb5665fdbbf4",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_badge_blitz.webp"
+  },
+  {
+    "id": 72,
+    "game_name": "Mystery Mice",
+    "game_uid": "389d3ed341890bca57ebe191241bf521",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_mystery_mice.webp"
+  },
+  {
+    "id": 73,
+    "game_name": "Oodles of Noodles",
+    "game_uid": "dfdef0baca51fd11a62636cc9a197e5a",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_oodles_of_noodles.webp"
+  },
+  {
+    "id": 74,
+    "game_name": "Congo Cash XL",
+    "game_uid": "10cd0742a6692ef9c27a4320e3883c4e",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_congo_cash_xl.webp"
+  },
+  {
+    "id": 75,
+    "game_name": "Big Bass Vegas Double Down Deluxe",
+    "game_uid": "03ca2d1bef1ca213826750ee1e38b6fd",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_big_bass_vegas_double_down_deluxe.webp"
+  },
+  {
+    "id": 76,
+    "game_name": "Mustang Gold Megaways",
+    "game_uid": "2cd0ed283355e539bced7ae90d4f2f6e",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_mustang_gold_megaways.webp"
+  },
+  {
+    "id": 77,
+    "game_name": "Angel vs Sinner",
+    "game_uid": "5e5c9899b53b60510a2b61a00c46f9be",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_angel_vs_sinner.webp"
+  },
+  {
+    "id": 78,
+    "game_name": "Gem Elevator",
+    "game_uid": "c4fc4643a2307e4a5390667c21484c50",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_gem_elevator.webp"
+  },
+  {
+    "id": 79,
+    "game_name": "Dragon Gold 88",
+    "game_uid": "bc5c4d595345cbd9e888695ffc2e43b2",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_dragon_gold_88.webp"
+  },
+  {
+    "id": 80,
+    "game_name": "Aztec Treasure Hunt",
+    "game_uid": "c3d9125886cdd573a4404e6121877754",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_aztec_treasure_hunt.webp"
+  },
+  {
+    "id": 81,
+    "game_name": "Hot to Burn – 7 Deadly Free Spins",
+    "game_uid": "9fdac2b52d638ecd12d7e17aa51c6ab4",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_hot_to_burn__7_deadly_free_spins.webp"
+  },
+  {
+    "id": 82,
+    "game_name": "Forging Wilds",
+    "game_uid": "9353352cfedd5e6bdeebbc62db84a061",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_forging_wilds.webp"
+  },
+  {
+    "id": 83,
+    "game_name": "Jackpot Hunter",
+    "game_uid": "9dac235c0ee7406bcb06df11fdc35faa",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_jackpot_hunter.webp"
+  },
+  {
+    "id": 84,
+    "game_name": "Yeti Quest",
+    "game_uid": "901b9cfd5c94c5679dacbb343181b915",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_yeti_quest.webp"
+  },
+  {
+    "id": 85,
+    "game_name": "Running Sushi",
+    "game_uid": "31aa32bdf9e65b3d12435fdfc0bfb901",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_running_sushi.webp"
+  },
+  {
+    "id": 86,
+    "game_name": "Money Stacks",
+    "game_uid": "42c498504c1a58713ee24dc1e0922420",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_bullion_blitz.webp"
+  },
+  {
+    "id": 87,
+    "game_name": "Bow of Artemis",
+    "game_uid": "96c03b1b9d99b78b06e2f99ecef038e2",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_bow_of_artemis.webp"
+  },
+  {
+    "id": 88,
+    "game_name": "Sumo Supreme Megaways",
+    "game_uid": "9428409f076a8b0f8f8202620b1a48ef",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_sumo_supreme_megaways.webp"
+  },
+  {
+    "id": 89,
+    "game_name": "Joker’s Jewels Hot",
+    "game_uid": "db243d8097f9e469dd308699dfad5c6a",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_jokers_jewels_fire.webp"
+  },
+  {
+    "id": 90,
+    "game_name": "Dynamite Diggin Doug",
+    "game_uid": "0a97dccc9a6230fb3c9eea3220c02d9e",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_dynamite_diggin_doug.webp"
+  },
+  {
+    "id": 91,
+    "game_name": "6 Jokers",
+    "game_uid": "cab1a52c8ae4d3c9b5650396d231345a",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_6_jokers.webp"
+  },
+  {
+    "id": 92,
+    "game_name": "Hot to Burn Multiplier",
+    "game_uid": "e6eccf00e6147a91e4d2c679f79b8166",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_hot_to_burn_multiplier.webp"
+  },
+  {
+    "id": 93,
+    "game_name": "Samurai Code",
+    "game_uid": "0950740961fbb11cb8e3425ee97f3bc3",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_samurai_code.webp"
+  },
+  {
+    "id": 94,
+    "game_name": "Crank It Up",
+    "game_uid": "cc0dd70f3e00c73df28585f552298928",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_crank_it_up.webp"
+  },
+  {
+    "id": 95,
+    "game_name": "Sweet Kingdom",
+    "game_uid": "e342b8ebea1dae1e7dc78a6b6edd7e3b",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_sweet_kingdom.webp"
+  },
+  {
+    "id": 96,
+    "game_name": "Hand of Midas 2",
+    "game_uid": "04e9ce4628bf5032d5f003343df6b8d4",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_hand_of_midas_2.webp"
+  },
+  {
+    "id": 97,
+    "game_name": "Buffalo King Untamed Megaways",
+    "game_uid": "43397368de7455764195f0097e72a626",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_buffalo_king_untamed_megaways.webp"
+  },
+  {
+    "id": 98,
+    "game_name": "Big Bass Mission Fishin’",
+    "game_uid": "e302e6030d750c678a0ddd351d6d8ec9",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_big_bass_mission_fishin.webp"
+  },
+  {
+    "id": 99,
+    "game_name": "Medusa’s Stone",
+    "game_uid": "c652da89a1d5352ee30cff7c56ece838",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_medusas_stone.webp"
+  },
+  {
+    "id": 100,
+    "game_name": "Devilicious",
+    "game_uid": "9938b97371ca02e104e109990b8f9329",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_devilicious.webp"
+  },
+  {
+    "id": 101,
+    "game_name": "Big Bass Bonanza - Reel Action",
+    "game_uid": "383490651852a945360146cdcf59b93f",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_big_bass_bonanza__reel_action.webp"
+  },
+  {
+    "id": 102,
+    "game_name": "Wildies",
+    "game_uid": "aaa56510aaf9b54e51cda7ee7ccff609",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_wildies.webp"
+  },
+  {
+    "id": 103,
+    "game_name": "Sweet Bonanza 1000",
+    "game_uid": "e3f45e2f03388056aba660b7e737ecf0",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_sweet_bonanza_1000.webp"
+  },
+  {
+    "id": 104,
+    "game_name": "Revenge of Loki Megaways",
+    "game_uid": "efa2b0e8f55413648daa4aa2b34bdbec",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_revenge_of_loki_megaways.webp"
+  },
+  {
+    "id": 105,
+    "game_name": "Starlight Princess Pachi",
+    "game_uid": "583ee8a3096dbefe4ee4053730a07d04",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_starlight_princess_pachi.webp"
+  },
+  {
+    "id": 106,
+    "game_name": "Fruity Treats",
+    "game_uid": "72d078c9385c5a92f1de8344ac43915d",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_fruity_treats.webp"
+  },
+  {
+    "id": 107,
+    "game_name": "Rise of Pyramids",
+    "game_uid": "3c8c57d806e01d6b76dc5cf138a56f4c",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_rise_of_pyramids.webp"
+  },
+  {
+    "id": 108,
+    "game_name": "Dwarf & Dragon",
+    "game_uid": "34e8a791c7b048d5fb708b58a4266944",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_dwarf__dragon.webp"
+  },
+  {
+    "id": 109,
+    "game_name": "Heart of Cleopatra",
+    "game_uid": "d097220b342873db6fa2fd007a150916",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_heart_of_cleopatra.webp"
+  },
+  {
+    "id": 110,
+    "game_name": "Joker’s Jewels Wild",
+    "game_uid": "00ab11e01d9f85c9b74e0e52233e9a85",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_jokers_jewels_wild.webp"
+  },
+  {
+    "id": 111,
+    "game_name": "Candy Blitz Bombs",
+    "game_uid": "5c5ecf28395360512e10ba9b12eb736d",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_candy_blitz_bombs.webp"
+  },
+  {
+    "id": 112,
+    "game_name": "Barnyard Megahays Megaways",
+    "game_uid": "17905b61e70edc1cb0e90bd84669dd73",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_barnyard_megahays_megaways.webp"
+  },
+  {
+    "id": 113,
+    "game_name": "Ice Lobster",
+    "game_uid": "07b39ef4436dea6438ac2b7d5cfad996",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_ice_lobster.webp"
+  },
+  {
+    "id": 114,
+    "game_name": "Ripe Rewards",
+    "game_uid": "c4ed86503269c27ef923b68ef0040bb6",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_ripe_rewards.webp"
+  },
+  {
+    "id": 115,
+    "game_name": "Release the Bison",
+    "game_uid": "c5730a06691426e313095ac0380106f1",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_release_the_bison.webp"
+  },
+  {
+    "id": 116,
+    "game_name": "Aztec Powernudge",
+    "game_uid": "224479ab56371d6f6a5f1733ad14623c",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_aztec_powernudge.webp"
+  },
+  {
+    "id": 117,
+    "game_name": "Big Burger Load it up with Xtra Cheese",
+    "game_uid": "ee6844b10cc2295104d72c0554af94b3",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_big_burger_load_it_up_with_xtra_cheese.webp"
+  },
+  {
+    "id": 118,
+    "game_name": "The Dog House Dog or Alive",
+    "game_uid": "82bead4e84621b9b553f6b7c0c5faa73",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_the_dog_house_dog_or_alive.webp"
+  },
+  {
+    "id": 119,
+    "game_name": "Cyber Heist",
+    "game_uid": "cb5d7e55024f427d18297db3d3959cb4",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_cyber_heist.webp"
+  },
+  {
+    "id": 120,
+    "game_name": "Sugar Rush 1000",
+    "game_uid": "3b2630042452d3e6b79054e4e96a2bf3",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_sugar_rush_1000.webp"
+  },
+  {
+    "id": 121,
+    "game_name": "Fire Portals",
+    "game_uid": "563f07d59be196ad3cec2533d7c2fbd0",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_fire_portals.webp"
+  },
+  {
+    "id": 122,
+    "game_name": "Pot of Fortune",
+    "game_uid": "a0f906347522869dbbbd377a0461995e",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_pot_of_fortune.webp"
+  },
+  {
+    "id": 123,
+    "game_name": "Beware The Deep Megaways",
+    "game_uid": "cc19f896b3d01e7d2904c0049c30d802",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_beware_the_deep_megaways.webp"
+  },
+  {
+    "id": 124,
+    "game_name": "Big Bass Day at the Races",
+    "game_uid": "9fd858734e7329e7716363be6b610658",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_big_bass_day_at_the_races.webp"
+  },
+  {
+    "id": 125,
+    "game_name": "Gates of Gatot Kaca 1000",
+    "game_uid": "33ec04f802880123694d7a223542ed6c",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_gates_of_gatot_kaca_1000.webp"
+  },
+  {
+    "id": 126,
+    "game_name": "Gears of Horus",
+    "game_uid": "8895e06c770c160e3a864b31e01fd285",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_gears_of_horus.webp"
+  },
+  {
+    "id": 127,
+    "game_name": "Casino Heist Megaways",
+    "game_uid": "03ffa428a8f2a22197068532ff4ed786",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_casino_heist_megaways.webp"
+  },
+  {
+    "id": 128,
+    "game_name": "Power of Ninja",
+    "game_uid": "72e9cc20131f0a2744e3ab9132ef5fd2",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_power_of_ninja.webp"
+  },
+  {
+    "id": 129,
+    "game_name": "Gates of Olympus Dice",
+    "game_uid": "1896e4aac745e9e3bc233db2e06512de",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_gates_of_olympus_dice.webp"
+  },
+  {
+    "id": 130,
+    "game_name": "Mighty Munching Melons",
+    "game_uid": "018cd71c3da7eaecf4c707fe93df0983",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_mighty_munching_melons.webp"
+  },
+  {
+    "id": 131,
+    "game_name": "Strawberry Cocktail",
+    "game_uid": "2ae4e08329f8acd0834b289e2348af02",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_strawberry_cocktail.webp"
+  },
+  {
+    "id": 132,
+    "game_name": "Great Lagoon",
+    "game_uid": "9e5eca93ba120437375404c67cd5cd78",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_great_lagoon.webp"
+  },
+  {
+    "id": 133,
+    "game_name": "Wheel O'Gold",
+    "game_uid": "44ab0ddf84f32cc79f6bdcf6309b9710",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_wheel_ogold.webp"
+  },
+  {
+    "id": 134,
+    "game_name": "Pompeii Megareels Megaways",
+    "game_uid": "eedae4fa7847b2d1e050c9fac07b08d6",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_pompeii_megareels_megaways.webp"
+  },
+  {
+    "id": 135,
+    "game_name": "Big Bass Floats My Boat",
+    "game_uid": "64d75dfe52f40c443aeae3c5e9d5f4d8",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_big_bass_floats_my_boat.webp"
+  },
+  {
+    "id": 136,
+    "game_name": "Bali Dragon",
+    "game_uid": "3285fedfb12a8603737103ca7df79851",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_bali_dragon.webp"
+  },
+  {
+    "id": 137,
+    "game_name": "The Alter Ego",
+    "game_uid": "7162afaab597e1e6b2e8726143a327ba",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_the_alter_ego.webp"
+  },
+  {
+    "id": 138,
+    "game_name": "Trees of Treasure",
+    "game_uid": "33173c718311b3f3e2277204b7a7dbe2",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_trees_of_treasure.webp"
+  },
+  {
+    "id": 139,
+    "game_name": "Fortune Ace",
+    "game_uid": "a15d8418eaff591cfa5856a441f6b3eb",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_ace_wins_bonus.webp"
+  },
+  {
+    "id": 140,
+    "game_name": "Blazing Wilds Megaways",
+    "game_uid": "32a9b5e9958d37e859f8ae6f0705c095",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_blazing_wilds_megaways.webp"
+  },
+  {
+    "id": 141,
+    "game_name": "Blade & Fangs",
+    "game_uid": "98875a7c55c236d138916cd59cde1eea",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_blade__fangs.webp"
+  },
+  {
+    "id": 142,
+    "game_name": "Mahjong Wins Bonus",
+    "game_uid": "7c9e9decfcd0b4d23050c9d8531e26bf",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_mahjong_wins_bonus.webp"
+  },
+  {
+    "id": 143,
+    "game_name": "Loki's Riches",
+    "game_uid": "d659ed2db71ee2f6603998a57f8df6ab",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_lokis_riches.webp"
+  },
+  {
+    "id": 144,
+    "game_name": "Fortune Dragon",
+    "game_uid": "4563140da50e1b649dc791a7bd9a5ee7",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_fortune_dragon.webp"
+  },
+  {
+    "id": 145,
+    "game_name": "The Big Dawgs",
+    "game_uid": "49bf22f2c40ab90ff3933574f53bbe6d",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_the_big_dawgs.webp"
+  },
+  {
+    "id": 146,
+    "game_name": "Good Luck & Good Fortune",
+    "game_uid": "59a4562710480f67693cff6e6cdcef8c",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_good_luck__good_fortune.webp"
+  },
+  {
+    "id": 147,
+    "game_name": "Castle of Fire",
+    "game_uid": "2c70f8e2670dd2b13417ae5228d85375",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_castle_of_fire.webp"
+  },
+  {
+    "id": 148,
+    "game_name": "Happy Fortune",
+    "game_uid": "8f743f3c43a3b649434350f1de898c72",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_laughing_fortune.webp"
+  },
+  {
+    "id": 149,
+    "game_name": "Year of the Dragon King",
+    "game_uid": "7eaed38a7a14080e8f2fa46ac298084c",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_year_of_the_dragon_king.webp"
+  },
+  {
+    "id": 150,
+    "game_name": "Juicy Fruits Multihold",
+    "game_uid": "fb356bd005fb1294952f7f56db50141d",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_juicy_fruits_multihold.webp"
+  },
+  {
+    "id": 151,
+    "game_name": "Gates of Olympus 1000",
+    "game_uid": "4ae52ed2e1a8c353878ba65ed7791ac4",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_gates_of_olympus_1000.webp"
+  },
+  {
+    "id": 152,
+    "game_name": "The Wild Gang",
+    "game_uid": "b17af566fd988c3d7a06ee12facf0c60",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_the_wild_gang.webp"
+  },
+  {
+    "id": 153,
+    "game_name": "Sea Fantasy",
+    "game_uid": "a980bf2816f706eaa7c5b6ca2dab1ff3",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_sea_fantasy.webp"
+  },
+  {
+    "id": 154,
+    "game_name": "Fire Stampede",
+    "game_uid": "39f34ced7888fd518c18262a6bab409d",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_fire_stampede.webp"
+  },
+  {
+    "id": 155,
+    "game_name": "The Dog House Dice Show",
+    "game_uid": "7d53869b99737ebb4c24975a763be669",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_the_dog_house_dice_show.webp"
+  },
+  {
+    "id": 156,
+    "game_name": "Ding Dong Christmas Bells",
+    "game_uid": "5e9b76b4907aa68bb519ddb416446e27",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_ding_dong_christmas_bells.webp"
+  },
+  {
+    "id": 157,
+    "game_name": "Sugar Rush Xmas",
+    "game_uid": "8170339cc716c66d5b52779119fd718f",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_sugar_rush_xmas.webp"
+  },
+  {
+    "id": 158,
+    "game_name": "Mahjong X",
+    "game_uid": "00ff9f1ce40c2c951ef34b0a2bcad07c",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_mahjong_x.webp"
+  },
+  {
+    "id": 159,
+    "game_name": "Big Bass Christmas Bash",
+    "game_uid": "d78b41ecb69fe8370a561d2d478d980f",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_big_bass_splash_xmas.webp"
+  },
+  {
+    "id": 160,
+    "game_name": "Joker Jewels Dice",
+    "game_uid": "625498971ffcdb4e4c828c60159a5636",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_joker_jewels_dice.webp"
+  },
+  {
+    "id": 161,
+    "game_name": "Chase for Glory",
+    "game_uid": "ee95520197282d10c4d0420db30bb686",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_chase_for_glory.webp"
+  },
+  {
+    "id": 162,
+    "game_name": "Timber Stacks",
+    "game_uid": "cfe86bd54a5ab5caeeeff12cd333c47e",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_timber_stacks.webp"
+  },
+  {
+    "id": 163,
+    "game_name": "Sugar Supreme Powernudge",
+    "game_uid": "ae20ea3685a6fa25b6489f03489bd83b",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_sugar_supreme_powernudge.webp"
+  },
+  {
+    "id": 164,
+    "game_name": "Viking Forge",
+    "game_uid": "1ad222e9a7940fbb51c603458a1d9aff",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_viking_forge.webp"
+  },
+  {
+    "id": 165,
+    "game_name": "Rujak Bonanza",
+    "game_uid": "d8f2e87c7c0898a49d5f0dca19321a67",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_rujak_bonanza.webp"
+  },
+  {
+    "id": 166,
+    "game_name": "Grace of Ebisu",
+    "game_uid": "7918e7b0081306132d4020d4d890ef01",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_grace_of_ebisu.webp"
+  },
+  {
+    "id": 167,
+    "game_name": "Twilight Princess",
+    "game_uid": "078375547c790a2ad08aabe0427f800c",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_twilight_princess.webp"
+  },
+  {
+    "id": 168,
+    "game_name": "888 Bonanza",
+    "game_uid": "8d35c74db4cc910c4a608f694f0ac2c9",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_888_bonanza.webp"
+  },
+  {
+    "id": 169,
+    "game_name": "The Money Men Megaways",
+    "game_uid": "ef907480a0cebef4e072c9d15ceb1d84",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_the_money_man_megaways.webp"
+  },
+  {
+    "id": 170,
+    "game_name": "Demon Pots",
+    "game_uid": "315a7c0ff22e9b9c8f000ba72626b1eb",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_demon_pots.webp"
+  },
+  {
+    "id": 171,
+    "game_name": "Big Bass Halloween",
+    "game_uid": "950764651894d3ec34431c4423f23ebb",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_big_bass_halloween.webp"
+  },
+  {
+    "id": 172,
+    "game_name": "Rainbow Reels",
+    "game_uid": "5f969b7d1b8027ea52ba96d92d5c6948",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_rainbow_reels.webp"
+  },
+  {
+    "id": 173,
+    "game_name": "Gemstone",
+    "game_uid": "9f6631b1861423dd72b422669f0e5e60",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_gemstone.webp"
+  },
+  {
+    "id": 174,
+    "game_name": "Tundra’s Fortune",
+    "game_uid": "4dda8aba195fc38dc6464f35f4538ae2",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_tundras_fortune.webp"
+  },
+  {
+    "id": 175,
+    "game_name": "Cash Chips",
+    "game_uid": "b1258e0b4f6ebb00a5ebb41a6cb7bc26",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_cash_chips.webp"
+  },
+  {
+    "id": 176,
+    "game_name": "Infective Wild",
+    "game_uid": "b9a9503f3580f443d83ba709c5f332f9",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_infective_wild.webp"
+  },
+  {
+    "id": 177,
+    "game_name": "Gravity Bonanza",
+    "game_uid": "43f280df4cdb1b1489d6744d7b1d6332",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_gravity_bonanza.webp"
+  },
+  {
+    "id": 178,
+    "game_name": "Big Bass Crash",
+    "game_uid": "f4c5947fbaa31d2602e6089962b90876",
+    "game_type": "Crash Game",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_big_bass_crash.webp"
+  },
+  {
+    "id": 179,
+    "game_name": "Candy Blitz",
+    "game_uid": "3f90b6a8e9b089615d514a25c1b29323",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_candy_blitz.webp"
+  },
+  {
+    "id": 180,
+    "game_name": "Fortunes of Aztec",
+    "game_uid": "bfb8b9e84ff096a54adffb8688a2bf45",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_fortunes_of_aztec.webp"
+  },
+  {
+    "id": 181,
+    "game_name": "8 Golden Dragon Challenge",
+    "game_uid": "9b8db256da26b54e7b8a0766ac7d904d",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_8_golden_dragon_challenge.webp"
+  },
+  {
+    "id": 182,
+    "game_name": "John Hunter and the Book of Tut Megaways",
+    "game_uid": "9b19140970cfefc081033d4e35d0b360",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_john_hunter_and_the_book_of_tut_megaways.webp"
+  },
+  {
+    "id": 183,
+    "game_name": "Frozen Tropics",
+    "game_uid": "3df26cdfe9500ab174c05367573af3da",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_frozen_tropics.webp"
+  },
+  {
+    "id": 184,
+    "game_name": "Gold Oasis",
+    "game_uid": "1607b049d8a796222fc273ffab91b5d3",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_gold_oasis.webp"
+  },
+  {
+    "id": 185,
+    "game_name": "Saiyan Mania",
+    "game_uid": "09427b3980780ea41a9f15dda6b2726c",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_saiyan_mania.webp"
+  },
+  {
+    "id": 186,
+    "game_name": "Cyclops Smash",
+    "game_uid": "eba8270a8a2ebe09311a5491b798566d",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_cyclops_smash.webp"
+  },
+  {
+    "id": 187,
+    "game_name": "Big Bass Hold & Spinner Megaways",
+    "game_uid": "af7a31b3324bbe5c97a808b7603feeec",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_big_bass_hold__spin_megaways.webp"
+  },
+  {
+    "id": 188,
+    "game_name": "Mahjong Wins",
+    "game_uid": "b1fc7b189ba6f2ccf74e8bcf4b55a686",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_mahjong_wins.webp"
+  },
+  {
+    "id": 189,
+    "game_name": "Forge of Olympus",
+    "game_uid": "5ac3ad3f0072e0b114a8301f556a8bc5",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_forge_of_olympus.webp"
+  },
+  {
+    "id": 190,
+    "game_name": "Piggy Bankers",
+    "game_uid": "c47913d1477cf25524760a3a07dbeedd",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_piggy_bankers.webp"
+  },
+  {
+    "id": 191,
+    "game_name": "Pub Kings",
+    "game_uid": "1bf67bfe1e66d5dee133f69542501e5b",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_pub_kings.webp"
+  },
+  {
+    "id": 192,
+    "game_name": "Mustang Trail",
+    "game_uid": "e378a7f46eef2b738d9737c54c645656",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_mustang_trail.webp"
+  },
+  {
+    "id": 193,
+    "game_name": "Rocket Blast Megaways",
+    "game_uid": "87f49701824163c963d2ca41c11cccab",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_rocket_blast_megaways.webp"
+  },
+  {
+    "id": 194,
+    "game_name": "Supermania",
+    "game_uid": "9d2ff202764e3ac97e16bff3aed6c9b9",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_supermania.webp"
+  },
+  {
+    "id": 195,
+    "game_name": "Lobster Bob's Crazy Crab Shack",
+    "game_uid": "787e0dd629df674a400b212e9125369a",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_lobster_bobs_crazy_crab_shack.webp"
+  },
+  {
+    "id": 196,
+    "game_name": "Diamond Cascade",
+    "game_uid": "daec52818a6b49138cc584cef0b3a028",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_diamond_cascade.webp"
+  },
+  {
+    "id": 197,
+    "game_name": "Starlight Princess 1000",
+    "game_uid": "09d08939279289a03b89f2f146a7f817",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_starlight_princess_1000.webp"
+  },
+  {
+    "id": 198,
+    "game_name": "3 Buzzing Wilds",
+    "game_uid": "b7f5590ec64882148207e646949d005f",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_3_buzzing_wilds.webp"
+  },
+  {
+    "id": 199,
+    "game_name": "Power of Merlin Megaways",
+    "game_uid": "7550347957cc9a63b8c782718bc7bbc1",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_power_of_merlin_megaways.webp"
+  },
+  {
+    "id": 200,
+    "game_name": "Spellbinding Mystery",
+    "game_uid": "dcd84d9b162d2949cd8afd949c3bc77e",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_spellbinding_mystery.webp"
+  },
+  {
+    "id": 201,
+    "game_name": "Cash Box",
+    "game_uid": "1a75acc43d2f431841df864c2d4629d4",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_cash_box.webp"
+  },
+  {
+    "id": 202,
+    "game_name": "Joker Race",
+    "game_uid": "3a33ab169b2200f7820a4159c7268c31",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_joker_race.webp"
+  },
+  {
+    "id": 203,
+    "game_name": "Hellvis Wild",
+    "game_uid": "34d1a5a6cf7970a3fd7d915cdd7a058f",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_hellvis_wild.webp"
+  },
+  {
+    "id": 204,
+    "game_name": "Big Bass Amazon Xtreme",
+    "game_uid": "5807b1f2837f709f692fc1b65f51cefc",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_big_bass_amazon_xtreme.webp"
+  },
+  {
+    "id": 205,
+    "game_name": "Heist for the Golden Nuggets",
+    "game_uid": "7d09a0335b51fd879867402be7f80a43",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_heist_for_the_golden_nugget.webp"
+  },
+  {
+    "id": 206,
+    "game_name": "Wisdom of Athena",
+    "game_uid": "bda320d9d63d12432d578b1f97855087",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_wisdom_of_athena.webp"
+  },
+  {
+    "id": 207,
+    "game_name": "Fat Panda",
+    "game_uid": "24fc30acc61053509c271a0eaf1782a9",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_fat_panda.webp"
+  },
+  {
+    "id": 208,
+    "game_name": "Pirates Pub",
+    "game_uid": "60f7646eb66ad7af6f8ab36ff13723ad",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_pirates_pub.webp"
+  },
+  {
+    "id": 209,
+    "game_name": "Jewel Rush",
+    "game_uid": "bd44e960f4ef716c0ad0702c4a8beee8",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_jewel_rush.webp"
+  },
+  {
+    "id": 210,
+    "game_name": "Robber Strike",
+    "game_uid": "525ef3ce7b0ab3155b63f75683e58635",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_robber_strike.webp"
+  },
+  {
+    "id": 211,
+    "game_name": "Frogs & Bugs",
+    "game_uid": "972eba0227e1b37d5faba91f714f5d8e",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_frogs__bugs.webp"
+  },
+  {
+    "id": 212,
+    "game_name": "Lamp Of Infinity",
+    "game_uid": "df097d9daa1685b9985e1eb39e61a1e7",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_lamp_of_infinity.webp"
+  },
+  {
+    "id": 213,
+    "game_name": "Floating Dragon - Dragon Boat Festival",
+    "game_uid": "6d2c3f62aed12608973fad7fcb8263d0",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_floating_dragon__dragon_boat_festival.webp"
+  },
+  {
+    "id": 214,
+    "game_name": "Sticky Bees",
+    "game_uid": "5829781f73f9ba200a16a41b09f4b548",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_sticky_bees.webp"
+  },
+  {
+    "id": 215,
+    "game_name": "Knight Hot Spotz",
+    "game_uid": "f7f10653ddc4b30609f2b3ec53c60510",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/6479a54f18e34.webp"
+  },
+  {
+    "id": 216,
+    "game_name": "Zeus vs Hades - Gods of War",
+    "game_uid": "df0492724f0fc4ae4ec183d0c0176d46",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/6479a593ccfa0.webp"
+  },
+  {
+    "id": 217,
+    "game_name": "Wild Bison Charge",
+    "game_uid": "14ead2e47fd93e145d6fd7689ec7001a",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_wild_bison_charge.webp"
+  },
+  {
+    "id": 218,
+    "game_name": "Excalibur Unleashed",
+    "game_uid": "65f80fc41945b953333ee709a58e0152",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_excalibur_unleashed.webp"
+  },
+  {
+    "id": 219,
+    "game_name": "Holiday Ride",
+    "game_uid": "28e4d704cf080bb6cae517365b27c1fa",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/646db60053d1a.webp"
+  },
+  {
+    "id": 220,
+    "game_name": "Diamonds of Egypt",
+    "game_uid": "5743a2300cc3c54855838cef2af0fc99",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/646db5a0b1bfe.webp"
+  },
+  {
+    "id": 221,
+    "game_name": "Kingdom of The Dead",
+    "game_uid": "b2bb144d10b6c0ecc70290bac9c46b37",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_kingdom_of_the_dead.webp"
+  },
+  {
+    "id": 222,
+    "game_name": "Jasmine Dreams",
+    "game_uid": "e71997252ce1d047424f9fd5a0a064e2",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_jasmine_dreams.webp"
+  },
+  {
+    "id": 223,
+    "game_name": "Jane Hunter and the Mask of Montezuma",
+    "game_uid": "8bbe5db9292401a1949370cdc622d361",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_jane_hunter_and_the_mask_of_montezuma.webp"
+  },
+  {
+    "id": 224,
+    "game_name": "Cowboy Coins",
+    "game_uid": "d92892b4f0cf9e5549d6e8219799a58c",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_cowboy_coins.webp"
+  },
+  {
+    "id": 225,
+    "game_name": "Gods of Giza",
+    "game_uid": "8568e9c3c1355b30aaf8771df6c7b749",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_gods_of_giza.webp"
+  },
+  {
+    "id": 226,
+    "game_name": "Wild Celebrity Bus Megaways",
+    "game_uid": "f2123a67dd61d022e892ccf306f035d0",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_wild_celebrity_bus_megaways.webp"
+  },
+  {
+    "id": 227,
+    "game_name": "3 Dancing Monkeys",
+    "game_uid": "ac700413f2a4f9241e306e622a5bf935",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_3_dancing_monkeys.webp"
+  },
+  {
+    "id": 228,
+    "game_name": "African Elephant",
+    "game_uid": "c47e7fda3a1d706d21fc215b4f080551",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_african_elephant.webp"
+  },
+  {
+    "id": 229,
+    "game_name": "Moonshot",
+    "game_uid": "14f3ed57c53c2ad75cba2933b4087b60",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_moonshot.webp"
+  },
+  {
+    "id": 230,
+    "game_name": "The Red Queen",
+    "game_uid": "7112b25f15d34e49eaab3951356bb9a6",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_the_red_queen.webp"
+  },
+  {
+    "id": 231,
+    "game_name": "Fruits of the Amazon",
+    "game_uid": "20a5902cf138c5ebdfaa313677a0369f",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_fruits_of_the_amazon.webp"
+  },
+  {
+    "id": 232,
+    "game_name": "The Knight King",
+    "game_uid": "beb6945fb6425f850f4758ee63785a9e",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_the_knight_king.webp"
+  },
+  {
+    "id": 233,
+    "game_name": "The Dog House Multihold",
+    "game_uid": "9198d01543114fa961ad20f0aff63672",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_the_dog_house_multihold.webp"
+  },
+  {
+    "id": 234,
+    "game_name": "Rabbit Garden",
+    "game_uid": "c708cac68bf68fa5de05977fe7f11153",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_rabbit_garden.webp"
+  },
+  {
+    "id": 235,
+    "game_name": "Wild West Duels",
+    "game_uid": "584ceb7bf9bf98841294c8da4f9b7705",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_wild_west_duels.webp"
+  },
+  {
+    "id": 236,
+    "game_name": "Mystery Of The Orient",
+    "game_uid": "cb7e319f72c9b39a2f8c92e6d585557d",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_mystery_of_the_orient.webp"
+  },
+  {
+    "id": 237,
+    "game_name": "Wild Wild Riches Megaways",
+    "game_uid": "8dbc6b550d9684f5a4d03d62ff6cd0c5",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_wild_wild_riches_megaways.webp"
+  },
+  {
+    "id": 238,
+    "game_name": "Peak Power",
+    "game_uid": "14ca4e22f87ef9c06452a6aa3208c3c3",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_peak_power.webp"
+  },
+  {
+    "id": 239,
+    "game_name": "Club Tropicana",
+    "game_uid": "ec96e7f4cf81c39a29127a7a475fc3af",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_club_tropicana.webp"
+  },
+  {
+    "id": 240,
+    "game_name": "Fire Archer",
+    "game_uid": "5afb80c4615f2910c9fdf14e78c2b2d7",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_fire_archer.webp"
+  },
+  {
+    "id": 241,
+    "game_name": "Gatot Kaca's Fury",
+    "game_uid": "b3e4366fedc4dc70c9769a7ecbefcc6b",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_gatot_kacas_fury.webp"
+  },
+  {
+    "id": 242,
+    "game_name": "Mochimon",
+    "game_uid": "94ff937e0ce81bb47aa57f48270a7706",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_mochimon.webp"
+  },
+  {
+    "id": 243,
+    "game_name": "Monster Superlanche",
+    "game_uid": "74ca460589928e25b1f0767e15611f3f",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_monster_superlanche.webp"
+  },
+  {
+    "id": 244,
+    "game_name": "Fish Eye",
+    "game_uid": "8666f814f931135eb824726af1217bcd",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_fish_eye.webp"
+  },
+  {
+    "id": 245,
+    "game_name": "Secret City Gold",
+    "game_uid": "1a572faa53b45bd8cd1b576aa2717e0d",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_secret_city_gold.webp"
+  },
+  {
+    "id": 246,
+    "game_name": "Pinup Girls",
+    "game_uid": "4a0363f5a77c31cada471326ae1470f0",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_pinup_girls.webp"
+  },
+  {
+    "id": 247,
+    "game_name": "Mammoth Gold Megaways",
+    "game_uid": "bb02b8ec08f419f736dcd5a05dec7e11",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_mammoth_gold_megaways.webp"
+  },
+  {
+    "id": 248,
+    "game_name": "Wild Wild Bananas",
+    "game_uid": "1ff5d508e3503952a59200e991f084fb",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_wild_wild_bananas.webp"
+  },
+  {
+    "id": 249,
+    "game_name": "Gates of Aztec",
+    "game_uid": "3424ac1587cce058dea273a4e5a3cbf8",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_gates_of_aztec.webp"
+  },
+  {
+    "id": 250,
+    "game_name": "Fury of Odin Megaways",
+    "game_uid": "756d339c5748f3c294ff9af12b1569f4",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_fury_of_odin_megaways.webp"
+  },
+  {
+    "id": 251,
+    "game_name": "Sweet Powernudge",
+    "game_uid": "e56351f07bf54902c0dd24eb398ad008",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_sweet_powernudge.webp"
+  },
+  {
+    "id": 252,
+    "game_name": "Hot Pepper",
+    "game_uid": "5a279ab989b4722a649af9e9cd9bad68",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_hot_pepper.webp"
+  },
+  {
+    "id": 253,
+    "game_name": "PIZZA! PIZZA? PIZZA!",
+    "game_uid": "41a153f648c94ed3a6f8562f39eb039d",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_pizza_pizza_pizza.webp"
+  },
+  {
+    "id": 254,
+    "game_name": "Reel Banks",
+    "game_uid": "77022f0e153bb46b43ef08d83b0499ea",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_reel_banks.webp"
+  },
+  {
+    "id": 255,
+    "game_name": "5 Rabbits Megaways",
+    "game_uid": "908f3b21263818f283e3c2b6c57bea25",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_5_rabbits_megaways.webp"
+  },
+  {
+    "id": 256,
+    "game_name": "Dragon Hero",
+    "game_uid": "7213d6d23f67e21cb0843c95ef4d5614",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_dragon_hero.webp"
+  },
+  {
+    "id": 257,
+    "game_name": "Lucky Fishing Megaways",
+    "game_uid": "9a0b02afcb79b9cc0bf01cc5990014cb",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_lucky_fishing_megaways.webp"
+  },
+  {
+    "id": 258,
+    "game_name": "Big Bass Bonanza - Keeping it Reel",
+    "game_uid": "f14729c8edfa50174568a18ebb10265f",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_big_bass_bonanza__keeping_it_reel.webp"
+  },
+  {
+    "id": 259,
+    "game_name": "Shield of Sparta",
+    "game_uid": "afec8fc55162675f8812b17accaffc92",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_shield_of_sparta.webp"
+  },
+  {
+    "id": 260,
+    "game_name": "Gates of Gatot Kaca",
+    "game_uid": "4344bf39cbeaafca9edfbd724330d284",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_gates_of_gatot_kaca.webp"
+  },
+  {
+    "id": 261,
+    "game_name": "Pirate Golden Age",
+    "game_uid": "7473e246b5a2fdedc5a40487540c19f9",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_pirate_golden_age.webp"
+  },
+  {
+    "id": 262,
+    "game_name": "Gems of Serengeti",
+    "game_uid": "c338b56623046b9cb3fd5f70b8eee923",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_gems_of_serengeti.webp"
+  },
+  {
+    "id": 263,
+    "game_name": "Firebird Spirit",
+    "game_uid": "ff0ca0ef8c05956e517df50e7b3ca4ba",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_firebird_spirit.webp"
+  },
+  {
+    "id": 264,
+    "game_name": "Towering Fortunes",
+    "game_uid": "5dc2b639da63de5072fb09681fb28dc9",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_towering_fortunes.webp"
+  },
+  {
+    "id": 265,
+    "game_name": "Starlight Christmas",
+    "game_uid": "3140a7726214521c34804325fe35f7a1",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_starlight_christmas.webp"
+  },
+  {
+    "id": 266,
+    "game_name": "Release the Kraken 2",
+    "game_uid": "115e96e8d19b357dfa846d552ddb3c4e",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_release_the_kraken_2.webp"
+  },
+  {
+    "id": 267,
+    "game_name": "Santa's Great Gifts",
+    "game_uid": "4e28ca15834bfdf2a7cd031971dcaff4",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_santas_great_gifts.webp"
+  },
+  {
+    "id": 268,
+    "game_name": "Aztec Blaze",
+    "game_uid": "f1f14da82af4fa8bd821dd830a9edc12",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_aztec_blaze.webp"
+  },
+  {
+    "id": 269,
+    "game_name": "Kingdom of Asgard",
+    "game_uid": "f126d8d754f8b9069d09f8971ec0d627",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_kingdom_of_asgard.webp"
+  },
+  {
+    "id": 270,
+    "game_name": "Spin & Score Megaways",
+    "game_uid": "bf03791befae5af547d91bbe8c544010",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_spin__score_megaways.webp"
+  },
+  {
+    "id": 271,
+    "game_name": "John Hunter & the Book of Tut Respin",
+    "game_uid": "653fe7e86a0c21c0b07b400ab9feb4b9",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_john_hunter__the_book_of_tut_respin.webp"
+  },
+  {
+    "id": 272,
+    "game_name": "Old Gold Miner Megaways",
+    "game_uid": "90746f39bdca21a346389573de57f9d8",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_old_gold_miner_megaways.webp"
+  },
+  {
+    "id": 273,
+    "game_name": "Sword of Ares",
+    "game_uid": "48ac2e881e15291c39a8304f9aeb6e8c",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_sword_of_ares.webp"
+  },
+  {
+    "id": 274,
+    "game_name": "Wild Hop & Drop",
+    "game_uid": "5ffaacab7e6808fd3b84e8d054c51c7c",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_wild_hop__drop.webp"
+  },
+  {
+    "id": 275,
+    "game_name": "Book of Golden Sands",
+    "game_uid": "73af5e80348d3b609d7948497512e391",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_book_of_golden_sands.webp"
+  },
+  {
+    "id": 276,
+    "game_name": "Legend of Heroes Megaways",
+    "game_uid": "ffe1a4449dbac923e59d43d203ba8140",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_legend_of_heroes_megaways.webp"
+  },
+  {
+    "id": 277,
+    "game_name": "Striking Hot 5",
+    "game_uid": "4824f69228c301b1336d6bd7b133bc4e",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_striking_hot_5.webp"
+  },
+  {
+    "id": 278,
+    "game_name": "Snakes & Ladders - Snake Eyes",
+    "game_uid": "418e191caa10619be5020b8386264cab",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_snakes__ladders__snake_eyes.webp"
+  },
+  {
+    "id": 279,
+    "game_name": "Muertos Multiplier Megaways",
+    "game_uid": "867879954da25a3b1f685bb23fd313be",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_muertos_multiplier_megaways.webp"
+  },
+  {
+    "id": 280,
+    "game_name": "Crown of Fire",
+    "game_uid": "2b04a4b657245ce3d792074c9f644551",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_crown_of_fire.webp"
+  },
+  {
+    "id": 281,
+    "game_name": "Candy Stars",
+    "game_uid": "7b0d86eef80df55b6fe0b40af454a14d",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_candy_stars.webp"
+  },
+  {
+    "id": 282,
+    "game_name": "Black Bull",
+    "game_uid": "7ebe1e90ae4c91d57b7b30e23dfd6db7",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_black_bull.webp"
+  },
+  {
+    "id": 283,
+    "game_name": "Wildman Super Bonanza",
+    "game_uid": "cc5d5413023cf9787d3e631c6ca766c8",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_wildman_super_bonanza.webp"
+  },
+  {
+    "id": 284,
+    "game_name": "Floating Dragon Megaways",
+    "game_uid": "41e17468794cf6284ea8bb4a6272591e",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_floating_dragon_megaways.webp"
+  },
+  {
+    "id": 285,
+    "game_name": "Magic Money Maze",
+    "game_uid": "d3b6d44e567dd9d65040e72372a9af48",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_magic_money_maze.webp"
+  },
+  {
+    "id": 286,
+    "game_name": "Down the Rails",
+    "game_uid": "245d25c8d5b9bf6ac800a75b34626578",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_down_the_rails.webp"
+  },
+  {
+    "id": 287,
+    "game_name": "Greedy Wolf",
+    "game_uid": "f6ac7090e2eda2d579dc6650acec42ad",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_greedy_wolf.webp"
+  },
+  {
+    "id": 288,
+    "game_name": "Fire Hot 100",
+    "game_uid": "cd2e009dc209f21934d8b32c26df7b9c",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_fire_hot_100.webp"
+  },
+  {
+    "id": 289,
+    "game_name": "Fire Hot 40",
+    "game_uid": "961f052a9dbd7cef955eea61235d1c2e",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_fire_hot_40.webp"
+  },
+  {
+    "id": 290,
+    "game_name": "Fire Hot 20",
+    "game_uid": "29890bc4f33992795f14615886c8ad09",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_fire_hot_20.webp"
+  },
+  {
+    "id": 291,
+    "game_name": "Fire Hot 5",
+    "game_uid": "eb80337eaf68ca4dc74dbc78242056d1",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_fire_hot_5.webp"
+  },
+  {
+    "id": 292,
+    "game_name": "Gorilla Mayhem",
+    "game_uid": "92c36d2e1d02816f9c5048a878abefa8",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_gorilla_mayhem.webp"
+  },
+  {
+    "id": 293,
+    "game_name": "Octobeer Fortunes",
+    "game_uid": "27ac78d33471d4406de187759ebe4729",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_octobeer_fortunes.webp"
+  },
+  {
+    "id": 294,
+    "game_name": "Hot to Burn Extreme",
+    "game_uid": "1a05258e8736462d926bb7d07ee291cb",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_hot_to_burn_extreme.webp"
+  },
+  {
+    "id": 295,
+    "game_name": "Cheeky Emperor",
+    "game_uid": "e0490153ae32f9ba425e24f8b2c6b1f9",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_cheeky_emperor.webp"
+  },
+  {
+    "id": 296,
+    "game_name": "Sugar Rush",
+    "game_uid": "6aeb8420d03722cfd4b66d91e17758ba",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_sugar_rush.webp"
+  },
+  {
+    "id": 297,
+    "game_name": "Tropical Tiki",
+    "game_uid": "ea2c71f8c914f50c991b4f6e55fab410",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_tropical_tiki.webp"
+  },
+  {
+    "id": 298,
+    "game_name": "Coffee Wild",
+    "game_uid": "5fa3eef2f06120b976e71f938c6dd2e4",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_coffee_wild.webp"
+  },
+  {
+    "id": 299,
+    "game_name": "Shining Hot 100",
+    "game_uid": "6dd17073841d7248ada5c7648fe8e9f6",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_shining_hot_100.webp"
+  },
+  {
+    "id": 300,
+    "game_name": "Shining Hot 40",
+    "game_uid": "a76a101fcc084cfa9e8c2803636291b2",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_shining_hot_40.webp"
+  },
+  {
+    "id": 301,
+    "game_name": "Shining Hot 20",
+    "game_uid": "7aa04b0b3a719bb6e8856dbd06af594e",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_shining_hot_20.webp"
+  },
+  {
+    "id": 302,
+    "game_name": "Shining Hot 5",
+    "game_uid": "4427edf67298a1ba7f12a88e0867ffb3",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_shining_hot_5.webp"
+  },
+  {
+    "id": 303,
+    "game_name": "Big Bass Splash",
+    "game_uid": "a1dfe25af8aa67b40e3f5c2b090a7f66",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_big_bass_splash.webp"
+  },
+  {
+    "id": 304,
+    "game_name": "Bomb Bonanza",
+    "game_uid": "1a7933f4e5a83533018aafa754af8457",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_bomb_bonanza.webp"
+  },
+  {
+    "id": 305,
+    "game_name": "Mahjong Panda",
+    "game_uid": "83e5d87b0c496a073bbb5ef110e283dd",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_mahjong_panda.webp"
+  },
+  {
+    "id": 306,
+    "game_name": "Cosmic Cash",
+    "game_uid": "b986c1fc6e5d8fb9ed1c22e2e520d96c",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_cosmic_cash.webp"
+  },
+  {
+    "id": 307,
+    "game_name": "Little Gem",
+    "game_uid": "36a7683cd2428224526a5f30c75297c8",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_little_gem.webp"
+  },
+  {
+    "id": 308,
+    "game_name": "Queen of Gods",
+    "game_uid": "b6f65caf1829c8546707a16e00c4251c",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_queen_of_gods.webp"
+  },
+  {
+    "id": 309,
+    "game_name": "Cleocatra",
+    "game_uid": "6dd63841677a36bf07ce069ec54bc456",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_cleocatra.webp"
+  },
+  {
+    "id": 310,
+    "game_name": "Koi Pond",
+    "game_uid": "1e71c96079cd48c3fedd3420837231e1",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_koi_pond.webp"
+  },
+  {
+    "id": 311,
+    "game_name": "Rise Of Samurai III",
+    "game_uid": "1d6625ad2b97fc8059159d2c0bad4242",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_rise_of_samurai_iii.webp"
+  },
+  {
+    "id": 312,
+    "game_name": "North Guardians",
+    "game_uid": "76ef9aa9b70594ccf793b4be02d7d05d",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_north_guardians.webp"
+  },
+  {
+    "id": 313,
+    "game_name": "The Great Stick-Up",
+    "game_uid": "b9b2a9b296042d6190edd89b25e1c5fa",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_the_great_stickup.webp"
+  },
+  {
+    "id": 314,
+    "game_name": "Zombie Carnival",
+    "game_uid": "b66957542324a360e19b6f7b7415ef0d",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_zombie_carnival.webp"
+  },
+  {
+    "id": 315,
+    "game_name": "Eye of Cleopatra",
+    "game_uid": "5ab0adaae59c7d17204e03e6d16ae9a9",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_eye_of_cleopatra.webp"
+  },
+  {
+    "id": 316,
+    "game_name": "Fire Strike 2",
+    "game_uid": "f4aa37276d97543e2b7707940c88ec2d",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_fire_strike_2.webp"
+  },
+  {
+    "id": 317,
+    "game_name": "Spirit of Adventure",
+    "game_uid": "bf51fadccb42972a514bc45373a73e55",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_spirit_of_adventure.webp"
+  },
+  {
+    "id": 318,
+    "game_name": "Wild West Gold Megaways",
+    "game_uid": "f0f54e0bbb300845990c0586fabd9bed",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_wild_west_gold_megaways.webp"
+  },
+  {
+    "id": 319,
+    "game_name": "Chicken Chase",
+    "game_uid": "65cf0d0ebf1800fe2b6e84d4fb414d54",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_chicken_chase.webp"
+  },
+  {
+    "id": 320,
+    "game_name": "Barn Festival",
+    "game_uid": "d0ef313796cb3e2da7844984cd95b726",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_barn_festival.webp"
+  },
+  {
+    "id": 321,
+    "game_name": "Queenie",
+    "game_uid": "4e6b3295ce7e64395124d7e29ff9347c",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_queenie.webp"
+  },
+  {
+    "id": 322,
+    "game_name": "Disco Lady",
+    "game_uid": "140a4920ece136f2d064355cfb16d309",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_disco_lady.webp"
+  },
+  {
+    "id": 323,
+    "game_name": "Tic Tac Take",
+    "game_uid": "4e93012ec2a4ea0a907d96c40bf1f14a",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_tic_tac_take.webp"
+  },
+  {
+    "id": 324,
+    "game_name": "Rainbow Gold",
+    "game_uid": "8c355c92481f747e2e7a040c0a288212",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_rainbow_gold.webp"
+  },
+  {
+    "id": 325,
+    "game_name": "Snakes and Ladders Megadice",
+    "game_uid": "1cd886e37f8219d223515d7f07693069",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_snakes_and_ladders_megadice.webp"
+  },
+  {
+    "id": 326,
+    "game_name": "Bull Fiesta",
+    "game_uid": "4d21b0dc473f89616de76c3b342934fd",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_bull_fiesta.webp"
+  },
+  {
+    "id": 327,
+    "game_name": "Might of Ra",
+    "game_uid": "002ccc80cfff9b1563814f7cd2a6d0fe",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_might_of_ra.webp"
+  },
+  {
+    "id": 328,
+    "game_name": "Book of Aztec King",
+    "game_uid": "32370b44281b818c3b03bfdb8180ada0",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_book_of_aztec_king.webp"
+  },
+  {
+    "id": 329,
+    "game_name": "Wild Beach Party",
+    "game_uid": "97d3638d9503b0ade2d467983add7f0d",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_wild_beach_party.webp"
+  },
+  {
+    "id": 330,
+    "game_name": "Spaceman",
+    "game_uid": "bee355cb11e533e4fdc98a043f2a9b4f",
+    "game_type": "Crash Game",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_spaceman.webp"
+  },
+  {
+    "id": 331,
+    "game_name": "The Ultimate 5",
+    "game_uid": "148da0b08792407895f5c96ecbafd29b",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_the_ultimate_5.webp"
+  },
+  {
+    "id": 332,
+    "game_name": "Colossal Cash Zone",
+    "game_uid": "50f573ae28732a404e4a1d5e43349db9",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_colossal_cash_zone.webp"
+  },
+  {
+    "id": 333,
+    "game_name": "Cash Patrol",
+    "game_uid": "6913e0936dc7a1a6355a125d79d1c4b4",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_cash_patrol.webp"
+  },
+  {
+    "id": 334,
+    "game_name": "Rock Vegas",
+    "game_uid": "22effb918f8f0b7583abbb0ccf5cb064",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_rock_vegas.webp"
+  },
+  {
+    "id": 335,
+    "game_name": "Elemental Gems Megaways",
+    "game_uid": "b83d0a110632be33daadc8c2eb8bca54",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_elemental_gems_megaways.webp"
+  },
+  {
+    "id": 336,
+    "game_name": "Gates of Valhalla",
+    "game_uid": "95273f38148f66e09a93de2c6337b15d",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_gates_of_valhalla.webp"
+  },
+  {
+    "id": 337,
+    "game_name": "Gold Party",
+    "game_uid": "fb6886b6f0ee1379fcadbdda398d3dc7",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_gold_party.webp"
+  },
+  {
+    "id": 338,
+    "game_name": "Extra Juicy Megaways",
+    "game_uid": "c2a96f6772a34d1351c09bb3e2eb0a79",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_extra_juicy_megaways.webp"
+  },
+  {
+    "id": 339,
+    "game_name": "Wild Depths",
+    "game_uid": "96a059605c65d1af8fb1553a8ee14ccf",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_wild_depths.webp"
+  },
+  {
+    "id": 340,
+    "game_name": "Magician's Secrets",
+    "game_uid": "a0545098047c96b4a8487e90b3fb15c9",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_magicians_secrets.webp"
+  },
+  {
+    "id": 341,
+    "game_name": "Crystal Caverns Megaways",
+    "game_uid": "dec38f3053ba56c1d78eb170fae4b94d",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_crystal_caverns_megaways.webp"
+  },
+  {
+    "id": 342,
+    "game_name": "Smugglers Cove",
+    "game_uid": "00c3f19ee51d2c52a20a7b88fe8c6d9c",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_smugglers_cove.webp"
+  },
+  {
+    "id": 343,
+    "game_name": "Emperor Caishen",
+    "game_uid": "e539ca804c0c6dbb78b5589d2b147b73",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_emperor_caishen.webp"
+  },
+  {
+    "id": 344,
+    "game_name": "Lucky New Year - Tiger Treasures",
+    "game_uid": "d735900b365bb483b23a854be3c49818",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_lucky_new_year_tiger_treasures.webp"
+  },
+  {
+    "id": 345,
+    "game_name": "Fortune of Giza",
+    "game_uid": "8060b9627603e47cd5381997bf8e54e9",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_fortune_of_giza.webp"
+  },
+  {
+    "id": 346,
+    "game_name": "Super X",
+    "game_uid": "b9929767817a3ec8032d389be803bc93",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_super_x.webp"
+  },
+  {
+    "id": 347,
+    "game_name": "Big Bass Bonanza Megaways",
+    "game_uid": "96810fa8cb383014cda377b5a04b829a",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_big_bass_bonanza_megaways.webp"
+  },
+  {
+    "id": 348,
+    "game_name": "Hockey Attack",
+    "game_uid": "8137613b01b1a4bfe67e59ec9c915eac",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_hockey_attack.webp"
+  },
+  {
+    "id": 349,
+    "game_name": "Bounty Gold",
+    "game_uid": "74ad5ad66f45a9d1b8136ef704bbdf26",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_bounty_gold.webp"
+  },
+  {
+    "id": 350,
+    "game_name": "Bubble Pop",
+    "game_uid": "d21f365eb011f93df8639ac49283d9a7",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_bubble_pop.webp"
+  },
+  {
+    "id": 351,
+    "game_name": "Book of Fallen",
+    "game_uid": "5d087361d7e0ec97e292b533b0b2e1ea",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_book_of_fallen.webp"
+  },
+  {
+    "id": 352,
+    "game_name": "Christmas Big Bass Bonanza",
+    "game_uid": "5b22ab96368a5d3aed8a1f541ead932f",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_christmas_big_bass_bonanza.webp"
+  },
+  {
+    "id": 353,
+    "game_name": "Santa's Wonderland",
+    "game_uid": "d327a0dea94bd8a5fc090b4855051dff",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_santas_wonderland.webp"
+  },
+  {
+    "id": 354,
+    "game_name": "Big Juan",
+    "game_uid": "7cdac8e7102f1d8959650c5a76aa9370",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_big_juan.webp"
+  },
+  {
+    "id": 355,
+    "game_name": "John Hunter and the Quest for Bermuda Riches",
+    "game_uid": "c04352fedef3908ac580d4e1ad8a30d0",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_john_hunter_and_the_quest_for_bermuda_riches.webp"
+  },
+  {
+    "id": 356,
+    "game_name": "Star Pirates Code",
+    "game_uid": "5279cdfc3e2ba15abf92cf6d7bdbba38",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_star_pirates_code.webp"
+  },
+  {
+    "id": 357,
+    "game_name": "The Tweety House",
+    "game_uid": "614e8ca458bbc48331b6c9a5900510e1",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_the_tweety_house.webp"
+  },
+  {
+    "id": 358,
+    "game_name": "Mystic Chief",
+    "game_uid": "22b9cf05f4d62fec02aca39fb60030c4",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_mystic_chief.webp"
+  },
+  {
+    "id": 359,
+    "game_name": "Day of Dead",
+    "game_uid": "39e5d6e45fce6f88c23be485d0eff5f9",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_day_of_dead.webp"
+  },
+  {
+    "id": 360,
+    "game_name": "Candy Village",
+    "game_uid": "e4fb25a7966b5c0b2fbb4f7028969a30",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_candy_village.webp"
+  },
+  {
+    "id": 361,
+    "game_name": "Piggy Bank Bills",
+    "game_uid": "3f61bad3beddd15d117e01d18b6a44b8",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_piggy_bank_bills.webp"
+  },
+  {
+    "id": 362,
+    "game_name": "Cash Bonanza",
+    "game_uid": "8b6de15508037d99adba63f2009e4d0c",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_cash_bonanza.webp"
+  },
+  {
+    "id": 363,
+    "game_name": "Treasure Wild",
+    "game_uid": "dea1429c68719c72c690d001cf73d9b6",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_treasure_wild.webp"
+  },
+  {
+    "id": 364,
+    "game_name": "Bigger Bass Bonanza",
+    "game_uid": "533b95b0d17cda431521139970d39073",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_bigger_bass_bonanza.webp"
+  },
+  {
+    "id": 365,
+    "game_name": "Starlight Princess",
+    "game_uid": "be6b6890587ed84289fad941d99a3613",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_starlight_princess.webp"
+  },
+  {
+    "id": 366,
+    "game_name": "Raging Bull",
+    "game_uid": "4f70e310a4f7645cfeafd50d43a0643c",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_raging_bull.webp"
+  },
+  {
+    "id": 367,
+    "game_name": "Pyramid Bonanza",
+    "game_uid": "ab841b96a216b2321baa11d6121185a3",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_pyramid_bonanza.webp"
+  },
+  {
+    "id": 368,
+    "game_name": "Rise of Giza PowerNudge",
+    "game_uid": "5e7203a0b4da86defb2ba59eb29b3ca3",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_rise_of_giza_powernudge.webp"
+  },
+  {
+    "id": 369,
+    "game_name": "Yum Yum Powerways",
+    "game_uid": "9560ce847f99d7411ff4bee8fb503b9e",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_yum_yum_powerways.webp"
+  },
+  {
+    "id": 370,
+    "game_name": "Chilli Heat Megaways",
+    "game_uid": "7361d621d9c309724411620f049e715b",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_chilli_heat_megaways.webp"
+  },
+  {
+    "id": 371,
+    "game_name": "Lucky, Grace And Charm",
+    "game_uid": "58bcfeb1a79a4d3d9c2b7753c2d25b9c",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_lucky_grace_and_charm.webp"
+  },
+  {
+    "id": 372,
+    "game_name": "Aztec King Megaways",
+    "game_uid": "41e626a6f7de17238ded22bb566654b3",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_aztec_king_megaways.webp"
+  },
+  {
+    "id": 373,
+    "game_name": "Chicken Drop",
+    "game_uid": "85c42fe280b53f00702b07b3335356b4",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_chicken_drop.webp"
+  },
+  {
+    "id": 374,
+    "game_name": "Phoenix Forge",
+    "game_uid": "62527f128b508c7a7bdb660d8f327232",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_phoenix_forge.webp"
+  },
+  {
+    "id": 375,
+    "game_name": "Fruit Party 2",
+    "game_uid": "6be857d19ef7b4fac0ba9c375538a7d9",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_fruit_party_2.webp"
+  },
+  {
+    "id": 376,
+    "game_name": "Empty the Bank",
+    "game_uid": "6f0279bab4e1e4812280743ea720b549",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_empty_the_bank.webp"
+  },
+  {
+    "id": 377,
+    "game_name": "Lucky Lightning",
+    "game_uid": "b992e0dcdcb8d20d4b2305a13471ce3d",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_lucky_lightning.webp"
+  },
+  {
+    "id": 378,
+    "game_name": "Heart of Rio",
+    "game_uid": "9e749c8762ff58417e45b2330ac805cb",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_heart_of_rio.webp"
+  },
+  {
+    "id": 379,
+    "game_name": "Dragon Hot Hold and Spin",
+    "game_uid": "5d4e138370cc6a446e28a4730c9fe3f5",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_dragon_hot_hold_and_spin.webp"
+  },
+  {
+    "id": 380,
+    "game_name": "5 Lions Megaways",
+    "game_uid": "b066c2bdef0f2d541a2317ed5fdac3b4",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_5_lions_megaways.webp"
+  },
+  {
+    "id": 381,
+    "game_name": "Hokkaido Wolf",
+    "game_uid": "36971499e5df54cc815a4c9de54df254",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_hokkaido_wolf.webp"
+  },
+  {
+    "id": 382,
+    "game_name": "Cash Elevator",
+    "game_uid": "d48746b0f5aa3677812f76269597b5c1",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_cash_elevator.webp"
+  },
+  {
+    "id": 383,
+    "game_name": "Rise of Samurai Megaways",
+    "game_uid": "ee8b6a0a96a2687308f1eb850dd986c5",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_rise_of_samurai_megaways.webp"
+  },
+  {
+    "id": 384,
+    "game_name": "Aztec King",
+    "game_uid": "b38c40afbbb60f50925d48720a423de9",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_aztec_king.webp"
+  },
+  {
+    "id": 385,
+    "game_name": "Amazing Money Machine",
+    "game_uid": "67ad028a5b9fdc3a1af99351e3bd07ee",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_amazing_money_machine.webp"
+  },
+  {
+    "id": 386,
+    "game_name": "Panda Fortune 2",
+    "game_uid": "9185ca53157a194f5442894fda79967a",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_panda_fortune_2.webp"
+  },
+  {
+    "id": 387,
+    "game_name": "Floating Dragon",
+    "game_uid": "1be0946d4cdc5c26c5922b96c7e154f0",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_floating_dragon.webp"
+  },
+  {
+    "id": 388,
+    "game_name": "Buffalo King Megaways",
+    "game_uid": "0ea5af839234de02f6ddcf4c51f31f59",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_buffalo_king_megaways.webp"
+  },
+  {
+    "id": 389,
+    "game_name": "Hot Fiesta",
+    "game_uid": "57217d124ca0f93d331ed5e0691deb3b",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_hot_fiesta.webp"
+  },
+  {
+    "id": 390,
+    "game_name": "Power of Thor Megaways",
+    "game_uid": "37676e6e80e6c023f03d48f1ee3befc8",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_power_of_thor_megaways.webp"
+  },
+  {
+    "id": 391,
+    "game_name": "Wild Booster",
+    "game_uid": "13193d9b62a51811db4dc5da940d9a02",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_wild_booster.webp"
+  },
+  {
+    "id": 392,
+    "game_name": "Juicy Fruits",
+    "game_uid": "77e051470b364993d017c7cede10120e",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_juicy_fruits.webp"
+  },
+  {
+    "id": 393,
+    "game_name": "Temujin Treasures",
+    "game_uid": "5db987318a3bd9fc4be76f04bcb89555",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_temujin_treasures.webp"
+  },
+  {
+    "id": 394,
+    "game_name": "Fishin Reels",
+    "game_uid": "1ee85d001705ebaf63cc0ccae61538ca",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_fishin_reels.webp"
+  },
+  {
+    "id": 395,
+    "game_name": "Gates of Olympus",
+    "game_uid": "9afa884f169dfd11a5cd39da32bd4df1",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_gates_of_olympus.webp"
+  },
+  {
+    "id": 396,
+    "game_name": "Hot to Burn Hold and Spin",
+    "game_uid": "7b99b6b9bd2b31e5b4ea44fab1269c48",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_hot_to_burn_hold_and_spin.webp"
+  },
+  {
+    "id": 397,
+    "game_name": "Joker King",
+    "game_uid": "b81b86263b26a2dfe287ca8c22750329",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_joker_king.webp"
+  },
+  {
+    "id": 398,
+    "game_name": "Great Rhino Deluxe",
+    "game_uid": "f4203cff9058051d2ce6459c8d750683",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_great_rhino_deluxe.webp"
+  },
+  {
+    "id": 399,
+    "game_name": "Wild Wild Riches",
+    "game_uid": "c00114a78ba7062de33f78405c7cac5d",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_wild_wild_riches.webp"
+  },
+  {
+    "id": 400,
+    "game_name": "Ultra Hold and Spin",
+    "game_uid": "2f42ef84333961841928d92c029d204f",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_ultra_hold_and_spin.webp"
+  },
+  {
+    "id": 401,
+    "game_name": "Curse of the Werewolf Megaways",
+    "game_uid": "5fcc23cf91acd1f355201351b7a3f26e",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_curse_of_the_werewolf_megaways.webp"
+  },
+  {
+    "id": 402,
+    "game_name": "Jungle Gorilla",
+    "game_uid": "39371d94a147acda0ae347028f9f9ec4",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_jungle_gorilla.webp"
+  },
+  {
+    "id": 403,
+    "game_name": "Aztec Gems Deluxe",
+    "game_uid": "4e88eb8562a4a9fff6d8673b61153a8d",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_aztec_gems_deluxe.webp"
+  },
+  {
+    "id": 404,
+    "game_name": "The Dog House Megaways",
+    "game_uid": "553b3622cad4fa40e351055005915a98",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_the_dog_house_megaways.webp"
+  },
+  {
+    "id": 405,
+    "game_name": "The Tiger Warrior",
+    "game_uid": "ee424f2933e0473b8f0dccb0cb8d8d01",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_the_tiger_warrior.webp"
+  },
+  {
+    "id": 406,
+    "game_name": "Street Racer",
+    "game_uid": "5ecabbfd86af974d3807dd15f157f40f",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_street_racer.webp"
+  },
+  {
+    "id": 407,
+    "game_name": "Fu Fu Fu",
+    "game_uid": "05fb524b636b6e8a8b89f90b4550ddac",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_fu_fu_fu.webp"
+  },
+  {
+    "id": 408,
+    "game_name": "Drago - Jewels of Fortune",
+    "game_uid": "46679fbc1601f8dccb63c64d775ce5a9",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_drago__jewels_of_fortune.webp"
+  },
+  {
+    "id": 409,
+    "game_name": "Pyramid King",
+    "game_uid": "cc917be61e0ae94a5bfbdb02effc1ec5",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_pyramid_king.webp"
+  },
+  {
+    "id": 410,
+    "game_name": "Ultra Burn",
+    "game_uid": "4a7e158a0c40fa00d7421b34f6a696c7",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_ultra_burn.webp"
+  },
+  {
+    "id": 411,
+    "game_name": "Money Money Money",
+    "game_uid": "d72f6494668bdad755e60280c6624a2c",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_money_money_money.webp"
+  },
+  {
+    "id": 412,
+    "game_name": "Starz Megaways",
+    "game_uid": "4e569fb7bf2a3fe8ec718210e82927b0",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_starz_megaways.webp"
+  },
+  {
+    "id": 413,
+    "game_name": "Wild West Gold",
+    "game_uid": "16ed3068536a6bdae156e3d98bb9a365",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_wild_west_gold.webp"
+  },
+  {
+    "id": 414,
+    "game_name": "Mysterious",
+    "game_uid": "13b568ca10943393f4c9b88669ab45c8",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_mysterious.webp"
+  },
+  {
+    "id": 415,
+    "game_name": "Release the Kraken",
+    "game_uid": "b776755b597c497bee6fc4e414d72915",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_release_the_kraken.webp"
+  },
+  {
+    "id": 416,
+    "game_name": "Buffalo King",
+    "game_uid": "eb2d846b9948bf6779fa0c68ad2f0c23",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_buffalo_king.webp"
+  },
+  {
+    "id": 417,
+    "game_name": "Magic Journey",
+    "game_uid": "8dba2e619f5881a85d698746b8a39942",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_magic_journey.webp"
+  },
+  {
+    "id": 418,
+    "game_name": "Greek Gods",
+    "game_uid": "5191554cb700b8418f1821527f66a5c7",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_greek_gods.webp"
+  },
+  {
+    "id": 419,
+    "game_name": "Sweet Bonanza Xmas",
+    "game_uid": "be44f1e2c7d4dd7ba95f39abcef2cb62",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_sweet_bonanza_xmas.webp"
+  },
+  {
+    "id": 420,
+    "game_name": "Fire Strike",
+    "game_uid": "b04d9cd89be5d93602d9a484f8bfe575",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_fire_strike.webp"
+  },
+  {
+    "id": 421,
+    "game_name": "Super Joker",
+    "game_uid": "9568158adcd8e1242e5fb05b7624de22",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_super_joker.webp"
+  },
+  {
+    "id": 422,
+    "game_name": "John Hunter and the Tomb of the Scarab Queen",
+    "game_uid": "6ea631cad8e04b5596da2ab771a81198",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_john_hunter_and_the_tomb_of_the_scarab_queen.webp"
+  },
+  {
+    "id": 423,
+    "game_name": "The Great Chicken Escape",
+    "game_uid": "749e78a2062d25c3541cd998eac730c8",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_the_great_chicken_escape.webp"
+  },
+  {
+    "id": 424,
+    "game_name": "Vampires VS Wolves",
+    "game_uid": "2f1c795668c251660ab797e951859dd2",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_vampires_vs_wolves.webp"
+  },
+  {
+    "id": 425,
+    "game_name": "Hot Chilli",
+    "game_uid": "8c51d3f8b59cf20bdf4110c6c5baa206",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_hot_chilli.webp"
+  },
+  {
+    "id": 426,
+    "game_name": "John Hunter and the Aztec Treasure",
+    "game_uid": "6bb91619b093e2f21d555c94303f376e",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_john_hunter_and_the_aztec_treasure.webp"
+  },
+  {
+    "id": 427,
+    "game_name": "Monkey Warrior",
+    "game_uid": "2d9f6a48204137fbeaca92e979e75666",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_monkey_warrior.webp"
+  },
+  {
+    "id": 428,
+    "game_name": "Dragon Tiger",
+    "game_uid": "df683eca3a094ca0b0d9272f01b9cefd",
+    "game_type": "Table Games",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_dragon_tiger.webp"
+  },
+  {
+    "id": 429,
+    "game_name": "5 Lions Gold",
+    "game_uid": "ab1838c12ae2c6def3f898efb12a09cf",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_5_lions_gold.webp"
+  },
+  {
+    "id": 430,
+    "game_name": "Wild Pixies",
+    "game_uid": "61a6d88cd41af562e7eaf682e1725bb6",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_wild_pixies.webp"
+  },
+  {
+    "id": 431,
+    "game_name": "Sweet Bonanza",
+    "game_uid": "6dcaf78e4e23929cbe2deb3d1210928c",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_sweet_bonanza.webp"
+  },
+  {
+    "id": 432,
+    "game_name": "Caishen's Cash",
+    "game_uid": "71382cb9cad6b853a2e8f6975798aff0",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_caishens_cash.webp"
+  },
+  {
+    "id": 433,
+    "game_name": "Pirate Gold",
+    "game_uid": "e2d420462a8875bb96bf72148cbfd599",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_pirate_gold.webp"
+  },
+  {
+    "id": 434,
+    "game_name": "The Dog House",
+    "game_uid": "c182b3e577b60ec8d4e411bcbca3f81d",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_the_dog_house.webp"
+  },
+  {
+    "id": 435,
+    "game_name": "Egyptian Fortunes",
+    "game_uid": "e20027b755b02a3939f3136315e97aba",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_egyptian_fortunes.webp"
+  },
+  {
+    "id": 436,
+    "game_name": "Extra Juicy",
+    "game_uid": "d54b53239e52679436d9fd4776545ff4",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_extra_juicy.webp"
+  },
+  {
+    "id": 437,
+    "game_name": "Dragon Bonus Baccarat",
+    "game_uid": "d609de6b9469ae04658b7da73d569cb2",
+    "game_type": "Table Games",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_dragon_bonus_baccarat.webp"
+  },
+  {
+    "id": 438,
+    "game_name": "Wild Gladiator",
+    "game_uid": "765ac1bad81b9f081c40dff3042f0d20",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_wild_gladiator.webp"
+  },
+  {
+    "id": 439,
+    "game_name": "Golden Pig",
+    "game_uid": "1f4a8ecc237f15c670d0cae1cca820e1",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_golden_pig.webp"
+  },
+  {
+    "id": 440,
+    "game_name": "Treasure Horse",
+    "game_uid": "09edd9fdd6b7306f7e52fad516a0a866",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_treasure_horse.webp"
+  },
+  {
+    "id": 441,
+    "game_name": "Safari King",
+    "game_uid": "cddafd802c3df5592fa22cfc1bccf57d",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_safari_king.webp"
+  },
+  {
+    "id": 442,
+    "game_name": "Leprechaun Carol",
+    "game_uid": "3fdf115b63a60711c18d55c39371a68d",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_leprechaun_carol.webp"
+  },
+  {
+    "id": 443,
+    "game_name": "Mustang Gold",
+    "game_uid": "12afb282e7568a94bd22aeb7e87a29ec",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_mustang_gold.webp"
+  },
+  {
+    "id": 444,
+    "game_name": "Triple Dragons",
+    "game_uid": "12c7a1d1d24a0055efdc8c44e9ed1c6a",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_triple_dragons.webp"
+  },
+  {
+    "id": 445,
+    "game_name": "Baccarat",
+    "game_uid": "fb562d50ee7ee8e1c4aa7b2274218762",
+    "game_type": "Table Games",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_baccarat.webp"
+  },
+  {
+    "id": 446,
+    "game_name": "Ancient Egypt Classic",
+    "game_uid": "40047e7a073753a94889a242c911a695",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_ancient_egypt_classic.webp"
+  },
+  {
+    "id": 447,
+    "game_name": "Vegas Magic",
+    "game_uid": "1329417dfec2ff1842468c5de8c3ea92",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_vegas_magic.webp"
+  },
+  {
+    "id": 448,
+    "game_name": "Master Chen's Fortune",
+    "game_uid": "cd8babe80669b3f4b2ad6499948a2d28",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_master_chens_fortune.webp"
+  },
+  {
+    "id": 449,
+    "game_name": "Peking Luck",
+    "game_uid": "684bc8f6b763fdc92ae2fcdbf2ed213c",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_peking_luck.webp"
+  },
+  {
+    "id": 450,
+    "game_name": "Leprechaun Song",
+    "game_uid": "927d144709664384b785a7b5a738654a",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_leprechaun_song.webp"
+  },
+  {
+    "id": 451,
+    "game_name": "Jade Butterfly",
+    "game_uid": "1bf6fd4cd34c99c1f169bb0370354d76",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_jade_butterfly.webp"
+  },
+  {
+    "id": 452,
+    "game_name": "Madame Destiny",
+    "game_uid": "88bc3e497f424df40b0f72989e2b57fe",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_madame_destiny.webp"
+  },
+  {
+    "id": 453,
+    "game_name": "Asgard",
+    "game_uid": "8d843e1cee6faf50a2cc6261e1b3b9b6",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_asgard.webp"
+  },
+  {
+    "id": 454,
+    "game_name": "5 Lions",
+    "game_uid": "074d93f1cdf8aa749052140efa04d8c0",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_5_lions.webp"
+  },
+  {
+    "id": 455,
+    "game_name": "Great Rhino",
+    "game_uid": "a5d72bf4818f1461cb4c7eac8111dc2d",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_great_rhino.webp"
+  },
+  {
+    "id": 456,
+    "game_name": "American Blackjack",
+    "game_uid": "bf91fbba325bbc02698a07ddd902fec4",
+    "game_type": "Table Games",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_american_blackjack.webp"
+  },
+  {
+    "id": 457,
+    "game_name": "Joker's Jewels",
+    "game_uid": "97bd5b1e85dcd00b3cc141a5f3527529",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_jokers_jewels.webp"
+  },
+  {
+    "id": 458,
+    "game_name": "Fairytale Fortune",
+    "game_uid": "c15c84757d0bcee112913fa03c56aa0c",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_fairytale_fortune.webp"
+  },
+  {
+    "id": 459,
+    "game_name": "Fire 88",
+    "game_uid": "dc28fc48a87636549f9298e4dcd25b53",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_fire_88.webp"
+  },
+  {
+    "id": 460,
+    "game_name": "Chilli Heat",
+    "game_uid": "b04cda159e4fcca273ca5f00e34f883f",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_chilli_heat.webp"
+  },
+  {
+    "id": 461,
+    "game_name": "Aztec Gems",
+    "game_uid": "05d693169ee6aeec45d6328c7fc57a43",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_aztec_gems.webp"
+  },
+  {
+    "id": 462,
+    "game_name": "Gold Rush",
+    "game_uid": "826d4ce68597c8649303fe0b293840d3",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_gold_rush.webp"
+  },
+  {
+    "id": 463,
+    "game_name": "Lucky New Year",
+    "game_uid": "d8d02a9f7b7411e87c58234236c70c4e",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_lucky_new_year.webp"
+  },
+  {
+    "id": 464,
+    "game_name": "Ancient Egypt",
+    "game_uid": "ed25af2d1a4744a55e5087112bf23eec",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_ancient_egypt.webp"
+  },
+  {
+    "id": 465,
+    "game_name": "Triple Tigers",
+    "game_uid": "be0c7e72bfc9b2a9186793e005e57ee6",
+    "game_type": "Classic Games",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_triple_tigers.webp"
+  },
+  {
+    "id": 466,
+    "game_name": "Diamonds are Forever 3 Lines",
+    "game_uid": "ac7e4abe509cbfe467f884bb18d338b2",
+    "game_type": "Classic Games",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_diamonds_are_forever_3_lines.webp"
+  },
+  {
+    "id": 467,
+    "game_name": "Monkey Madness",
+    "game_uid": "a24ff258a3900048358b680ca710be53",
+    "game_type": "Classic Games",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_monkey_madness.webp"
+  },
+  {
+    "id": 468,
+    "game_name": "Santa",
+    "game_uid": "27bc99906b89b77408654d25d40d9f1a",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_santa.webp"
+  },
+  {
+    "id": 469,
+    "game_name": "7 Piggies",
+    "game_uid": "5ec616ca8fcb4702d8cf8cbc7b9acf16",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_7_piggies.webp"
+  },
+  {
+    "id": 470,
+    "game_name": "888 Dragons",
+    "game_uid": "50fb95404b19b978a8983f2ff6eafc6d",
+    "game_type": "Classic Games",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_888_dragons.webp"
+  },
+  {
+    "id": 471,
+    "game_name": "Vegas Nights",
+    "game_uid": "cc02d14ebc1704bc54af93a07557fef0",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_vegas_nights.webp"
+  },
+  {
+    "id": 472,
+    "game_name": "Wild Spells",
+    "game_uid": "384eac35bfcf5d6857f8a2c692cdbb8a",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_wild_spells.webp"
+  },
+  {
+    "id": 473,
+    "game_name": "Diamond Strike",
+    "game_uid": "a2c7dd829aa83dc2115e969471da9eda",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_diamond_strike_250000000.webp"
+  },
+  {
+    "id": 474,
+    "game_name": "Panda's Fortune",
+    "game_uid": "4d530e5363907c3799f15bee86023202",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_pandas_fortune.webp"
+  },
+  {
+    "id": 475,
+    "game_name": "Money Roll",
+    "game_uid": "7815172129169b0933fdcaa529f2bef8",
+    "game_type": "Classic Games",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_money_roll.webp"
+  },
+  {
+    "id": 476,
+    "game_name": "8 Dragons",
+    "game_uid": "6622a2e83f83ba36c64ac90bd0ccf071",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_8_dragons.webp"
+  },
+  {
+    "id": 477,
+    "game_name": "Wolf Gold",
+    "game_uid": "edfe77c093e19c861d8424b90ce7653b",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_wolf_gold.webp"
+  },
+  {
+    "id": 478,
+    "game_name": "Dragon Kingdom",
+    "game_uid": "2d4bdde60b24d1fccafdcaff37e52ab8",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_dragon_kingdom.webp"
+  },
+  {
+    "id": 479,
+    "game_name": "3 Kingdoms - Battle of Red Cliffs",
+    "game_uid": "df031f0444447df88d09c485222fac7f",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_3_kingdoms__battle_of_red_cliffs.webp"
+  },
+  {
+    "id": 480,
+    "game_name": "Gold Train",
+    "game_uid": "63a19510c7ab63562b631c97a4604d6d",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_gold_train.webp"
+  },
+  {
+    "id": 481,
+    "game_name": "Hercules Son Of Zeus",
+    "game_uid": "a45e9955733a64f20f4fdf051166026a",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_hercules_son_of_zeus.webp"
+  },
+  {
+    "id": 482,
+    "game_name": "Journey to the West",
+    "game_uid": "b8e890effbd62cec2ee8379b54054410",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_journey_to_the_west.webp"
+  },
+  {
+    "id": 483,
+    "game_name": "Devil's 13",
+    "game_uid": "e95ccfeade9b0e63f98175190a0ad96a",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_devils_13.webp"
+  },
+  {
+    "id": 484,
+    "game_name": "Lucky Dragons",
+    "game_uid": "6ed7c1fa8021f2834ede376afd20e4c5",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_lucky_dragons.webp"
+  },
+  {
+    "id": 485,
+    "game_name": "Caishen's Gold",
+    "game_uid": "635fe7b019b4dfbc89f71f87f8fb5997",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_caishens_gold.webp"
+  },
+  {
+    "id": 486,
+    "game_name": "Pixie Wings",
+    "game_uid": "9bd44b5c84d9abb96eb7ecc9d5500f11",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_pixie_wings.webp"
+  },
+  {
+    "id": 487,
+    "game_name": "Great Reef",
+    "game_uid": "397959b20dd458657eb10f177884c25c",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_great_reef.webp"
+  },
+  {
+    "id": 488,
+    "game_name": "3 Genie Wishes",
+    "game_uid": "6ceed907bb1461cb78c5244bf8dfe2d5",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_3_genie_wishes.webp"
+  },
+  {
+    "id": 489,
+    "game_name": "Irish Charms",
+    "game_uid": "6afdacbabb9207724df04a4ba94e2f1c",
+    "game_type": "Classic Games",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_irish_charms.webp"
+  },
+  {
+    "id": 490,
+    "game_name": "Multihand Blackjack",
+    "game_uid": "af6c67dcbe8cdcb706c947855cc3b125",
+    "game_type": "Table Games",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_multihand_blackjack.webp"
+  },
+  {
+    "id": 491,
+    "game_name": "Dwarven Gold Deluxe",
+    "game_uid": "058e47691b7ce09959a73ca237523e4c",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_dwarven_gold_deluxe.webp"
+  },
+  {
+    "id": 492,
+    "game_name": "Mighty Kong",
+    "game_uid": "f682eec1fc2a3075d1be80a5cea9c206",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_mighty_kong.webp"
+  },
+  {
+    "id": 493,
+    "game_name": "Roulette",
+    "game_uid": "c75a2632e60c6fad859d8228bfb31c08",
+    "game_type": "Table Games",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_roulette.webp"
+  },
+  {
+    "id": 494,
+    "game_name": "Busy Bees",
+    "game_uid": "23d3f0af7174897c560bd4e62b23a41c",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_busy_bees.webp"
+  },
+  {
+    "id": 495,
+    "game_name": "Hot Safari",
+    "game_uid": "b9ce78f7e39d12557a194f9ef4d87998",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_hot_safari.webp"
+  },
+  {
+    "id": 496,
+    "game_name": "Lady Godiva",
+    "game_uid": "0e511a855cd1a0f4ad2a2474de83e8f6",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_lady_godiva.webp"
+  },
+  {
+    "id": 497,
+    "game_name": "7 Monkeys",
+    "game_uid": "e3a626bb5e72a1ed2ba24ecacaef1923",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_7_monkeys.webp"
+  },
+  {
+    "id": 498,
+    "game_name": "Waves of Poseidon",
+    "game_uid": "e30cd08c54817096e863975e309bb457",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_waves_of_poseidon.webp"
+  },
+  {
+    "id": 499,
+    "game_name": "Club Tropicana – Happy Hour",
+    "game_uid": "ecd5138b81f23063f5024a9675c6bc5a",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_club_tropicana__happy_hour.webp"
+  },
+  {
+    "id": 500,
+    "game_name": "Sweet Bonanza Super Scatter",
+    "game_uid": "b718a148a4666fe33a07d4d419e31c69",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_sweet_bonanza_super_scatter.webp"
+  },
+  {
+    "id": 501,
+    "game_name": "Plinko+",
+    "game_uid": "3e606335523830a7ca62d105a5205a74",
+    "game_type": "Arcade Game",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_plinko.webp"
+  },
+  {
+    "id": 502,
+    "game_name": "Wolf Gold 4 Pack",
+    "game_uid": "8b7f41c1458a4e3518537b8179bf51f0",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_wolf_gold_4_pack.webp"
+  },
+  {
+    "id": 503,
+    "game_name": "Gem Trio",
+    "game_uid": "e085edebf0ced2228633751409f6a150",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_gem_trio.webp"
+  },
+  {
+    "id": 504,
+    "game_name": "Chilli Heat Spicy Spins",
+    "game_uid": "84da800579bd7f820761727494ab86ef",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_chilli_heat_spicy_spins.webp"
+  },
+  {
+    "id": 505,
+    "game_name": "You Can Piggy Bank On It",
+    "game_uid": "d0b900ab22674260a2a3b34d98c34dc8",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_you_can_piggy_bank_on_it.webp"
+  },
+  {
+    "id": 506,
+    "game_name": "Alien Invaders",
+    "game_uid": "80e50c6ec3678adadf5825561c800f8c",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_alien_invaders.webp"
+  },
+  {
+    "id": 507,
+    "game_name": "Spire+",
+    "game_uid": "e738af151ad6507118ca0bc24f3ffb1c",
+    "game_type": "Arcade Game",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_spire.webp"
+  },
+  {
+    "id": 508,
+    "game_name": "Jackpot Blaze",
+    "game_uid": "18af359ac7f6f5cccadb98202f02ddb1",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_jackpot_blaze.webp"
+  },
+  {
+    "id": 509,
+    "game_name": "Fire Stampede 2",
+    "game_uid": "ade62c616477b0ac209cfef318e49f39",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_fire_stampede_2.webp"
+  },
+  {
+    "id": 510,
+    "game_name": "Zombie School Megaways",
+    "game_uid": "a01a6f5f2226587509812694f240023c",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_zombie_school_megaways.webp"
+  },
+  {
+    "id": 511,
+    "game_name": "Spellmaster",
+    "game_uid": "9c8e8f4cac4abe35810dbc12e2874cc6",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_spellmaster.webp"
+  },
+  {
+    "id": 512,
+    "game_name": "Ice Mints",
+    "game_uid": "15ef2e641fab092342004fb1d26c83be",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_ice_mints.webp"
+  },
+  {
+    "id": 513,
+    "game_name": "Big Bass Reel Repeat",
+    "game_uid": "c1db164bcccbd85224c3dfc5f525613c",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_big_bass_reel_repeat.webp"
+  },
+  {
+    "id": 514,
+    "game_name": "Argonauts",
+    "game_uid": "404466af539c16b9d0d27dce3995c688",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_argonauts.webp"
+  },
+  {
+    "id": 515,
+    "game_name": "Captain Kraken Megaways",
+    "game_uid": "4eae6d615c766a30fe3df1df57018607",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_captain_kraken_megaways.webp"
+  },
+  {
+    "id": 516,
+    "game_name": "Lobster House",
+    "game_uid": "842cf8e49c4f518ef733a277da985790",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_lobster_house.webp"
+  },
+  {
+    "id": 517,
+    "game_name": "Genie's Gem Bonanza",
+    "game_uid": "98d78459ce981e90e1d6a027c6b7256a",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_genies_gem_bonanza.webp"
+  },
+  {
+    "id": 518,
+    "game_name": "Bee Keeper",
+    "game_uid": "edb7d63de32818cef9f12448c0ea09aa",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_bee_keeper.webp"
+  },
+  {
+    "id": 519,
+    "game_name": "Bounty Hunter",
+    "game_uid": "2a2c6fb71a11f19aca17b7243759163a",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_bounty_hunter.webp"
+  },
+  {
+    "id": 520,
+    "game_name": "Fortune Ace Super Scatter",
+    "game_uid": "3fa8affb9baf4dffa777a4971433d34c",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_fortune_ace_super_scatter.webp"
+  },
+  {
+    "id": 521,
+    "game_name": "Sweet Rush Bonanza",
+    "game_uid": "afd1bca7ba85bf072edb2618281381e7",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_sweet_rush_bonanza.webp"
+  },
+  {
+    "id": 522,
+    "game_name": "Mermaid's Treasure Trove",
+    "game_uid": "130fba0ef9dd44344062f5e96f590482",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_mermaids_treasure_trove.webp"
+  },
+  {
+    "id": 523,
+    "game_name": "Big Bass Halloween 3",
+    "game_uid": "c608ddff076c981fa470d70fba530869",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_big_bass_halloween_3.webp"
+  },
+  {
+    "id": 524,
+    "game_name": "Bigger Barn House Bonanza",
+    "game_uid": "6204fe7f30c5c56146f201218ee3ea5e",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_bigger_barn_house_bonanza.webp"
+  },
+  {
+    "id": 525,
+    "game_name": "Hundreds and Thousands",
+    "game_uid": "661e97d65e0f1e9aeffb833d3079ada0",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_hundreds_and_thousands.webp"
+  },
+  {
+    "id": 526,
+    "game_name": "Starlight Princess Super Scatter",
+    "game_uid": "b192b1f67b7f27cebd774684cf68284d",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_starlight_princess_super_scatter.webp"
+  },
+  {
+    "id": 527,
+    "game_name": "Chests of Cai Shen 2",
+    "game_uid": "697a1c901dd57f98b293027e8af62e2d",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_chests_of_cai_shen_2.webp"
+  },
+  {
+    "id": 528,
+    "game_name": "Lava Balls",
+    "game_uid": "0887ca4815a3fd960d89fdebe5e30f34",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_lava_balls.webp"
+  },
+  {
+    "id": 529,
+    "game_name": "Bingo Mania",
+    "game_uid": "7de938fd86a4cd93ecf5d5602ee7569c",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_bingo_mania.webp"
+  },
+  {
+    "id": 530,
+    "game_name": "Pandemic Rising",
+    "game_uid": "dc15dfa9b05d50075a763f9867b38f32",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_pandemic_rising.webp"
+  },
+  {
+    "id": 531,
+    "game_name": "Oracle of Gold",
+    "game_uid": "752b270e6a7c2fe69fe7ffd1ba8278d3",
+    "game_type": "Video Slots",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_oracle_of_gold.webp"
+  },
+  {
+    "id": 532,
+    "game_name": "Mines+",
+    "game_uid": "c4f954079d20b7eb6da49c9fce1f9b08",
+    "game_type": "Arcade Game",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_mines.webp"
+  },
+  {
+    "id": 533,
+    "game_name": "Frightening Frankie",
+    "game_uid": "561eedfc4980bcac887eba24f5a6c3fe",
+    "game_type": "Slot",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_frightening_frankie.webp"
+  },
+  {
+    "id": 534,
+    "game_name": "Wild Wild Riches Returns",
+    "game_uid": "ee10bcae59fda9734d4097651ccc972c",
+    "game_type": "Slot",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_wild_wild_riches_returns.webp"
+  },
+  {
+    "id": 535,
+    "game_name": "Baccarat Lobby",
+    "game_uid": "e58e145313cf8c3a41a2240c1579b735",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_baccarat_lobby.webp"
+  },
+  {
+    "id": 536,
+    "game_name": "Baccarat 1",
+    "game_uid": "7e1886a44af41f33e03903df4d96d9f8",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_baccarat_1.webp"
+  },
+  {
+    "id": 537,
+    "game_name": "Baccarat 2",
+    "game_uid": "7f648ebed8543261ab954f58d80be69b",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_baccarat_2.webp"
+  },
+  {
+    "id": 538,
+    "game_name": "Baccarat 5",
+    "game_uid": "593e82ed18fb7d72463dff73110fa52c",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_baccarat_5.webp"
+  },
+  {
+    "id": 539,
+    "game_name": "Baccarat 6",
+    "game_uid": "80c0d325044a99b88a34f2e315ef1d9e",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_baccarat_6.webp"
+  },
+  {
+    "id": 540,
+    "game_name": "Baccarat 7",
+    "game_uid": "25a8376a5f822cd62869368510ef307e",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_baccarat_7.webp"
+  },
+  {
+    "id": 541,
+    "game_name": "Turbo Baccarat",
+    "game_uid": "0b51fa9dc81ec7e5fe0905812d634419",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_turbo_baccarat.webp"
+  },
+  {
+    "id": 542,
+    "game_name": "Speed Baccarat 1",
+    "game_uid": "d0d870f20be2bedb04415d5071a5f866",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_speed_baccarat_1.webp"
+  },
+  {
+    "id": 543,
+    "game_name": "Speed Baccarat 2",
+    "game_uid": "76463248b7ca723ad49cfad50926c30e",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_speed_baccarat_2.webp"
+  },
+  {
+    "id": 544,
+    "game_name": "Speed Baccarat 3",
+    "game_uid": "4102658f5f304e126599367ba6cc13a1",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_speed_baccarat_3.webp"
+  },
+  {
+    "id": 545,
+    "game_name": "Speed Baccarat 5",
+    "game_uid": "22517580773f95ed1fccf11222a727f6",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_speed_baccarat_5.webp"
+  },
+  {
+    "id": 546,
+    "game_name": "Speed Baccarat 6",
+    "game_uid": "0bace5f8418a61a7f6efccabefdb30aa",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_speed_baccarat_6.webp"
+  },
+  {
+    "id": 547,
+    "game_name": "Speed Baccarat 7",
+    "game_uid": "eb43ca69904a2d11687774a55a8bd68b",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_speed_baccarat_7.webp"
+  },
+  {
+    "id": 548,
+    "game_name": "Speed Baccarat 8",
+    "game_uid": "6b9fde7e0621b2bca3779a162257739b",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_speed_baccarat_8.webp"
+  },
+  {
+    "id": 549,
+    "game_name": "Speed Baccarat 9",
+    "game_uid": "47ff0ea2ce1eae047a4e128282acc1b8",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_speed_baccarat_9.webp"
+  },
+  {
+    "id": 550,
+    "game_name": "Speed Baccarat 10",
+    "game_uid": "34fad871fa9fec7b1057668360500688",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_speed_baccarat_10.webp"
+  },
+  {
+    "id": 551,
+    "game_name": "Korean Speed Baccarat 1",
+    "game_uid": "3f83f390c17e56aaf999480608f7e74b",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_speed_baccarat__korean.webp"
+  },
+  {
+    "id": 552,
+    "game_name": "Korean Speed Baccarat 2",
+    "game_uid": "a96de223a6cb1b7933bf0783b5bb614e",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_speed_baccarat_2__korean.webp"
+  },
+  {
+    "id": 553,
+    "game_name": "Korean Speed Baccarat 3",
+    "game_uid": "22f71244570f56f20e3f62f329859318",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_korean_speed_baccarat_3.webp"
+  },
+  {
+    "id": 554,
+    "game_name": "Korean Speed Baccarat 5",
+    "game_uid": "619d1fb3b26a202c6545acbe1841ed3d",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_korean_speed_baccarat_5.webp"
+  },
+  {
+    "id": 555,
+    "game_name": "Korean Speed Baccarat 6",
+    "game_uid": "48268e48a610c33029cf797d87ebb4e8",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_korean_speed_baccarat_6.webp"
+  },
+  {
+    "id": 556,
+    "game_name": "Korean Turbo Baccarat 1",
+    "game_uid": "2099d4989d635d92524cf3499f87f58a",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_korean_turbo_baccarat_1.webp"
+  },
+  {
+    "id": 557,
+    "game_name": "Japanese Speed Baccarat 1",
+    "game_uid": "2613dd5c8b385fa70fbf4a2678a8981c",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_japanese_speed_baccarat_1.webp"
+  },
+  {
+    "id": 558,
+    "game_name": "Japanese Speed Baccarat 2",
+    "game_uid": "8cc12a57d141fac71ef87357c94c44c3",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_japanese_speed_baccarat_2.webp"
+  },
+  {
+    "id": 559,
+    "game_name": "Japanese Speed Baccarat 3",
+    "game_uid": "15ec6cd193207f3e219e0d185205952f",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_japanese_speed_baccarat_3.webp"
+  },
+  {
+    "id": 560,
+    "game_name": "Thai Speed Baccarat 1",
+    "game_uid": "746e28de8b39898a1a5e436bb39b91f6",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_thai_speed_baccarat_1.webp"
+  },
+  {
+    "id": 561,
+    "game_name": "Thai Speed Baccarat 2",
+    "game_uid": "687bc54053fbe1ab50561719d46c234e",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_thai_speed_baccarat_2.webp"
+  },
+  {
+    "id": 562,
+    "game_name": "Privé Lounge Baccarat 1",
+    "game_uid": "422384b37bffa38f63d24f6d9e098950",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_priv_lounge_baccarat_1.webp"
+  },
+  {
+    "id": 563,
+    "game_name": "Privé Lounge Baccarat 2",
+    "game_uid": "744876957659f5833d4beb0cf9f6787c",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_priv_lounge_baccarat_2.webp"
+  },
+  {
+    "id": 564,
+    "game_name": "Privé Lounge Baccarat 3",
+    "game_uid": "ca0f92bbad03cbcac09140e56a272001",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_priv_lounge_baccarat_3.webp"
+  },
+  {
+    "id": 565,
+    "game_name": "Privé Lounge Baccarat 5",
+    "game_uid": "56634c1f851fcc441b25cabfb904843e",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_priv_lounge_baccarat_5.webp"
+  },
+  {
+    "id": 566,
+    "game_name": "Privé Lounge Baccarat 6",
+    "game_uid": "c5e27c4d01c4973ed505b3935740808a",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_priv_lounge_baccarat_6.webp"
+  },
+  {
+    "id": 567,
+    "game_name": "Privé Lounge Baccarat 7",
+    "game_uid": "0f4593fbf8f16c85dcc5d13455ac1224",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_priv_lounge_baccarat_7.webp"
+  },
+  {
+    "id": 568,
+    "game_name": "Privé Lounge Baccarat 8",
+    "game_uid": "1f3be17a8274456ea0b3b5ce1699c2d7",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_priv_lounge_baccarat_8.webp"
+  },
+  {
+    "id": 569,
+    "game_name": "Super 8 Baccarat",
+    "game_uid": "302cf0ef3b36479d4d4f4b57b3560343",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_super_8_baccarat.webp"
+  },
+  {
+    "id": 570,
+    "game_name": "Fortune 6 Baccarat",
+    "game_uid": "c20d79035300304273bdfd6fbb227d91",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_fortune_6_baccarat.webp"
+  },
+  {
+    "id": 571,
+    "game_name": "Mega Baccarat",
+    "game_uid": "fc836890aa838e03419a2751af98d0ce",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_mega_baccarat.webp"
+  },
+  {
+    "id": 572,
+    "game_name": "Chinese Speed Baccarat 1",
+    "game_uid": "7065fa8abfbb96b16d87ceb7554503b8",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_chinese_speed_baccarat_1.webp"
+  },
+  {
+    "id": 573,
+    "game_name": "Chinese Speed Baccarat 2",
+    "game_uid": "c8b889832a452aa68115ec1494d8843d",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_chinese_speed_baccarat_2.webp"
+  },
+  {
+    "id": 574,
+    "game_name": "Chinese Speed Baccarat 3",
+    "game_uid": "e8d4616742fc5829633d17e117aac18f",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_chinese_speed_baccarat_3.webp"
+  },
+  {
+    "id": 575,
+    "game_name": "Vietnamese Speed Baccarat 1",
+    "game_uid": "4457be7be5a268e8d43747a7af82fec5",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_vietnamese_speed_baccarat_1.webp"
+  },
+  {
+    "id": 576,
+    "game_name": "Vietnamese Speed Baccarat 2",
+    "game_uid": "95af7c5b659d78ca19a3cc1b5f39a83c",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_vietnamese_speed_baccarat_2.webp"
+  },
+  {
+    "id": 577,
+    "game_name": "Punto Banco Italia Tricolore",
+    "game_uid": "0953a894d0e79b4c4a514fc073ef877d",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_punto_banco_italia_tricolore.webp"
+  },
+  {
+    "id": 578,
+    "game_name": "Roulette Lobby",
+    "game_uid": "831d834fbc4f2b343e7cd5fb58eb6300",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_roulette_lobby.webp"
+  },
+  {
+    "id": 579,
+    "game_name": "Korean Roulette",
+    "game_uid": "8cc297adeaa7484459187b88d1289f4e",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_korean_roulette.webp"
+  },
+  {
+    "id": 580,
+    "game_name": "Brazilian Roulette",
+    "game_uid": "877b3c2652fc0cbb8cc1f0ceba928df8",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_brazilian_roulette.webp"
+  },
+  {
+    "id": 581,
+    "game_name": "Vietnamese Roulette",
+    "game_uid": "3db984189385e4dd7a1695fc8bbaea3c",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_vietnamese_roulette.webp"
+  },
+  {
+    "id": 582,
+    "game_name": "Indonesian Roulette",
+    "game_uid": "b6fcedf3c9f9c3cfcb69256977a59840",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_indonesian_roulette.webp"
+  },
+  {
+    "id": 583,
+    "game_name": "Mega Roulette",
+    "game_uid": "b60df57bbcd472a887a9c9cff2a0e19c",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_mega_roulette.webp"
+  },
+  {
+    "id": 584,
+    "game_name": "Mega Roulette - Brazilian",
+    "game_uid": "d384d4856e230a106657c59821f8c43a",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_mega_roulette__brazilian.webp"
+  },
+  {
+    "id": 585,
+    "game_name": "Turkish Mega Roulette",
+    "game_uid": "31b812b939407f0e7971675f306c2f3e",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_turkish_mega_roulette.webp"
+  },
+  {
+    "id": 586,
+    "game_name": "Italian Mega Roulette",
+    "game_uid": "f6c5f7daea4c2237f609351834509a94",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_italian_mega_roulette.webp"
+  },
+  {
+    "id": 587,
+    "game_name": "Speed Auto Roulette",
+    "game_uid": "f0add665a33f9b0440694015268d1d6d",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_speed_auto_roulette_1.webp"
+  },
+  {
+    "id": 588,
+    "game_name": "Auto Mega Roulette",
+    "game_uid": "a973fbb6b172cca38155523ab540d69f",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_auto_mega_roulette.webp"
+  },
+  {
+    "id": 589,
+    "game_name": "Speed Roulette 1",
+    "game_uid": "1f602196b12c5dfa56b9dd2e94d9abab",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_speed_roulette_1.webp"
+  },
+  {
+    "id": 590,
+    "game_name": "Speed Roulette 2",
+    "game_uid": "dc4f44b7e7bd3ff918b6008d89598c3f",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_speed_roulette_2.webp"
+  },
+  {
+    "id": 591,
+    "game_name": "Lucky 6 Roulette",
+    "game_uid": "f2269c8c6428711cecfbcdf33530a90c",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_lucky_6_roulette.webp"
+  },
+  {
+    "id": 592,
+    "game_name": "PowerUP Roulette",
+    "game_uid": "d9a2bfc6b6a88dad99f4fb2c9e56a787",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_powerup_roulette.webp"
+  },
+  {
+    "id": 593,
+    "game_name": "VIP Auto Roulette",
+    "game_uid": "491e8650612cfd6e00c86c976da5f3ae",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_vip_auto_roulette.webp"
+  },
+  {
+    "id": 594,
+    "game_name": "Fortune Roulette",
+    "game_uid": "8189b037222a0e3812587e4bdebdf6f6",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_fortune_roulette.webp"
+  },
+  {
+    "id": 595,
+    "game_name": "Immersive Roulette Deluxe",
+    "game_uid": "11b298077e1d23836cd28204179eca61",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_immersive_roulette_deluxe.webp"
+  },
+  {
+    "id": 596,
+    "game_name": "Thai Roulette",
+    "game_uid": "befa78fbaf34a24e50a445a3ee83f85d",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_thai_roulette.webp"
+  },
+  {
+    "id": 597,
+    "game_name": "French Roulette",
+    "game_uid": "6f007f883359289806f7a25503be1141",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_french_roulette.webp"
+  },
+  {
+    "id": 598,
+    "game_name": "American Roulette",
+    "game_uid": "f8810130607b6b5b2bdbb91463ae0fdd",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_american_roulette.webp"
+  },
+  {
+    "id": 599,
+    "game_name": "Game Shows Lobby",
+    "game_uid": "1d93109e3e25654e679f911c60b4414b",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_game_shows_lobby.webp"
+  },
+  {
+    "id": 600,
+    "game_name": "Mega Wheel",
+    "game_uid": "e18b53fffb12388f9e3cbe9895ca82f1",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_mega_wheel.webp"
+  },
+  {
+    "id": 601,
+    "game_name": "Snakes & Ladders Live",
+    "game_uid": "03a00a10ccd01b5424bc988c3648776a",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_snakes__ladders_live.webp"
+  },
+  {
+    "id": 602,
+    "game_name": "Treasure Island",
+    "game_uid": "9a7ccf5d0e8862eaf13a0f3c18807cd2",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_treasure_island.webp"
+  },
+  {
+    "id": 603,
+    "game_name": "Mega Sic Bac",
+    "game_uid": "8152838110b3d0b988236c9b94db8f78",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_mega_sic_bac.webp"
+  },
+  {
+    "id": 604,
+    "game_name": "Dragon Tiger Lobby",
+    "game_uid": "75776a4167b0616cec63966d3877ff22",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_dragon_tiger_lobby.webp"
+  },
+  {
+    "id": 605,
+    "game_name": "Dragon Tiger",
+    "game_uid": "43473f00e237b4d8754d22095d701b4c",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_dragon_tiger2.webp"
+  },
+  {
+    "id": 606,
+    "game_name": "Andar Bahar",
+    "game_uid": "9412795579b89bdee57f00ee2d301a22",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_andar_bahar.webp"
+  },
+  {
+    "id": 607,
+    "game_name": "One Blackjack",
+    "game_uid": "d123ad1b85006f4d5a5f3f26a81d722b",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_one_blackjack.webp"
+  },
+  {
+    "id": 608,
+    "game_name": "ONE Blackjack 2 - Ruby",
+    "game_uid": "f7821ef4d27448883986e2ddd00a00ca",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_one_blackjack_2__ruby.webp"
+  },
+  {
+    "id": 609,
+    "game_name": "Brazilian ONE Blackjack",
+    "game_uid": "e88c3138de3cddcc43c9de3237eada5f",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_brazilian_one_blackjack.webp"
+  },
+  {
+    "id": 610,
+    "game_name": "Bet Behind Pro Blackjack",
+    "game_uid": "82b9e0d3bcaaf66cff008cc4618c40fd",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_bet_behind_pro_blackjack.webp"
+  },
+  {
+    "id": 611,
+    "game_name": "Blackjack X 1 - Azure",
+    "game_uid": "a92a531d389c718b5f5f82cfc2448e39",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_blackjack_x_1__azure.webp"
+  },
+  {
+    "id": 612,
+    "game_name": "Blackjack X 2 - Azure",
+    "game_uid": "5b59af29c7164779f449311554225daf",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_blackjack_x_2__azure.webp"
+  },
+  {
+    "id": 613,
+    "game_name": "Blackjack X 3 - Azure",
+    "game_uid": "eb28ac23ccd830d067728173c1f91ee6",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_blackjack_x_3__azure.webp"
+  },
+  {
+    "id": 614,
+    "game_name": "Blackjack X 4 - Ruby",
+    "game_uid": "49bba35a57238c3b51d09819045dff93",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_blackjack_x_4__ruby.webp"
+  },
+  {
+    "id": 615,
+    "game_name": "Blackjack X 5 - Ruby",
+    "game_uid": "1a98b36378f464b523aa55f335056e47",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_blackjack_x_5__ruby.webp"
+  },
+  {
+    "id": 616,
+    "game_name": "Blackjack X 6 - Azure",
+    "game_uid": "1366abf4bb64ddf7937affa23f859026",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_blackjack_x_6__azure.webp"
+  },
+  {
+    "id": 617,
+    "game_name": "Blackjack X 8 - Ruby",
+    "game_uid": "ae96e109c6ebb6b93a5f89c5a61bbfda",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_blackjack_x_8__ruby.webp"
+  },
+  {
+    "id": 618,
+    "game_name": "Blackjack X 9 - Ruby",
+    "game_uid": "4c31c4ff5031d8f7ea19b58d7deea2ae",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_blackjack_x_9__ruby.webp"
+  },
+  {
+    "id": 619,
+    "game_name": "Blackjack X 10 - Ruby",
+    "game_uid": "396319990608a705114e00847b316d1b",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_blackjack_x_10__ruby.webp"
+  },
+  {
+    "id": 620,
+    "game_name": "BlackjackX 11 - Emerald",
+    "game_uid": "c730a004b714edfdd4f0c42e9e81fd23",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_blackjackx_11__emerald.webp"
+  },
+  {
+    "id": 621,
+    "game_name": "BlackjackX 12 - Emerald",
+    "game_uid": "4145dd9cf243e0b897d79df58fdf67e1",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_blackjackx_12__emerald.webp"
+  },
+  {
+    "id": 622,
+    "game_name": "BlackjackX 13 - Emerald",
+    "game_uid": "e1223c4465b2ecfebdafcdbb065b5707",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_blackjackx_13__emerald.webp"
+  },
+  {
+    "id": 623,
+    "game_name": "Blackjack X 16 - Azure",
+    "game_uid": "4d6bd82a165718745b741da33ebd0cb0",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_blackjack_x_16__azure.webp"
+  },
+  {
+    "id": 624,
+    "game_name": "Blackjack X 17 - Azure",
+    "game_uid": "f03517eabcf89387efc0f2bfd193c2ce",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_blackjack_x_17__azure.webp"
+  },
+  {
+    "id": 625,
+    "game_name": "Blackjack X 18 - Azure",
+    "game_uid": "e9a3880ae1414fa2b59de54336b6508d",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_blackjack_x_18__azure.webp"
+  },
+  {
+    "id": 626,
+    "game_name": "Blackjack X 19 - Ruby",
+    "game_uid": "ef44063ba6f5fde0769cc7677262838e",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_blackjack_x_19__ruby.webp"
+  },
+  {
+    "id": 627,
+    "game_name": "Blackjack X 20 - Ruby",
+    "game_uid": "6255ddedaa5f480b9dfa9fa40f7b8326",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_blackjack_x_20__ruby.webp"
+  },
+  {
+    "id": 628,
+    "game_name": "Blackjack X 21 - Ruby",
+    "game_uid": "3e5004fa6ad33e9c5130b1017c0ac6b2",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_blackjack_x_21__ruby.webp"
+  },
+  {
+    "id": 629,
+    "game_name": "BlackjackX 22 - Emerald",
+    "game_uid": "a364410030dac262dfff1979521288d8",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_blackjackx_22__emerald.webp"
+  },
+  {
+    "id": 630,
+    "game_name": "BlackjackX 23 - Emerald",
+    "game_uid": "3e0d79b9e524d8d9888848559192611e",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_blackjackx_23__emerald.webp"
+  },
+  {
+    "id": 631,
+    "game_name": "Blackjack X 24 - Azure",
+    "game_uid": "d9b511ca291529bfe669a154a321386a",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_blackjack_x_24__azure.webp"
+  },
+  {
+    "id": 632,
+    "game_name": "Blackjack X 25 - Azure",
+    "game_uid": "ac1e682e6ce50f787124ef4daf01f691",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_blackjack_x_25__azure.webp"
+  },
+  {
+    "id": 633,
+    "game_name": "BlackjackX 26 - Emerald",
+    "game_uid": "d2a22cfc9baaeec562ae159b2672174c",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_blackjackx_26__emerald.webp"
+  },
+  {
+    "id": 634,
+    "game_name": "BlackjackX 27 - Emerald",
+    "game_uid": "17785357bb6ff50b3d252fe4300cb881",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_blackjackx_27__emerald.webp"
+  },
+  {
+    "id": 635,
+    "game_name": "BlackjackX 28 - Emerald",
+    "game_uid": "16f45de0f1ac6aecb7bbbab2816acdd5",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_blackjackx_28__emerald.webp"
+  },
+  {
+    "id": 636,
+    "game_name": "BlackjackX 29 - Emerald",
+    "game_uid": "3c0994fc8d99afdc3e8b290867679f30",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_blackjackx_29__emerald.webp"
+  },
+  {
+    "id": 637,
+    "game_name": "BlackjackX 30 - Emerald",
+    "game_uid": "4cc29ee405b5a2b2d7c245e5ee7bd763",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_blackjackx_30__emerald.webp"
+  },
+  {
+    "id": 638,
+    "game_name": "Jacks or Better Draw Poker",
+    "game_uid": "a027f3ed752e12a2bf9a55b16307d359",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_jacks_or_better_draw_poker.webp"
+  },
+  {
+    "id": 639,
+    "game_name": "Dice City",
+    "game_uid": "ac0d236e246960e00ce50daebf1396c6",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_dice_city.webp"
+  },
+  {
+    "id": 640,
+    "game_name": "Privé Lounge Roulette Deluxe",
+    "game_uid": "884fc1978b337e63a42f8bd0ad223955",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_priv_lounge_roulette_deluxe.webp"
+  },
+  {
+    "id": 641,
+    "game_name": "Korean ONE Blackjack",
+    "game_uid": "4f4ee74b552beb580ddee0da0feadb48",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_korean_one_blackjack.webp"
+  },
+  {
+    "id": 642,
+    "game_name": "Indonesian ONE Blackjack",
+    "game_uid": "b9eaeb81370231860bec7bf0f6d5b98b",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_indonesian_one_blackjack.webp"
+  },
+  {
+    "id": 643,
+    "game_name": "Indonesian Mega Sic Bo",
+    "game_uid": "b4ff5ded8990dce64fd7601af15d50ed",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_indonesian_mega_sic_bo.webp"
+  },
+  {
+    "id": 644,
+    "game_name": "Money Time",
+    "game_uid": "042f275d795c467244dd0014618ccc76",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_money_time.webp"
+  },
+  {
+    "id": 645,
+    "game_name": "Mega Roulette 3000",
+    "game_uid": "303b7bda6d4878d36b0f3cfe7e35ac1f",
+    "game_type": "CasinoLive",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/ppl_mega_roulette_3000.webp"
+  },
+   {
+    "id": 646,
+    "game_name": "High Flyer",
+    "game_uid": "95c391563f83181c52c5de366a89b9b9",
+    "game_type": "Crash Game",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/Pragmatic_Play/pgp_high_flyer.png"
+  }
+]

@@ -1,0 +1,286 @@
+[
+  {
+    "id": 1,
+    "game_name": "JetX",
+    "game_uid": "2e815f80a5a87b0255c130c00d95a71e",
+    "game_type": "XGames",
+    "icon": "https://bulkapi.in/smart_soft/jetx.jpg"
+  },
+  {
+    "id": 2,
+    "game_name": "Balloon",
+    "game_uid": "b869a83fc241533c5422dad27340a0ea",
+    "game_type": "XGames",
+    "provider": "smartsoft",
+    "icon": "https://bulkapi.in/smart_soft/686fbe9842c62e528937009a_Balloon.webp"
+  },
+  {
+    "id": 3,
+    "game_name": "FootballX",
+    "game_uid": "0487c9d22cea1278b01503a7d15ba699",
+    "game_type": "XGames",
+    "icon": "https://bulkapi.in/smart_soft/686fbee931912b109c06ca2a_FootballX.webp"
+  },
+  {
+    "id": 4,
+    "game_name": "PlinkoX",
+    "game_uid": "e38dd01866d8e669cd032f00b8b2df8a",
+    "game_type": "XGames",
+    "icon": "https://bulkapi.in/smart_soft/686fbf3326a3f3ae488be3c2_Plinko X.webp"
+  },
+  {
+    "id": 5,
+    "game_name": "MineIsland",
+    "game_uid": "00c415d15a4cdbbca0e22f0140fb0322",
+    "game_type": "XGames",
+    "icon": "https://bulkapi.in/smart_soft/686fbf1bc9cc0ceeced0757a_MineIsland.webp"
+  },
+  {
+    "id": 6,
+    "game_name": "RollX",
+    "game_uid": "1dde1cc0e2f8c1c7af6f2cef698e00a6",
+    "game_type": "XGames",
+    "icon": "https://bulkapi.in/smart_soft/684147cefcdbbe16086c7647_Roll X Thumb.webp"
+  },
+  {
+    "id": 7,
+    "game_name": "Smash X",
+    "game_uid": "d2907544c24c61c35313dd1a7498a6eb",
+    "game_type": "XGames",
+    "provider": "smartsoft",
+    "icon": "https://bulkapi.in/smart_soft/6830492bfa4dffb7d3c5dada_Smash%20X.webp"
+  },
+  {
+    "id": 8,
+    "game_name": "HunterX",
+    "game_uid": "6bf7173090f852c2eb4757d73cfd69f6",
+    "game_type": "XGames",
+    "icon": "https://bulkapi.in/smart_soft/68414a87bb0f36fe6a520393_Hunter X Thumb.webp"
+  },
+  {
+    "id": 9,
+    "game_name": "HelicopterX",
+    "game_uid": "6030d4bfb5fa164ab1b5e10aa4a27435",
+    "game_type": "XGames",
+    "icon": "https://bulkapi.in/smart_soft/686fbf06515f7adaacb03add_Helicopterx.webp"
+  },
+  {
+    "id": 10,
+    "game_name": "CricketX",
+    "game_uid": "188e43c0545c6690800d12de5018b17f",
+    "game_type": "XGames",
+    "icon": "https://bulkapi.in/smart_soft/683ff0552e6657c3716b9dc9_Cricket X.webp"
+  },
+  {
+    "id": 11,
+    "game_name": "JetX3",
+    "game_uid": "0bf2d88c9f5811d9c514bd9a6756d7f8",
+    "game_type": "XGames",
+    "icon": "https://bulkapi.in/smart_soft/6830492bfa4dffb7d3c5dada_Smash%20X.webp"
+  },
+  {
+    "id": 12,
+    "game_name": "DoubleX",
+    "game_uid": "0e42e68470278b87181c16850924d438",
+    "game_type": "XGames",
+    "icon": "https://bulkapi.in/smart_soft/682efd6988ee809168259e9b_Double X.webp"
+  },
+  {
+    "id": 13,
+    "game_name": "TowerX",
+    "game_uid": "5fa811450c40fda4caba581f6f10f2aa",
+    "game_type": "XGames",
+    "icon": "https://bulkapi.in/smart_soft/683fee631b4d58c4b7c00370_TowerX.webp"
+  },
+  {
+    "id": 14,
+    "game_name": "Crash Duel X",
+    "game_uid": "d901f78f875b497e577785c7e20ff99f",
+    "game_type": "XGames",
+    "icon": "https://bulkapi.in/smart_soft/683eab2d604de1fe943a258d_Crash Duel.webp"
+  },
+  {
+    "id": 15,
+    "game_name": "4 Bonuses Bonanza",
+    "game_uid": "cab7aee3bac4f737e21064af9b15eb3e",
+    "game_type": "XGames",
+    "provider": "smartsoft",
+    "icon": "https://bulkapi.in/smart_soft/68371730a9926aacbb48393d_4%20Bonuses%20Bonanza.webp"
+  },
+  {
+    "id": 16,
+    "game_name": "RodeoX",
+    "game_uid": "a3168ce2162dd8abce11220bd9f21f84",
+    "game_type": "XGames",
+    "icon": "https://bulkapi.in/smart_soft/683d5d9fff1002ab4efba622_Rodeo.webp"
+  },
+  {
+    "id": 17,
+    "game_name": "MultiHot5",
+    "game_uid": "d14c7bee006243f2c871f948567cd6de",
+    "game_type": "Slot",
+    "icon": "https://bulkapi.in/smart_soft/683034a2cf12f0111d9c579c_MultiHot5.webp"
+  },
+  {
+    "id": 18,
+    "game_name": "Multi Hot Ways",
+    "game_uid": "d1b3c0d5a9244f091326d5b67326be29",
+    "game_type": "Slot",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/smart_soft/683033dbe3049eee5fe4ea38_MultiHotWays.webp"
+  },
+  {
+    "id": 19,
+    "game_name": "Burning Ice",
+    "game_uid": "80d9739d8f8c28efed374f92004aeff9",
+    "game_type": "Slot",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/smart_soft/683032de5554289474ad6a32_BurningIce.webp"
+  },
+  {
+    "id": 20,
+    "game_name": "Burning Ice 10",
+    "game_uid": "ec484f392ab823b1eda3ae165855aa62",
+    "game_type": "Slot",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/smart_soft/683eb061c4ff1433ba08e1dc_BurningIce10.webp"
+  },
+  {
+    "id": 21,
+    "game_name": "Burning Ice 40",
+    "game_uid": "a45fe51120ece7b82df68db517be93ef",
+    "game_type": "Slot",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/smart_soft/683033ef33d6bf157356cb1b_BurningIce40.webp"
+  },
+  {
+    "id": 22,
+    "game_name": "Wild & Gods",
+    "game_uid": "0c6784230fa2e9a1025b94e5f922db20",
+    "game_type": "Slot",
+    "icon": "https://bulkapi.in/smart_soft/683eaa671dfd95ce52fd948a_WildsAndGods.webp"
+  },
+  {
+    "id": 23,
+    "game_name": "Book of Futuria",
+    "game_uid": "70aa2b994c771293caf6e293ad558184",
+    "game_type": "Slot",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/smart_soft/683ee6a5704613fc933deb65_Book%20of%20Futuria.webp"
+  },
+  {
+    "id": 24,
+    "game_name": "WildMultiStar",
+    "game_uid": "15aaf33fa883350f2e30e6e154da983d",
+    "game_type": "Slot",
+    "icon": "https://bulkapi.in/smart_soft/683fef9c8eb81bdb134674af_Wild Multi Stars.webp"
+  },
+  {
+    "id": 25,
+    "game_name": "HotSamba",
+    "game_uid": "97975f474952c6f82eca72c0dec22479",
+    "game_type": "Slot",
+    "icon": "https://bulkapi.in/smart_soft/683030621c0794a24599f5cc_Hot Samba.webp"
+  },
+  {
+    "id": 26,
+    "game_name": "Vampires",
+    "game_uid": "3a849575e6d3df594ba83d3083260a6e",
+    "game_type": "Slot",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/smart_soft/683ee921308d777233f0708e_Vampires.webp"
+  },
+  {
+    "id": 27,
+    "game_name": "Genie's Bonanza",
+    "game_uid": "01339844968800b82b913fdbe84d57ab",
+    "game_type": "Slot",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/smart_soft/683032ea3ee6e26b1f47adcb_GeniesBonanza.webp"
+  },
+  {
+    "id": 28,
+    "game_name": "Foxy Hot 20",
+    "game_uid": "64baba1e8dac6b12acccb88bb945d91a",
+    "game_type": "Slot",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/smart_soft/683032cb852ef8f05414954d_FoxyHot20.webp"
+  },
+  {
+    "id": 29,
+    "game_name": "Samurai",
+    "game_uid": "556c49ac0e6031cd0387bd3d8dae9e5e",
+    "game_type": "Slot",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/smart_soft/682efc91fc6194feb7059828_Samurai.webp"
+  },
+  {
+    "id": 30,
+    "game_name": "Safari Simba",
+    "game_uid": "b093f4f7518a4929e21df64c718edb32",
+    "game_type": "Slot",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/smart_soft/683032afa8ef4882167866f6_Safari%20Simba.webp"
+  },
+  {
+    "id": 31,
+    "game_name": "Sugar Fiesta",
+    "game_uid": "8a35c9e64d05c2556035c4a04fa9cc51",
+    "game_type": "Slot",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/smart_soft/683eac5a586284bb9c76baa1_Sugar%20Fiesta.webp"
+  },
+  {
+    "id": 32,
+    "game_name": "Dracula's Fortune",
+    "game_uid": "19e72f5d7562f1129621394f6d765da7",
+    "game_type": "Slot",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/smart_soft/683eabb53aab2220a03d6be7_Dracula%27s%20Fortune.webp"
+  },
+  {
+    "id": 33,
+    "game_name": "Book Of Bonanza",
+    "game_uid": "b04b18102cbf1e72c80a940b45adf0a9",
+    "game_type": "Slot",
+    "icon": "https://bulkapi.in/smart_soft/683eafc5732b7ca0e786f894_Book of Bonanza.webp"
+  },
+  {
+    "id": 34,
+    "game_name": "Mad Slot",
+    "game_uid": "a938075077a7d997ea53ee0570ab4223",
+    "game_type": "Slot",
+    "provider": "pragmaticplay",
+    "icon": "https://bulkapi.in/smart_soft/6830304c4a7553fb1dfd2c2b_Mad%20Slot.webp"
+  },
+  {
+    "id": 35,
+    "game_name": "Virtual Roulette",
+    "game_uid": "5c4b343e08b7d06d26abce35e7ae6cfe",
+    "game_type": "Casino Games"
+  },
+  {
+    "id": 36,
+    "game_name": "Virtual Burning Roulette",
+    "game_uid": "eff39248befc98e40125b171db58d2e0",
+    "game_type": "Casino Games"
+  },
+  {
+    "id": 37,
+    "game_name": "Virtual Classic Roulette",
+    "game_uid": "bd7fd3e58b5f7b8aab5145275d79a2ef",
+    "game_type": "Casino Games"
+  },
+  {
+    "id": 38,
+    "game_name": "Classic Keno",
+    "game_uid": "d2ff19da63c7fa51b9ef41fda3ef32da",
+    "game_type": "Keno"
+  },
+  {
+    "id": 39,
+    "game_name": "Russian Keno",
+    "game_uid": "c3aea2ca240d56ae656fb4cdf008763c",
+    "game_type": "Keno"
+  }
+]

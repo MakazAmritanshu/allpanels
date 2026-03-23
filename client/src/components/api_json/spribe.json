@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "game_name": "Aviator",
+    "game_uid": "a04d1f3eb8ccec8a4823bdf18e3f0e84",
+    "game_type": "CasinoTable",
+    "provider": "Spribe",
+    "icon": "https://bulkapi.in/Spribe/avitor.png"
+  },
+  {
+    "id": 2,
+    "game_name": "Balloon",
+    "game_uid": "de88f202c5a8beeaccabbd944f8acfbf",
+    "game_type": "CasinoTable",
+    "provider": "Spribe",
+    "icon": "https://bulkapi.in/Spribe/balloon.png"
+  },
+  {
+    "id": 3,
+    "game_name": "Dice",
+    "game_uid": "8a87aae7a3624d284306e9c6fe1b3e9c",
+    "game_type": "CasinoTable",
+    "provider": "Spribe",
+    "icon": "https://bulkapi.in/Spribe/dice.png"
+  },
+  {
+    "id": 4,
+    "game_name": "Goal",
+    "game_uid": "c68a515f0b3b10eec96cf6d33299f4e2",
+    "game_type": "CasinoTable",
+    "provider": "Spribe",
+    "icon": "https://bulkapi.in/Spribe/goal.png"
+  },
+  {
+    "id": 5,
+    "game_name": "Hi-Lo",
+    "game_uid": "a669c993b0e1f1b7da100fcf95516bdf",
+    "game_type": "CasinoTable",
+    "provider": "Spribe",
+    "icon": "https://bulkapi.in/Spribe/Hi-Lo.png"
+  },
+  {
+    "id": 6,
+    "game_name": "Hotline",
+    "game_uid": "b31720b3cd65d917a1a96ef61a72b672",
+    "game_type": "CasinoTable",
+    "provider": "Spribe",
+    "icon": "https://bulkapi.in/Spribe/hotline.png"
+  },
+  {
+    "id": 7,
+    "game_name": "Keno",
+    "game_uid": "c311eb4bbba03b105d150504931f2479",
+    "game_type": "CasinoTable",
+    "provider": "Spribe",
+    "icon": "https://bulkapi.in/Spribe/keno.png"
+  },
+  {
+    "id": 8,
+    "game_name": "Mines",
+    "game_uid": "5c4a12fb0a9b296d9b0d5f9e1cd41d65",
+    "game_type": "CasinoTable",
+    "provider": "Spribe",
+    "icon": "https://bulkapi.in/Spribe/mines.png"
+  },
+  {
+    "id": 9,
+    "game_name": "Mini Roulette",
+    "game_uid": "9dc7ac6155c5a19c1cc204853e426367",
+    "game_type": "CasinoTable",
+    "provider": "Spribe",
+    "icon": "https://bulkapi.in/Spribe/miniroulette.png"
+  },
+  {
+    "id": 10,
+    "game_name": "Plinko",
+    "game_uid": "6ab7a4fe5161936012d6b06143918223",
+    "game_type": "CasinoTable",
+    "provider": "Spribe",
+    "icon": "https://bulkapi.in/Spribe/plinko.png"
+  },
+  {
+    "id": 11,
+    "game_name": "Keno 80",
+    "game_uid": "7a762edbe411ebc9be416870a734bd03",
+    "game_type": "CasinoTable",
+    "provider": "Spribe",
+    "icon": "https://bulkapi.in/Spribe/keno80.png"
+  },
+  {
+    "id": 12,
+    "game_name": "Trader",
+    "game_uid": "ad5973a7625b5d18257e64340fe22ca1",
+    "game_type": "CasinoTable",
+    "provider": "Spribe",
+    "icon": "https://bulkapi.in/Spribe/trader@2x.png"
+  }
+]

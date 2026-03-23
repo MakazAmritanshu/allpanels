@@ -1,0 +1,818 @@
+[
+  {
+    "id": 1,
+    "game_name": "Pixies vs Pirates",
+    "game_uid": "779832e22cb0fdeb1e989551a0d1612c",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_pixies_vs_pirates.webp"
+  },
+  {
+    "id": 2,
+    "game_name": "Skate or Die",
+    "game_uid": "9fe6ae5818b7af27fe0db1093d2206cc",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_skate_or_die.png"
+  },
+  {
+    "id": 3,
+    "game_name": "xWays Hoarder 2",
+    "game_uid": "1803e12d19343663136590860a7590de",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_xways_hoarder_2.png"
+  },
+  {
+    "id": 4,
+    "game_name": "Duck Hunters",
+    "game_uid": "5d1165514c14816fa81280b0c827ca86",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_duck_hunters.png"
+  },
+  {
+    "id": 5,
+    "game_name": "Home of the Brave",
+    "game_uid": "30a226933091eed680fd55345852771a",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_home_of_the_brave.png"
+  },
+  {
+    "id": 6,
+    "game_name": "Mental 2",
+    "game_uid": "e36c31dcb8e3928ba940867f066e71f8",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_mental_2.png"
+  },
+  {
+    "id": 7,
+    "game_name": "Blood Diamond",
+    "game_uid": "2770a1bfd27e074f1c16fb8e7c148e53",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_blood_diamond.png"
+  },
+  {
+    "id": 8,
+    "game_name": "Outsourced: Slash Game",
+    "game_uid": "bec50445bc19b6f1ad9a380b41a2906c",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_outsourced_payday.png"
+  },
+  {
+    "id": 9,
+    "game_name": "Tanked",
+    "game_uid": "2c46b695160455e6a4673dd2ad4364f9",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_tanked.png"
+  },
+  {
+    "id": 10,
+    "game_name": "Stockholm Syndrome",
+    "game_uid": "2d5ae2fd28e0cb711f929b40b9417af9",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_stockholm_syndrome.png"
+  },
+  {
+    "id": 11,
+    "game_name": "San Quentin xWays",
+    "game_uid": "8cfee8485fafe48b9e75a0953aff3305",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_san_quentin_2_death_row.png"
+  },
+  {
+    "id": 12,
+    "game_name": "Brute Force",
+    "game_uid": "95ca81990d6e245c0d2c97cb2e123a8d",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_brute_force.png"
+  },
+  {
+    "id": 13,
+    "game_name": "Outsourced",
+    "game_uid": "a197c5fbc9229c5e87abb5000e85bc45",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_outsourced.png"
+  },
+  {
+    "id": 14,
+    "game_name": "Apocalypse Super xNudge",
+    "game_uid": "2802ea0039230bef820d98eca8c8257f",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_apocalypse_super_xnudge.png"
+  },
+  {
+    "id": 15,
+    "game_name": "Punk Rocker 2",
+    "game_uid": "e75c034dabd8291cabbc6dc7430cc6db",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_punk_rocker_2.png"
+  },
+  {
+    "id": 16,
+    "game_name": "Beheaded",
+    "game_uid": "e7ca58ea8125971362ee94637cf96b07",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_beheaded.png"
+  },
+  {
+    "id": 17,
+    "game_name": "Deadwood RIP",
+    "game_uid": "af767fb845d38b31d21bb36ea6394e7d",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_deadwood_rip.png"
+  },
+  {
+    "id": 18,
+    "game_name": "Loner",
+    "game_uid": "ff7293f57e99aa8383f30b8bcf8a13ad",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_loner.png"
+  },
+  {
+    "id": 19,
+    "game_name": "Kenneth Must Die",
+    "game_uid": "e986f8c40568824558b093a67fac8345",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_kenneth_must_die.png"
+  },
+  {
+    "id": 20,
+    "game_name": "Tombstone No Mercy",
+    "game_uid": "81dfb8eaa2c93b828b2b26884ee9717e",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_tombstone_no_mercy.png"
+  },
+  {
+    "id": 21,
+    "game_name": "Brick Snake 2000",
+    "game_uid": "dee22b3bd4045e94c41ff3f4adfd67c1",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_brick_snake_2000.png"
+  },
+  {
+    "id": 22,
+    "game_name": "Possessed",
+    "game_uid": "25ac214a3bda107fe69f990d530d33d4",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_possessed.png"
+  },
+  {
+    "id": 23,
+    "game_name": "Fire In The Hole 2",
+    "game_uid": "546e61e52247da10819cbfc125f3ee8d",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_fire_in_the_hole_2.png"
+  },
+  {
+    "id": 24,
+    "game_name": "D Day",
+    "game_uid": "e81f8e11dacffef03e8e22186b9ee13f",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_d_day.png"
+  },
+  {
+    "id": 25,
+    "game_name": "Land of the Free",
+    "game_uid": "d2e4e4337c8c9c26b3882a3051d11cfe",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_land_of_the_free.png"
+  },
+  {
+    "id": 26,
+    "game_name": "Jingle Balls",
+    "game_uid": "576599c0d0f39e72cf3326e191735913",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_jingle_balls.png"
+  },
+  {
+    "id": 27,
+    "game_name": "Nine To Five",
+    "game_uid": "2fc8c6b5dce661e6ad94c217e9a78add",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_nine_to_five.png"
+  },
+  {
+    "id": 28,
+    "game_name": "Ugliest Catch",
+    "game_uid": "4816287f0a348fd80d5a35e834d7c64f",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_ugliest_catch.png"
+  },
+  {
+    "id": 29,
+    "game_name": "Space Donkey",
+    "game_uid": "79084a9e5ea724182d46cd94aa196301",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_space_donkey.png"
+  },
+  {
+    "id": 30,
+    "game_name": "The Crypt",
+    "game_uid": "afd55ffc71f99af84c5a12e52ef7e1b2",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_the_crypt.png"
+  },
+  {
+    "id": 31,
+    "game_name": "DJ Psycho",
+    "game_uid": "31a535370d6c1904e4cc9e554204c389",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_dj_psycho.png"
+  },
+  {
+    "id": 32,
+    "game_name": "The Cage",
+    "game_uid": "402e8f8e16ca858b90e068d41fe59439",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_the_cage.png"
+  },
+  {
+    "id": 33,
+    "game_name": "Gluttony",
+    "game_uid": "5de4ff7eb5ed317030ae49c146f7f926",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_gluttony.webp"
+  },
+  {
+    "id": 34,
+    "game_name": "Disturbed",
+    "game_uid": "85fa77cc9a3f55d9fd9001c6dd439ae9",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_disturbed.webp"
+  },
+  {
+    "id": 35,
+    "game_name": "Kiss My Chainsaw",
+    "game_uid": "f9a1a5b32a083e87f40edcd48216951b",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_kiss_my_chainsaw.png"
+  },
+  {
+    "id": 36,
+    "game_name": "Benji Killed in Vegas",
+    "game_uid": "09ce4c89fd58ad1cbcf9d4229e8215e0",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_benji_killed_in_vegas.png"
+  },
+  {
+    "id": 37,
+    "game_name": "Walk of Shame",
+    "game_uid": "49f6d2605310ddd2ac286da412a98138",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_walk_of_shame.png"
+  },
+  {
+    "id": 38,
+    "game_name": "Dead Canary",
+    "game_uid": "7cd2678e111da840a1e6283777ab4cda",
+    "game_type": "Slot Game",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_dead_canary.png"
+  },
+  {
+    "id": 39,
+    "game_name": "Pearl Harbor",
+    "game_uid": "4e3508090cbe484a669aee0627436aea",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_pearl_harbor.png"
+  },
+  {
+    "id": 40,
+    "game_name": "Rock Bottom",
+    "game_uid": "6a2fbe544fd072d9c67c3c6064014bb8",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_rock_bottom.png"
+  },
+  {
+    "id": 41,
+    "game_name": "Serial",
+    "game_uid": "a778f5639b11caa25844cd64ebafa695",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_serial.png"
+  },
+  {
+    "id": 42,
+    "game_name": "Little Bighorn",
+    "game_uid": "b986a4cdb97183d3056fd780bb12e468",
+    "game_type": "Slot Game",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_little_bighorn.png"
+  },
+  {
+    "id": 43,
+    "game_name": "The Border",
+    "game_uid": "c87831785362b36ace598324c3687104",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_the_border.png"
+  },
+  {
+    "id": 44,
+    "game_name": "Road Rage",
+    "game_uid": "deb5a68e6a9844df172046620b88595b",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_road_rage.png"
+  },
+  {
+    "id": 45,
+    "game_name": "LuFolsom Prisondo",
+    "game_uid": "582a7bccc646797ac4c8efa7545042d9",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_folsom_prison.png"
+  },
+  {
+    "id": 46,
+    "game_name": "The Creepy Carnival",
+    "game_uid": "a06f7bd49a182d430ca5545c2cb36d67",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_the_creepy_carnival.png"
+  },
+  {
+    "id": 47,
+    "game_name": "Oktoberfest",
+    "game_uid": "328fe4c21719024783469d988b915782",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_oktoberfest.png"
+  },
+  {
+    "id": 48,
+    "game_name": "Kitchen Drama: Sushi Mania",
+    "game_uid": "a55ef9e0afe767fb497561089e92d88c",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_kitchen_drama_sushi_mania.png"
+  },
+  {
+    "id": 49,
+    "game_name": "WiXX",
+    "game_uid": "5a92204e6726d1bfab9a99624b113e90",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_wixx.png"
+  },
+  {
+    "id": 50,
+    "game_name": "Casino Win Spin",
+    "game_uid": "6b42cddd443c37337c11847577ddd27b",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_casino_win_spin.png"
+  },
+  {
+    "id": 51,
+    "game_name": "Tesla Jolt",
+    "game_uid": "19b4c001cbdeea0d5ab71dd03e2ef34a",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_tesla_jolt.png"
+  },
+  {
+    "id": 52,
+    "game_name": "Coins of Fortune",
+    "game_uid": "f0765536ccf11c7c17f05481edeb9e06",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_coins_of_fortune.webp"
+  },
+  {
+    "id": 53,
+    "game_name": "Hot Nudge",
+    "game_uid": "668121ffb33f279af9fb6bae0d55e9ad",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_hot_nudge.webp"
+  },
+  {
+    "id": 54,
+    "game_name": "Dungeon Quest",
+    "game_uid": "589f199026d1fbb661a6d0b8a03dd6c2",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_dungeon_quest.webp"
+  },
+  {
+    "id": 55,
+    "game_name": "Fruits",
+    "game_uid": "f126ed33fc04c286ddd28c39b35297db",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_fruits.webp"
+  },
+  {
+    "id": 56,
+    "game_name": "Owls",
+    "game_uid": "ffc50723c40746cc40f34793c4b2d499",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_owls.webp"
+  },
+  {
+    "id": 57,
+    "game_name": "Starstruck",
+    "game_uid": "808b420b2e027484d598d0c374dfd073",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_starstruck.webp"
+  },
+  {
+    "id": 58,
+    "game_name": "Mayan Magic Wildfire",
+    "game_uid": "56b03dda919dcea79ad918d320892528",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_mayan_magic_wildfire.webp"
+  },
+  {
+    "id": 59,
+    "game_name": "Tractor Beam",
+    "game_uid": "efc71839b3550f249f6bd487446a8d84",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_tractor_beam.webp"
+  },
+  {
+    "id": 60,
+    "game_name": "Thor Hammer Time",
+    "game_uid": "978a1295e7350141a0c43d618a153f13",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_thor_hammer_time.webp"
+  },
+  {
+    "id": 61,
+    "game_name": "Hot 4 Cash",
+    "game_uid": "50b3f2771e0cd402b0991e467ad59ea8",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_hot_4_cash.webp"
+  },
+  {
+    "id": 62,
+    "game_name": "Manhattan Goes Wild",
+    "game_uid": "e313c707097ddd09313ce4739faf3250",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_manhattan_goes_wild.webp"
+  },
+  {
+    "id": 63,
+    "game_name": "Tomb of Nefertiti",
+    "game_uid": "557fa778d85044277a9d018f482ce1d5",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_tomb_of_nefertiti.webp"
+  },
+  {
+    "id": 64,
+    "game_name": "Dragon Tribe",
+    "game_uid": "5593f73cb807b2d18f9766326d7b5c83",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_dragon_tribe.webp"
+  },
+  {
+    "id": 65,
+    "game_name": "Poison Eve",
+    "game_uid": "21da6459057f70199f49d47692d92921",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_poison_eve.webp"
+  },
+  {
+    "id": 66,
+    "game_name": "Punk Rocker",
+    "game_uid": "f399c95a0ac1e6a236065fa7aca8d0ff",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_punk_rocker.webp"
+  },
+  {
+    "id": 67,
+    "game_name": "Barbarian Fury",
+    "game_uid": "f2ac541e3931399f7034ec1d9099d02d",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_barbarian_fury.webp"
+  },
+  {
+    "id": 68,
+    "game_name": "Gaelic Gold",
+    "game_uid": "0c3549c5c785088689f85571a4c201fa",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_gaelic_gold.webp"
+  },
+  {
+    "id": 69,
+    "game_name": "Harlequin Carnival",
+    "game_uid": "1991f4aa9e0af34830870ca94b4b46ed",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_harlequin_carnival.webp"
+  },
+  {
+    "id": 70,
+    "game_name": "Deadwood xNudge",
+    "game_uid": "48e2f84982aa84c106a1b0d671ecc285",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_deadwood_xnudge.webp"
+  },
+  {
+    "id": 71,
+    "game_name": "Bonus Bunnies",
+    "game_uid": "e24b1eceecf3680c51d2b6bef57d3437",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_bonus_bunnies.webp"
+  },
+  {
+    "id": 72,
+    "game_name": "Milky Ways",
+    "game_uid": "768fd0fa68162bbcfec8e7c48cbf1b15",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_milky_ways.webp"
+  },
+  {
+    "id": 73,
+    "game_name": "Golden Genie & the Walking Wilds",
+    "game_uid": "ca0185b461d39a4651b962125e18a573",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_golden_genie__the_walking_wilds.webp"
+  },
+  {
+    "id": 74,
+    "game_name": "Immortal Fruits",
+    "game_uid": "56c50d7fddd329f8dbed1dd0bfce61a9",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_immortal_fruits.webp"
+  },
+  {
+    "id": 75,
+    "game_name": "Book Of Shadows",
+    "game_uid": "880700e2a395b83e00642c4935c69adb",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_book_of_shadows.webp"
+  },
+  {
+    "id": 76,
+    "game_name": "Buffalo Hunter",
+    "game_uid": "8033592ca91e0864c56ca13b4b941270",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_buffalo_hunter.webp"
+  },
+  {
+    "id": 77,
+    "game_name": "Monkey's Gold xPays",
+    "game_uid": "f9a7572c0c1f2e9f7dfb6904e684117b",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_monkeys_gold_xpays.webp"
+  },
+  {
+    "id": 78,
+    "game_name": "Warrior Graveyard xNudge",
+    "game_uid": "3ea12d7072a593a33e6cbe21b6ce9aba",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_warrior_graveyard_xnudge.webp"
+  },
+  {
+    "id": 79,
+    "game_name": "San Quentin xWays",
+    "game_uid": "8cfee8485fafe48b9e75a0953aff3305",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_san_quentin_2_death_row.png"
+  },
+  {
+    "id": 80,
+    "game_name": "East Coast vs West Coast",
+    "game_uid": "e127e034151975f8ed0c3b1966935621",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_east_coast_vs_west_coast.webp"
+  },
+  {
+    "id": 81,
+    "game_name": "Fire In The Hole 2",
+    "game_uid": "546e61e52247da10819cbfc125f3ee8d",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_fire_in_the_hole_xbomb.webp"
+  },
+  {
+    "id": 82,
+    "game_name": "Bushido Ways xNudge",
+    "game_uid": "380e57d736ead8bfba5c751e176c4db3",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_bushido_ways_xnudge.webp"
+  },
+  {
+    "id": 83,
+    "game_name": "El Paso Gunfight xNudge",
+    "game_uid": "62dfd7a6e2d2b6e03aae84c865043e08",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_el_paso_gunfight_xnudge.webp"
+  },
+  {
+    "id": 84,
+    "game_name": "Infectious 5 xWays",
+    "game_uid": "ad73ce959af8939588449058cb3e5785",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_infectious_5_xways.webp"
+  },
+  {
+    "id": 85,
+    "game_name": "xWays Hoarder 2",
+    "game_uid": "1803e12d19343663136590860a7590de",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_xways_hoarder_xsplit.webp"
+  },
+  {
+    "id": 86,
+    "game_name": "Das xBoot",
+    "game_uid": "92b70fc82d0159207cb2eea975fb8f68",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_das_xboot.webp"
+  },
+  {
+    "id": 87,
+    "game_name": "Evil Goblins xBomb",
+    "game_uid": "b46caa599caa7ef96c87cba6539cd8ba",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_evil_goblins_xbomb.webp"
+  },
+  {
+    "id": 88,
+    "game_name": "Legion X",
+    "game_uid": "aeda1bb91d4865af3608c63f8fed666c",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_legion_x.webp"
+  },
+  {
+    "id": 89,
+    "game_name": "True Grit Redemption",
+    "game_uid": "58e5dda1d6dce82659837de86843b371",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_true_grit_redemption.webp"
+  },
+  {
+    "id": 90,
+    "game_name": "Tombstone RIP",
+    "game_uid": "779d35294964d0a08f238cb9c5ac9b9c",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_tombstone_rip.webp"
+  },
+  {
+    "id": 91,
+    "game_name": "Punk Toilet",
+    "game_uid": "5f882000cf4e55c527a7001296bb4bad",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_punk_toilet.webp"
+  },
+  {
+    "id": 92,
+    "game_name": "Misery Mining",
+    "game_uid": "c1dede823d1364de5abe621197f9e6ff",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_misery_mining.webp"
+  },
+  {
+    "id": 93,
+    "game_name": "Remember Gulag",
+    "game_uid": "f2e65d92ced95c0e92cd8bc940883fb7",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_remember_gulag.webp"
+  },
+  {
+    "id": 94,
+    "game_name": "Karen Maneater",
+    "game_uid": "41f76203e1fe3aa96a834ce5d1c63add",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_karen_maneater.webp"
+  },
+  {
+    "id": 95,
+    "game_name": "Blood & Shadow 2",
+    "game_uid": "d1e15cc0efc88208b2fcfb9250c0acf8",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_blood__shadow_2.png"
+  },
+  {
+    "id": 96,
+    "game_name": "Roadkill",
+    "game_uid": "9f6a5137385c21bcaff3a5af6bf1fc3c",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_roadkill.png"
+  },
+  {
+    "id": 97,
+    "game_name": "True Kult",
+    "game_uid": "a30b84c9e12e13818c0fa6317a0e4799",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_true_kult.png"
+  },
+  {
+    "id": 98,
+    "game_name": "Whacked!",
+    "game_uid": "17b6500a872305eb9500eb2e030dc0d7",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_whacked.webp"
+  },
+  {
+    "id": 99,
+    "game_name": "The Rave",
+    "game_uid": "ad18e92686af3f87e7d77698f9eb609e",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_the_rave.webp"
+  },
+  {
+    "id": 100,
+    "game_name": "Ice Ice Yeti",
+    "game_uid": "994f9ee41dff025bea27b724904b9dcd",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_ice_ice_yeti.webp"
+  },
+  {
+    "id": 101,
+    "game_name": "Tombstone",
+    "game_uid": "578fa655f4da3f07cdb3c663016d5151",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_tombstone.webp"
+  },
+  {
+    "id": 102,
+    "game_name": "Mental",
+    "game_uid": "9fc0b40a47e159eb99a9521e2c421e91",
+    "game_type": "slot",
+    "provider": "NoLimit",
+    "icon": "https://bulkapi.in/NoLimit/nlc_mental.webp"
+  }
+]

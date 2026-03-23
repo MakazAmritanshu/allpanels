@@ -1,0 +1,978 @@
+[
+  {
+    "id": 1,
+    "game_name": "Baba Yaga",
+    "game_uid": "93c3a38c6328b7c71b709de0e898a7bd",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_baba_yaga.webp"
+  },
+  {
+    "id": 2,
+    "game_name": "Poseidon",
+    "game_uid": "9a00b70e271704aff1c490fbf69cb8f4",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_poseidon.webp"
+  },
+  {
+    "id": 3,
+    "game_name": "Jump! 2",
+    "game_uid": "a3eaa2c4d178f22b8330fb2e4504f632",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_jump_2.webp"
+  },
+  {
+    "id": 4,
+    "game_name": "Haunted Harbor",
+    "game_uid": "b1a3aa577715c164246198fdd390882d",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_haunted_harbor.webp"
+  },
+  {
+    "id": 5,
+    "game_name": "Glory Of Rome",
+    "game_uid": "01cb650e13cfd9513560ba3c3ae8d815",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_glory_of_rome.webp"
+  },
+  {
+    "id": 6,
+    "game_name": "Koi Koi Treasure",
+    "game_uid": "c94c8faedf3c6f81cd46ea44ac0f95b1",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_koi_koi_treasure.webp"
+  },
+  {
+    "id": 7,
+    "game_name": "Totem Warrior",
+    "game_uid": "c12f18f8bb275b39dd5be2dafea119a3",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_totem_warrior.webp"
+  },
+  {
+    "id": 8,
+    "game_name": "Arctic Hunt",
+    "game_uid": "fbf6ee060d43941326f0221ca97c0b33",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_arctic_hunt.webp"
+  },
+  {
+    "id": 9,
+    "game_name": "Moo Moo Cow",
+    "game_uid": "4d6a50276effa7443b68a33ad7f4d84c",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_moo_moo_cow.webp"
+  },
+  {
+    "id": 10,
+    "game_name": "Golden Taj Mahal",
+    "game_uid": "aa353ef7353ad649b267eb652f8bb3d0",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_golden_taj_mahal.webp"
+  },
+  {
+    "id": 11,
+    "game_name": "Wild Flow",
+    "game_uid": "47b03597ef0a28924605cd8f66ba5371",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_wild_flow.webp"
+  },
+  {
+    "id": 12,
+    "game_name": "Vampire's Fate",
+    "game_uid": "80a893716572c6320e44e35c14f60e2e",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_vampires_fate.webp"
+  },
+  {
+    "id": 13,
+    "game_name": "Hot Hot Summer",
+    "game_uid": "97be6354d270d33129a5d2a8a80174c2",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_hot_hot_summer.webp"
+  },
+  {
+    "id": 14,
+    "game_name": "Valentine Monchy",
+    "game_uid": "543d627169107a843dc2543a5ecc2f45",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_valentine_monchy.webp"
+  },
+  {
+    "id": 15,
+    "game_name": "Fruity Mayan",
+    "game_uid": "cd453e3a9ac9b29117f9565616831f50",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_fruity_mayan.webp"
+  },
+  {
+    "id": 16,
+    "game_name": "Santa's Inn",
+    "game_uid": "e9ea5d60f2d81b5c05ed9fd47d77a152",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_santas_inn.webp"
+  },
+  {
+    "id": 17,
+    "game_name": "Zeus Deluxe",
+    "game_uid": "12fafdb590471dcf9511d852f7e2298e",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_zeus_deluxe.webp"
+  },
+  {
+    "id": 18,
+    "game_name": "Fruity Halloween",
+    "game_uid": "fb6aa93a21a9e83abd7b9cd4f7545793",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_fruity_halloween.webp"
+  },
+  {
+    "id": 19,
+    "game_name": "Slime Party",
+    "game_uid": "173f850e22922d9021828f95720a31ed",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_slime_party.webp"
+  },
+  {
+    "id": 20,
+    "game_name": "Meow Janken",
+    "game_uid": "02d712d114283c8f31b069915e28f3a7",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_meow_janken.webp"
+  },
+  {
+    "id": 21,
+    "game_name": "Bikini Island Deluxe",
+    "game_uid": "cbfd6ebce44076ecf3ebcfe614f0af7d",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_bikini_island_deluxe.webp"
+  },
+  {
+    "id": 22,
+    "game_name": "Atomic Kittens",
+    "game_uid": "b00d702c11e20807ad16488125352f22",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_atomic_kittens.webp"
+  },
+  {
+    "id": 23,
+    "game_name": "Witches Tome",
+    "game_uid": "aced4dd020a1b26c7552a683a72a959f",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_witches_tome.webp"
+  },
+  {
+    "id": 24,
+    "game_name": "Legend of Nezha",
+    "game_uid": "23f1fd5e1e5e2774fb2a0a17f46ed966",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_legend_of_nezha.webp"
+  },
+  {
+    "id": 25,
+    "game_name": "Tooty Fruity Fruits",
+    "game_uid": "627476f55dce18d37544120e806076f7",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_tooty_fruity_fruits.webp"
+  },
+  {
+    "id": 26,
+    "game_name": "Siren’s Spell",
+    "game_uid": "b1871a738ac7ce0fb916a69b67d4465d",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_sirens_spell.webp"
+  },
+  {
+    "id": 27,
+    "game_name": "Crystopia",
+    "game_uid": "1747decd5115c97ece2652d47c1e61b4",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_crystopia.webp"
+  },
+  {
+    "id": 28,
+    "game_name": "The Big Deal Deluxe",
+    "game_uid": "1a0938c6c27ccd98656cc21dce606687",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_the_big_deal_deluxe.webp"
+  },
+  {
+    "id": 29,
+    "game_name": "Naughty Wukong",
+    "game_uid": "ff86b9a34e1e816af02666862d9b2b9d",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_naughty_wukong.webp"
+  },
+  {
+    "id": 30,
+    "game_name": "Legendary Beasts",
+    "game_uid": "c4cfec29b32e9286034f64b67134687a",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_legendary_beasts.webp"
+  },
+  {
+    "id": 31,
+    "game_name": "Rainbowmania",
+    "game_uid": "63435de069a86db74f606fadb1dbb069",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_rainbowmania.webp"
+  },
+  {
+    "id": 32,
+    "game_name": "Dragon Tiger gate",
+    "game_uid": "8441bc979527ed9e1819478040e7f39d",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_dragon_tiger_gate.webp"
+  },
+  {
+    "id": 33,
+    "game_name": "Tuk Tuk Thailand",
+    "game_uid": "90bcd524bba72960f17423ee5c27cb62",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_tuk_tuk_thailand.webp"
+  },
+  {
+    "id": 34,
+    "game_name": "Taiko Beats",
+    "game_uid": "a78eca8da6a361cb939d1457e32e9d05",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_taiko_beats.webp"
+  },
+  {
+    "id": 35,
+    "game_name": "Laughing Buddha",
+    "game_uid": "07017442372c6667ba027e4b19494c61",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_laughing_buddha.webp"
+  },
+  {
+    "id": 36,
+    "game_name": "Space Goonz",
+    "game_uid": "fa3d805268cda2fade5d0c63993b29b5",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_space_goonz.webp"
+  },
+  {
+    "id": 37,
+    "game_name": "Golden Unicorn Deluxe",
+    "game_uid": "20f25bda50ce4ea2c84a07684d4077da",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_golden_unicorn_deluxe.webp"
+  },
+  {
+    "id": 38,
+    "game_name": "Bomb Runner",
+    "game_uid": "8120f85a51e95cedc0bed93502d47821",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_bomb_runner.webp"
+  },
+  {
+    "id": 39,
+    "game_name": "Mighty Medusa",
+    "game_uid": "3987a72acc8e668b101ea26421687440",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_mighty_medusa.webp"
+  },
+  {
+    "id": 40,
+    "game_name": "Disco Beats",
+    "game_uid": "a62a925367ebae81892e83f9529d4f17",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_disco_beats.webp"
+  },
+  {
+    "id": 41,
+    "game_name": "Lantern Luck",
+    "game_uid": "8d39e8c33ca2e5010f1daa4fb53c6676",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_lantern_luck.webp"
+  },
+  {
+    "id": 42,
+    "game_name": "Lucky Durian",
+    "game_uid": "d8d244a5431ba2ba60b781fa2a44f9c9",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_lucky_durian.webp"
+  },
+  {
+    "id": 43,
+    "game_name": "New Years Bash",
+    "game_uid": "1c04ab040d55808bd43d0054cdfc55a1",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_new_years_bash.webp"
+  },
+  {
+    "id": 44,
+    "game_name": "Prost!",
+    "game_uid": "0284df6cce2c484f04146d9bfac8cc42",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_prost.webp"
+  },
+  {
+    "id": 45,
+    "game_name": "Nine Tails",
+    "game_uid": "fdd098dfbfbb4ba837a1c52e51c69c00",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_nine_tails.webp"
+  },
+  {
+    "id": 46,
+    "game_name": "Fly!",
+    "game_uid": "f3274cf7278e519afbefa5d9b619e21b",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_fly.webp"
+  },
+  {
+    "id": 47,
+    "game_name": "Mystic Fortune Deluxe",
+    "game_uid": "01b7527e226ab344df294a2c90627825",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_mystic_fortune_deluxe.webp"
+  },
+  {
+    "id": 48,
+    "game_name": "Calaveras Explosivas",
+    "game_uid": "5d55cbaab451ed6f1c8191ddf05bb687",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_calaveras_explosivas.webp"
+  },
+  {
+    "id": 49,
+    "game_name": "Marvelous Furlongs",
+    "game_uid": "8c73626508ae9039f51a6fe738bc3ebc",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_marvelous_furlongs.webp"
+  },
+  {
+    "id": 50,
+    "game_name": "Candy Tower",
+    "game_uid": "055a3c5145f67b3c4175629b59509947",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_candy_tower.webp"
+  },
+  {
+    "id": 51,
+    "game_name": "Return To The Feature",
+    "game_uid": "e62204aa1bd218c9b9f4380002c0b872",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_return_to_the_feature.webp"
+  },
+  {
+    "id": 52,
+    "game_name": "Before Time Runs Out",
+    "game_uid": "60d7a3d52af861c7e76f6feb985d1206",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_before_time_runs_out.webp"
+  },
+  {
+    "id": 53,
+    "game_name": "Totem Towers",
+    "game_uid": "0a4778a9f4622bc715796b205f27c690",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_totem_towers.webp"
+  },
+  {
+    "id": 54,
+    "game_name": "Christmas Gift Rush",
+    "game_uid": "0249c59f523dfa2327f6542f1fdd3c14",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_christmas_gift_rush.webp"
+  },
+  {
+    "id": 55,
+    "game_name": "Taberna De Los Muertos",
+    "game_uid": "ccab146827cd9948237ed196de762d46",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_taberna_de_los_muertos.webp"
+  },
+  {
+    "id": 56,
+    "game_name": "Happy Ape",
+    "game_uid": "81e04944b87d04a1abb3f326f991bd6c",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_happy_ape.webp"
+  },
+  {
+    "id": 57,
+    "game_name": "Jellyfish Flow",
+    "game_uid": "16ab35239e612be250c071b0a3a1e41f",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_jellyfish_flow.webp"
+  },
+  {
+    "id": 58,
+    "game_name": "Wealth Inn",
+    "game_uid": "259f3a0923e8c451300d5c50f5bb39e1",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_wealth_inn.webp"
+  },
+  {
+    "id": 59,
+    "game_name": "Hey Sushi",
+    "game_uid": "ae4872456c44dadc929dbb4d002846a7",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_hey_sushi.webp"
+  },
+  {
+    "id": 60,
+    "game_name": "Scopa",
+    "game_uid": "62c00ce5fce7ed23d6a34f2f7c9f7b37",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_scopa.webp"
+  },
+  {
+    "id": 61,
+    "game_name": "Techno Tumble",
+    "game_uid": "0dc7820d4ad450f7e183043799ee196d",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_techno_tumble.webp"
+  },
+  {
+    "id": 62,
+    "game_name": "Lucky Fortune Cat",
+    "game_uid": "0af94e9dfb7ad28a6485543239bdeba4",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_lucky_fortune_cat.webp"
+  },
+  {
+    "id": 63,
+    "game_name": "Knockout Football Rush",
+    "game_uid": "f7bfd8ea9855b0863c6f0e9894326794",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_knockout_football_rush.webp"
+  },
+  {
+    "id": 64,
+    "game_name": "Loony Blox",
+    "game_uid": "1e310e6cc1afe59a7051628b1d85bcf0",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_loony_blox.webp"
+  },
+  {
+    "id": 65,
+    "game_name": "Fa Cai Shen Deluxe",
+    "game_uid": "8321550d6fcccde9c5afc95e5b1afa44",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_fa_cai_shen_deluxe.webp"
+  },
+  {
+    "id": 66,
+    "game_name": "Naughty Santa",
+    "game_uid": "a288f4e3c3bf097f32e798c274434aef",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_naughty_santa.webp"
+  },
+  {
+    "id": 67,
+    "game_name": "Hot Hot Halloween",
+    "game_uid": "329399bfe60653a7219e2c6ec8f6b066",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_hot_hot_halloween.webp"
+  },
+  {
+    "id": 68,
+    "game_name": "Wizards Want War!",
+    "game_uid": "dfaa499a667ae8e8b9661d2749ba5efa",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_wizards_want_war.webp"
+  },
+  {
+    "id": 69,
+    "game_name": "Colossal Gems",
+    "game_uid": "9ca8a1d4fc1fac2c25c57935c3b44668",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_colossal_gems.webp"
+  },
+  {
+    "id": 70,
+    "game_name": "Nuwa",
+    "game_uid": "7650e8c8a0efd16eb5a320f3acbea130",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_nuwa.webp"
+  },
+  {
+    "id": 71,
+    "game_name": "Wild Trucks",
+    "game_uid": "ca2aaafa50243bc30f771239f48b7a6b",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_wild_trucks.webp"
+  },
+  {
+    "id": 72,
+    "game_name": "Lucky Lucky",
+    "game_uid": "1d1cf511b717fe1ceed567e6992f8cb7",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_lucky_lucky.webp"
+  },
+  {
+    "id": 73,
+    "game_name": "Magic Oak",
+    "game_uid": "05a14cf61d7fa6b3476a1480664a6706",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_magic_oak.webp"
+  },
+  {
+    "id": 74,
+    "game_name": "Mount Mazuma",
+    "game_uid": "319ecb744397657f4369fed32384e2be",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_mount_mazuma.webp"
+  },
+  {
+    "id": 75,
+    "game_name": "5 Lucky Lions",
+    "game_uid": "fa175432d4e34c7e90cc7fe878c4a206",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_5_lucky_lions.webp"
+  },
+  {
+    "id": 76,
+    "game_name": "Hot Hot Fruit",
+    "game_uid": "ddbee4551a9c52a5b90b0bbe7bc52d12",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_hot_hot_fruit.webp"
+  },
+  {
+    "id": 77,
+    "game_name": "Happiest Christmas Tree",
+    "game_uid": "0c298b2a752e4d01040e7368684a21b6",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_happiest_christmas_tree.webp"
+  },
+  {
+    "id": 78,
+    "game_name": "Pumpkin Patch",
+    "game_uid": "188a1ee3b3b4768679ba335dfbc526f2",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_pumpkin_patch.webp"
+  },
+  {
+    "id": 79,
+    "game_name": "Jump!",
+    "game_uid": "594a7821cf98315df7df476d8f268cc0",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_jump.webp"
+  },
+  {
+    "id": 80,
+    "game_name": "Egyptian Dreams Deluxe",
+    "game_uid": "a0483d27cf5ebac65e80cad56e921c3b",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_egyptian_dreams_deluxe.webp"
+  },
+  {
+    "id": 81,
+    "game_name": "Ways Of Fortune",
+    "game_uid": "86499e0f13e08e3281ffbe6cdc34aeec",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_ways_of_fortune.webp"
+  },
+  {
+    "id": 82,
+    "game_name": "Knockout Football",
+    "game_uid": "118212f8ddf2e5f1531029798ca1aedd",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_knockout_football.webp"
+  },
+  {
+    "id": 83,
+    "game_name": "Fortune Dogs",
+    "game_uid": "605c8a1a68e04386a909e0e122354c61",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_fortune_dogs.webp"
+  },
+  {
+    "id": 84,
+    "game_name": "Presto!",
+    "game_uid": "2c536706630ad431e89aa54f2c8d5472",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_presto.webp"
+  },
+  {
+    "id": 85,
+    "game_name": "London Hunter",
+    "game_uid": "35c75e0846fd4a69168ebbd373fb4327",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_london_hunter.webp"
+  },
+  {
+    "id": 86,
+    "game_name": "Four Divine Beasts",
+    "game_uid": "87e568161a9f4ea007634dd2ebe37907",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_four_divine_beasts.webp"
+  },
+  {
+    "id": 87,
+    "game_name": "5 Mariachis",
+    "game_uid": "b7cafdec84e7b1f2ac485b41678898be",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_5_mariachis.webp"
+  },
+  {
+    "id": 88,
+    "game_name": "Santa's Village",
+    "game_uid": "b3878254a43572075615b67c10d5c9b9",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_santas_village.webp"
+  },
+  {
+    "id": 89,
+    "game_name": "Rolling Roger",
+    "game_uid": "83e89476bf530f0ba20a1c94472c3d88",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_rolling_roger.webp"
+  },
+  {
+    "id": 90,
+    "game_name": "Cake Valley",
+    "game_uid": "5d33cda36d8959bfe7429039d1c9400f",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_cake_valley.webp"
+  },
+  {
+    "id": 91,
+    "game_name": "Scruffy Scallywags",
+    "game_uid": "ed6ba4ad4bb430e25d4bf2ae427d4fde",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_scruffy_scallywags.webp"
+  },
+  {
+    "id": 92,
+    "game_name": "The Dead Escape",
+    "game_uid": "93e763177978e6e34f9187402d864361",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_the_dead_escape.webp"
+  },
+  {
+    "id": 93,
+    "game_name": "Panda Panda",
+    "game_uid": "3f19dd798f423ba5da31e9e3d3d6d1c0",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_panda_panda.webp"
+  },
+  {
+    "id": 94,
+    "game_name": "Bird of Thunder",
+    "game_uid": "8de75bfd7e0252b2a0f6dbf6a4a995e2",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_bird_of_thunder.webp"
+  },
+  {
+    "id": 95,
+    "game_name": "Koi Gate",
+    "game_uid": "5c08667f31cf0525b7723167aa3143c4",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_koi_gate.webp"
+  },
+  {
+    "id": 96,
+    "game_name": "Fire Rooster",
+    "game_uid": "eca083d1d0ef6301c7fdde829f108e9d",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_fire_rooster.webp"
+  },
+  {
+    "id": 97,
+    "game_name": "Fenghuang",
+    "game_uid": "d27e81a127ca93e8937abde4a090a4c1",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_fenghuang.webp"
+  },
+  {
+    "id": 98,
+    "game_name": "Jugglenaut",
+    "game_uid": "2d4ea0b5fb290be90625aa45ad62af88",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_jugglenaut.webp"
+  },
+  {
+    "id": 99,
+    "game_name": "Ocean's Call",
+    "game_uid": "7ef2da688ce4af21f3d0916a90d5c434",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_oceans_call.webp"
+  },
+  {
+    "id": 100,
+    "game_name": "Gangsters",
+    "game_uid": "5aea97dbe8d9de64cd0783302a499b25",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_gangsters.webp"
+  },
+  {
+    "id": 101,
+    "game_name": "Sparta",
+    "game_uid": "f59b1ddbbca8af4ecf1f9e1a73f32942",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_sparta.webp"
+  },
+  {
+    "id": 102,
+    "game_name": "Super Twister",
+    "game_uid": "2b0a36a1f8c2185e143c792872e087f9",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_super_twister.webp"
+  },
+  {
+    "id": 103,
+    "game_name": "12 Zodiacs",
+    "game_uid": "b88e91b328ecc8e990af48df6db705b4",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_12_zodiacs.webp"
+  },
+  {
+    "id": 104,
+    "game_name": "Arcane Elements",
+    "game_uid": "9e5e1dfa488243f7c1f1b4380de76d59",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_arcane_elements.webp"
+  },
+  {
+    "id": 105,
+    "game_name": "Dragon's Throne",
+    "game_uid": "a1533506cdf70571e2f45b5308287b38",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_dragons_throne.webp"
+  },
+  {
+    "id": 106,
+    "game_name": "Coyote Crash",
+    "game_uid": "bb5f56d7a88310a7f10e625222989676",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_coyote_crash.webp"
+  },
+  {
+    "id": 107,
+    "game_name": "Roman Empire",
+    "game_uid": "59a584c08255434d3c10e208afce1b74",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_roman_empire.webp"
+  },
+  {
+    "id": 108,
+    "game_name": "Ruffled Up",
+    "game_uid": "abe9d9a2344576f834e9541ca75aea0d",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_ruffled_up.webp"
+  },
+  {
+    "id": 109,
+    "game_name": "Fa Cai Shen",
+    "game_uid": "a97e5f089527b86f31cb8a4da4e2e26a",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_fa_cai_shen.webp"
+  },
+  {
+    "id": 110,
+    "game_name": "Wicked Witch",
+    "game_uid": "351a9a00cdcc709865a929d537d6e09f",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_wicked_witch.webp"
+  },
+  {
+    "id": 111,
+    "game_name": "Love And Riches: Eldorado",
+    "game_uid": "377258383841889942fa2377fd5d7f29",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_love_and_riches_eldorado.webp"
+  },
+  {
+    "id": 112,
+    "game_name": "Super Fruit Blast",
+    "game_uid": "12e9a08581e07cfb4fcd5bfc3647f325",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_super_fruit_blast.webp"
+  },
+  {
+    "id": 113,
+    "game_name": "Shamrock Quest",
+    "game_uid": "a62aaa5ace1f4e4c20316f8c162bf95e",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_shamrock_quest.webp"
+  },
+  {
+    "id": 114,
+    "game_name": "Japanese Mask",
+    "game_uid": "400c4b200dd8015b56d705960c6e3dac",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_japanese_mask.webp"
+  },
+  {
+    "id": 115,
+    "game_name": "Hyper Hues",
+    "game_uid": "ac095ea218bef3ebde56bbc796ea7f43",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_hyper_hues.webp"
+  },
+  {
+    "id": 116,
+    "game_name": "Carnival Cove",
+    "game_uid": "9a186f9d2dc34a040f3ce3151c7a1601",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_carnival_cove.webp"
+  },
+  {
+    "id": 117,
+    "game_name": "Mystic Rings",
+    "game_uid": "2857dda089068169c08406e8a392609d",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_mystic_rings.webp"
+  },
+  {
+    "id": 118,
+    "game_name": "Mummy Hunter",
+    "game_uid": "f991c73624812784c2eb0f17e1960889",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_mummy_hunter.webp"
+  },
+  {
+    "id": 119,
+    "game_name": "Gladiator Royal",
+    "game_uid": "67684960c153e11b262c7c79254a98fe",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_gladiator_royal.webp"
+  },
+  {
+    "id": 120,
+    "game_name": "Mystic Shaman",
+    "game_uid": "495748063887cc4c307d1785c0238b43",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_mystic_shaman.webp"
+  },
+  {
+    "id": 121,
+    "game_name": "Safari Rumble",
+    "game_uid": "13431608fb2a6816db0bffa14f5df635",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_safari_rumble.webp"
+  },
+  {
+    "id": 122,
+    "game_name": "Gold Koi Fortune",
+    "game_uid": "33f3448a55246accc7de6c1a9f389c52",
+    "game_type": "Slot Game",
+    "provider": "evolution",
+    "icon": "https://bulkapi.in/Habanero/hbn_gold_koi_fortune.webp"
+  }
+]

@@ -1,0 +1,10 @@
+
+#Ignore all node_modules folder
+**/node_modules
+
+#Ignore all .env files
+**/.env
+
+#Ignore all package-lock.json files
+**/package-lock.json
+

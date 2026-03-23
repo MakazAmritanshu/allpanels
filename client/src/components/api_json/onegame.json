@@ -1,0 +1,348 @@
+[
+  {
+    "id": 1,
+    "game_name": "88 Golden Fortunes",
+    "game_uid": "700ecc233948076cd0743d937b3ed02a",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/88_Golden_Fortunes.webp"
+  },
+  {
+    "id": 2,
+    "game_name": "Kings Piggy Gold",
+    "game_uid": "439796e07619bca73888d6d069d3e0f8",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/Kings_Piggy_Gold.webp"
+  },
+  {
+    "id": 3,
+    "game_name": "Jin Chan",
+    "game_uid": "a3ed01075f2f55704553425f4a7fcf52",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/Jin_Chan.webp"
+  },
+  {
+    "id": 4,
+    "game_name": "kings jackpots",
+    "game_uid": "36f220f7a76f7e7e8c57169546af6b9a",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/kings_jackpots.webp"
+  },
+  {
+    "id": 5,
+    "game_name": "himalaya treasures",
+    "game_uid": "4f4167c88bfd7441f8031c528dad5f74",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/himalaya_treasures.webp"
+  },
+  {
+    "id": 6,
+    "game_name": "majestic mandap",
+    "game_uid": "43d9cc3b237253bcea9fbb2bd7778046",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/majestic_mandap.webp"
+  },
+  {
+    "id": 7,
+    "game_name": "guardian of fortune",
+    "game_uid": "064b673d42e2b9a0e7e7579b011c88c2",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/guardian_of_fortune.webp"
+  },
+  {
+    "id": 8,
+    "game_name": "usaba_sambah",
+    "game_uid": "583906c65e4b70cdc006223bbdc08706",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/usaba_sambah.webp"
+  },
+  {
+    "id": 9,
+    "game_name": "vikings fate of prosperity",
+    "game_uid": "00a05e14c5b350367cb2ace55591554f",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/vikings_fate_of_prosperity.webp"
+  },
+  {
+    "id": 10,
+    "game_name": "wild_west_gold_rush",
+    "game_uid": "811a2c9060d465c62b79c3469bb28aa1",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/wild_west_gold_rush.webp"
+  },
+  {
+    "id": 11,
+    "game_name": "dragon king of the ocean",
+    "game_uid": "c92805536524fc8abc8ef0887996e383",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/dragon_king_of_the_ocean.webp"
+  },
+  {
+    "id": 12,
+    "game_name": "royal treasures",
+    "game_uid": "52f524729f48e7112e1c5907d7db28be",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/royal_treasures.webp"
+  },
+  {
+    "id": 13,
+    "game_name": "songkran lucky splash",
+    "game_uid": "6604aebe11352c012868311f314b013f",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/songkran_lucky_splash.webp"
+  },
+  {
+    "id": 14,
+    "game_name": "the legend of banyan tree",
+    "game_uid": "04d23162d73e78890c73a8c86eb07d13",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/the_legend_of_banyan_tree.webp"
+  },
+  {
+    "id": 15,
+    "game_name": "jin chan xplay",
+    "game_uid": "679ca4120fa5dbde81c5cb3403fbe3fe",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/jin_chan_xplay.webp"
+  },
+  {
+    "id": 16,
+    "game_name": "thai sweets bonanza",
+    "game_uid": "fc37c59478bdd8770bfd59294139e16e",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/thai_sweets_bonanza.webp"
+  },
+  {
+    "id":17,
+    "game_name": "farm of fortune",
+    "game_uid": "68f42ae0380460dc049d517b085dd85b",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/farm_of_fortune.webp"
+  },
+  {
+    "id": 18,
+    "game_name": "tom yummy",
+    "game_uid": "a2c7bf307127a8d6f82dea44ff01c7cb",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/tom_yummy.webp"
+  },
+  {
+    "id": 19,
+    "game_name": "piggy bank xplay",
+    "game_uid": "e82dec5e52ad4aa4590180d8cc908b70",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/piggy_bank_xplay.webp"
+  },
+  {
+    "id": 20,
+    "game_name": "monkey king opera 2",
+    "game_uid": "4f07d5311bf8f9455e7d35eb3b73a40b",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/monkey_king_opera_2.webp"
+  },
+  {
+    "id": 21,
+    "game_name": "monkey king opera",
+    "game_uid": "6f5eed37f19a7bdb5586b42ab6e2ed60",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/monkey_king_opera.webp"
+  },
+  {
+    "id": 22,
+    "game_name": "88 treasures",
+    "game_uid": "c4bd1db960587685ad9fc6e644bb9a38",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/88_treasures.webp"
+  },
+  {
+    "id": 23,
+    "game_name": "eternal fortune",
+    "game_uid": "b63e1ad05d45d80e967ce3be5339b776",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/eternal_fortune.webp"
+  },
+  {
+    "id": 24,
+    "game_name": "beautiful peony",
+    "game_uid": "0db6915d71e008683985e3637e3e7c2c",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/beautiful_peony.webp"
+  },
+  {
+    "id": 25,
+    "game_name": "party monkey",
+    "game_uid": "09742732dd9ec6bc24870a1965004969",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/party_monkey.webp"
+  },
+  {
+    "id": 26,
+    "game_name": "double happiness",
+    "game_uid": "3f6751075faaed2465733a36ed20ac9d",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/double_happiness.webp"
+  },
+ 
+  {
+    "id": 28,
+    "game_name": "fa cai shen",
+    "game_uid": "f0a8e72cf4de310323cfcb5d99391c3e",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/fa_cai_shen.webp"
+  },
+  {
+    "id": 29,
+    "game_name": "winning scroll",
+    "game_uid": "c00c5e9bbe6c918ebf9ea6951889d748",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/winning_scroll.webp"
+  },
+  {
+    "id": 30,
+    "game_name": "rising phoenix",
+    "game_uid": "de5964c285168068c8c448d4fc47552f",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/rising_phoenix.webp"
+  },
+  {
+    "id": 31,
+    "game_name": "money frog",
+    "game_uid": "c2e78f3755809824dd635085170b7583",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/money_frog.webp"
+  },
+  {
+    "id": 32,
+    "game_name": "double dragon",
+    "game_uid": "5f04ba80f992a71962436c9c48335bc0",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/double_dragon.webp"
+  },
+  {
+    "id": 33,
+    "game_name": "lucky koi",
+    "game_uid": "86b90d79b25cb4d4ae4b058d4b72a0e1",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/lucky_koi.webp"
+  },
+  {
+    "id": 34,
+    "game_name": "kings piggy bank",
+    "game_uid": "d0e22b9864ee4c422d94168e101ccfa2",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/kings_piggy_bank.webp"
+  },
+  {
+    "id": 35,
+    "game_name": "celebrating lions",
+    "game_uid": "19b2c308faa7f159cde4494b1a5d3285",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/celebrating_lions.webp"
+  },
+  {
+    "id": 36,
+    "game_name": "happy panda",
+    "game_uid": "a233ca6f73ed10fe1133903a34f9788a",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/happy_panda.webp"
+  },
+  {
+    "id": 37,
+    "game_name": "heavenly rich",
+    "game_uid": "a349eb03e085ed1a84dbdc48e22f6614",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/heavenly_rich.webp"
+  },
+  {
+    "id": 38,
+    "game_name": "fafa babies",
+    "game_uid": "8110ac702071ebc71ca1698143dc7b85",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/fafa_babies.webp"
+  },
+  {
+    "id": 39,
+    "game_name": "dragons legend",
+    "game_uid": "9fc16beadc31ce189f56a6ec86117547",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/dragons_legend.webp"
+  },
+  {
+    "id": 40,
+    "game_name": "fortune festival",
+    "game_uid": "c631bfe3a20840a8654d684a291e6e68",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/fortune_festival.webp"
+  },
+  {
+    "id": 41,
+    "game_name": "big rich fortune",
+    "game_uid": "0052ab3e8fbff56f9d192925ede93728",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/big_rich_fortune.webp"
+  },
+  {
+    "id": 42,
+    "game_name": "white elephant",
+    "game_uid": "89d3e5cc59919e4bcd2969c5a9475986",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/white_elephant.webp"
+  },
+  {
+    "id": 43,
+    "game_name": "prosperity rat",
+    "game_uid": "1a499305f1eb9b59bbc7d3ecb189cd78",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/prosperity_rat.webp"
+  },
+  {
+    "id": 44,
+    "game_name": "jackpot treasures",
+    "game_uid": "320b24ada6ce9087b4747eeeebcc2898",
+    "game_type": "Slot",
+    "provider": "onegame",
+    "icon": "https://bulkapi.in/onegame/jackpot_treasures.webp"
+  }
+  
+]
