@@ -13,7 +13,7 @@ function Casino({ casinos }) {
             src={casino.image}
             alt={casino.name}
             onClick={() => {
-              navigate(`/casino-bet/${casino.name}/${casino.slug}`);
+              // navigate(`/casino-bet/${casino.name}/${casino.slug}`);
             }}
           />
         </div>

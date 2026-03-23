@@ -367,9 +367,9 @@ function AllCasino() {
     <div className='grid grid-cols-4 md:grid-cols-6 lg:grid-cols-10'>
       {casinos.map((casino) => (
         <div key={casino.id} className='flex flex-col items-center p-0.5'
-        onClick={() => {
-          navigate(`/casino-bet/${casino.name}/${casino.slug}`);
-        }}
+        // onClick={() => {
+        //   navigate(`/casino-bet/${casino.name}/${casino.slug}`);
+        // }}
         >
           <img src={casino.image} alt={casino.name} className=' ' />
           <span className='flex h-5 w-full items-center justify-center truncate bg-[#0088CC] text-center text-[9px] font-semibold text-[#FFFFFF]'>
