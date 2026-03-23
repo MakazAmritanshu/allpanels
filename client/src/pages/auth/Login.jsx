@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
-import logo from '../../assets/Alllogo.png';
-import shivaylogo from '../../assets/shivaylogo.png';
+import Allpanellogo from '../../assets/allpanel.png';
 import newshivalogo from '../../assets/newshivalogo.png';
 import { BiSolidHandDown } from 'react-icons/bi';
 import { FiUser, FiLock } from 'react-icons/fi';
@@ -49,9 +48,9 @@ function Login() {
       <div className='flex flex-1 flex-col items-center justify-center pb-18'>
         <div className='flex w-[350px] max-w-[90%] flex-col items-center justify-center'>
           <img
-            src={newshivalogo}
+            src={Allpanellogo}
             alt='logo'
-            className='max-h-[70px] object-cover'
+            className='max-h-[60px] object-cover'
           />
           <div className='mt-4 flex w-full flex-col items-center gap-3 rounded border border-[#0088CC] bg-[#fff] px-2 py-1 shadow-[0_0_5px_#fff]'>
             <div className='text-[#0088CC]'>

@@ -10,7 +10,7 @@ import { NavLink, useLocation } from 'react-router-dom';
 import { MdLogout } from 'react-icons/md';
 // import logo from "../assets/icons/theme-1709828838678-aura555.png";
 // import logo from "../../client/src/assets/icons/daimondpan (1).png"
-import logo from '../assets/icons/AURA444.png';
+import Allpanellogo from '../assets/allpanel.png';
 import jdlogo from '../assets/jdlogo.png';
 import newshivalogo from '../assets/newshivalogo.png';
 import { useDispatch, useSelector } from 'react-redux';
@@ -190,7 +190,7 @@ const Navbar = () => {
           {/* Top row - Role and Name */}
           <header className='bg-color flex h-[75px] items-center justify-between border-b border-gray-800 p-2'>
             <div className='flex grid items-center'>
-              <img src={newshivalogo} alt='logo' className='h-[50px]' />
+              <img src={Allpanellogo} alt='logo' className='h-[40px]' />
             </div>
             <div className='grid justify-items-end'>
               <div className='flex items-center gap-2'>
@@ -230,7 +230,7 @@ const Navbar = () => {
 
         {/* Desktop Header */}
         <header className='bg-color hidden h-[75px] items-center justify-between border-b border-gray-800 md:px-20 lg:flex'>
-          <img src={newshivalogo} alt='logo' className='h-[70px]' />
+          <img src={Allpanellogo} alt='logo' className='h-[60px]' />
           <div className='mr-4 flex items-center gap-4'>
             <div className='relative flex items-center gap-2'>
               <p

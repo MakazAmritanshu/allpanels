@@ -3,8 +3,8 @@ import { FaUser, FaEye, FaEyeSlash } from 'react-icons/fa';
 import { IoMdClose } from 'react-icons/io';
 // import logo from "../assets/icons/theme-1709828838678-aura555.png";
 // import logo from "../assets/icons/daimondpan (1).png"
-import logo from '../assets/icons/AURA444.png';
-import jdlogo from '../assets/jdlogo.png';
+  import Allpanellogo from '../assets/allpanel.png';
+  import jdlogo from '../assets/jdlogo.png';
 import newshivalogo from '../assets/newshivalogo.png';
 
 import { useDispatch, useSelector } from 'react-redux';
@@ -60,7 +60,7 @@ const Login = () => {
         }}
       >
         <div className='mx-auto w-[90%] md:w-[220px]'>
-          <img src={newshivalogo} className='mx-auto h-[60px] md:h-[70px]' alt='logo' />
+          <img src={Allpanellogo} className='mx-auto h-[60px] md:h-[70px]' alt='logo' />
           <div className='relative mt-5'>
             <input
               type='text'
