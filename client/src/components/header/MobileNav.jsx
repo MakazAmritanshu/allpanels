@@ -1,69 +1,181 @@
-import React from 'react';
-import { MdSportsCricket } from 'react-icons/md';
+// import React from 'react';
+// import { MdSportsCricket } from 'react-icons/md';
 
-const matches = [
-  {
-    id: 1,
-    team1: 'Sydney Thunder',
-    team2: 'Melbourne Renegades',
-  },
-  {
-    id: 2,
-    team1: 'Kolkata Knight Riders',
-    team2: 'Delhi Capitals',
-  },
-  {
-    id: 3,
-    team1: 'Mumbai Indians',
-    team2: 'Chennai Super Kings',
-  },
-  {
-    id: 4,
-    team1: 'Royal Challengers Bangalore',
-    team2: 'Sunrisers Hyderabad',
-  },
-];
+// const matches = [
+//   {
+//     id: 1,
+//     team1: 'Sydney Thunder',
+//     team2: 'Melbourne Renegades',
+//   },
+//   {
+//     id: 2,
+//     team1: 'Kolkata Knight Riders',
+//     team2: 'Delhi Capitals',
+//   },
+//   {
+//     id: 3,
+//     team1: 'Mumbai Indians',
+//     team2: 'Chennai Super Kings',
+//   },
+//   {
+//     id: 4,
+//     team1: 'Royal Challengers Bangalore',
+//     team2: 'Sunrisers Hyderabad',
+//   },
+// ];
+
+// const mainNavItems = [
+//   { id: 'CRASH', label: 'CRASH' , img: 
+//   (<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width='30' viewBox="0 0 457.6 277.4"><defs></defs><g id="Layer_1-2" data-name="Layer 1"><g><path fill='red' class="cls-1" d="M61.85,273.4c-1.8-3.5-2.3-3.9-4-3-3.2,1.7-5.5,1.1-9-2.5l-3.3-3.4,4.4-1.9c2.4-1.1,8-2.2,12.4-2.6,27.1-2.5,84.1-19.2,161-47.1,32.1-11.7,80.4-30.1,81.3-31,1.2-1.2-1-1.5-11.9-1.7-10.6-.2-11.7,0-16.5,2.4-13.1,6.8-74.6,31.2-92.8,36.7l-6.9,2.1-6.4-5-6.5-4.9-3.6,1.5c-21.3,9-88,36.4-89.2,36.6-1,.2-1.6-.6-1.8-2.3-.3-2.4.5-3,7.8-6.9,4.5-2.3,7.9-4.5,7.5-4.8-.3-.4-4.3-.9-8.9-1.3-9.7-.8-17.3-4-28.2-11.9-4.8-3.5-7.8-5-10-5-4.3,0-6.4.9-6.4,2.7,0,.8,6.8,8.7,15.1,17.6,13,13.7,14.9,16.2,13.3,16.8-3.7,1.5-4.8.8-16.3-10.3-6.4-6.2-14.6-14.2-18.3-17.7l-6.7-6.5-8.8,4.2-8.8,4.2-.3-3.4c-.2-2,.2-4.4.8-5.5s6.5-4.8,13.1-8.2c11.8-6,14.2-8,12.2-10-.7-.7-4.1.5-10.2,3.5l-9.1,4.6v-2.5c0-2,1.4-3.3,7.7-7,10.3-6,17.3-8.1,22.3-6.6,2.1.6,10.7,6.3,19.1,12.6,19,14.3,29.4,19.9,35.9,19.2,5.3-.5,34-13.7,61.9-28.5,18.3-9.7,21.6-12.1,19.5-14.2-.7-.7-7.1,1.8-21.4,8.5-14.7,7-20.5,9.3-21.1,8.4-1.2-2-.1-3.3,5.6-6.3,3-1.6,5.5-3.4,5.5-4,0-.7-1.3-2.5-2.8-4l-2.9-2.7-19.8,9.6c-10.9,5.2-20,9.3-20.2,9.1-.8-.7,2.5-12.8,3.8-14.1.8-.8,9.5-5.6,19.4-10.8,17.7-9.4,18-9.6,17.8-12.7,0-1.7-.4-3.4-.7-3.7s-3.9.9-8,2.7l-7.4,3.3-8.9-9.3c-4.8-5.1-8.9-9.6-9.1-10-.5-1.4,8.8-7.9,14.6-10.1,10.4-4,10.9-3.9,118.5,11.3,35.6,5,65.5,9.7,66.5,10.4,1.6,1.1,1.6,1.4-.1,4.8l-1.7,3.7,2.8,1c1.5.5,5.8,2.1,9.5,3.6l6.9,2.5,10.1-4.3c12.4-5.2,32.9-15.6,45.6-23.2l9.4-5.5,3.2,2.4c3.2,2.4,6.9,3.1,7.9,1.6.3-.5-2.5-6.9-6.3-14.3-3.7-7.4-8.7-18.4-11-24.4-2.4-6.1-4.8-11.6-5.4-12.4-.9-1-3.3-1.2-10.7-.8-10.8.5-18.1,2.6-42,12-15.4,6-67.7,31.5-70.6,34.4-1.3,1.4-3.4,1.4-19.2-.1-9.7-.9-18-1.6-18.4-1.6-1.4,0-.8-5.5,1.1-9.7,1.6-3.4,3.9-5.4,14-12.1,14.3-9.5,28.2-16.5,37.4-18.9l6.5-1.7,9.9,3.9c14.3,5.6,16.3,5.6,39.8-1,38.2-10.6,43.5-11.8,52.2-11.9,8-.1,8.3,0,11.6,3.3,2.6,2.5,5.7,8.3,12,23,4.7,10.8,9,21.3,9.7,23.5,1.7,5.4.8,11.9-2.4,16-6.7,8.8-38,25.2-82.1,42.8-22.8,9.1-61.8,21.9-162.5,53.3-31.1,9.7-64.7,20.3-74.6,23.6-10,3.2-18.9,5.9-19.8,5.9-.8,0-2.5-1.8-3.6-4ZM291.35,168.4c3.8-2.3,7.1-6.9,5.8-8-.6-.5-144.9-20.8-158.8-22.3-1.2-.1-2,.4-2,1.3,0,1.2,15.5,4.6,72,16.1,39.6,8.1,73.7,14.7,75.9,14.8,2.3.1,5.2-.7,7.1-1.9h0ZM247.65,122c4.2-2.3,11.2-5.8,15.4-7.7,4.3-1.9,7.8-3.7,7.8-4.1s-2.8-1.3-6.2-2c-7.7-1.7-13.7-.9-22.4,3.3-6.7,3.1-18.9,11.7-18.1,12.6.6.5,9.3,1.9,13.5,2.2,1.3,0,5.8-1.9,10-4.3h0ZM282.15,115.8c7.5-3.8,10.7-6,10.5-7.1-.4-2.1-18.3-9.2-23.4-9.3-2.2,0-4.9.6-6,1.4q-2.1,1.6,10.4,6.5c2.6,1,4.8,2.3,5,2.9s-1.9,2.2-4.7,3.6c-5.5,2.8-6.6,4-5.7,6.1.8,2.3,2.3,1.9,13.9-4.1h0Z"></path><path fill='red'  class="cls-1" d="M440.55,196.2c-6.8-10.1-13.5-20.3-14.9-22.8-1.5-2.5-5.5-14.1-9.1-25.7l-6.5-21.3,5.1-5c2.7-2.8,5.1-4.9,5.2-4.8.1.2,5.2,9.4,11.4,20.6,11.9,21.3,15.8,31,23.1,58,3.3,11.9,3.3,12.3,1.7,15.7-.9,1.9-2.1,3.5-2.6,3.5s-6.5-8.2-13.4-18.2h0ZM454.65,206.5c.2-1.9-.5-4.6-1.7-6.7-1.8-3.1-22-30.4-24.3-32.9-1.2-1.3-3,1.5-2.2,3.5,1.2,3.4,26,39.9,26.9,39.6.6-.1,1.1-1.7,1.3-3.5h0Z"></path><path fill='red'  class="cls-1" d="M295.35,148.3c-13.2-2.6-24.6-4.9-25.4-5.1-.8-.2,11.3-5.4,27-11.6l28.3-11.4,5.3,5.9c2.9,3.2,5.2,6.3,5.3,6.9,0,.6-2.3,5.5-5.1,10.8-4.8,9.1-5.2,9.6-8.2,9.5-1.8-.1-14-2.3-27.2-5h0Z"></path><path fill='red'  class="cls-1" d="M334.85,152.1c0-.2,1.6-3.6,3.6-7.5,1.9-4,4.1-9,4.9-11.1l1.3-3.8-5.3-6.9c-5.3-6.8-5.4-6.9-3.2-8.1,2-1.1,2.6-.8,6.2,3.2,2.2,2.5,4.3,4.5,4.6,4.5s1.7-3.9,3-8.7l2.4-8.8.3,4.9c.2,2.6-.2,8-.8,11.8l-1,7,5.1,6.4,5.1,6.4-2.7,1c-2.2.9-2.9.6-5-1.8-1.3-1.5-2.5-3-2.5-3.4-.1-2.3-1.9-.1-3.9,4.6-1.2,3-2.8,5.9-3.5,6.5-1.4,1.1-8.6,4.3-8.6,3.8h0Z"></path><path fill='red'  class="cls-1" d="M404.75,114.7c-7.2-16.1-7.3-16.4-5.8-17.5,1.5-1,21.2-.4,24.2.7.9.4,1.7,1.4,1.7,2.2,0,4.2-12.6,21.3-15.6,21.3-.9,0-2.8-2.9-4.5-6.7h0ZM414.15,104.7c4.8-2,8.7-4,8.7-4.4,0-1.2-4.4-1.9-13.2-1.9-8.2,0-8.8.1-8.8,2,0,2.4,2.7,8,3.8,8,.4,0,4.6-1.6,9.5-3.7Z"></path><path fill='red'  class="cls-1" d="M385.05,75.9c-10.7-19.1-14-27.3-20.7-51.6-4-14.3-4.3-18.7-1.6-22l1.9-2.3,14.8,22.3,14.8,22.3,7.6,24.2c4.2,13.2,7.4,24.2,7.1,24.3-.3.1-3.5.3-7.1.6l-6.5.4-10.3-18.2h0ZM391.85,46.5c0-1.5-23.2-37.5-26.1-40.6-1.3-1.3-2.9,1.2-2.9,4.7,0,2.5,8.8,15.4,22.3,32.7,4.6,6,6.7,7,6.7,3.2Z"></path></g></g></svg>)},
+
+//   { id: 'SPORTS', label: 'SPORTS' },
+//   { id: 'LOTTERY', label: 'LOTTERY' },
+//   { id: 'OUR CASINO', label: 'OUR CASINO' },
+//   { id: 'LIVE CASINO', label: 'LIVE CASINO' },
+//   { id: 'SLOTS', label: 'SLOTS' },
+//   { id: 'FANTASY', label: 'FANTASY' },
+// ];
+
+// function MobileNav({ selected, setSelected }) {
+//   return (
+//     <div className='flex flex-col'>
+//       <div className='bg-primary text-primary scrollbar-hide flex gap-2 overflow-x-auto px-[5px]'>
+//         {matches.map((match) => (
+//           <div
+//             key={match.id}
+//             className='bg-secondary text-secondary flex shrink-0 items-center p-1 text-[14px] font-semibold whitespace-nowrap'
+//           >
+//             <div className='animate-blink flex items-center pr-1'>
+//               <MdSportsCricket />
+//             </div>
+//             <div className='animate-blink flex items-centersm:py-2'>
+//               <span>
+//                 {match.team1} v {match.team2}
+//               </span>
+//             </div>
+//           </div>
+//         ))}
+//       </div>
+//       <div className='bg-primary text-primary scrollbar-hide flex items-center justify-between gap-2 overflow-x-auto'>
+//         <div className='flex font-semibold'>
+//           {mainNavItems.map((item) => (
+//             <div
+//               key={item.id}
+//               className='flex items-center justify-center py-2.5 sm:py-2'
+//             >
+//               {item.img}
+//               <span
+//                 onClick={() => setSelected(item.id)}
+//                 className='cursor-pointer border-r px-1 border-white text-center'
+//               >
+//                 {item.label}
+//               </span>
+//             </div>
+//           ))}
+//         </div>
+//       </div>
+//     </div>
+//   );
+// }
+
+// export default MobileNav;
+
+
+import React, { useMemo } from 'react';
+import { useSelector } from 'react-redux';
+import { useNavigate } from 'react-router-dom';
+import { MdSportsCricket } from 'react-icons/md';
+import { FaFootballBall } from 'react-icons/fa';
+import { IoMdTennisball } from 'react-icons/io';
 
 const mainNavItems = [
-  { id: 'CRASH', label: 'CRASH' },
+  { id: 'CRASH', label: 'CRASH' , img: 
+  (<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width='30' viewBox="0 0 457.6 277.4"><defs></defs><g id="Layer_1-2" data-name="Layer 1"><g><path fill='red' class="cls-1" d="M61.85,273.4c-1.8-3.5-2.3-3.9-4-3-3.2,1.7-5.5,1.1-9-2.5l-3.3-3.4,4.4-1.9c2.4-1.1,8-2.2,12.4-2.6,27.1-2.5,84.1-19.2,161-47.1,32.1-11.7,80.4-30.1,81.3-31,1.2-1.2-1-1.5-11.9-1.7-10.6-.2-11.7,0-16.5,2.4-13.1,6.8-74.6,31.2-92.8,36.7l-6.9,2.1-6.4-5-6.5-4.9-3.6,1.5c-21.3,9-88,36.4-89.2,36.6-1,.2-1.6-.6-1.8-2.3-.3-2.4.5-3,7.8-6.9,4.5-2.3,7.9-4.5,7.5-4.8-.3-.4-4.3-.9-8.9-1.3-9.7-.8-17.3-4-28.2-11.9-4.8-3.5-7.8-5-10-5-4.3,0-6.4.9-6.4,2.7,0,.8,6.8,8.7,15.1,17.6,13,13.7,14.9,16.2,13.3,16.8-3.7,1.5-4.8.8-16.3-10.3-6.4-6.2-14.6-14.2-18.3-17.7l-6.7-6.5-8.8,4.2-8.8,4.2-.3-3.4c-.2-2,.2-4.4.8-5.5s6.5-4.8,13.1-8.2c11.8-6,14.2-8,12.2-10-.7-.7-4.1.5-10.2,3.5l-9.1,4.6v-2.5c0-2,1.4-3.3,7.7-7,10.3-6,17.3-8.1,22.3-6.6,2.1.6,10.7,6.3,19.1,12.6,19,14.3,29.4,19.9,35.9,19.2,5.3-.5,34-13.7,61.9-28.5,18.3-9.7,21.6-12.1,19.5-14.2-.7-.7-7.1,1.8-21.4,8.5-14.7,7-20.5,9.3-21.1,8.4-1.2-2-.1-3.3,5.6-6.3,3-1.6,5.5-3.4,5.5-4,0-.7-1.3-2.5-2.8-4l-2.9-2.7-19.8,9.6c-10.9,5.2-20,9.3-20.2,9.1-.8-.7,2.5-12.8,3.8-14.1.8-.8,9.5-5.6,19.4-10.8,17.7-9.4,18-9.6,17.8-12.7,0-1.7-.4-3.4-.7-3.7s-3.9.9-8,2.7l-7.4,3.3-8.9-9.3c-4.8-5.1-8.9-9.6-9.1-10-.5-1.4,8.8-7.9,14.6-10.1,10.4-4,10.9-3.9,118.5,11.3,35.6,5,65.5,9.7,66.5,10.4,1.6,1.1,1.6,1.4-.1,4.8l-1.7,3.7,2.8,1c1.5.5,5.8,2.1,9.5,3.6l6.9,2.5,10.1-4.3c12.4-5.2,32.9-15.6,45.6-23.2l9.4-5.5,3.2,2.4c3.2,2.4,6.9,3.1,7.9,1.6.3-.5-2.5-6.9-6.3-14.3-3.7-7.4-8.7-18.4-11-24.4-2.4-6.1-4.8-11.6-5.4-12.4-.9-1-3.3-1.2-10.7-.8-10.8.5-18.1,2.6-42,12-15.4,6-67.7,31.5-70.6,34.4-1.3,1.4-3.4,1.4-19.2-.1-9.7-.9-18-1.6-18.4-1.6-1.4,0-.8-5.5,1.1-9.7,1.6-3.4,3.9-5.4,14-12.1,14.3-9.5,28.2-16.5,37.4-18.9l6.5-1.7,9.9,3.9c14.3,5.6,16.3,5.6,39.8-1,38.2-10.6,43.5-11.8,52.2-11.9,8-.1,8.3,0,11.6,3.3,2.6,2.5,5.7,8.3,12,23,4.7,10.8,9,21.3,9.7,23.5,1.7,5.4.8,11.9-2.4,16-6.7,8.8-38,25.2-82.1,42.8-22.8,9.1-61.8,21.9-162.5,53.3-31.1,9.7-64.7,20.3-74.6,23.6-10,3.2-18.9,5.9-19.8,5.9-.8,0-2.5-1.8-3.6-4ZM291.35,168.4c3.8-2.3,7.1-6.9,5.8-8-.6-.5-144.9-20.8-158.8-22.3-1.2-.1-2,.4-2,1.3,0,1.2,15.5,4.6,72,16.1,39.6,8.1,73.7,14.7,75.9,14.8,2.3.1,5.2-.7,7.1-1.9h0ZM247.65,122c4.2-2.3,11.2-5.8,15.4-7.7,4.3-1.9,7.8-3.7,7.8-4.1s-2.8-1.3-6.2-2c-7.7-1.7-13.7-.9-22.4,3.3-6.7,3.1-18.9,11.7-18.1,12.6.6.5,9.3,1.9,13.5,2.2,1.3,0,5.8-1.9,10-4.3h0ZM282.15,115.8c7.5-3.8,10.7-6,10.5-7.1-.4-2.1-18.3-9.2-23.4-9.3-2.2,0-4.9.6-6,1.4q-2.1,1.6,10.4,6.5c2.6,1,4.8,2.3,5,2.9s-1.9,2.2-4.7,3.6c-5.5,2.8-6.6,4-5.7,6.1.8,2.3,2.3,1.9,13.9-4.1h0Z"></path><path fill='red'  class="cls-1" d="M440.55,196.2c-6.8-10.1-13.5-20.3-14.9-22.8-1.5-2.5-5.5-14.1-9.1-25.7l-6.5-21.3,5.1-5c2.7-2.8,5.1-4.9,5.2-4.8.1.2,5.2,9.4,11.4,20.6,11.9,21.3,15.8,31,23.1,58,3.3,11.9,3.3,12.3,1.7,15.7-.9,1.9-2.1,3.5-2.6,3.5s-6.5-8.2-13.4-18.2h0ZM454.65,206.5c.2-1.9-.5-4.6-1.7-6.7-1.8-3.1-22-30.4-24.3-32.9-1.2-1.3-3,1.5-2.2,3.5,1.2,3.4,26,39.9,26.9,39.6.6-.1,1.1-1.7,1.3-3.5h0Z"></path><path fill='red'  class="cls-1" d="M295.35,148.3c-13.2-2.6-24.6-4.9-25.4-5.1-.8-.2,11.3-5.4,27-11.6l28.3-11.4,5.3,5.9c2.9,3.2,5.2,6.3,5.3,6.9,0,.6-2.3,5.5-5.1,10.8-4.8,9.1-5.2,9.6-8.2,9.5-1.8-.1-14-2.3-27.2-5h0Z"></path><path fill='red'  class="cls-1" d="M334.85,152.1c0-.2,1.6-3.6,3.6-7.5,1.9-4,4.1-9,4.9-11.1l1.3-3.8-5.3-6.9c-5.3-6.8-5.4-6.9-3.2-8.1,2-1.1,2.6-.8,6.2,3.2,2.2,2.5,4.3,4.5,4.6,4.5s1.7-3.9,3-8.7l2.4-8.8.3,4.9c.2,2.6-.2,8-.8,11.8l-1,7,5.1,6.4,5.1,6.4-2.7,1c-2.2.9-2.9.6-5-1.8-1.3-1.5-2.5-3-2.5-3.4-.1-2.3-1.9-.1-3.9,4.6-1.2,3-2.8,5.9-3.5,6.5-1.4,1.1-8.6,4.3-8.6,3.8h0Z"></path><path fill='red'  class="cls-1" d="M404.75,114.7c-7.2-16.1-7.3-16.4-5.8-17.5,1.5-1,21.2-.4,24.2.7.9.4,1.7,1.4,1.7,2.2,0,4.2-12.6,21.3-15.6,21.3-.9,0-2.8-2.9-4.5-6.7h0ZM414.15,104.7c4.8-2,8.7-4,8.7-4.4,0-1.2-4.4-1.9-13.2-1.9-8.2,0-8.8.1-8.8,2,0,2.4,2.7,8,3.8,8,.4,0,4.6-1.6,9.5-3.7Z"></path><path fill='red'  class="cls-1" d="M385.05,75.9c-10.7-19.1-14-27.3-20.7-51.6-4-14.3-4.3-18.7-1.6-22l1.9-2.3,14.8,22.3,14.8,22.3,7.6,24.2c4.2,13.2,7.4,24.2,7.1,24.3-.3.1-3.5.3-7.1.6l-6.5.4-10.3-18.2h0ZM391.85,46.5c0-1.5-23.2-37.5-26.1-40.6-1.3-1.3-2.9,1.2-2.9,4.7,0,2.5,8.8,15.4,22.3,32.7,4.6,6,6.7,7,6.7,3.2Z"></path></g></g></svg>)},
 
   { id: 'SPORTS', label: 'SPORTS' },
+  { id: 'LOTTERY', label: 'LOTTERY' },
   { id: 'OUR CASINO', label: 'OUR CASINO' },
   { id: 'LIVE CASINO', label: 'LIVE CASINO' },
   { id: 'SLOTS', label: 'SLOTS' },
   { id: 'FANTASY', label: 'FANTASY' },
 ];
 
+const sportConfig = {
+  cricket: { icon: <MdSportsCricket />, route: 'cricket-bet' },
+  soccer: { icon: <FaFootballBall />, route: 'football-bet' },
+  tennis: { icon: <IoMdTennisball />, route: 'tennis-bet' },
+};
+
 function MobileNav({ selected, setSelected }) {
+  const navigate = useNavigate();
+  const cricketMatches = useSelector((s) => s.cricket.matches);
+  const soccerMatches = useSelector((s) => s.soccer.matches);
+  const tennisMatches = useSelector((s) => s.tennis.matches);
+
+  const displayMatches = useMemo(() => {
+    const excluded = /t\s*(10|5)/i;
+    const tag = (list, sport) =>
+      list
+        .filter((m) => !excluded.test(m.title))
+        .map((m) => ({ ...m, sport }));
+
+    const dedupe = (list) => {
+      const seen = new Set();
+      return list.filter((m) => {
+        const key = `${m.sport}-${m.game || m.title}-${m.id}`;
+        if (seen.has(key)) return false;
+        seen.add(key);
+        return true;
+      });
+    };
+
+    const all = dedupe([
+      ...tag(cricketMatches, 'cricket'),
+      ...tag(soccerMatches, 'soccer'),
+      ...tag(tennisMatches, 'tennis'),
+    ]);
+
+    const inPlay = all.filter((m) => m.inplay);
+    if (inPlay.length > 0) return inPlay;
+
+    const shuffled = [...all].sort(() => Math.random() - 0.5);
+    return shuffled.slice(0, 8);
+  }, [cricketMatches, soccerMatches, tennisMatches]);
+
   return (
     <div className='flex flex-col'>
-      <div className='bg-primary text-primary scrollbar-hide flex gap-2 overflow-x-auto'>
-        {matches.map((match) => (
+      <div className='bg-primary text-primary scrollbar-hide flex gap-2 overflow-x-auto px-[5px]'>
+        {displayMatches.map((match) => (
           <div
-            key={match.id}
-            className='bg-secondary text-secondary flex shrink-0 items-center p-1 text-[14px] font-semibold whitespace-nowrap'
+            key={`${match.sport}-${match.id}`}
+            className='bg-secondary text-secondary flex w-[calc(50%-4px)] min-w-[calc(50%-4px)] cursor-pointer items-center p-1 text-[14px] font-semibold'
+            onClick={() =>
+              navigate(
+                `/${sportConfig[match.sport].route}/${match.game}/${match.id}`,
+                { state: { time: match.time } }
+              )
+            }
           >
-            <div className='animate-blink flex items-center'>
-              <MdSportsCricket />
+            <div className='animate-blink flex items-center pr-1'>
+              {sportConfig[match.sport].icon}
             </div>
-            <div className='animate-blink flex items-center py-1 sm:py-2'>
-              <span>
-                {match.team1} v {match.team2}
-              </span>
+            <div className='animate-blink flex min-w-0 items-center sm:py-2'>
+              <span className='truncate'>{match.game || match.title}</span>
             </div>
           </div>
         ))}
       </div>
       <div className='bg-primary text-primary scrollbar-hide flex items-center justify-between gap-2 overflow-x-auto'>
-        <div className='flex gap-2 text-[14px] font-semibold'>
+        <div className='flex font-semibold'>
           {mainNavItems.map((item) => (
             <div
               key={item.id}
-              className='flex items-center justify-center border-r border-white px-4 py-1 sm:py-2'
+              className='flex items-center justify-center py-2.5 sm:py-2'
             >
+              {item.img}
               <span
                 onClick={() => setSelected(item.id)}
-                className='cursor-pointer'
+                className='cursor-pointer border-r px-1 border-white text-center'
               >
                 {item.label}
               </span>

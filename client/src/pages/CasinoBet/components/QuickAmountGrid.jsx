@@ -1,22 +1,36 @@
 import React, { memo } from 'react';
+import { useSelector } from 'react-redux';
 import { QUICK_AMOUNTS } from '../constants';
 import { formatToK } from '../utils/bettingUtils';
 
-/**
- * QuickAmountGrid - Grid of chip buttons for quick bet amount selection
- * Visual chip-style interface for selecting bet amounts
- */
 const QuickAmountGrid = memo(function QuickAmountGrid({
   betAmount,
   onAmountSelect,
-  variant = 'chips', // 'chips' | 'buttons'
+  variant = 'chips',
   selectedIncrement,
   onIncrementSelect,
 }) {
+  const { userInfo } = useSelector((state) => state.auth);
+  const amounts = (() => {
+    const saved = userInfo?.casinoQuickStakes;
+    if (!saved?.length) return QUICK_AMOUNTS;
+    return QUICK_AMOUNTS.map((def, i) => {
+      const item = saved[i];
+      if (!item) return def;
+      if (typeof item === 'object' && item.label && item.value) {
+        return { amt: item.value, label: item.label, img: def.img };
+      }
+      if (typeof item === 'number' && item > 0) {
+        return { amt: item, label: def.label, img: def.img };
+      }
+      return def;
+    });
+  })();
+
   if (variant === 'buttons') {
     return (
       <div className='mt-1 grid grid-cols-4 gap-1 lg:grid-cols-6 xl:grid-cols-8'>
-        {QUICK_AMOUNTS.map((val) => (
+        {amounts.map((val) => (
           <button
             key={val.amt}
             className={`h-[30px] rounded-sm border border-[#333] text-[13px] transition-colors md:text-[14px] ${
@@ -29,17 +43,16 @@ const QuickAmountGrid = memo(function QuickAmountGrid({
               onAmountSelect(val.amt);
             }}
           >
-            {formatToK(val.amt)}
+            {val.label || formatToK(val.amt)}
           </button>
         ))}
       </div>
     );
   }
 
-  // Chips variant (default)
   return (
     <div className='flex flex-wrap justify-center gap-1 space-y-5 px-5 pt-8 pb-4'>
-      {QUICK_AMOUNTS.map((val) => (
+      {amounts.map((val) => (
         <div
           key={val.amt}
           className={`relative w-18 cursor-pointer transition hover:scale-105 ${
@@ -53,7 +66,7 @@ const QuickAmountGrid = memo(function QuickAmountGrid({
             alt={`${val.amt} chip`}
           />
           <p className='absolute inset-y-1/5 flex w-full justify-center text-black'>
-            {formatToK(val.amt)}
+            {val.label || formatToK(val.amt)}
           </p>
         </div>
       ))}

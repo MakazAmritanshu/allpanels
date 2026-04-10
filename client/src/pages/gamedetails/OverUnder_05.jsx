@@ -183,10 +183,11 @@ function OverUnder_05({
         </span>
         <button
           disabled={!showCashoutOptions}
-          className={`p-1 font-[400] text-white 
-          ${showCashoutOptions 
-            ? "bg-[#198754] cursor-pointer" 
-            : " bg-[#198754]  opacity-60"}`}
+          className={`p-1 font-[400] text-white ${
+            showCashoutOptions
+              ? 'cursor-pointer bg-[#198754]'
+              : ' bg-[#198754] opacity-60'
+          }`}
         >
           Cashout
         </button>

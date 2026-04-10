@@ -45,7 +45,7 @@ function App() {
             <Route path='our-vip-casino' element={<OurVipCasino />} />
             <Route path='our-virtual-casino' element={<OurVirtualCasino />} />
             <Route path='our-prem-casino' element={<OurPremCasino />} />
-            {/* <Route path='casino-bet/:match/:gameid' element={<CasinoBet />} /> */}
+            <Route path='casino-bet/:match/:gameid' element={<CasinoBet />} />
           </Route>
         </Route>
       </Routes>

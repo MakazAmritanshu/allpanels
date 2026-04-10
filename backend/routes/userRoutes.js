@@ -3,6 +3,7 @@ import express from 'express';
 import {
   changePasswordByFirstLogin,
   changePasswordByUserSelf,
+  demoLogin,
   getLoginHistory,
   getPasswordHistoryByUserId,
   getUserById,
@@ -11,15 +12,19 @@ import {
   updateTheme,
   user_logout,
 } from '../controllers/userController.js';
-import { authMiddleware } from '../middleware/authMiddleware.js';
+import {
+  authMiddleware,
+  optionalAuthMiddleware,
+} from '../middleware/authMiddleware.js';
 
 const router = express.Router();
 
 // router.post("/register", registerUser);
 router.post('/user/login', loginUser);
+router.post('/user/demo-login', demoLogin);
 
 router.get('/get/user-details', authMiddleware, getUserById);
-router.get('/customer/logout', user_logout);
+router.get('/customer/logout', optionalAuthMiddleware, user_logout);
 router.post(
   '/change/password-self/user',
   authMiddleware,

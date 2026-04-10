@@ -21,12 +21,9 @@ function MatchOdds({
   gameid,
 }) {
   const dispatch = useDispatch();
-  const {
-    eventName,
-    cashoutValues,
-    cashoutLoading,
-    cashoutPL,
-  } = useSelector((state) => state.bet);
+  const { eventName, cashoutValues, cashoutLoading, cashoutPL } = useSelector(
+    (state) => state.bet
+  );
 
   const [showCashoutOptions, setShowCashoutOptions] = useState(false);
   const [cashedOutBetIds, setCashedOutBetIds] = useState(new Set());
@@ -176,8 +173,7 @@ function MatchOdds({
 
     const marketBets =
       pendingBetAmounts?.filter(
-        (item) =>
-          item.gameType === 'Match Odds' || item.gameType === marketName
+        (item) => item.gameType === 'Match Odds' || item.gameType === marketName
       ) || [];
 
     const matchedTeamBet = marketBets.find(
@@ -382,8 +378,8 @@ function MatchOdds({
             onClick={handleCashOutClick}
             className={`flex items-center gap-1 p-1 font-[400] text-white ${
               hasMergedValue && !cashoutLoading
-                ? 'bg-[#198754] cursor-pointer'
-                : 'bg-[#198754] opacity-60 cursor-not-allowed'
+                ? 'cursor-pointer bg-[#198754]'
+                : 'cursor-not-allowed bg-[#198754] opacity-60'
             }`}
           >
             <FaCheck className='text-xs' />
@@ -403,14 +399,14 @@ function MatchOdds({
               setShowCashoutOptions(true);
               fetchCashoutQuotes();
             }}
-            className='bg-[#198754] p-1 font-[400] text-white cursor-pointer'
+            className='cursor-pointer bg-[#198754] p-1 font-[400] text-white'
           >
             Cashout
           </button>
         ) : (
           <button
             disabled
-            className='bg-[#198754] p-1 font-[400] text-white opacity-60 cursor-not-allowed'
+            className='cursor-not-allowed bg-[#198754] p-1 font-[400] text-white opacity-60'
           >
             Cashout
           </button>
@@ -459,8 +455,14 @@ function MatchOdds({
                     selectedBet?.marketName === 'MATCH_ODDS' ||
                     selectedBet?.marketName === 'TOURNAMENT_WINNER';
 
-                  const { otype, totalBetAmount, totalPrice, teamName, isHedged, netOutcome } =
-                    getBetDetails(team, matchOddsList?.[0]?.mname);
+                  const {
+                    otype,
+                    totalBetAmount,
+                    totalPrice,
+                    teamName,
+                    isHedged,
+                    netOutcome,
+                  } = getBetDetails(team, matchOddsList?.[0]?.mname);
                   const isMatchedTeam =
                     teamName?.toLowerCase() === team?.toLowerCase();
                   const existingBet =
@@ -537,12 +539,14 @@ function MatchOdds({
 
                       return (
                         <div className='flex gap-1' style={{ color: betColor }}>
-                          {displayValue !== '' && displayValue !== null && displayValue !== undefined && (
-                            <span className='flex items-center gap-0.5 text-[11px]'>
-                              <FaArrowRight />
-                              {parseFloat(displayValue).toFixed(2)}
-                            </span>
-                          )}
+                          {displayValue !== '' &&
+                            displayValue !== null &&
+                            displayValue !== undefined && (
+                              <span className='flex items-center gap-0.5 text-[11px]'>
+                                <FaArrowRight />
+                                {parseFloat(displayValue).toFixed(2)}
+                              </span>
+                            )}
                           {suggestionValue !== null && (
                             <span
                               style={{ color: suggestionColor }}
@@ -597,12 +601,14 @@ function MatchOdds({
 
                     return (
                       <div className='flex gap-1' style={{ color: betColor }}>
-                        {displayValue !== '' && displayValue !== null && displayValue !== undefined && (
-                          <span className='flex items-center gap-0.5 text-[11px]'>
-                            <FaArrowRight />
-                            {parseFloat(displayValue).toFixed(2)}
-                          </span>
-                        )}
+                        {displayValue !== '' &&
+                          displayValue !== null &&
+                          displayValue !== undefined && (
+                            <span className='flex items-center gap-0.5 text-[11px]'>
+                              <FaArrowRight />
+                              {parseFloat(displayValue).toFixed(2)}
+                            </span>
+                          )}
                       </div>
                     );
                   }

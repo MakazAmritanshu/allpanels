@@ -6,7 +6,6 @@ export const QUICK_AMOUNTS = [
   { amt: 5000, img: 'chips5.svg' },
   { amt: 10000, img: 'chips10.svg' },
   { amt: 25000, img: 'chips20.svg' },
-  { amt: 50000, img: 'chips1k.svg' },
   { amt: 100000, img: 'chips1k.svg' },
 ];
 

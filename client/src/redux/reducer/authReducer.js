@@ -27,6 +27,29 @@ export const loginUser = createAsyncThunk(
     }
   }
 );
+
+/** Demo login: creates a fresh demo session (1500 balance, 0 exposure, no bets). Each login is isolated; logout wipes demo data. */
+export const demoLogin = createAsyncThunk(
+  'user/demoLogin',
+  async (_, { rejectWithValue }) => {
+    try {
+      const response = await api.post(
+        '/user/demo-login',
+        {},
+        { withCredentials: true }
+      );
+      const data = response.data;
+      if (data.token) {
+        localStorage.setItem('auth', data.token);
+      }
+      return data;
+    } catch (error) {
+      return rejectWithValue(
+        error.response?.data || { message: 'Demo login failed' }
+      );
+    }
+  }
+);
 export const addAdmin = createAsyncThunk(
   'user/create-admin',
   async (formData, { rejectWithValue }) => {
@@ -256,6 +279,21 @@ const userSlice = createSlice({
         console.log('User Info:', state.userInfo);
       })
       .addCase(loginUser.rejected, (state, action) => {
+        state.loading = false;
+        state.error = action.payload;
+      })
+      // Demo login
+      .addCase(demoLogin.pending, (state) => {
+        state.loading = true;
+        state.error = null;
+      })
+      .addCase(demoLogin.fulfilled, (state, action) => {
+        state.loading = false;
+        state.user = action.payload.data;
+        state.userInfo = action.payload.data;
+        state.isPasswordChanged = true;
+      })
+      .addCase(demoLogin.rejected, (state, action) => {
         state.loading = false;
         state.error = action.payload;
       })

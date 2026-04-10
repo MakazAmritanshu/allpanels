@@ -291,10 +291,10 @@ export default function Cricket() {
           </div>
 
           {/* ================= MOBILE VIEW ================= */}
-          <div className='space-y-2 bg-white p-2 md:hidden'>
+          <div className='space-y-2 bg-white p-1 md:hidden'>
             {/* Game info */}
             <div
-              className='flex items-center justify-between gap-2'
+              className='flex items-center justify-between gap-2 mb-0'
               onClick={() =>
                 navigate(`/cricket-bet/${m.game}/${m.id}`, {
                   state: { time: m.time },
@@ -320,7 +320,7 @@ export default function Cricket() {
             </div>
 
             {/* Labels */}
-            <div className='grid grid-cols-3 text-center text-xs font-semibold text-gray-600'>
+            <div className='grid grid-cols-3 text-center font-semibold mb-0'>
               <div>1</div>
               <div>X</div>
               <div>2</div>
@@ -328,22 +328,22 @@ export default function Cricket() {
 
             {/* Odds */}
             <div
-              className='grid grid-cols-3 gap-1'
+              className='grid grid-cols-3'
               onClick={() =>
                 navigate(`/cricket-bet/${m.game}/${m.id}`, {
                   state: { time: m.time },
                 })
               }
             >
-              <div className='grid grid-cols-2 gap-1'>
+              <div className='grid grid-cols-2'>
                 <Cell value={m.one.back} type='back' />
                 <Cell value={m.one.lay} type='lay' />
               </div>
-              <div className='grid grid-cols-2 gap-1'>
+              <div className='grid grid-cols-2'>
                 <Cell value={m.x.back} type='back' />
                 <Cell value={m.x.lay} type='lay' />
               </div>
-              <div className='grid grid-cols-2 gap-1'>
+              <div className='grid grid-cols-2'>
                 <Cell value={m.two.back} type='back' />
                 <Cell value={m.two.lay} type='lay' />
               </div>

@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import Allpanellogo from '../../assets/allpanel.png';
+import logo from '../../assets/Alllogo.png';
+import shivaylogo from '../../assets/shivaylogo.png';
 import newshivalogo from '../../assets/newshivalogo.png';
 import Alllogo from '../../assets/Alllogo.png';
 import { BiSolidHandDown } from 'react-icons/bi';
@@ -10,7 +11,7 @@ import { useNavigate } from 'react-router-dom';
 import { FaUser } from 'react-icons/fa';
 import { FaKey } from 'react-icons/fa';
 import { useDispatch } from 'react-redux';
-import { loginUser } from '../../redux/reducer/authReducer';
+import { demoLogin, loginUser } from '../../redux/reducer/authReducer';
 import { toast } from 'react-toastify';
 function Login() {
   const [username, setUsername] = useState('');
@@ -38,20 +39,27 @@ function Login() {
   };
 
   const handleDemoLogin = async () => {
-    await handleLogin({
-      userName: 'testuser1',
-      password: 'testuser1',
-    });
+    try {
+      const response = await dispatch(demoLogin());
+      if (response.payload?.success) {
+        toast.success(response.payload.message || 'Demo login successful');
+        navigate('/');
+      } else {
+        toast.error(response.payload?.message || 'Demo login failed');
+      }
+    } catch (error) {
+      toast.error('Demo login failed');
+    }
   };
 
   return (
     <div className='flex h-screen w-screen flex-col bg-gradient-to-b from-[#0088CC] to-[#2C3E50]'>
-      <div className='flex flex-1 flex-col items-center justify-center pb-18'>
+      <div className='flex flex-1 flex-col items-center justify-start pb-18 mt-2'>
         <div className='flex w-[350px] max-w-[90%] flex-col items-center justify-center'>
           <img
             src={Alllogo}
             alt='logo'
-            className='max-h-[60px] object-cover'
+            className='max-h-[70px] object-cover'
           />
           <div className='mt-4 flex w-full flex-col items-center gap-3 rounded border border-[#0088CC] bg-[#fff] px-2 py-1 shadow-[0_0_5px_#fff]'>
             <div className='text-[#0088CC]'>

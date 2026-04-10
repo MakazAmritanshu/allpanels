@@ -53,7 +53,7 @@ function Sports() {
           })}
         </div>
       </div>
-      <div className='scrollbar-hide max-h-[500px] overflow-y-auto'>
+      <div className='scrollbar-hide max-h-[250px] overflow-y-auto'>
         {activeSport === 'CRICKET' && <Cricket />}
         {activeSport === 'FOOTBALL' && <Football />}
         {activeSport === 'TENNIS' && <Tennis />}

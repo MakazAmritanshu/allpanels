@@ -446,6 +446,33 @@ function PlaceBet({
   const dispatch = useDispatch();
   const { loading, errorMessage, successMessage, pendingBetAmounts } =
     useSelector((state) => state.bet);
+  const { userInfo } = useSelector((state) => state.auth);
+
+  const DEFAULT_GAME_STAKES = [
+    { label: '1k', value: 1000 },
+    { label: '2k', value: 2000 },
+    { label: '5k', value: 5000 },
+    { label: '10k', value: 10000 },
+    { label: '20k', value: 20000 },
+    { label: '25k', value: 25000 },
+    { label: '50k', value: 50000 },
+    { label: '75k', value: 75000 },
+    { label: '1L', value: 100000 },
+    { label: '2L', value: 200000 },
+  ];
+
+  const quickStakes = (() => {
+    const saved = userInfo?.quickStakes;
+    if (!saved?.length) return DEFAULT_GAME_STAKES;
+    return DEFAULT_GAME_STAKES.map((def, i) => {
+      const item = saved[i];
+      if (!item) return { ...def };
+      if (typeof item === 'object' && item.label && item.value) return item;
+      if (typeof item === 'number' && item > 0)
+        return { label: def.label, value: item };
+      return { ...def };
+    });
+  })();
 
   const [stake, setStake] = useState('');
   const [odds, setOdds] = useState(selectedBet?.odds || '');
@@ -1061,12 +1088,14 @@ function PlaceBet({
       await dispatch(getUser());
       if (gameId) {
         dispatch(getPendingBetAmo(gameId));
-        dispatch(getBetHistory({
-          gameid: gameId,
-          page: 1,
-          limit: 10,
-          selectedVoid: 'unsettel',
-        }));
+        dispatch(
+          getBetHistory({
+            gameid: gameId,
+            page: 1,
+            limit: 10,
+            selectedVoid: 'unsettel',
+          })
+        );
       }
 
       // Reset form and close modal
@@ -1208,69 +1237,17 @@ function PlaceBet({
 
         {/* Quick Stake Buttons */}
         <div className='p-2'>
-          <div className='mb-1 flex gap-1'>
-            <button
-              onClick={() => handleQuickStake(1000)}
-              className='w-[calc(20%-2px)] bg-[#cccccc] px-4 py-1 text-[14px] font-bold text-[#000000] hover:bg-gray-500'
-            >
-              +1k
-            </button>
-            <button
-              onClick={() => handleQuickStake(2000)}
-              className='w-[calc(20%-2px)] bg-[#cccccc] px-4 py-1 text-[14px] font-bold text-[#000000] hover:bg-gray-500'
-            >
-              +2k
-            </button>
-            <button
-              onClick={() => handleQuickStake(5000)}
-              className='w-[calc(20%-2px)] bg-[#cccccc] px-4 py-1 text-[14px] font-bold text-[#000000] hover:bg-gray-500'
-            >
-              +5k
-            </button>
-            <button
-              onClick={() => handleQuickStake(10000)}
-              className='w-[calc(20%-2px)] bg-[#cccccc] px-4 py-1 text-[14px] font-bold text-[#000000] hover:bg-gray-500'
-            >
-              +10k
-            </button>
-            <button
-              onClick={() => handleQuickStake(20000)}
-              className='w-[calc(20%-2px)] bg-[#cccccc] px-4 py-1 text-[14px] font-bold text-[#000000] hover:bg-gray-500'
-            >
-              +20k
-            </button>
-          </div>
-          <div className='flex gap-1'>
-            <button
-              onClick={() => handleQuickStake(25000)}
-              className='w-[calc(20%-2px)] bg-[#cccccc] px-4 py-1 text-[14px] font-bold text-[#000000] hover:bg-gray-500'
-            >
-              +25k
-            </button>
-            <button
-              onClick={() => handleQuickStake(50000)}
-              className='w-[calc(20%-2px)] bg-[#cccccc] px-4 py-1 text-[14px] font-bold text-[#000000] hover:bg-gray-500'
-            >
-              +50k
-            </button>
-            <button
-              onClick={() => handleQuickStake(75000)}
-              className='w-[calc(20%-2px)] bg-[#cccccc] px-4 py-1 text-[14px] font-bold text-[#000000] hover:bg-gray-500'
-            >
-              +75k
-            </button>
-            <button
-              onClick={() => handleQuickStake(100000)}
-              className='w-[calc(20%-2px)] bg-[#cccccc] px-4 py-1 text-[14px] font-bold text-[#000000] hover:bg-gray-500'
-            >
-              +1L
-            </button>
-            <button
-              onClick={() => handleQuickStake(200000)}
-              className='w-[calc(20%-2px)] bg-[#cccccc] px-4 py-1 text-[14px] font-bold text-[#000000] hover:bg-gray-500'
-            >
-              +2L
-            </button>
+          <div className='mb-1 flex flex-wrap gap-1'>
+            {quickStakes.map((item, i) => (
+              <button
+                key={i}
+                onClick={() => handleQuickStake(item.value)}
+                className='bg-[#cccccc] px-4 py-1 text-[14px] font-bold text-[#000000] hover:bg-gray-500'
+                style={{ width: 'calc(20% - 4px)' }}
+              >
+                +{item.label}
+              </button>
+            ))}
           </div>
           <div className='mt-1 flex justify-end'>
             <button
