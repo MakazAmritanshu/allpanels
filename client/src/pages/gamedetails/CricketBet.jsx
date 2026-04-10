@@ -611,7 +611,7 @@ function CricketBet() {
       setIsLoadingStream(true);
       try {
         const response = await axios.get(
-          'https://bulkapi.co.in/api/v1/live-stream',
+          'https://test.bulkapi.co.in/api/v1/live-stream',
           {
             params: {
               key: key_new,
@@ -631,7 +631,7 @@ function CricketBet() {
       } catch (error) {
         console.error('Error fetching live stream URL:', error);
         // Fallback to default URL if API fails
-        setLiveStreamUrl(`https://bulkapi.co.in/api/v1/live-stream?gmid=${gameid}&key=${key_new}`);
+        setLiveStreamUrl(`https://test.bulkapi.co.in/api/v1/live-stream?gmid=${gameid}&key=${key_new}`);
       } finally {
         setIsLoadingStream(false);
       }
@@ -811,7 +811,7 @@ function CricketBet() {
                   </div>
                 ) : (
                   <iframe
-                    src={liveStreamUrl || `https://bulkapi.co.in/api/v1/live-stream?gmid=${gameid}&key=${key_new}`}
+                    src={liveStreamUrl || `https://test.bulkapi.co.in/api/v1/live-stream?gmid=${gameid}&key=${key_new}`}
                     title='Watch Live'
                     className='w-full'
                     style={{ height: '50vh' }}
@@ -936,7 +936,7 @@ function CricketBet() {
                 </div>
               ) : (
                 <iframe
-                  src={liveStreamUrl || `https://bulkapi.co.in/api/v1/live-stream?gmid=${gameid}&key=${key_new}`}
+                  src={liveStreamUrl || `https://test.bulkapi.co.in/api/v1/live-stream?gmid=${gameid}&key=${key_new}`}
                   title='Watch Live'
                   className='w-full'
                   style={{ height: '50vh' }}
