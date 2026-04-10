@@ -583,8 +583,11 @@ function CricketBet() {
     if (!gameid) return;
     setIsCheckingScoreCard(true);
     try {
+      // const response = await axios.get(
+      //   `https://score.akamaized.uk/diamond-live-score?gmid=${gameid}`
+      // );
       const response = await axios.get(
-        `https://score.akamaized.uk/diamond-live-score?gmid=${gameid}`
+        `https://test.bulkapi.co.in/api/v1/live-score?key=${key_new}&gmid=${gameid}`
       );
       const html = String(response?.data || '').toLowerCase();
       const isUnavailable =
@@ -771,7 +774,8 @@ function CricketBet() {
           <div>
             {!showLive && !isCheckingScoreCard && isScoreCardAvailable && (
               <iframe
-                src={`https://score.akamaized.uk/diamond-live-score?gmid=${gameid}`}
+                // src={`https://score.akamaized.uk/diamond-live-score?gmid=${gameid}`}
+                src={`https://test.bulkapi.co.in/api/v1/live-score?key=${key_new}&gmid=${gameid}`}
                 allowFullScreen
                 className='w-full'
                 title='Live Score'
