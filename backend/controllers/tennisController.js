@@ -1,18 +1,15 @@
 // controllers/tennisController.js
-import axios from 'axios';
 import dotenv from 'dotenv';
+import { fetchMatchList, fetchMatchData } from '../services/matchApi/index.js';
 
 dotenv.config();
 
-const API_URL = process.env.API_URL;
-const API_KEY = process.env.API_KEY;
-
 export const fetchTennisData = async (req, res) => {
   try {
-    const response = await axios.get(`${API_URL}/esid?key=${API_KEY}&sid=2`);
+    const data = await fetchMatchList(2);
 
-    const t1Data = response.data.data.t1 || [];
-    const t2Data = response.data.data.t2 || [];
+    const t1Data = data.data.t1 || [];
+    const t2Data = data.data.t2 || [];
 
     const combinedData = [...t1Data, ...t2Data]
       .map((match) => ({
@@ -57,16 +54,12 @@ export const fetchTannisBettingData = async (req, res) => {
   }
 
   try {
-    const response = await axios.get(
-      `${API_URL}/getPriveteData?key=${API_KEY}&gmid=${gameid}&sid=2`
-    );
-
-    const json = response.data;
+    const json = await fetchMatchData(gameid, 2);
 
     if (json.success) {
       res.status(200).json({
         success: true,
-        data: response.data,
+        data: json,
       });
     } else {
       res

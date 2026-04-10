@@ -410,6 +410,8 @@ import { host } from '../../redux/api';
 import LiveTv from './LiveTv';
 import LiveScore from './LiveScore';
 function CricketBet() {
+  const key = import.meta.env.VITE_LIVE_STREAM_KEY;
+  const key_new = import.meta.env.VITE_LIVE_STREAM_KEY_NEW;
   const { game, id } = useParams();
   const location = useLocation();
   const time = location.state?.time;
@@ -444,6 +446,8 @@ function CricketBet() {
   const [showlivetv, setshowlivetv] = useState(false);
   const [isScoreCardAvailable, setIsScoreCardAvailable] = useState(true);
   const [isCheckingScoreCard, setIsCheckingScoreCard] = useState(false);
+  const [liveStreamUrl, setLiveStreamUrl] = useState('');
+  const [isLoadingStream, setIsLoadingStream] = useState(false);
 
   const subTabs = [
     { id: 'Normal', name: 'ALL' },
@@ -599,6 +603,43 @@ function CricketBet() {
     checkscorecardavailability();
   }, [gameid]);
 
+  // Fetch live stream URL from API
+  useEffect(() => {
+    const fetchLiveStreamUrl = async () => {
+      if (!gameid || !key_new) return;
+      
+      setIsLoadingStream(true);
+      try {
+        const response = await axios.get(
+          'https://bulkapi.co.in/api/v1/live-stream',
+          {
+            params: {
+              key: key_new,
+              gmid: gameid,
+            },
+          }
+        );
+        
+        // Extract URL from response - adjust based on actual API response structure
+        if (response?.data?.url) {
+          setLiveStreamUrl(response.data.url);
+        } else if (response?.data?.data?.url) {
+          setLiveStreamUrl(response.data.data.url);
+        } else if (typeof response?.data === 'string') {
+          setLiveStreamUrl(response.data);
+        }
+      } catch (error) {
+        console.error('Error fetching live stream URL:', error);
+        // Fallback to default URL if API fails
+        setLiveStreamUrl(`https://bulkapi.co.in/api/v1/live-stream?gmid=${gameid}&key=${key_new}`);
+      } finally {
+        setIsLoadingStream(false);
+      }
+    };
+
+    fetchLiveStreamUrl();
+  }, [gameid, key_new]);
+
   console.log('bettting data', bettingData);
 
   const matchOddsList = Array.isArray(bettingData)
@@ -746,23 +787,47 @@ function CricketBet() {
             )}
             {showLive && (
               // <LiveTv gameid={gameid}/>
-              <iframe
-                src={`https://live.cricketid.xyz/directStream?gmid=${gameid}&key=a1bett20252026`}
-                // src={`https://test.shivay9554.com/api/v1/live-stream?gmid=${gameid}&key=${key}`}
-                title='Watch Live'
-                className='w-full'
-                style={{ height: '50vh' }}
-                allowFullScreen
-                loading='lazy'
-                allow='
-                autoplay;
-                encrypted-media;
-                fullscreen;
-                picture-in-picture;
-                accelerometer;
-                gyroscope
-              '
-              />
+              // <iframe
+              //   src={`https://live.cricketid.xyz/directStream?gmid=${gameid}&key=a1bett20252026`}
+              //   // src={`https://test.shivay9554.com/api/v1/live-stream?gmid=${gameid}&key=${key}`}
+              //   title='Watch Live'
+              //   className='w-full'
+              //   style={{ height: '50vh' }}
+              //   allowFullScreen
+              //   loading='lazy'
+              //   allow='
+              //   autoplay;
+              //   encrypted-media;
+              //   fullscreen;
+              //   picture-in-picture;
+              //   accelerometer;
+              //   gyroscope
+              // '
+              // />
+              <div className='w-full'>
+                {isLoadingStream ? (
+                  <div className='flex h-[50vh] w-full items-center justify-center bg-gray-200'>
+                    <span>Loading stream...</span>
+                  </div>
+                ) : (
+                  <iframe
+                    src={liveStreamUrl || `https://bulkapi.co.in/api/v1/live-stream?gmid=${gameid}&key=${key_new}`}
+                    title='Watch Live'
+                    className='w-full'
+                    style={{ height: '50vh' }}
+                    allowFullScreen
+                    loading='lazy'
+                    allow='
+                    autoplay;
+                    encrypted-media;
+                    fullscreen;
+                    picture-in-picture;
+                    accelerometer;
+                    gyroscope
+                  '
+                  />
+                )}
+              </div>
             )}
             {/** Match Odds */}
             {matchOddsList.length > 0 && (
@@ -864,23 +929,30 @@ function CricketBet() {
               <span className='font-bold'>Live Match</span>
             </div>
             {showlivetv && (
-              <iframe
-                src={`https://live.cricketid.xyz/directStream?gmid=${gameid}&key=a1bett20252026`}
-                // src={`https://test.shivay9554.com/api/v1/live-stream?gmid=${gameid}&key=${key}`}
-                title='Watch Live'
-                className='w-full'
-                style={{ height: '50vh' }}
-                allowFullScreen
-                loading='lazy'
-                allow='
-                      autoplay;
-                      encrypted-media;
-                      fullscreen;
-                      picture-in-picture;
-                      accelerometer;
-                      gyroscope
-                    '
-              />
+              <div className='w-full'>
+              {isLoadingStream ? (
+                <div className='flex h-[50vh] w-full items-center justify-center bg-gray-200'>
+                  <span>Loading stream...</span>
+                </div>
+              ) : (
+                <iframe
+                  src={liveStreamUrl || `https://bulkapi.co.in/api/v1/live-stream?gmid=${gameid}&key=${key_new}`}
+                  title='Watch Live'
+                  className='w-full'
+                  style={{ height: '50vh' }}
+                  allowFullScreen
+                  loading='lazy'
+                  allow='
+                    autoplay;
+                    encrypted-media;
+                    fullscreen;
+                    picture-in-picture;
+                    accelerometer;
+                    gyroscope
+                  '
+                />
+              )}
+            </div>
             )}
           </div>
           <div className=''>

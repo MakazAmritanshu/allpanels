@@ -1,12 +1,14 @@
-import axios from 'axios';
 import dotenv from 'dotenv';
 
 import adminModel from '../models/adminModel.js';
+import {
+  fetchCasinoTables,
+  fetchCasinoData as fetchCasinoDataApi,
+  fetchCasinoResult as fetchCasinoResultApi,
+  fetchCasinoDetailResult as fetchCasinoDetailResultApi,
+} from '../services/matchApi/index.js';
 
 dotenv.config();
-
-const CRIC_BASE = process.env.API_URL;
-const CRIC_API_KEY = process.env.API_KEY;
 
 export const isCasinoGame = (gameId, cid, gid, tabno) => {
   try {
@@ -22,18 +24,15 @@ export const isCasinoGame = (gameId, cid, gid, tabno) => {
 
 export const getCasinoData = async (req, res) => {
   try {
-    const url = `${CRIC_BASE}/casino/tableid?key=${CRIC_API_KEY}`;
-    const response = await axios.get(url, { timeout: 10000 });
+    const data = await fetchCasinoTables();
 
-    if (response?.data?.success) {
-      return res
-        .status(200)
-        .json({ success: true, data: response.data.data || [] });
+    if (data?.success) {
+      return res.status(200).json({ success: true, data: data.data || [] });
     } else {
       return res.status(502).json({
         success: false,
         message: 'Failed to fetch casino data from provider',
-        provider: response?.data,
+        provider: data,
       });
     }
   } catch (error) {
@@ -52,12 +51,10 @@ export const getCasinoBettingData = async (req, res) => {
       .json({ success: false, message: 'Game Id is required' });
   }
   try {
-    const response = await axios.get(
-      `${CRIC_BASE}/casino/data?key=${CRIC_API_KEY}&type=${gameId}`
-    );
+    const data = await fetchCasinoDataApi(gameId);
     return res.status(200).json({
       message: 'Casino Betting data fetched Successfully',
-      data: response.data,
+      data: data,
     });
   } catch (error) {
     return res.status(500).json({
@@ -88,12 +85,7 @@ export const getCasinoResultData = async (req, res) => {
       return res.status(200).json({ success: true, data: cached.data });
     }
 
-    const response = await axios.get(
-      `${CRIC_BASE}/casino/result?key=${CRIC_API_KEY}&type=${gameId}`,
-      { timeout: 10000 } // Add timeout!
-    );
-
-    const json = response.data;
+    const json = await fetchCasinoResultApi(gameId);
     if (json.success) {
       // Cache the successful result
       resultCache.set(gameId, { data: json.data, timestamp: Date.now() });
@@ -126,11 +118,7 @@ export const getCasinoResultDetailData = async (req, res) => {
     if (!gameId || !mid) {
       return res.status(400).json({ message: 'GameId or mid is missing' });
     }
-    const response = await axios.get(
-      `${CRIC_BASE}/casino/detail_result?key=${CRIC_API_KEY}&type=${gameId}&mid=${mid}`
-    );
-
-    const json = response.data;
+    const json = await fetchCasinoDetailResultApi(gameId, mid);
     return res.status(200).json({ message: 'Success', data: json?.data?.t1 });
   } catch (error) {
     console.error('Error in fetchingCasinoResultBettingData', error?.message);
