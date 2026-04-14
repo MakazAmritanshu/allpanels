@@ -884,15 +884,7 @@ function CricketBet() {
               />
             )}
 
-            {/** OddEven */}
-            {oddEvenData.length > 0 && (
-              <OddEven
-                onBetSelect={handleBetSelect}
-                oddEvenData={oddEvenData}
-                pendingBetAmounts={pendingBetAmounts}
-                selectedBet={selectedBet}
-              />
-            )}
+            
 
             {/** New Tied Match */}
             {newtiedMatchList.length > 0 && (
