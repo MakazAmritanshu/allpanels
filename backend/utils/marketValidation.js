@@ -121,7 +121,17 @@ async function fetchFreshCasinoData(cachedData, gameId) {
  */
 export async function validateSportsMarket(
   cachedData,
-  { gameId, gameName, marketName, teamName, xValue, otype, sid, oname }
+  {
+    gameId,
+    gameName,
+    marketName,
+    teamName,
+    xValue,
+    otype,
+    sid,
+    oname,
+    gameType,
+  }
 ) {
   const apitype = SPORT_NAME_TO_APITYPE[gameName?.toLowerCase()] || 'cricket';
 
@@ -137,14 +147,20 @@ export async function validateSportsMarket(
 
   const markets = freshResult.markets;
 
-  const market = markets.find((m) => {
-    const mname = m.mname || '';
-    return (
-      mname === marketName ||
-      mname === API_MARKET_ALIASES[marketName] ||
-      API_MARKET_ALIASES[mname] === marketName
-    );
-  });
+  // fancy1 is a parent market whose sections are distinct propositions
+  // (e.g. "CSK Will Win the Toss..."). The frontend passes the section nat as
+  // marketName/teamName, so look up the parent by mname='fancy1' instead.
+  const isFancy1 = gameType === 'fancy1';
+  const market = isFancy1
+    ? markets.find((m) => (m.mname || '') === 'fancy1')
+    : markets.find((m) => {
+        const mname = m.mname || '';
+        return (
+          mname === marketName ||
+          mname === API_MARKET_ALIASES[marketName] ||
+          API_MARKET_ALIASES[mname] === marketName
+        );
+      });
 
   if (!market) {
     return {
@@ -153,7 +169,19 @@ export async function validateSportsMarket(
     };
   }
 
-  if (market.status === 'SUSPENDED' || market.gstatus === 'SUSPENDED') {
+  // Bookmaker markets from Provider B report market-level status="SUSPENDED"
+  // even when individual runners (section[].gstatus) are ACTIVE and priceable.
+  // The frontend Bookmaker panel deliberately ignores market-level status and
+  // gates only on section gstatus — backend must use the same rule for these
+  // markets or every bookmaker bet gets rejected. Selection-level suspension
+  // is still enforced below, so genuinely suspended runners remain blocked.
+  const isBookmakerMarket =
+    market.mname === 'Bookmaker' || market.mname === 'Bookmaker IPL CUP';
+
+  if (
+    !isBookmakerMarket &&
+    (market.status === 'SUSPENDED' || market.gstatus === 'SUSPENDED')
+  ) {
     return { valid: false, reason: 'Market is suspended. Bet not accepted.' };
   }
 
@@ -220,6 +248,7 @@ export async function validateSportsMarket(
     marketMeta: {
       mid: market.mid || null,
       gmid: market.gmid || null,
+      fancyId: teamSection.sid || null,
       runners: (market.section || []).map((sec) => ({
         selectionId: sec.sid,
         selectionName: (sec.nat || '').trim(),
