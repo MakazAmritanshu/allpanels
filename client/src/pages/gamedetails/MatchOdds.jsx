@@ -338,7 +338,7 @@ function MatchOdds({
     }
   };
 
-  const handleOddsClick = (team, rate, type, sid) => {
+  const handleOddsClick = (team, rate, type, sid, oname) => {
     if (onBetSelect && rate) {
       // Extract all teams from this matchOddsList
       const allTeams = oddsData.map((item) => item.team);
@@ -353,6 +353,7 @@ function MatchOdds({
         team: team,
         odds: rate.toString(),
         type: type, // 'back' or 'lay'
+        oname: oname || '',
         stake: '',
         //sid: sid, // Include section id
         teams: allTeams, // Add all teams for MatchOdds
@@ -627,7 +628,13 @@ function MatchOdds({
                     className={`${backBg[i]} flex min-h-[30px] max-w-[100%] flex-col items-center justify-center ${formattedOdds ? 'cursor-pointer transition-opacity hover:opacity-80' : ''}`}
                     onClick={() =>
                       formattedOdds &&
-                      handleOddsClick(team, formattedOdds, 'back', sid)
+                      handleOddsClick(
+                        team,
+                        formattedOdds,
+                        'back',
+                        sid,
+                        backItem?.oname
+                      )
                     }
                   >
                     {formattedOdds ? (
@@ -658,7 +665,13 @@ function MatchOdds({
                     className={`${layBg[i]} flex min-h-[30px] max-w-[100%] flex-col items-center justify-center ${formattedOdds ? 'cursor-pointer transition-opacity hover:opacity-80' : ''}`}
                     onClick={() =>
                       formattedOdds &&
-                      handleOddsClick(team, formattedOdds, 'lay', sid)
+                      handleOddsClick(
+                        team,
+                        formattedOdds,
+                        'lay',
+                        sid,
+                        layItem?.oname
+                      )
                     }
                   >
                     {formattedOdds ? (

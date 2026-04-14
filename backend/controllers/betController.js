@@ -62,7 +62,8 @@ async function validateSportsMarket(
   xValue,
   otype,
   sid,
-  oname
+  oname,
+  gameType
 ) {
   return _validateSportsMarket(cachedData, {
     gameId,
@@ -73,6 +74,7 @@ async function validateSportsMarket(
     otype,
     sid,
     oname,
+    gameType,
   });
 }
 
@@ -807,7 +809,8 @@ const placeBet = async (req, res) => {
       xValue,
       otype,
       sid,
-      oname
+      oname,
+      gameType
     );
     if (!marketCheck.valid) {
       console.warn(
@@ -837,6 +840,8 @@ const placeBet = async (req, res) => {
       return res.status(200).json({ message: 'created successfully' });
     }
 
+    const marketMeta = marketCheck.marketMeta || {};
+
     // 1. Check uniqueness: existing bet with same gameId, eventName, marketName, userId, and status 0
     const uniqueKey = { gameId, eventName, marketName };
     const existingExact = await betModel.findOne(uniqueKey);
@@ -851,23 +856,57 @@ const placeBet = async (req, res) => {
     if (!existingExact) {
       market_id = Math.floor(10000000 + Math.random() * 90000000);
 
-      const meta = marketCheck.marketMeta || {};
-
       //Here we are using the external Api
       try {
-        await apiSendBetIncoming({
-          event_id: gameId,
-          event_name: eventName,
-          market_id: market_id,
-          market_name: toApiMarketName(marketName),
-          market_type: gameType,
-          client_ref: null,
-          sport_id: sid,
-          fancyId: null,
-          fancymid: meta.mid || null,
-          bevent_id: meta.beventId || null,
-          runners: meta.runners || [],
-        });
+        if (gameType === 'fancy1') {
+          // fancy1 uses the same request format as fancy (session) bets:
+          // no runners, carries fancyId + beventId instead.
+          let beventId = '';
+          try {
+            const matchListData = await apiFetchMatchList(Number(sid));
+            if (matchListData?.success && matchListData.data) {
+              const allMatches = [
+                ...(matchListData.data.t1 || []),
+                ...(matchListData.data.t2 || []),
+              ];
+              const matched = allMatches.find((m) => {
+                const matchId = String(m.beventId || m.oldgmid || m.gmid);
+                return matchId === String(gameId);
+              });
+              beventId = matched?.beventId ? String(matched.beventId) : '';
+            }
+          } catch (err) {
+            console.warn(
+              `[FANCY1 BET] Failed to fetch match list for beventId lookup:`,
+              err.message
+            );
+          }
+
+          await apiSendBetIncoming({
+            sport_id: sid,
+            sportName: (gameName || '').replace(/\s*game\s*$/i, ''),
+            event_id: marketMeta.gmid || gameId,
+            beventId,
+            event_name: eventName,
+            fancyId: marketMeta.fancyId ? String(marketMeta.fancyId) : null,
+            market_name: toApiMarketName(marketName),
+            fancyType: gameType,
+          });
+        } else {
+          await apiSendBetIncoming({
+            event_id: gameId,
+            event_name: eventName,
+            market_id: market_id,
+            market_name: toApiMarketName(marketName),
+            market_type: gameType,
+            client_ref: null,
+            sport_id: sid,
+            fancyId: null,
+            fancymid: marketMeta.mid || null,
+            bevent_id: marketMeta.beventId || null,
+            runners: marketMeta.runners || [],
+          });
+        }
       } catch (apiErr) {
         console.error(
           `[SPORTS BET] bet-incoming API failed for gameId=${gameId}:`,
@@ -891,6 +930,7 @@ const placeBet = async (req, res) => {
     // Calculate bet amount based on game type and otype
     switch (gameType) {
       case 'Match Odds':
+      case 'fancy1':
       case 'Tied Match':
       case 'Winner':
       case 'OVER_UNDER_05':
@@ -918,25 +958,22 @@ const placeBet = async (req, res) => {
 
     // BET PLACEMENT - EXPOSURE CALCULATION
 
-    // STEP 1: Check for existing pending bet FIRST (before balance check)
-    // Exclude cashed-out bets — they are locked and must not be merged/offset
-    const existingBet = await betModel.findOne({
+    // fancy1: each row is an independent market (per-proposition marketName).
+    // Scope lookups by marketName so different propositions in the same match
+    // don't collide and merge into one bet record.
+    const marketScopedQuery = {
       userId: id,
       gameId,
       gameType,
       status: 0,
       isCashedOut: { $ne: true },
-    });
+    };
+    if (gameType === 'fancy1') {
+      marketScopedQuery.marketName = marketName;
+    }
 
-    // STEP 2: Calculate effective available balance using scenario-based logic
-    // Get all existing bets in this market (exclude cashed-out — their exposure is handled separately)
-    const marketBets = await betModel.find({
-      userId: id,
-      gameId,
-      gameType,
-      status: 0,
-      isCashedOut: { $ne: true },
-    });
+    const existingBet = await betModel.findOne(marketScopedQuery);
+    const marketBets = await betModel.find(marketScopedQuery);
 
     // Calculate effective balance based on market position
     // Using new method that includes potential profit from the new bet itself
@@ -1127,10 +1164,15 @@ const placeBet = async (req, res) => {
         marketName,
         gameName,
         teamName,
+        fancyId: gameType === 'fancy1' ? String(marketMeta.fancyId || '') || null : null,
         placementType: 'new',
         mergeCount: 1,
       });
       user.avbalance -= p;
+    }
+
+    if (existingBet && gameType === 'fancy1' && marketMeta.fancyId && !existingBet.fancyId) {
+      existingBet.fancyId = String(marketMeta.fancyId);
     }
 
     // STEP 2: Save the bet to database first
@@ -3691,6 +3733,7 @@ export const getPendingBetsAmounts = async (req, res) => {
     const betTypes = [
       { gameType: 'Toss', marketName: 'Toss', category: 'sports' },
       { gameType: 'Match Odds', marketName: 'Match Odds', category: 'sports' },
+      { gameType: 'fancy1', marketName: 'fancy1', category: 'sports' },
       { gameType: 'Tied Match', marketName: 'Tied Match', category: 'sports' },
       { gameType: 'Bookmaker', marketName: 'Bookmaker', category: 'sports' },
       { gameType: 'Normal', marketName: 'Toss', category: 'sports' },

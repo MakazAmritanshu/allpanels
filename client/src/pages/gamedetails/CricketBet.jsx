@@ -610,7 +610,7 @@ function CricketBet() {
   useEffect(() => {
     const fetchLiveStreamUrl = async () => {
       if (!gameid || !key_new) return;
-      
+
       setIsLoadingStream(true);
       try {
         const response = await axios.get(
@@ -622,7 +622,7 @@ function CricketBet() {
             },
           }
         );
-        
+
         // Extract URL from response - adjust based on actual API response structure
         if (response?.data?.url) {
           setLiveStreamUrl(response.data.url);
@@ -634,7 +634,9 @@ function CricketBet() {
       } catch (error) {
         console.error('Error fetching live stream URL:', error);
         // Fallback to default URL if API fails
-        setLiveStreamUrl(`https://test.bulkapi.co.in/api/v1/live-stream?gmid=${gameid}&key=${key_new}`);
+        setLiveStreamUrl(
+          `https://test.bulkapi.co.in/api/v1/live-stream?gmid=${gameid}&key=${key_new}`
+        );
       } finally {
         setIsLoadingStream(false);
       }
@@ -791,23 +793,6 @@ function CricketBet() {
             )}
             {showLive && (
               // <LiveTv gameid={gameid}/>
-              // <iframe
-              //   src={`https://live.cricketid.xyz/directStream?gmid=${gameid}&key=a1bett20252026`}
-              //   // src={`https://test.shivay9554.com/api/v1/live-stream?gmid=${gameid}&key=${key}`}
-              //   title='Watch Live'
-              //   className='w-full'
-              //   style={{ height: '50vh' }}
-              //   allowFullScreen
-              //   loading='lazy'
-              //   allow='
-              //   autoplay;
-              //   encrypted-media;
-              //   fullscreen;
-              //   picture-in-picture;
-              //   accelerometer;
-              //   gyroscope
-              // '
-              // />
               <div className='w-full'>
                 {isLoadingStream ? (
                   <div className='flex h-[50vh] w-full items-center justify-center bg-gray-200'>
@@ -815,7 +800,10 @@ function CricketBet() {
                   </div>
                 ) : (
                   <iframe
-                    src={liveStreamUrl || `https://test.bulkapi.co.in/api/v1/live-stream?gmid=${gameid}&key=${key_new}`}
+                    src={
+                      liveStreamUrl ||
+                      `https://test.bulkapi.co.in/api/v1/live-stream?gmid=${gameid}&key=${key_new}`
+                    }
                     title='Watch Live'
                     className='w-full'
                     style={{ height: '50vh' }}
@@ -934,19 +922,22 @@ function CricketBet() {
             </div>
             {showlivetv && (
               <div className='w-full'>
-              {isLoadingStream ? (
-                <div className='flex h-[50vh] w-full items-center justify-center bg-gray-200'>
-                  <span>Loading stream...</span>
-                </div>
-              ) : (
-                <iframe
-                  src={liveStreamUrl || `https://test.bulkapi.co.in/api/v1/live-stream?gmid=${gameid}&key=${key_new}`}
-                  title='Watch Live'
-                  className='w-full'
-                  style={{ height: '50vh' }}
-                  allowFullScreen
-                  loading='lazy'
-                  allow='
+                {isLoadingStream ? (
+                  <div className='flex h-[50vh] w-full items-center justify-center bg-gray-200'>
+                    <span>Loading stream...</span>
+                  </div>
+                ) : (
+                  <iframe
+                    src={
+                      liveStreamUrl ||
+                      `https://test.bulkapi.co.in/api/v1/live-stream?gmid=${gameid}&key=${key_new}`
+                    }
+                    title='Watch Live'
+                    className='w-full'
+                    style={{ height: '50vh' }}
+                    allowFullScreen
+                    loading='lazy'
+                    allow='
                     autoplay;
                     encrypted-media;
                     fullscreen;
@@ -954,9 +945,9 @@ function CricketBet() {
                     accelerometer;
                     gyroscope
                   '
-                />
-              )}
-            </div>
+                  />
+                )}
+              </div>
             )}
           </div>
           <div className=''>

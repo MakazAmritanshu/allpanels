@@ -355,7 +355,7 @@ function Bookmaker({
     }
   };
 
-  const handleOddsClick = (team, rate, type, sid) => {
+  const handleOddsClick = (team, rate, type, sid, oname) => {
     if (onBetSelect && rate && rate !== 0) {
       // Extract all teams from this BookmakerList
       const allTeams = bookmakerData.map((item) => item.team);
@@ -364,6 +364,7 @@ function Bookmaker({
         team: team,
         odds: rate.toString(),
         type: type, // 'back' or 'lay'
+        oname: oname || '',
         stake: '',
         //sid: sid, // Include section id
         teams: allTeams, // Add all teams for Bookmaker
@@ -647,7 +648,13 @@ function Bookmaker({
                         className={`${backBg[i]} flex min-h-[30px] max-w-[100%] flex-col items-center justify-center ${hasOdds ? 'cursor-pointer transition-opacity hover:opacity-80' : ''}`}
                         onClick={() =>
                           hasOdds &&
-                          handleOddsClick(team, backItem.odds, 'back', sid)
+                          handleOddsClick(
+                            team,
+                            backItem.odds,
+                            'back',
+                            sid,
+                            backItem?.oname
+                          )
                         }
                       >
                         {hasOdds ? (
@@ -678,7 +685,13 @@ function Bookmaker({
                         className={`${layBg[i]} flex min-h-[30px] max-w-[100%] flex-col items-center justify-center ${hasOdds ? 'cursor-pointer transition-opacity hover:opacity-80' : ''}`}
                         onClick={() =>
                           hasOdds &&
-                          handleOddsClick(team, layItem.odds, 'lay', sid)
+                          handleOddsClick(
+                            team,
+                            layItem.odds,
+                            'lay',
+                            sid,
+                            layItem?.oname
+                          )
                         }
                       >
                         {hasOdds ? (

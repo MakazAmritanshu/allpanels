@@ -634,13 +634,8 @@ function PlaceBet({
     odds
   ) => {
     // Don't show suggestions for these bet types
-    const noSuggestionMarkets = [
-      'fancy1',
-      'khado',
-      'Normal',
-      'meter',
-      'oddeven',
-    ];
+    // fancy1 uses Match-Odds math, so it falls through to the match-odds branch below.
+    const noSuggestionMarkets = ['khado', 'Normal', 'meter', 'oddeven'];
     if (noSuggestionMarkets.includes(gameType)) {
       return null;
     }
@@ -1034,7 +1029,8 @@ function PlaceBet({
       return;
     }
 
-    // Determine if this is a fancy bet (Normal, meter, line, ball, khado, oddeven, fancy1)
+    // Determine if this is a fancy bet (Normal, meter, line, ball, khado, oddeven)
+    // fancy1 uses Match Odds math and routes through the sports placeBet endpoint.
     const fancyBetTypes = [
       'Normal',
       'meter',
@@ -1042,17 +1038,16 @@ function PlaceBet({
       'ball',
       'khado',
       'oddeven',
-      'fancy1',
     ];
     const isFancyBet = fancyBetTypes.includes(gameType);
 
-    // For all fancy bets (Normal, Meter, Khado, Fancy1):
+    // For all fancy bets (Normal, Meter, Khado):
     // fancyScore = original odds value (rate), xValue = size value, price = stake
     // For other fancy bets: use existing logic
     let finalFancyScore = fancyScore || null;
     let finalXValue = oddsNum.toString();
 
-    const fancyBetTypesWithSize = ['Normal', 'meter', 'khado', 'fancy1'];
+    const fancyBetTypesWithSize = ['Normal', 'meter', 'khado'];
     if (
       fancyBetTypesWithSize.includes(gameType) &&
       selectedBet?.size !== undefined &&
@@ -1067,6 +1062,7 @@ function PlaceBet({
       gameId: gameId,
       sid: sid,
       otype: betType,
+      oname: selectedBet?.oname || '',
       price: stakeNum,
       xValue: finalXValue,
       gameType: gameType,
@@ -1130,7 +1126,6 @@ function PlaceBet({
             {(() => {
               // Don't show profit for these bet types - only show after placing bet from API
               const noSuggestionMarkets = [
-                'fancy1',
                 'khado',
                 'Normal',
                 'meter',
@@ -1223,7 +1218,6 @@ function PlaceBet({
             {(() => {
               // Don't show profit for these bet types - only show after placing bet from API
               const noSuggestionMarkets = [
-                'fancy1',
                 'khado',
                 'Normal',
                 'meter',
@@ -1292,7 +1286,6 @@ function PlaceBet({
             {allTeams.map((team, index) => {
               // Don't show suggestions for these bet types - only show after placing bet from API
               const noSuggestionMarkets = [
-                'fancy1',
                 'khado',
                 'Normal',
                 'meter',

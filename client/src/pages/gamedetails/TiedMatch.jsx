@@ -153,7 +153,7 @@ function TiedMatch({
     }
   };
 
-  const handleOddsClick = (team, rate, type, sid) => {
+  const handleOddsClick = (team, rate, type, sid, oname) => {
     if (onBetSelect && rate && rate !== 0) {
       // Extract all teams/options from TiedMatch (typically YES/NO)
       const allTeams = tiedMatchData.map((item) => item.team);
@@ -162,6 +162,7 @@ function TiedMatch({
         team: team,
         odds: rate.toString(),
         type: type, // 'back' or 'lay'
+        oname: oname || '',
         stake: '',
         // sid: sid, // Include section id
         teams: allTeams, // Add all options (YES/NO) for TiedMatch
@@ -395,7 +396,13 @@ function TiedMatch({
                         className={`${backBg[i]} flex min-h-[30px] max-w-[100%] flex-col items-center justify-center ${hasOdds ? 'cursor-pointer transition-opacity hover:opacity-80' : ''}`}
                         onClick={() =>
                           hasOdds &&
-                          handleOddsClick(team, backItem.odds, 'back', sid)
+                          handleOddsClick(
+                            team,
+                            backItem.odds,
+                            'back',
+                            sid,
+                            backItem?.oname
+                          )
                         }
                       >
                         {hasOdds ? (
@@ -426,7 +433,13 @@ function TiedMatch({
                         className={`${layBg[i]} flex min-h-[30px] max-w-[100%] flex-col items-center justify-center ${hasOdds ? 'cursor-pointer transition-opacity hover:opacity-80' : ''}`}
                         onClick={() =>
                           hasOdds &&
-                          handleOddsClick(team, layItem.odds, 'lay', sid)
+                          handleOddsClick(
+                            team,
+                            layItem.odds,
+                            'lay',
+                            sid,
+                            layItem?.oname
+                          )
                         }
                       >
                         {hasOdds ? (
