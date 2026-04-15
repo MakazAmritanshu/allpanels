@@ -153,7 +153,7 @@ function TiedMatch({
     }
   };
 
-  const handleOddsClick = (team, rate, type, sid) => {
+  const handleOddsClick = (team, rate, type, sid, oname) => {
     if (onBetSelect && rate && rate !== 0) {
       // Extract all teams/options from TiedMatch (typically YES/NO)
       const allTeams = tiedMatchData.map((item) => item.team);
@@ -162,6 +162,7 @@ function TiedMatch({
         team: team,
         odds: rate.toString(),
         type: type, // 'back' or 'lay'
+        oname: oname || '',
         stake: '',
         // sid: sid, // Include section id
         teams: allTeams, // Add all options (YES/NO) for TiedMatch
@@ -182,10 +183,11 @@ function TiedMatch({
         <span className='text-[13px] font-bold lg:text-[15px]'>TIED_MATCH</span>
         <button
           disabled={!showCashoutOptions}
-          className={`p-1 font-[400] text-white 
-          ${showCashoutOptions 
-            ? "bg-[#198754] cursor-pointer" 
-            : " bg-[#198754]  opacity-60"}`}
+          className={`p-1 font-[400] text-white ${
+            showCashoutOptions
+              ? 'cursor-pointer bg-[#198754]'
+              : ' bg-[#198754] opacity-60'
+          }`}
         >
           Cashout
         </button>
@@ -394,7 +396,13 @@ function TiedMatch({
                         className={`${backBg[i]} flex min-h-[30px] max-w-[100%] flex-col items-center justify-center ${hasOdds ? 'cursor-pointer transition-opacity hover:opacity-80' : ''}`}
                         onClick={() =>
                           hasOdds &&
-                          handleOddsClick(team, backItem.odds, 'back', sid)
+                          handleOddsClick(
+                            team,
+                            backItem.odds,
+                            'back',
+                            sid,
+                            backItem?.oname
+                          )
                         }
                       >
                         {hasOdds ? (
@@ -425,7 +433,13 @@ function TiedMatch({
                         className={`${layBg[i]} flex min-h-[30px] max-w-[100%] flex-col items-center justify-center ${hasOdds ? 'cursor-pointer transition-opacity hover:opacity-80' : ''}`}
                         onClick={() =>
                           hasOdds &&
-                          handleOddsClick(team, layItem.odds, 'lay', sid)
+                          handleOddsClick(
+                            team,
+                            layItem.odds,
+                            'lay',
+                            sid,
+                            layItem?.oname
+                          )
                         }
                       >
                         {hasOdds ? (

@@ -1,6 +1,9 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { getTransactionHistory, getBetHistory } from '../../redux/reducer/betReducer';
+import {
+  getTransactionHistory,
+  getBetHistory,
+} from '../../redux/reducer/betReducer';
 import ResultInfoPopup from './ResultInfoPopup';
 
 // Format date as DD/MM/YYYY HH:MM:SS
@@ -83,6 +86,7 @@ function AccountStatement() {
           page,
           limit,
           selectedVoid: 'settel',
+          selectedGame: 'Sport',
         })
       ).then((result) => {
         const payload = result.payload;

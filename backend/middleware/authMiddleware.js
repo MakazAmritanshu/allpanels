@@ -2,6 +2,32 @@ import jwt from 'jsonwebtoken';
 
 import SubAdmin from '../models/subAdminModel.js';
 
+/** Optional auth: sets req.id and req.role when token is valid; never returns 401. Used for logout so demo user can be cleaned up. */
+export const optionalAuthMiddleware = (req, res, next) => {
+  let token;
+  if (
+    req.headers.authorization &&
+    req.headers.authorization.startsWith('Bearer')
+  ) {
+    token = req.headers.authorization.split(' ')[1];
+  } else if (req.cookies.auth) {
+    token = req.cookies.auth;
+  }
+
+  if (!token) return next();
+
+  try {
+    const decodedToken = jwt.verify(token, process.env.JWT_SECRET);
+    if (decodedToken.role === 'user') {
+      req.id = decodedToken.id;
+      req.role = decodedToken.role;
+    }
+  } catch {
+    // Invalid or expired token – still proceed so cookie can be cleared
+  }
+  next();
+};
+
 export const authMiddleware = (req, res, next) => {
   let token;
   if (

@@ -20,12 +20,9 @@ function Bookmaker({
   gameid,
 }) {
   const dispatch = useDispatch();
-  const {
-    eventName,
-    cashoutValues,
-    cashoutLoading,
-    cashoutPL,
-  } = useSelector((state) => state.bet);
+  const { eventName, cashoutValues, cashoutLoading, cashoutPL } = useSelector(
+    (state) => state.bet
+  );
 
   const backBg = ['bg-[#72bbef7f]', 'bg-[#72bbefbf]', 'bg-[#72bbef]'];
   const layBg = ['bg-[#faa9ba]', 'bg-[#faa9babf]', 'bg-[#faa9ba7f]'];
@@ -358,7 +355,7 @@ function Bookmaker({
     }
   };
 
-  const handleOddsClick = (team, rate, type, sid) => {
+  const handleOddsClick = (team, rate, type, sid, oname) => {
     if (onBetSelect && rate && rate !== 0) {
       // Extract all teams from this BookmakerList
       const allTeams = bookmakerData.map((item) => item.team);
@@ -367,6 +364,7 @@ function Bookmaker({
         team: team,
         odds: rate.toString(),
         type: type, // 'back' or 'lay'
+        oname: oname || '',
         stake: '',
         //sid: sid, // Include section id
         teams: allTeams, // Add all teams for Bookmaker
@@ -393,8 +391,8 @@ function Bookmaker({
             onClick={handleCashOutClick}
             className={`flex items-center gap-1 p-1 font-[400] text-white ${
               hasMergedValue && !cashoutLoading
-                ? 'bg-[#198754] cursor-pointer'
-                : 'bg-[#198754] opacity-60 cursor-not-allowed'
+                ? 'cursor-pointer bg-[#198754]'
+                : 'cursor-not-allowed bg-[#198754] opacity-60'
             }`}
           >
             <FaCheck className='text-xs' />
@@ -414,14 +412,14 @@ function Bookmaker({
               setShowCashoutOptions(true);
               fetchCashoutQuotes();
             }}
-            className='bg-[#198754] p-1 font-[400] text-white cursor-pointer'
+            className='cursor-pointer bg-[#198754] p-1 font-[400] text-white'
           >
             Cashout
           </button>
         ) : (
           <button
             disabled
-            className='bg-[#198754] p-1 font-[400] text-white opacity-60 cursor-not-allowed'
+            className='cursor-not-allowed bg-[#198754] p-1 font-[400] text-white opacity-60'
           >
             Cashout
           </button>
@@ -468,8 +466,14 @@ function Bookmaker({
                     selectedBet?.gameType === 'Bookmaker' ||
                     selectedBet?.marketName === 'Bookmaker';
 
-                  const { otype, totalBetAmount, totalPrice, teamName, isHedged, netOutcome } =
-                    getBetDetails(team);
+                  const {
+                    otype,
+                    totalBetAmount,
+                    totalPrice,
+                    teamName,
+                    isHedged,
+                    netOutcome,
+                  } = getBetDetails(team);
                   const isMatchedTeam =
                     teamName?.toLowerCase() === team?.toLowerCase();
                   const existingBet =
@@ -547,12 +551,14 @@ function Bookmaker({
 
                       return (
                         <div className='flex gap-1' style={{ color: betColor }}>
-                          {displayValue !== '' && displayValue !== null && displayValue !== undefined && (
-                            <span className='flex items-center gap-0.5 text-[11px]'>
-                              <FaArrowRight />
-                              {parseFloat(displayValue).toFixed(2)}
-                            </span>
-                          )}
+                          {displayValue !== '' &&
+                            displayValue !== null &&
+                            displayValue !== undefined && (
+                              <span className='flex items-center gap-0.5 text-[11px]'>
+                                <FaArrowRight />
+                                {parseFloat(displayValue).toFixed(2)}
+                              </span>
+                            )}
                           {suggestionValue !== null && (
                             <span
                               style={{ color: suggestionColor }}
@@ -608,12 +614,14 @@ function Bookmaker({
 
                     return (
                       <div className='flex gap-1' style={{ color: betColor }}>
-                        {displayValue !== '' && displayValue !== null && displayValue !== undefined && (
-                          <span className='flex items-center gap-0.5 text-[11px]'>
-                            <FaArrowRight />
-                            {parseFloat(displayValue).toFixed(2)}
-                          </span>
-                        )}
+                        {displayValue !== '' &&
+                          displayValue !== null &&
+                          displayValue !== undefined && (
+                            <span className='flex items-center gap-0.5 text-[11px]'>
+                              <FaArrowRight />
+                              {parseFloat(displayValue).toFixed(2)}
+                            </span>
+                          )}
                       </div>
                     );
                   }
@@ -640,7 +648,13 @@ function Bookmaker({
                         className={`${backBg[i]} flex min-h-[30px] max-w-[100%] flex-col items-center justify-center ${hasOdds ? 'cursor-pointer transition-opacity hover:opacity-80' : ''}`}
                         onClick={() =>
                           hasOdds &&
-                          handleOddsClick(team, backItem.odds, 'back', sid)
+                          handleOddsClick(
+                            team,
+                            backItem.odds,
+                            'back',
+                            sid,
+                            backItem?.oname
+                          )
                         }
                       >
                         {hasOdds ? (
@@ -671,7 +685,13 @@ function Bookmaker({
                         className={`${layBg[i]} flex min-h-[30px] max-w-[100%] flex-col items-center justify-center ${hasOdds ? 'cursor-pointer transition-opacity hover:opacity-80' : ''}`}
                         onClick={() =>
                           hasOdds &&
-                          handleOddsClick(team, layItem.odds, 'lay', sid)
+                          handleOddsClick(
+                            team,
+                            layItem.odds,
+                            'lay',
+                            sid,
+                            layItem?.oname
+                          )
                         }
                       >
                         {hasOdds ? (

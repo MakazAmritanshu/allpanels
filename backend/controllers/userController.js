@@ -1,12 +1,19 @@
+import crypto from 'crypto';
 import axios from 'axios';
 import bcrypt from 'bcryptjs';
 import jwt from 'jsonwebtoken';
 
 import betModel from '../models/betModel.js';
+import betHistoryModel from '../models/betHistoryModel.js';
 import LoginHistory from '../models/loginHistory.js';
 import passwordHistory from '../models/passwordHistory.js';
 import SubAdmin from '../models/subAdminModel.js';
+import TransactionHistory from '../models/transtionHistoryModel.js';
 import { calculateAllExposure } from '../utils/exposureUtils.js';
+
+const DEMO_BALANCE = 1500;
+/** Demo accounts not logged out are deleted after this many ms (default 24 hours). */
+const DEMO_MAX_AGE_MS = 24 * 60 * 60 * 1000;
 
 export const registerUser = async (req, res) => {
   try {
@@ -136,6 +143,66 @@ export const loginUser = async (req, res) => {
     res.status(500).json({ message: 'Server error', error: error.message });
   }
 };
+
+/** Demo login: creates a fresh demo user per session (1500 balance, 0 exposure, no bets). */
+export const demoLogin = async (req, res) => {
+  try {
+    const sessionId = crypto.randomUUID();
+    const demoUserName = `demo_${sessionId}`;
+
+    const demoUser = await SubAdmin.create({
+      name: 'Demo User',
+      userName: demoUserName,
+      account: 'demo',
+      code: 'demo',
+      phone: 0,
+      password: 'demo',
+      balance: DEMO_BALANCE,
+      baseBalance: DEMO_BALANCE,
+      totalBalance: DEMO_BALANCE,
+      avbalance: DEMO_BALANCE,
+      agentAvbalance: 0,
+      totalAvbalance: DEMO_BALANCE,
+      exposure: 0,
+      totalExposure: 0,
+      exposureLimit: DEMO_BALANCE,
+      status: 'active',
+      role: 'user',
+      isPasswordChanged: true,
+      isDemo: true,
+    });
+
+    const token = jwt.sign(
+      { id: demoUser._id, role: demoUser.role },
+      process.env.JWT_SECRET,
+      { expiresIn: '7d' }
+    );
+
+    res.cookie('auth', token, {
+      httpOnly: true,
+      secure: true,
+      sameSite: 'None',
+      expires: new Date(Date.now() + 7 * 24 * 60 * 60 * 1000),
+    });
+
+    const userObj = demoUser.toObject();
+    delete userObj.password;
+    delete userObj.masterPassword;
+
+    res.status(200).json({
+      success: true,
+      message: 'Demo login successful',
+      token,
+      data: { ...userObj, exposure: 0 },
+      isPasswordChanged: true,
+      isDemo: true,
+    });
+  } catch (error) {
+    console.error('Demo Login Error:', error);
+    res.status(500).json({ message: 'Server error', error: error.message });
+  }
+};
+
 export const getUserById = async (req, res) => {
   try {
     const { id } = req;
@@ -333,14 +400,52 @@ export const getLoginHistory = async (req, res) => {
 };
 
 export const user_logout = async (req, res) => {
+  const userId = req.id;
+
+  if (userId) {
+    const user = await SubAdmin.findById(userId);
+    if (user?.isDemo) {
+      const idStr = userId.toString();
+      await Promise.all([
+        betModel.deleteMany({ userId: idStr }),
+        betHistoryModel.deleteMany({ userId: idStr }),
+        TransactionHistory.deleteMany({ userId: idStr }),
+      ]);
+      await SubAdmin.findByIdAndDelete(userId);
+    }
+  }
+
   res.clearCookie('auth', {
-    httpOnly: true, // must match the cookie options used when setting
-    secure: true, // only if you're using HTTPS
-    sameSite: 'None', // or 'Lax' or 'Strict', must match
-    path: '/', // make sure path is same as when set
+    httpOnly: true,
+    secure: true,
+    sameSite: 'None',
+    path: '/',
   });
 
   res.status(200).json({ message: 'Logout success' });
+};
+
+/** Deletes demo users (and their bets/history) that were created more than DEMO_MAX_AGE_MS ago. Call from cron so forgotten demo sessions don't stay in DB forever. */
+export const cleanupStaleDemoUsers = async () => {
+  const cutoff = new Date(Date.now() - DEMO_MAX_AGE_MS);
+  const staleDemos = await SubAdmin.find({
+    isDemo: true,
+    createdAt: { $lt: cutoff },
+  }).select('_id');
+
+  for (const user of staleDemos) {
+    const idStr = user._id.toString();
+    await Promise.all([
+      betModel.deleteMany({ userId: idStr }),
+      betHistoryModel.deleteMany({ userId: idStr }),
+      TransactionHistory.deleteMany({ userId: idStr }),
+    ]);
+    await SubAdmin.findByIdAndDelete(user._id);
+  }
+
+  if (staleDemos.length > 0) {
+    console.log(`[cleanupStaleDemoUsers] Removed ${staleDemos.length} abandoned demo account(s)`);
+  }
 };
 
 export const updateQuickStakes = async (req, res) => {

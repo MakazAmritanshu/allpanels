@@ -1,4 +1,5 @@
 import React, { memo, useState } from 'react';
+import { useSelector } from 'react-redux';
 import { QUICK_AMOUNTS } from '../constants';
 import { formatToK } from '../utils/bettingUtils';
 import { FaMinus, FaPlus } from 'react-icons/fa';
@@ -18,9 +19,24 @@ const BetControlPanel = memo(function BetControlPanel({
   onPlaceBet,
   isVisible = true,
 }) {
-  const [selectedIncrement, setSelectedIncrement] = useState(
-    QUICK_AMOUNTS[0].amt
-  );
+  const { userInfo } = useSelector((state) => state.auth);
+  const amounts = (() => {
+    const saved = userInfo?.casinoQuickStakes;
+    if (!saved?.length) return QUICK_AMOUNTS;
+    return QUICK_AMOUNTS.map((def, i) => {
+      const item = saved[i];
+      if (!item) return def;
+      if (typeof item === 'object' && item.label && item.value) {
+        return { amt: item.value, label: item.label, img: def.img };
+      }
+      if (typeof item === 'number' && item > 0) {
+        return { amt: item, label: def.label, img: def.img };
+      }
+      return def;
+    });
+  })();
+
+  const [selectedIncrement, setSelectedIncrement] = useState(amounts[0].amt);
 
   if (!isVisible || !betControl) return null;
 
@@ -108,7 +124,7 @@ const BetControlPanel = memo(function BetControlPanel({
           className={`w-full rounded-md border border-[#333] font-semibold transition-all duration-300 ${
             betAmount === 0
               ? 'cursor-not-allowed bg-[#a4a4a4] text-white'
-              : 'bg-color1 hover:bg-color text-white'
+              : 'bg-primary hover:bg-primary text-white'
           } ${loading ? 'cursor-not-allowed opacity-70' : ''}`}
           onClick={handlePlaceBet}
         >
@@ -120,7 +136,7 @@ const BetControlPanel = memo(function BetControlPanel({
       <div
         className={`grid grid-cols-4 gap-2.5 border-t p-1 text-[14px] lg:grid-cols-6 xl:grid-cols-8 ${betControl?.type === 'back' ? 'border-[#7dbbe9]' : 'border-[#dfa3b3]'}`}
       >
-        {QUICK_AMOUNTS.map((val) => (
+        {amounts.map((val) => (
           <button
             key={val.amt}
             className={`h-[31px] rounded-sm border border-black px-3 py-1.5 text-[13px] leading-1 transition-colors ${
@@ -133,7 +149,7 @@ const BetControlPanel = memo(function BetControlPanel({
               updateAmount(val.amt);
             }}
           >
-            {formatToK(val.amt)}
+            {val.label || formatToK(val.amt)}
           </button>
         ))}
       </div>

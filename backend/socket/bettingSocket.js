@@ -1,7 +1,6 @@
 // socket/bettingSocket.js
 
 // WebSocketServer - from the ws library, lets you create a WebSocketServer that client (browsers, app) can connect to
-import axios from 'axios';
 import dotenv from 'dotenv';
 import io from 'socket.io-client';
 import { WebSocketServer } from 'ws';
@@ -12,11 +11,12 @@ import {
   CASHOUT_GAME_TYPES,
 } from '../utils/cashoutUtils.js';
 import { getBestOddsForTeam } from '../controllers/cashoutController.js';
+import {
+  fetchMatchData,
+  fetchCasinoData as fetchCasinoDataApi,
+} from '../services/matchApi/index.js';
 
 dotenv.config();
-
-const API_URL = process.env.API_URL;
-const API_KEY = process.env.API_KEY;
 
 // Global State
 // clients -> Array holding all connected clients each with
@@ -30,6 +30,7 @@ export let clients = [];
 
 // Cached data -> Stores the latest data fetched for each gameid + apitype combo so you can avoid sending duplicate updates
 export let cachedData = {};
+let wssInstance = null;
 
 const casinoBettingCache = new Map();
 const roundIdCache = new Map();
@@ -153,7 +154,10 @@ const getUniqueSubscriptions = () => {
   ];
 };
 
-
+/**
+ * Compute and push live cashout values for all users with open eligible bets on a game.
+ * Called after odds change in pollBettingData.
+ */
 const computeAndPushCashoutValues = async (gameid) => {
   try {
     // Find all open, cashout-eligible bets for this game
@@ -217,22 +221,12 @@ const pollBettingData = async () => {
       else if (apitype === 'soccer') sid = 1;
       else if (apitype === 'horse-racing') sid = 10;
 
-      const endpoint = `${API_URL}/getPriveteData?key=${API_KEY}&gmid=${gameid}&sid=${sid}`;
-      const response = await axios.get(endpoint);
-      const newData = response.data;
+      const newData = await fetchMatchData(gameid, sid);
 
       if (newData.success) {
         const cacheKey = `${gameid}_${apitype}`;
-        const prevData = cachedData[cacheKey]?.data;
-        if (
-          !prevData ||
-          JSON.stringify(prevData) !== JSON.stringify(newData.data)
-        ) {
-          cachedData[cacheKey] = {
-            data: newData.data,
-            raw: newData,
-            lastUpdated: Date.now(),
-          };
+        if (JSON.stringify(newData) !== JSON.stringify(cachedData[cacheKey])) {
+          cachedData[cacheKey] = newData;
 
           clients.forEach((client) => {
             if (
@@ -271,31 +265,23 @@ const pollCasinoBettingData = async () => {
     try {
       // Only poll betting data for casino games
       if (apitype === 'casino') {
-        const endpoint = `${API_URL}/casino/data?key=${API_KEY}&type=${gameid}`;
-        const response = await axios.get(endpoint);
-        const newBettingData = response.data;
+        const newBettingData = await fetchCasinoDataApi(gameid);
 
         if (newBettingData.success && newBettingData.data) {
           const newRoundId = newBettingData.data.mid;
           const cacheKey = `betting_${gameid}_${apitype}`;
 
           // Simple check: only send if data changed
-          const currentCached = cachedData[cacheKey]?.data;
+          const currentCached = cachedData[cacheKey];
           if (
-            !currentCached ||
-            JSON.stringify(currentCached) !==
-              JSON.stringify(newBettingData.data)
+            JSON.stringify(currentCached) !== JSON.stringify(newBettingData)
           ) {
             console.log(
               ` [${new Date().toISOString()}] Data changed for ${gameid}`
             );
 
             // IMMEDIATE: Update cache and send betting data right away
-            cachedData[cacheKey] = {
-              data: newBettingData.data,
-              raw: newBettingData,
-              lastUpdated: Date.now(),
-            };
+            cachedData[cacheKey] = newBettingData;
 
             // Send casino_update
             clients.forEach((client) => {
@@ -347,6 +333,7 @@ export const setupWebSocket = (server) => {
       apitype: null,
       roundId: null,
       userId: null,
+      userName: null,
     };
     clients.push(client);
 
@@ -377,24 +364,6 @@ export const setupWebSocket = (server) => {
             //  DON'T clear deduplication cache keys (message_*, results_*)
             console.log(
               `[CACHE] Cleared betting/results cache for ${client.gameid} (kept deduplication cache)`
-            );
-          }
-
-          // Push cached data immediately so client doesn't wait for next poll tick
-          const cacheKey =
-            client.apitype === 'casino'
-              ? `betting_${client.gameid}_casino`
-              : `${client.gameid}_${client.apitype}`;
-          if (cachedData[cacheKey]?.data && client.ws.readyState === 1) {
-            const msgType =
-              client.apitype === 'casino' ? 'casino_update' : 'bettingData';
-            client.ws.send(
-              JSON.stringify({
-                type: msgType,
-                gameid: client.gameid,
-                apitype: client.apitype,
-                data: cachedData[cacheKey].data,
-              })
             );
           }
 
@@ -445,14 +414,14 @@ export const sendBalanceUpdates = (userId, newBalance) => {
         })
       );
       sentCount++;
-     
+      console.log(` [WEBSOCKET] Sent to client ${sentCount}`);
     }
   });
 
   //Update Cache
   lastSentValues.balance.set(userId, newBalance);
 
-
+  console.log(` [WEBSOCKET] Sent to ${sentCount} clients`);
 };
 
 //FUNCTIONS THAT SEND EXPOSURE UPDATES TO ALL THE CONNECTED CLIENTS
@@ -497,6 +466,39 @@ export const sendOpenBetsUpdates = (userId, newOpenBets) => {
       sentCount++;
     }
   });
+};
+
+export const sendToUser = (userName, payload) => {
+  if (!wssInstance) return console.warn(' WebSocket not initialized yet');
+
+  clients.forEach((client) => {
+    if (client.userName === userName && client.ws.readyState === 1) {
+      client.ws.send(JSON.stringify(payload));
+    }
+  });
+};
+
+// Function to send user refresh message (triggers getUser() on frontend)
+export const sendUserRefresh = (userId) => {
+  console.log(' [WEBSOCKET] Sending user refresh request for userId:', userId);
+
+  let sentCount = 0;
+  clients.forEach((client) => {
+    if (client.userId === userId && client.ws.readyState === 1) {
+      client.ws.send(
+        JSON.stringify({
+          type: 'user_refresh_needed',
+          userId: userId,
+        })
+      );
+      sentCount++;
+      console.log(` [WEBSOCKET] Sent refresh request to client ${sentCount}`);
+    }
+  });
+
+  console.log(
+    ` [WEBSOCKET] Sent refresh request to ${sentCount} clients for userId: ${userId}`
+  );
 };
 
 //FUNCTION THAT SENDS CASHOUT UPDATES TO SPECIFIC USER'S CONNECTED CLIENTS

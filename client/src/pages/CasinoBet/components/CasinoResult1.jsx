@@ -229,11 +229,11 @@ const ResultPopup = ({ item, onClose, showSideBets, gameId }) => {
     <div className='fixed inset-0 z-10 flex items-center justify-center bg-black/40'>
       <div className='w-full max-w-[500px] overflow-hidden rounded-md bg-white'>
         {/* Header */}
-        <div className='flex justify-between bg-gradient-to-b from-[#315195] to-[#14213D] px-2 py-1 text-white'>
+        <div className='bg-primary flex justify-between px-2 py-1 text-white'>
           <span className='text-sm font-semibold uppercase'>
             {resultDetail.ename}
           </span>
-          <span onClick={onClose} className='cursor-pointer'>
+          <span onClick={onClose} className='cursor-pointer text-white'>
             ✖
           </span>
         </div>

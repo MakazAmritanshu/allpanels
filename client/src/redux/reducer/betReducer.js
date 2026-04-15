@@ -203,7 +203,6 @@ export const getBetHistory = createAsyncThunk(
           query += `&selectedVoid=${selectedVoid}`;
       }
 
-
       const response = await api.get(`/user/bet/history${query}`, {
         withCredentials: true,
       });

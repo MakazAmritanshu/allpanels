@@ -53,12 +53,12 @@ const VideoStream = memo(function VideoStream({
         onError={() => console.warn('Iframe load error')}
       /> */}
       <iframe
-      src={getVideoStreamUrl(gameid)}
-      title="Casino TV"
-      style={{width: '100%', height: '100%', border: 'none'}}
-      allowFullScreen
-      loading="lazy"
-      allow="autoplay; encrypted-media; fullscreen; picture-in-picture"
+        src={getVideoStreamUrl(gameid)}
+        title='Casino TV'
+        style={{ width: '100%', height: '100%', border: 'none' }}
+        allowFullScreen
+        loading='lazy'
+        allow='autoplay; encrypted-media; fullscreen; picture-in-picture'
       ></iframe>
 
       {/* Loading State */}

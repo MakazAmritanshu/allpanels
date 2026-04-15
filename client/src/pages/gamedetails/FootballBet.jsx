@@ -278,7 +278,10 @@ import {
 } from '../../redux/reducer/betReducer';
 import { toast } from 'react-toastify';
 import { host } from '../../redux/api';
+import { FaTv } from 'react-icons/fa6';
+import axios from 'axios';
 function FootballBet() {
+  const key_new = import.meta.env.VITE_LIVE_STREAM_KEY_NEW;
   const { game, id } = useParams();
   const location = useLocation();
   const time = location.state?.time;
@@ -296,6 +299,12 @@ function FootballBet() {
   const sharedSocketRef = useRef(null);
   const [showodds, setshowodds] = useState(true);
   const [selectedBet, setSelectedBet] = useState(null);
+  const [showLive, setShowLive] = useState(false);
+  const [showlivetv, setshowlivetv] = useState(false);
+  const [isScoreCardAvailable, setIsScoreCardAvailable] = useState(true);
+  const [isCheckingScoreCard, setIsCheckingScoreCard] = useState(false);
+  const [liveStreamUrl, setLiveStreamUrl] = useState('');
+  const [isLoadingStream, setIsLoadingStream] = useState(false);
   // Extract team names from match title
   const matchTitle = 'Paarl Royals v Joburg Super Kings';
   const teams = matchTitle.split(' v ');
@@ -415,6 +424,66 @@ function FootballBet() {
     }
   }, [successMessage, errorMessage, dispatch, gameid]);
 
+  const checkscorecardavailability = async () => {
+    if (!gameid) return;
+    setIsCheckingScoreCard(true);
+    try {
+      const response = await axios.get(
+        `https://bulkapi.co.in/api/v1/live-scorecard?key=${key_new}&gmid=${gameid}&sportid=1`
+      );
+      const html = String(response?.data || '').toLowerCase();
+      const isUnavailable =
+        html.includes('live score not available') ||
+        html.includes('alt="live score not available"');
+      setIsScoreCardAvailable(!isUnavailable);
+    } catch (error) {
+      console.error('error in checking score card availability', error);
+      setIsScoreCardAvailable(false);
+    } finally {
+      setIsCheckingScoreCard(false);
+    }
+  };
+
+  useEffect(() => {
+    checkscorecardavailability();
+  }, [gameid]);
+
+  useEffect(() => {
+    const fetchLiveStreamUrl = async () => {
+      if (!gameid || !key_new) return;
+
+      setIsLoadingStream(true);
+      try {
+        const response = await axios.get(
+          'https://bulkapi.co.in/api/v1/live-stream',
+          {
+            params: {
+              key: key_new,
+              gmid: gameid,
+            },
+          }
+        );
+
+        if (response?.data?.url) {
+          setLiveStreamUrl(response.data.url);
+        } else if (response?.data?.data?.url) {
+          setLiveStreamUrl(response.data.data.url);
+        } else if (typeof response?.data === 'string') {
+          setLiveStreamUrl(response.data);
+        }
+      } catch (error) {
+        console.error('Error fetching live stream URL:', error);
+        setLiveStreamUrl(
+          `https://bulkapi.co.in/api/v1/live-stream?gmid=${gameid}&key=${key_new}`
+        );
+      } finally {
+        setIsLoadingStream(false);
+      }
+    };
+
+    fetchLiveStreamUrl();
+  }, [gameid, key_new]);
+
   return (
     <div className='mt-0.5 flex gap-px'>
       <div className='ml-0 w-full md:ml-1 lg:w-[calc(100%-352px)]'>
@@ -425,20 +494,77 @@ function FootballBet() {
         <div className='bg-primary text-primary flex items-center justify-around text-[12px] font-bold lg:hidden'>
           <div
             className={`flex w-full items-center justify-center border-r border-r-[#FFFFFF] p-2 ${showodds ? 'border-t-2 border-t-[#cccccc]' : ''}`}
-            onClick={() => setshowodds(true)}
+            onClick={() => {
+              setshowodds(true);
+              setShowLive(false);
+            }}
           >
             ODDS
           </div>
           <div
-            className={`flex w-full items-center justify-center p-2 ${showodds ? '' : 'border-t-2 border-t-[#cccccc]'}`}
+            className={`flex w-full items-center justify-center border-r border-r-[#FFFFFF] p-2 ${showodds ? '' : 'border-t-2 border-t-[#cccccc]'}`}
             onClick={() => setshowodds(false)}
           >
             MATCHED BET(0)
+          </div>
+          <div
+            className='flex w-full cursor-pointer items-center justify-center p-2'
+            onClick={() => {
+              setShowLive(true);
+              setshowodds(true);
+            }}
+          >
+            <FaTv className='text-sm' />
           </div>
         </div>
 
         {showodds && (
           <div>
+            {!showLive && !isCheckingScoreCard && isScoreCardAvailable && (
+              <iframe
+                src={`https://bulkapi.co.in/api/v1/live-scorecard?key=${key_new}&gmid=${gameid}&sportid=1`}
+                allowFullScreen
+                className='w-full'
+                title='Live Score'
+                allow='
+                        autoplay;
+                        encrypted-media;
+                        fullscreen;
+                        picture-in-picture;
+                        accelerometer;
+                        gyroscope
+                      '
+              />
+            )}
+            {showLive && (
+              <div className='w-full'>
+                {isLoadingStream ? (
+                  <div className='flex h-[50vh] w-full items-center justify-center bg-gray-200'>
+                    <span>Loading stream...</span>
+                  </div>
+                ) : (
+                  <iframe
+                    src={
+                      liveStreamUrl ||
+                      `https://bulkapi.co.in/api/v1/live-stream?gmid=${gameid}&key=${key_new}`
+                    }
+                    title='Watch Live'
+                    className='w-full'
+                    style={{ height: '50vh' }}
+                    allowFullScreen
+                    loading='lazy'
+                    allow='
+                    autoplay;
+                    encrypted-media;
+                    fullscreen;
+                    picture-in-picture;
+                    accelerometer;
+                    gyroscope
+                  '
+                  />
+                )}
+              </div>
+            )}
             {/** Match Odds */}
             {matchOddsList.length > 0 && (
               <MatchOdds
@@ -502,6 +628,43 @@ function FootballBet() {
       </div>
       <div className='sticky top-0 hidden h-fit lg:block'>
         <div className='w-[350px]'>
+          <div className='mb-1'>
+            <div
+              className='bg-secondary text-secondary cursor-pointer p-1'
+              onClick={() => setshowlivetv((prev) => !prev)}
+            >
+              <span className='font-bold'>Live Match</span>
+            </div>
+            {showlivetv && (
+              <div className='w-full'>
+                {isLoadingStream ? (
+                  <div className='flex h-[50vh] w-full items-center justify-center bg-gray-200'>
+                    <span>Loading stream...</span>
+                  </div>
+                ) : (
+                  <iframe
+                    src={
+                      liveStreamUrl ||
+                      `https://bulkapi.co.in/api/v1/live-stream?gmid=${gameid}&key=${key_new}`
+                    }
+                    title='Watch Live'
+                    className='w-full'
+                    style={{ height: '50vh' }}
+                    allowFullScreen
+                    loading='lazy'
+                    allow='
+                    autoplay;
+                    encrypted-media;
+                    fullscreen;
+                    picture-in-picture;
+                    accelerometer;
+                    gyroscope
+                  '
+                  />
+                )}
+              </div>
+            )}
+          </div>
           <div className=''>
             <PlaceBet
               selectedBet={selectedBet}

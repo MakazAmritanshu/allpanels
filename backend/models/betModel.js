@@ -148,6 +148,8 @@ const betSchema = new mongoose.Schema(
     },
     subtype: { type: String },
 
+    fancyId: { type: String },
+    
     date: {
       type: Date,
       default: Date.now,

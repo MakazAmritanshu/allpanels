@@ -75,12 +75,31 @@ const subAdminSchema = new mongoose.Schema(
     lastDevice: { type: String, default: null },
     lastIP: { type: String, default: null },
     quickStakes: {
-      type: [Number],
-      default: [100, 200, 500, 1000, 2000, 3000, 5000, 10000],
+      type: [{ label: String, value: Number }],
+      default: [
+        { label: '1k', value: 1000 }, { label: '2k', value: 2000 },
+        { label: '5k', value: 5000 }, { label: '10k', value: 10000 },
+        { label: '20k', value: 20000 }, { label: '25k', value: 25000 },
+        { label: '50k', value: 50000 }, { label: '75k', value: 75000 },
+        { label: '1L', value: 100000 }, { label: '2L', value: 200000 },
+      ],
+    },
+    casinoQuickStakes: {
+      type: [{ label: String, value: Number }],
+      default: [
+        { label: '100', value: 100 }, { label: '200', value: 200 },
+        { label: '500', value: 500 }, { label: '5k', value: 5000 },
+        { label: '10k', value: 10000 }, { label: '25k', value: 25000 },
+        { label: '100k', value: 100000 },
+      ],
     },
     theme: {
       type: String,
       default: 'blueGreen',
+    },
+    isDemo: {
+      type: Boolean,
+      default: false,
     },
   },
   { timestamps: true }
