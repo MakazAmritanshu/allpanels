@@ -413,7 +413,7 @@ function TennisBet() {
     setIsCheckingScoreCard(true);
     try {
       const response = await axios.get(
-        `https://bulkapi.co.in/api/v1/live-scorecard?key=${key_new}&gmid=${gameid}&sportid=2`
+        `https://test.bulkapi.co.in/api/v1/live-scorecard?key=${key_new}&gmid=${gameid}&sportid=2`
       );
       const html = String(response?.data || '').toLowerCase();
       const isUnavailable =
@@ -439,7 +439,7 @@ function TennisBet() {
       setIsLoadingStream(true);
       try {
         const response = await axios.get(
-          'https://bulkapi.co.in/api/v1/live-stream',
+          'https://test.bulkapi.co.in/api/v1/live-stream',
           {
             params: {
               key: key_new,
@@ -458,7 +458,7 @@ function TennisBet() {
       } catch (error) {
         console.error('Error fetching live stream URL:', error);
         setLiveStreamUrl(
-          `https://bulkapi.co.in/api/v1/live-stream?gmid=${gameid}&key=${key_new}`
+          `https://test.bulkapi.co.in/api/v1/live-stream?gmid=${gameid}&key=${key_new}`
         );
       } finally {
         setIsLoadingStream(false);
@@ -526,7 +526,7 @@ function TennisBet() {
           <div>
             {!showLive && !isCheckingScoreCard && isScoreCardAvailable && (
               <iframe
-                src={`https://bulkapi.co.in/api/v1/live-scorecard?key=${key_new}&gmid=${gameid}&sportid=2`}
+                src={`https://test.bulkapi.co.in/api/v1/live-scorecard?key=${key_new}&gmid=${gameid}&sportid=2`}
                 allowFullScreen
                 className='w-full'
                 title='Live Score'
@@ -550,7 +550,7 @@ function TennisBet() {
                   <iframe
                     src={
                       liveStreamUrl ||
-                      `https://bulkapi.co.in/api/v1/live-stream?gmid=${gameid}&key=${key_new}`
+                      `https://test.bulkapi.co.in/api/v1/live-stream?gmid=${gameid}&key=${key_new}`
                     }
                     title='Watch Live'
                     className='w-full'
@@ -609,7 +609,7 @@ function TennisBet() {
                   <iframe
                     src={
                       liveStreamUrl ||
-                      `https://bulkapi.co.in/api/v1/live-stream?gmid=${gameid}&key=${key_new}`
+                      `https://test.bulkapi.co.in/api/v1/live-stream?gmid=${gameid}&key=${key_new}`
                     }
                     title='Watch Live'
                     className='w-full'
