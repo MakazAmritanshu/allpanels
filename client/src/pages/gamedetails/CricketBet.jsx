@@ -448,6 +448,10 @@ function CricketBet() {
   const [isCheckingScoreCard, setIsCheckingScoreCard] = useState(false);
   const [liveStreamUrl, setLiveStreamUrl] = useState('');
   const [isLoadingStream, setIsLoadingStream] = useState(false);
+  const streamGmid =
+    (Array.isArray(bettingData)
+      ? bettingData.find((item) => item?.gmid)?.gmid
+      : bettingData?.gmid) || gameid;
 
   const subTabs = [
     { id: 'Normal', name: 'ALL' },
@@ -609,7 +613,7 @@ function CricketBet() {
   // Fetch live stream URL from API
   useEffect(() => {
     const fetchLiveStreamUrl = async () => {
-      if (!gameid || !key_new) return;
+      if (!streamGmid || !key_new) return;
 
       setIsLoadingStream(true);
       try {
@@ -618,7 +622,7 @@ function CricketBet() {
           {
             params: {
               key: key_new,
-              gmid: gameid,
+              gmid: streamGmid,
             },
           }
         );
@@ -635,7 +639,7 @@ function CricketBet() {
         console.error('Error fetching live stream URL:', error);
         // Fallback to default URL if API fails
         setLiveStreamUrl(
-          `https://test.bulkapi.co.in/api/v1/live-stream?gmid=${gameid}&key=${key_new}`
+          `https://test.bulkapi.co.in/api/v1/live-stream?gmid=${streamGmid}&key=${key_new}`
         );
       } finally {
         setIsLoadingStream(false);
@@ -643,7 +647,7 @@ function CricketBet() {
     };
 
     fetchLiveStreamUrl();
-  }, [gameid, key_new]);
+  }, [streamGmid, key_new]);
 
   console.log('bettting data', bettingData);
 
@@ -802,7 +806,7 @@ function CricketBet() {
                   <iframe
                     src={
                       liveStreamUrl ||
-                      `https://test.bulkapi.co.in/api/v1/live-stream?gmid=${gameid}&key=${key_new}`
+                      `https://test.bulkapi.co.in/api/v1/live-stream?gmid=${streamGmid}&key=${key_new}`
                     }
                     title='Watch Live'
                     className='w-full'
@@ -884,7 +888,15 @@ function CricketBet() {
               />
             )}
 
-            
+            {/** OddEven */}
+            {oddEvenData.length > 0 && (
+              <OddEven
+                onBetSelect={handleBetSelect}
+                oddEvenData={oddEvenData}
+                pendingBetAmounts={pendingBetAmounts}
+                selectedBet={selectedBet}
+              />
+            )}
 
             {/** New Tied Match */}
             {newtiedMatchList.length > 0 && (
@@ -922,7 +934,7 @@ function CricketBet() {
                   <iframe
                     src={
                       liveStreamUrl ||
-                      `https://test.bulkapi.co.in/api/v1/live-stream?gmid=${gameid}&key=${key_new}`
+                      `https://test.bulkapi.co.in/api/v1/live-stream?gmid=${streamGmid}&key=${key_new}`
                     }
                     title='Watch Live'
                     className='w-full'
