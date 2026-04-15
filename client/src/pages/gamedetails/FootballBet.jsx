@@ -429,7 +429,7 @@ function FootballBet() {
     setIsCheckingScoreCard(true);
     try {
       const response = await axios.get(
-        `https://bulkapi.co.in/api/v1/live-scorecard?key=${key_new}&gmid=${gameid}&sportid=1`
+        `https://test.bulkapi.co.in/api/v1/live-scorecard?key=${key_new}&gmid=${gameid}&sportid=1`
       );
       const html = String(response?.data || '').toLowerCase();
       const isUnavailable =
@@ -455,7 +455,7 @@ function FootballBet() {
       setIsLoadingStream(true);
       try {
         const response = await axios.get(
-          'https://bulkapi.co.in/api/v1/live-stream',
+          'https://test.bulkapi.co.in/api/v1/live-stream',
           {
             params: {
               key: key_new,
@@ -474,7 +474,7 @@ function FootballBet() {
       } catch (error) {
         console.error('Error fetching live stream URL:', error);
         setLiveStreamUrl(
-          `https://bulkapi.co.in/api/v1/live-stream?gmid=${gameid}&key=${key_new}`
+          `https://test.bulkapi.co.in/api/v1/live-stream?gmid=${gameid}&key=${key_new}`
         );
       } finally {
         setIsLoadingStream(false);
@@ -522,7 +522,7 @@ function FootballBet() {
           <div>
             {!showLive && !isCheckingScoreCard && isScoreCardAvailable && (
               <iframe
-                src={`https://bulkapi.co.in/api/v1/live-scorecard?key=${key_new}&gmid=${gameid}&sportid=1`}
+                src={`https://test.bulkapi.co.in/api/v1/live-scorecard?key=${key_new}&gmid=${gameid}&sportid=1`}
                 allowFullScreen
                 className='w-full'
                 title='Live Score'
@@ -546,7 +546,7 @@ function FootballBet() {
                   <iframe
                     src={
                       liveStreamUrl ||
-                      `https://bulkapi.co.in/api/v1/live-stream?gmid=${gameid}&key=${key_new}`
+                      `https://test.bulkapi.co.in/api/v1/live-stream?gmid=${gameid}&key=${key_new}`
                     }
                     title='Watch Live'
                     className='w-full'
@@ -645,7 +645,7 @@ function FootballBet() {
                   <iframe
                     src={
                       liveStreamUrl ||
-                      `https://bulkapi.co.in/api/v1/live-stream?gmid=${gameid}&key=${key_new}`
+                      `https://test.bulkapi.co.in/api/v1/live-stream?gmid=${gameid}&key=${key_new}`
                     }
                     title='Watch Live'
                     className='w-full'
